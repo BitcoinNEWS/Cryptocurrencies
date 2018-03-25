@@ -1,0 +1,56 @@
+{
+  "General": {
+    "Symbol": "XCJ",
+    "Name": "CoinJob",
+    "Description": "<p>CoinJob is an online platform for freelancing, where employees and employers can connect and work on tasks/projects/jobs. CoinJob will use an Ethereum-based crypto-token, the Jobi, as the primary payment mechanism between task-givers and workers.</p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "200000000",
+    "Algorithm": "N/A",
+    "ProofType": "N/A",
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "01/01/0001",
+    "TotalCoinsMined": null,
+    "Twitter": "@gocoinjob",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "https://www.coinjob.net/",
+    "GitHub": null,
+    "OnMarkets": [],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Finished",
+    "Description": "<p><span>CoinJob is an online platform for freelancing, where employees and employers can connect and work on tasks/projects/jobs. </span><span>CoinJob will use an Ethereum-based crypto-token, the Jobi, as the primary payment mechanism between task-givers and workers.</span></p><p><strong>Team:</strong></p><ul><li><span>Max Oltersdorf: Co-founder &amp; President; </span></li><li><span>Ryan Allen: Co-founder &amp; CTO</span></li></ul><p><span>The Initial Coin Offering (ICO) will commence on July 14th and run for 1 month or until the allocation has been claimed. The total number of tokens sold during the ICO is 60,000,000 with the remaining 40,000,000 of available tokens being retained by the company.<br /></span></p><p><span>The Coinjob ICO stated on July 14th and will run for 1 month or until the maximum allocation of 60M (30%) tokens has been claimed, with the remaining 40,000,000 (20%) of available tokens being retained by the company and the reserved 100M (50%) for mining. </span></p><p><span style=\"font-weight: 400;\">The XCJ ICO campaign features a bonuty campaign, bonus period, and the coin will be minable.</span></p><p><strong>Bonus Structure:</strong></p><ul><li><span>Presale: 1ETH = 1500XCJ </span><br data-reactid=\"119\" /><span></span></li><li><span>Day 1: 1ETH = 1200XCJ</span><br data-reactid=\"121\" /><span></span></li><li><span>Day 2 - Day 7: 1ETH = 1100XCJ</span><br data-reactid=\"123\" /><span></span></li><li><span>Day 8 - Day 30: 1ETH = 1000XCJ<span> </span></span></li></ul><p><strong>IMPORTANT!</strong> From CoinJob&#39;s Site:</p><p><em><strong data-reactid=\"36\">\"Jobi (XCJ) ICO has ended! Thank you to all participants.<br data-reactid=\"38\" /><br data-reactid=\"39\" />The funding goal was not reached.<br data-reactid=\"41\" /><br data-reactid=\"42\" />For refund instructions, see the ICO section below.\"</strong></em></p>",
+    "TokenType": "ETH (ERC20)",
+    "WebsiteLink": "https://www.coinjob.net/",
+    "FundingCap": "60000000 XCJ",
+    "FundingTarget": "20300000 XCJ",
+    "Date": 1499990400,
+    "EndDate": 1502668800,
+    "FundsRaisedList": "177.90028 ETH",
+    "FundsRaisedUSD": "53728.8993",
+    "StartPrice": "0.000833333333",
+    "StartPriceCurrency": "ETH",
+    "Jurisdiction": "N/A",
+    "BlogLink": "https://medium.com/@coinjob",
+    "WhitePaperLink": "https://tokenmarket.net/blockchain/ethereum/assets/coinjob/www.coinjob.net/whitepaper"
+  },
+  "ccId": "194689"
+}

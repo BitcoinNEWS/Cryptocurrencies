@@ -1,0 +1,59 @@
+{
+  "General": {
+    "Symbol": "HBN",
+    "Name": "HoboNickels",
+    "Description": "<p>HoboNickels (HBN) is an extremely fast and efficient crypto-currency based on bottlecaps - (CAPS). With a Proof of Work block time of 30 seconds and 5 coins per block. There is a 2% super stake every 10 days - so 100% a year of holding your coins in your wallet - the opposite principle to Freicoin and its demurrage fee.</p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "120000000",
+    "Algorithm": "Scrypt",
+    "ProofType": "PoW/PoS",
+    "BlockReward": 24.38345500401088,
+    "Explorer": null,
+    "StartDate": "24/07/2013",
+    "TotalCoinsMined": 67018356.83385693,
+    "Twitter": null,
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "http://hobonickels.info/",
+    "GitHub": null,
+    "OnMarkets": [
+      "Cryptopia",
+      "Cryptsy"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "N/A",
+    "Description": null,
+    "TokenType": null,
+    "WebsiteLink": null,
+    "FundingCap": null,
+    "FundingTarget": null,
+    "Date": null,
+    "EndDate": null,
+    "FundsRaisedList": null,
+    "FundsRaisedUSD": null,
+    "StartPrice": null,
+    "StartPriceCurrency": null,
+    "Jurisdiction": null,
+    "BlogLink": null,
+    "WhitePaperLink": null
+  },
+  "ccId": "4534"
+}

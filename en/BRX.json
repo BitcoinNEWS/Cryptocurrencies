@@ -1,0 +1,59 @@
+{
+  "General": {
+    "Symbol": "BRX",
+    "Name": "Breakout Stake",
+    "Description": "<p><span>Breakout Chain</span><span><span> </span>is a gambling focused cryptocurrency ecosystem with minute transaction fees. </span>The Breakout Chain payment system supports several first class currencies, each with different properties. This type of currency system is brand new and is termed a “Multicurrency”. Every first class currency has the full support of bitcoin technology. The most important currencies in the Breakout Chain ledger are Breakout Coin, Breakout Stake, and Sister Coin. </p><p><span>Breakout Stake (BRX)</span><span><span> </span>owners have the right to validate blocks of<span> </span></span><span>Breakout Chain</span><span><span> </span>ledger entries. For each block, the validator is permitted to claim a reward for performing the validation.</span></p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": null,
+    "Algorithm": null,
+    "ProofType": "PoW/PoS",
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "13/06/2016",
+    "TotalCoinsMined": 6268082,
+    "Twitter": "@BreakoutGaming",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": null,
+    "GitHub": null,
+    "OnMarkets": [
+      "Novaexchange",
+      "BitTrex"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "N/A",
+    "Description": null,
+    "TokenType": null,
+    "WebsiteLink": null,
+    "FundingCap": null,
+    "FundingTarget": null,
+    "Date": null,
+    "EndDate": null,
+    "FundsRaisedList": null,
+    "FundsRaisedUSD": null,
+    "StartPrice": null,
+    "StartPriceCurrency": null,
+    "Jurisdiction": null,
+    "BlogLink": null,
+    "WhitePaperLink": null
+  },
+  "ccId": "299415"
+}

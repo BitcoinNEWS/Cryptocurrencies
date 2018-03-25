@@ -1,0 +1,58 @@
+{
+  "General": {
+    "Symbol": "CXC",
+    "Name": "CheckCoin",
+    "Description": "<p>Total Coin Supply: 5,000,000 Distributed among 93 Investors which invested the total amount of 85.52154000 BTC in the ICO.</p><p>ICO AUCTION ENDED AT 0.00001710 BTC/CXC</p><p>Proof-of-Stake Interest Rate (per annum): 4%</p><p>Block Spacing: 60 seconds</p><p>Blocks to Maturity: 60</p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "100000000",
+    "Algorithm": null,
+    "ProofType": "PoS",
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "30/10/2014",
+    "TotalCoinsMined": null,
+    "Twitter": "BidCXC",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "http://www.cxc.bid/home/index.html",
+    "GitHub": null,
+    "OnMarkets": [
+      "BitTrex"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "N/A",
+    "Description": null,
+    "TokenType": null,
+    "WebsiteLink": null,
+    "FundingCap": null,
+    "FundingTarget": null,
+    "Date": null,
+    "EndDate": null,
+    "FundsRaisedList": null,
+    "FundsRaisedUSD": null,
+    "StartPrice": null,
+    "StartPriceCurrency": null,
+    "Jurisdiction": null,
+    "BlogLink": null,
+    "WhitePaperLink": null
+  },
+  "ccId": "4415"
+}

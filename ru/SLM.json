@@ -1,0 +1,60 @@
+{
+  "General": {
+    "Symbol": "SLM",
+    "Name": "SlimCoin",
+    "Description": "<p>SlimCoin - это инновационная монета Proof of Burn, Work и Stake (PoB/PoW/PoS). Сумма монет ограничена 10 миллиардами, а вознаграждение блока уменьшается в связи с увеличением сложности. Сложность пересчитывается непрерывно, а время блока составляет 90 секунд.</p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "0",
+    "Algorithm": null,
+    "ProofType": "PoB",
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "28/05/2014",
+    "TotalCoinsMined": null,
+    "Twitter": "@slmcoin",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "-",
+    "GitHub": null,
+    "OnMarkets": [
+      "CCEX",
+      "Novaexchange",
+      "BTER"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "N/A",
+    "Description": null,
+    "TokenType": null,
+    "WebsiteLink": null,
+    "FundingCap": null,
+    "FundingTarget": null,
+    "Date": null,
+    "EndDate": null,
+    "FundsRaisedList": null,
+    "FundsRaisedUSD": null,
+    "StartPrice": null,
+    "StartPriceCurrency": null,
+    "Jurisdiction": null,
+    "BlogLink": null,
+    "WhitePaperLink": null
+  },
+  "ccId": "5382"
+}

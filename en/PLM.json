@@ -1,0 +1,56 @@
+{
+  "General": {
+    "Symbol": "PLM",
+    "Name": "Algo.Land",
+    "Description": "<p>Algo.Land is a decentralized algo-trading pool that is based on a smart contract. Algo.Land brings an already proven and working algorithmic trading system on the blockchain. The smart contract and the peripheral software are already finished.</p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": null,
+    "Algorithm": null,
+    "ProofType": "PoS",
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "01/11/2017",
+    "TotalCoinsMined": null,
+    "Twitter": "@algo_land",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": null,
+    "GitHub": null,
+    "OnMarkets": [],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Ongoing",
+    "Description": "<p><span>Algo.Land </span><span>is a decentralized algo-trading pool that is based on a smart contract.</span><span><span> </span>Algo.Land brings an already proven and working algorithmic trading system on the blockchain. The smart contract and the peripheral software are already finished.</span></p><p> <strong>Team</strong>:</p><ul><li><strong>Eddi Salm</strong>: Founder.</li><li><strong>Jefferson Davis</strong>: Main Developer.</li><li><strong>Dieter Bratschi</strong>: Data Analysis Expert.</li></ul><p><span>Algo.Land </span>will be holding its ICO on the 1st of November, 2017. The ICO token supply represents 100% of the total token supply. The total token supply will be proportional to the token sale contributions and the emission rate will be decided by contract. Tokens will be available for 0.01 ETH each at the offering. There is no cap for the ICO and the funds raised will be held in a multi-signature escrow account. The ICO funding target is 300,000 USD and is expected to end on the 12th of December, 2017.</p>",
+    "TokenType": "ETH (ERC20)",
+    "WebsiteLink": "https://www.algo.land/crowdfunding",
+    "FundingCap": "N/A",
+    "FundingTarget": "300,000 USD",
+    "Date": 1509494400,
+    "EndDate": 1512950399,
+    "FundsRaisedList": "N/A",
+    "FundsRaisedUSD": "N/A",
+    "StartPrice": "0.01",
+    "StartPriceCurrency": "ETH",
+    "Jurisdiction": "Switzerland",
+    "BlogLink": null,
+    "WhitePaperLink": "https://www.algo.land/algorithmic-trading"
+  },
+  "ccId": "314331"
+}

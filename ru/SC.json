@@ -1,0 +1,64 @@
+{
+  "General": {
+    "Symbol": "SC",
+    "Name": "Siacoin",
+    "Description": "<p>Sia is an actively developed decentralized storage platform. Users all over the world contribute disk storage from their computers to form a decentralized network.</p><p>Anybody with siacoins can rent storage from hosts on Sia. This is accomplish via \"smart\" storage contracts stored on the Sia blockchain. The smart contract provides a payment to the host only after the host has kept the file for a given amount of time. If the host loses the file, the host does not get paid.</p><p>The distrubuted nature of the Sia network enables many optimizations in latency, throughput, reliability, and security. The decentralized nature of the Sia network enables anyone with storage to get paid, lowering the barrier to entry and reducing the overall price of cloud storage.</p><p>Sia is currently only a testnet. The full network and cryptocurrency will be released on June 7th, 2015. The test network supports file uploads of up to 100mb. Larger uploads may be successful, but are likely to crash the program.</p><p>The Sia cryptocurrency is live! You can rent storage using siacoins and hosts providing storage to the network receive compensation in the form of siacoins. The storage platform itself is still in beta, and only uploads that are 500mb or less in size are supported by the wallet.</p><p><a href=\"https://siacoin.com/sia.pdf\" target=\"_blank\" title=\"SiaCoin Whitepaper\">Read the full SiaCoin WhitePaper</a></p>",
+    "Features": "<p>Sia uses a new cryptocurrency, called the siacoin. The developers will mine the first 100 blocks or so before releasing the code + miner to the public.  Other than these first blocks, there is no premine for siacoins. The first block reward will be 300,000 siacoins. Each block reward after that will be one siacoin smaller than the previous block reward (299,999, then 299,998, and so on). When the block reward reaches 30,000, all remaining blocks will give a 30,000 siacoin reward. The block time is 10 minutes. Each siacoin is composed of 10^24 indivisible units.</p><p>The most important features of Sia can only be accessed by using siacoins. All storage contracts and all Sia payment channels require owning siacoins. This requirement means that as Sia grows in usage, so too will demand for siacoins. As demand grows, the price will increase. If Sia is being used for billions of dollars of storage, billions of dollars of siacoins will be required. The value of the siacoin is inextricably tied to the amount of storage in use on the Sia network.</p><p>Sia has a second cryptocurrency, called the Siafund. 3.9% of all successful storage contract payouts go to the holders of the siafunds. There are 10,000 siafunds total, and all 10,000 are completely premined. Sia&#39;s parent company, Nebulous Inc., holds approximately 8750 of these siafunds. The remaining siafunds were sold in a crowdfund which helped to finance Sia&#39;s early development. The primary goal of siafunding is to provide a way to finance the development of Sia without relying on donations or a premine. More people using Sia means more funding available to hire more developers.</p><p>Standard transactions are not subject to the fee, and neither are failed storage contracts (where the host was offline or lost the file).</p>",
+    "Technology": "<p>The foundation of Sia is a proof of work blockchain. Storage contracts are a new type of transaction that get enforced by the blockchain. Sia&#39;s hashing algorithm is blake2b. p2pool and multisig wallets are both supported on Sia.</p><p>  When a file is uploaded to Sia, a storage contract is created containing the Merkle root of the file, a reward for the host, and a penalty for the host (both in siacoins). After an agreed-upon duration, the host is required to prove that the file is still available by providing a random Merkle proof. If the proof is valid, the host is rewarded; otherwise, the host is penalized.  Random numbers are generated deterministically using the most recent block as a seed.</p><p>Sia has support for two way payment channels, and two way contract diffs.  Among other things, this provides massive scalability, and eliminates the need for untrustworthy 0-confirmation transactions. Once you join a payment channel network, all transactions within that network will be instant and final, with no risk of a double spend.</p><p>Reliability is achieved by using erasure coding in a massively distributed environment. Erasure coding allows a file to be split into many pieces, such that the original file can be recovered using only a few of them. For example, you can take a 50 MB file, break it into 200 pieces that are 1 MB each, and then you can recover the original file from *any* 50 of the pieces. This method has the same overhead as creating 4 complete copies of the file, yet is much more reliable because it&#39;s much less likely that 151 out of 200 hosts will go offline than it is that 4 out of 4 hosts will go offline.</p><p>As the network grows, we will apply statistical analysis to determine the redundancy required to provide 99.9999% reliability on files. It is likely that 3x overhead is absurd overkill, and statistical analysis will give an accurate picture of how much overhead is required.</p><p>Using 200 hosts to store a file means that downloads can be massively parallel. Even if the average Sia host does not have quick upload speeds, the massive parallelism enabled by Sia means that downloads will be blazing fast anyway.  In addition, you can choose to connect only to the datacenters that are the closest and the fastest. This optimization (known as a CDN) is a hugely expensive project for a traditional cloud storage service, but for Sia it is a natural consequence of the decentralized network.</p><p>As security is a top priority of Sia, all encryption is performed locally; the people storing your files will have no ability to see what you have uploaded.  Not only is every file encrypted separately, every *piece* of every file is encrypted separately, and hosts are not told which pieces are part of the same file.</p>",
+    "TotalCoinSupply": "0",
+    "Algorithm": "Blake2b",
+    "ProofType": "PoW",
+    "BlockReward": 152687,
+    "Explorer": null,
+    "StartDate": "01/06/2015",
+    "TotalCoinsMined": 33098296530,
+    "Twitter": "@NebulousLabs",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "https://sia.tech/",
+    "GitHub": null,
+    "OnMarkets": [
+      "Poloniex",
+      "BitSquare",
+      "Yunbi",
+      "HitBTC",
+      "Abucoins",
+      "Cryptopia",
+      "BitTrex"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "N/A",
+    "Description": null,
+    "TokenType": null,
+    "WebsiteLink": null,
+    "FundingCap": null,
+    "FundingTarget": null,
+    "Date": null,
+    "EndDate": null,
+    "FundsRaisedList": null,
+    "FundsRaisedUSD": null,
+    "StartPrice": null,
+    "StartPriceCurrency": null,
+    "Jurisdiction": null,
+    "BlogLink": null,
+    "WhitePaperLink": null
+  },
+  "ccId": "13072"
+}

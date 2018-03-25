@@ -1,0 +1,59 @@
+{
+  "General": {
+    "Symbol": "PBT",
+    "Name": "Primalbase",
+    "Description": "<p class=\"normal\">Primalbase, a co-working initiative, allows users to own real estate by holding the real estate-backed PBT crypto tokens, an asset on the Waves Platform. Holders of the PBT can <span>use, rent or sell the workspace as they wish and get access to </span>all shared workspaces around the world with premium all-inclusive services.</p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "1250",
+    "Algorithm": null,
+    "ProofType": null,
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "24/05/2017",
+    "TotalCoinsMined": 1250,
+    "Twitter": "@primalbasehq",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "http://primalbase.com/",
+    "GitHub": null,
+    "OnMarkets": [
+      "WavesDEX",
+      "Tidex"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Finished",
+    "Description": "<p><span>Primalbase, a co-working initiative, allows users to own real estate by holding the real estate-backed PBT crypto tokens, an asset on the Waves Platform. Holders of the PBT can </span><span>use, rent or sell the workspace as they wish and get access to </span><span>all shared workspaces around the world with premium all-inclusive services. Starting on the 26th of June and lasting for a whole month, the PrimalBase ICO will sell 80% of its 1250 PBT token supply. The starting price is 3 BTC on the first ICO day, 4 BTC on the 2nd - 7th day of ICO</span></p>",
+    "TokenType": "N/A",
+    "WebsiteLink": "http://primalbase.com",
+    "FundingCap": "N/A",
+    "FundingTarget": "N/A",
+    "Date": 1498435200,
+    "EndDate": 1498564800,
+    "FundsRaisedList": "3,100 BTC",
+    "FundsRaisedUSD": "7912000",
+    "StartPrice": "7912",
+    "StartPriceCurrency": "USD",
+    "Jurisdiction": "N/A",
+    "BlogLink": "https://medium.com/@primalbase",
+    "WhitePaperLink": "http://primalbase.com/assets/PrimalbaseWP.pdf"
+  },
+  "ccId": "84232"
+}

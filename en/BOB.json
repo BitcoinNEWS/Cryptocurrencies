@@ -1,0 +1,60 @@
+{
+  "General": {
+    "Symbol": "BOB",
+    "Name": "Bob Coin",
+    "Description": "<p>DobbsCoin (BOB) is a pure proof of work scrypt alternative crypto currecny. The coin has 21 million units to be issued.</p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "21000000",
+    "Algorithm": "Scrypt",
+    "ProofType": "PoW",
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "09/01/2015",
+    "TotalCoinsMined": 5441178.43321561,
+    "Twitter": "@Dobbscoin",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "http://www.dobbscoin.info/",
+    "GitHub": null,
+    "OnMarkets": [
+      "Cryptopia",
+      "Novaexchange",
+      "BitTrex"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "N/A",
+    "Description": null,
+    "TokenType": null,
+    "WebsiteLink": null,
+    "FundingCap": null,
+    "FundingTarget": null,
+    "Date": null,
+    "EndDate": null,
+    "FundsRaisedList": null,
+    "FundsRaisedUSD": null,
+    "StartPrice": null,
+    "StartPriceCurrency": null,
+    "Jurisdiction": null,
+    "BlogLink": null,
+    "WhitePaperLink": null
+  },
+  "ccId": "7635"
+}

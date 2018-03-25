@@ -1,0 +1,60 @@
+{
+  "General": {
+    "Symbol": "GAT",
+    "Name": "GATCOIN",
+    "Description": "<p>The GAT system is a platform where global merchants can issue their own branded digital tokens that can be used as discounts, gift cards and other promotional offerings (Merchant Tokens) to a mass consumer audience with minimal set-up, allowing them to quickly adopt token usage as part of their overall marketing strategy. GATCOIN is an Ethereum-based token that acts as the native currency for the trade of Merchant Tokens on the GAT Exchange.</p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "1000000000",
+    "Algorithm": null,
+    "ProofType": null,
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "28/10/2017",
+    "TotalCoinsMined": 1000000000,
+    "Twitter": "@gatcoin",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": null,
+    "GitHub": null,
+    "OnMarkets": [
+      "EtherDelta",
+      "Kucoin",
+      "Gatecoin"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Finished",
+    "Description": "<p><span>The GAT system is a platform where global merchants can issue their own branded digital tokens that can be used as discounts, gift cards and other promotional offerings (Merchant Tokens) to a mass consumer audience with minimal set-up, allowing them to quickly adopt token usage as part of their overall marketing strategy. GATCOIN is an Ethereum-based token that acts as the native currency for the trade of Merchant Tokens on the GAT Exchange.</span></p><p><strong>Team</strong>:</p><ul><li><strong>SIMON CHEONG:</strong> Founder &amp; CEO</li><li><strong>JAMES KONG:</strong> Senior Dev Advisor</li><li><strong>GARY LING:</strong> Founding Dev Engineer</li><li><strong>KARANDEEP SINGH:</strong> Founding Dev Engineer</li></ul><p>GATCOIN will hold a presale from the 17th of December until the 7th January, 2017.</p><p>The GATCOIN ICO will start on the 14th of January and will last until the 28th of January. The ICO token allocation represents 50% of the total token supply (1Bn) and will be available for a $0.20 base price in ETH. The ICO funding target is $20M and the funding cap is ~$35M. </p><p><strong>Token Reserve Split (50%):</strong></p><ul><li>22% Founders, Partners and Advisors;</li><li>14% Sold via App;</li><li>14% Customer &amp; Merchant Acquisition.</li></ul><p>GATCOIN ICO campaign features Bonuses and Bounties, and the token will not be mineable.</p><p> <strong>Bonus Structure:</strong></p><ul><li>Presale: 20%</li><li>14Jan - 21Jan: 5%</li></ul>",
+    "TokenType": "ETH (ERC20)",
+    "WebsiteLink": "https://www.gatcoin.io/tokensale",
+    "FundingCap": "31,049 ETH",
+    "FundingTarget": "31,049 ETH",
+    "Date": 1515888000,
+    "EndDate": 1515931200,
+    "FundsRaisedList": "31,049 ETH",
+    "FundsRaisedUSD": "40363700",
+    "StartPrice": "0.00006756756",
+    "StartPriceCurrency": "ETH",
+    "Jurisdiction": "Hong Kong",
+    "BlogLink": "https://medium.com/@gatcoin/",
+    "WhitePaperLink": "https://www.gatcoin.io/wp-content/uploads/2017/09/170919v2-Whitepaper-EN.pdf"
+  },
+  "ccId": "349487"
+}

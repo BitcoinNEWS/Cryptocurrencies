@@ -1,0 +1,56 @@
+{
+  "General": {
+    "Symbol": "XSB",
+    "Name": "Extreme Sportsbook",
+    "Description": "<p>Extreme Sportsbook is a decentralized gambling platform that allows users to bet directly from their wallet on sports games. Extreme Sportsbook leverages its own PoS blockchain with a 2nd layer network of masternodes to provide these services. XSB is the currency used in the Extreme Sportsbook platform.</p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "3000000",
+    "Algorithm": "X11",
+    "ProofType": "PoS",
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "01/11/2017",
+    "TotalCoinsMined": null,
+    "Twitter": "@xsbtoken",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": null,
+    "GitHub": null,
+    "OnMarkets": [],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Ongoing",
+    "Description": "<p><span>Extreme Sportsbook is a decentralized gambling platform that allows users to bet directly from their wallet on sports games. Extreme Sportsbook leverages its own PoS blockchain with a 2nd layer network of masternodes to provide these services. XSB is the currency used in the </span><span>Extreme Sportsbook platform.</span></p><p>The Extreme Sportsbook ICO started on the 1st of November and will last until the 30th of November, 2017. The ICO token allocation is 90% of the total supply and will be available for a $0.25 starting pice. Users will be able to gamble using both BTC and ETH. The funding cap is set at 100 BTC.</p><p><strong>Token Reserve Split (10%):</strong></p><ul><li>7% Team</li><li>3% Bounties</li></ul><p>The <span>Extreme Sportsbook will feature a bounty campaign.</span></p>",
+    "TokenType": "New Blockchain",
+    "WebsiteLink": "http://ico.xsports.io",
+    "FundingCap": "110 BTC",
+    "FundingTarget": "N/A",
+    "Date": 1509494400,
+    "EndDate": 1512000000,
+    "FundsRaisedList": "2,308,341.2 XSB sold.",
+    "FundsRaisedUSD": "N/A",
+    "StartPrice": "0.25",
+    "StartPriceCurrency": "USD",
+    "Jurisdiction": "N/A",
+    "BlogLink": null,
+    "WhitePaperLink": "https://ico.xsports.io/xsbwp1.2.pdf"
+  },
+  "ccId": "364846"
+}

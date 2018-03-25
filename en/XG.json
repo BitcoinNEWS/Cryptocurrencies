@@ -1,0 +1,58 @@
+{
+  "General": {
+    "Symbol": "XG",
+    "Name": "XG Sports",
+    "Description": "<p>XG is a New Cryptocurrency focused in deploying high quality digital services to sports environments over the world.</p><p>It was created by the GoalCoin team as a natural transition of the current coin to a more solid software infrastructure that includes a completely new hash generation algorithm called as the new coin, XG. </p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "0",
+    "Algorithm": "XG Hash",
+    "ProofType": "PoW/PoS",
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "05/09/2014",
+    "TotalCoinsMined": null,
+    "Twitter": "@XGcurrency",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "-",
+    "GitHub": null,
+    "OnMarkets": [
+      "BitTrex"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "N/A",
+    "Description": null,
+    "TokenType": null,
+    "WebsiteLink": null,
+    "FundingCap": null,
+    "FundingTarget": null,
+    "Date": null,
+    "EndDate": null,
+    "FundsRaisedList": null,
+    "FundsRaisedUSD": null,
+    "StartPrice": null,
+    "StartPriceCurrency": null,
+    "Jurisdiction": null,
+    "BlogLink": null,
+    "WhitePaperLink": null
+  },
+  "ccId": "5376"
+}

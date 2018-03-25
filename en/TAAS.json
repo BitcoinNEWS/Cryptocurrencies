@@ -1,0 +1,62 @@
+{
+  "General": {
+    "Symbol": "TAAS",
+    "Name": "Token as a Service",
+    "Description": "<p><span>TaaS stands for Token as a Service. It is an investment fund designed to ease the process of investing in blockchain markets. TaaS will be an active player across blockchain markets, investing in cryptocurrencies and tokens. </span></p><p><span>The TAAS tokens are built on a profit-sharing Ethereum smart contract. Every 3 months, a designated smart contract will disperse 50% of TaaS fund profits, equally spread out over the number of outstanding tokens. Intuitively, it implies that investors with a larger share of tokens will receive a higher return.</span></p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "8146001",
+    "Algorithm": null,
+    "ProofType": null,
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "02/02/2017",
+    "TotalCoinsMined": 8146000.779398,
+    "Twitter": "@TaaSfund",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "https://taas.fund/",
+    "GitHub": null,
+    "OnMarkets": [
+      "LiveCoin",
+      "HitBTC",
+      "Liqui",
+      "Tidex",
+      "EtherDelta"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Finished",
+    "Description": "<p><span>The smart contract allows token owners to collect 50% of quarterly profits. To grow the capital pool without attracting additional investment, 25% of profits will be reinvested back into the fund. This allows the Net Asset Value (NAV) of a token to increase over time, making TaaS the first blockchain token to have its value explicitly tied to the performance of a parent project. In its essence, by effectively eliminating entry barriers and allowing investors to safely subscribe to the fund’s income flow, TaaS introduces a Token-as-a-Service (TaaS) business model. </span><span>TaaS aims to be the first truly transparent CEF dedicated to blockchain with full cryptographic audits on non Ethereum based tokens.</span></p><p>The sale ran from March 27th, 2017 to April 27th, 2017 and raised and used the following bonus schedule. For the first 1000 BTC raised there would be a 25% discount and every following 1000 BTC would receive 2.5% less in bonus until 9,000 BTC + which receives 0 bonus. </p><p><span>3942 investors raising 3,536 BTC, 45,272 ETH and 193,562 USDT totalling a value of $7,569,373. With an average investment size of $1920. TaaS says that investors receive 100% of the tokens created but the distribution of ICO funds allocates 75% to the portfolio, 15% to operations and 10% to a reserve fund. Funds raised will be audited by HLB international.</span></p><p> <a href=\"https://medium.com/@Taas/ico-auditors-report-925439d0f112\" target=\"_blank\">ICO auditors report</a></p><p> </p>",
+    "TokenType": "ETH (ERC20)",
+    "WebsiteLink": "https://taas.fund",
+    "FundingCap": "101,000,000 USD",
+    "FundingTarget": "N/A",
+    "Date": 1490616000,
+    "EndDate": 1493294400,
+    "FundsRaisedList": "3,536 BTC, 45,272 ETH, 193,562 USDT",
+    "FundsRaisedUSD": "7569373",
+    "StartPrice": "1",
+    "StartPriceCurrency": "USD",
+    "Jurisdiction": "N/A",
+    "BlogLink": "https://medium.com/@Taas",
+    "WhitePaperLink": "http://taas.fund/media/whitepaper.pdf"
+  },
+  "ccId": "66270"
+}

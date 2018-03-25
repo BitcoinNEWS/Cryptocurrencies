@@ -1,0 +1,63 @@
+{
+  "General": {
+    "Symbol": "HYP",
+    "Name": "Hyperstake",
+    "Description": "<p>HyperStake<span> is meant to be an experimentation in cryptocurrency economics. HyperStake&#39;s primary goal is to create a cryptocurrency that provides a generous return for securing the block chain without massive inflation. Currently inflation is managed through the maximum stake reward of 1000 HYP per stake combined with a block target of 90 seconds, this means maximum coins per day of 960,000 HYP.</span></p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "0",
+    "Algorithm": "X11",
+    "ProofType": "PoW/PoS",
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "06/07/2014",
+    "TotalCoinsMined": 1173838573.5345,
+    "Twitter": "@nigeldollentas",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "http://hypercrypto.com/",
+    "GitHub": null,
+    "OnMarkets": [
+      "Cryptsy",
+      "Cryptopia",
+      "Novaexchange",
+      "BitTrex",
+      "Poloniex",
+      "BXinth"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "N/A",
+    "Description": null,
+    "TokenType": null,
+    "WebsiteLink": null,
+    "FundingCap": null,
+    "FundingTarget": null,
+    "Date": null,
+    "EndDate": null,
+    "FundsRaisedList": null,
+    "FundsRaisedUSD": null,
+    "StartPrice": null,
+    "StartPriceCurrency": null,
+    "Jurisdiction": null,
+    "BlogLink": null,
+    "WhitePaperLink": null
+  },
+  "ccId": "4537"
+}

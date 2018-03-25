@@ -1,0 +1,64 @@
+{
+  "General": {
+    "Symbol": "SAN",
+    "Name": "Santiment",
+    "Description": "<p>Santiment<span> will be a financial market data and content platform for cryptocurrency and blockchain space. </span>Santiment<span> offers </span>datafeeds<span> and content streams (including newswires) alongside a regularly updated database of cryptocurrency projects.</span></p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "45000000",
+    "Algorithm": "N/A",
+    "ProofType": "N/A",
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "01/01/0001",
+    "TotalCoinsMined": 83337000,
+    "Twitter": "@cryptoants",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "http://www.santiment.net/",
+    "GitHub": null,
+    "OnMarkets": [
+      "Liqui",
+      "Yobit",
+      "Bitfinex",
+      "LAToken",
+      "HitBTC",
+      "OKEX",
+      "EtherDelta"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Finished",
+    "Description": "<p><span style=\"font-weight: 400;\">Santiment is a financial market data and content platform for cryptocurrency and blockchain space. Santiment offers datafeeds and content streams (including newswires) alongside a regularly updated database of cryptocurrency projects.</span></p><p><strong>Team</strong>:</p><ul><li><strong>Maksim Balashevich</strong>: CEO.</li><li><strong>Dmitry Palchun</strong>: Ethereum Developer.</li><li><strong>Eugene Tartakovsky</strong>: Fullstack Developer and Tech lead.</li></ul><p><span>Santiment </span>held its ICO on <span>July 4, 2017.</span> The ICO token supply represents 54% of the total token supply, so there was a total of <span>45,000,000 </span>tokens available at the offering. The ICO funding target was 15000 ETH, the funding cap was 45000 ETH and raised a total of 45,000 ETH. The ICO ended on July 5, 2017.</p><p><span>Santiment </span>ICO campaign featured bounties and escrow.</p><p><strong>Token Reserve Split (46%):</strong></p><ul><li>18% Team, to <span style=\"font-weight: 400;\">incentivize their continued efforts</span>;</li><li>04% Key Advisors &amp; Partners;</li><li>06% Reward Pool, <span>to incentivize network participants, a reserve to be used </span><span>by Santiment, at its sole discretion</span>;</li><li><span>18% P<span style=\"font-weight: 400;\">resale participants for their early support</span>;</span></li></ul>",
+    "TokenType": "ETH (ERC20)",
+    "WebsiteLink": "https://santiment.net/token-sale/",
+    "FundingCap": "45000 ETH",
+    "FundingTarget": "15000 ETH",
+    "Date": 1499126400,
+    "EndDate": 1499212800,
+    "FundsRaisedList": "45,000 ETH",
+    "FundsRaisedUSD": "10200150",
+    "StartPrice": "0.001",
+    "StartPriceCurrency": "ETH",
+    "Jurisdiction": "Switzerland",
+    "BlogLink": "https://medium.com/santiment",
+    "WhitePaperLink": "https://docs.google.com/document/d/1hHmJQWrPrObSgCA8kTbk-4LgqGbYzukQAjtg5b8jwc0/edit"
+  },
+  "ccId": "177863"
+}

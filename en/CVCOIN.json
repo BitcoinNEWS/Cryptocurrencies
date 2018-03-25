@@ -1,0 +1,56 @@
+{
+  "General": {
+    "Symbol": "CVCOIN",
+    "Name": "Crypviser",
+    "Description": "<p>Crypviser uses blockchain technology to develop solutions for B2C and B2B markets. By providing genuine encryption key identification, Crypviser can prevent manipulation, interceptions MITM attacks on all communication levels.</p><p>Crypviser has developed a security model, which is designed to meet the highest standards of cryptography for securely exchanging and storing all kinds of data.</p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "15193882",
+    "Algorithm": "N/A",
+    "ProofType": "N/A",
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "18/05/2017",
+    "TotalCoinsMined": null,
+    "Twitter": "@cvcoin_ico",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "https://ico.crypviser.net/",
+    "GitHub": null,
+    "OnMarkets": [],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Finished",
+    "Description": "<p>Crypviser uses blockchain technology to develop solutions for B2C and B2B markets. By providing genuine encryption key identification, Crypviser can prevent manipulation, interceptions MITM attacks on all communication levels.</p><p>Crypviser has developed a<span> </span>security model, which is designed to meet the highest standards of cryptography for securely exchanging and storing all kinds of data.</p><p> </p><p><strong>Team</strong>:</p><ul><li><strong>Vadim Andryan</strong>: CEO/CTO, Founder;</li><li><strong>Waldemar Konradi</strong>: CO, Director, Founder. (<a href=\"https://www.linkedin.com/in/waldemar-konradi-62780365/\" target=\"_blank\">LinkedIn</a>);</li><li><strong>Eduard Schutz</strong>: Owner, Investor;</li><li><strong>Victor Gubin</strong><span>: Lead Developer;</span></li></ul><p><span>Crypviser </span>held its ICO on <span>May 20, 2017.</span> The ICO token supply represents 66.6% of the total token supply, and there was a total of 15,000,000<span> </span>tokens available at the offering. During the ICO <span>4,454,250</span><span><span> tokens were sold,</span></span> raising a total of $<span>3,872,725</span>. The sale ended on <span>June 30, 2017.</span></p><p><span><strong>Coin Distribution</strong>:</span></p><ul class=\"postList\"><li id=\"6acb\" class=\"graf graf--li graf-after--p\">Total coins sold — <strong class=\"markup--strong markup--li-strong\">4,459,000</strong><span> </span>CVC;</li><li id=\"90cd\" class=\"graf graf--li graf-after--li\">Coins reserved for Bounty campaigns — <strong class=\"markup--strong markup--li-strong\">133 770</strong><span> </span>CVC;</li><li id=\"ce94\" class=\"graf graf--li graf-after--li\">Bonuses, gift certificates and other promo for participants — <strong class=\"markup--strong markup--li-strong\">601 112</strong><span> </span>CVC;</li><li id=\"5667\" class=\"graf graf--li graf-after--li\">Totally coins sold + promo — <strong class=\"markup--strong markup--li-strong\">5,193,882</strong><span> </span>CVC;</li><li id=\"e89e\" class=\"graf graf--li graf-after--li graf--trailing\">Coins unsold (to be distributed among participants) — <strong class=\"markup--strong markup--li-strong\">4 806 118</strong><span> </span>CVC;</li></ul>",
+    "TokenType": "BTS",
+    "WebsiteLink": "https://ico.crypviser.net/",
+    "FundingCap": "N/A",
+    "FundingTarget": "N/A",
+    "Date": 1495281600,
+    "EndDate": 1498780800,
+    "FundsRaisedList": "861,72946 BTC; \r\n3569,51631 ETH; \r\n433.42300 TIME; \r\n752 693 NLG;",
+    "FundsRaisedUSD": "3872725",
+    "StartPrice": "0.258",
+    "StartPriceCurrency": "USD",
+    "Jurisdiction": "Switzerland",
+    "BlogLink": "https://medium.com/@crypviser",
+    "WhitePaperLink": "https://ico.crypviser.net/static/docs/CrypViserWhitepaper_en.pdf"
+  },
+  "ccId": "188400"
+}

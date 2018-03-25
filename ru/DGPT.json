@@ -1,0 +1,59 @@
+{
+  "General": {
+    "Symbol": "DGPT",
+    "Name": "DigiPulse",
+    "Description": "<p>DigiPulse is a SaaS platform that charges a subscription fee for memberships. The subscription fee is paid via fiat currencies or in DGP - the DigiPulse coin. It is a platform where the user can store information (letters, photos, miscellaneous information), write personal notes and have integrations from various other services (e.g. Coinbase).</p><p>The platform automatically establishes the status of the user<span> </span>(the period of inactivity) via a desktop app, a smartphone app and/or other web based integrations, and the user is the one who determines which integrations he connects to his account and the way his activity should be tracked, and the inactivity period that triggers the data send out.</p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "5420726",
+    "Algorithm": null,
+    "ProofType": null,
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "04/08/2017",
+    "TotalCoinsMined": null,
+    "Twitter": "@DigiPulseIO",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": null,
+    "GitHub": null,
+    "OnMarkets": [
+      "Cryptopia",
+      "EtherDelta"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Finished",
+    "Description": "<p>DigiPulse is a SaaS platform that charges a subscription fee for memberships. The subscription fee is paid via fiat currencies or in DGP - the DigiPulse coin. It is a platform where the user can store information (letters, photos, miscellaneous information), write personal notes and have integrations from various other services (e.g. Coinbase).</p><p>The platform automatically establishes the status of the user (the period of inactivity) via a desktop app, a smartphone app and/or other web based integrations, and the user is the one who determines which integrations he connects to his account and the way his activity should be tracked, and the inactivity period that triggers the data send out.</p><p><strong>Team</strong>:</p><ul><li><strong>Normunds Kvilis</strong>: CEO, Co-Founder. <a href=\"https://www.facebook.com/normunds.kvilis\" target=\"_blank\"><img style=\"width: 13px; height: 13px;\" src=\"/media/1383930/face_logo_final.png?width=13&amp;height=13\" alt=\"\" data-id=\"202866\"></a> <a href=\"https://www.linkedin.com/in/normundskvilis/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Dmitry Dementyev-Dedelis</strong>: CTO, Co-Founder.<span> </span><a href=\"https://www.facebook.com/dmitry.d3\" target=\"_blank\"><img style=\"width: 13px; height: 13px;\" src=\"/media/1383930/face_logo_final.png?width=13&amp;height=13\" alt=\"\" data-id=\"202866\"></a><span> </span><a href=\"https://www.linkedin.com/in/dmitry-dd/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li></ul><p>DigiPulse will be holding its ICO on August 4, 2017. The ICO token supply represents 98% of the total token supply, and each token will be available for 0.004 ETH at the offering. The ICO funding target is 8,000 ETH, the funding cap is 60,000 ETH and is expected to end on August 31, 2017 or when the funding cap is reached.</p><p><strong>Token Reserve Split (02%):</strong></p><ul><li>02% Reserved for bounties;</li><li>98% Crowdsale;</li></ul><p><span>DigiPulse ICO campaign will feature bounties and bonus.</span></p><p><strong>Bonus Structure:</strong></p><ul><li>15% For the first 3,750,000 tokens sold;</li><li>10% <span>For the next 3,750,000 tokens sold</span><span>;</span></li><li>05% <span>For the third batch of 3,750,000 tokens sold</span><span>;</span></li><li><span>00% For the rest of the crowdsale;</span></li></ul>",
+    "TokenType": "N/A",
+    "WebsiteLink": "https://www.digipulse.io/",
+    "FundingCap": "60,000 ETH",
+    "FundingTarget": "8,000 ETH",
+    "Date": 1501836194,
+    "EndDate": 1504169000,
+    "FundsRaisedList": "1862.981 ETH",
+    "FundsRaisedUSD": "711658.742",
+    "StartPrice": "0.004",
+    "StartPriceCurrency": "ETH",
+    "Jurisdiction": "N/A",
+    "BlogLink": null,
+    "WhitePaperLink": "https://www.digipulse.io/whitepaper.pdf"
+  },
+  "ccId": "202696"
+}

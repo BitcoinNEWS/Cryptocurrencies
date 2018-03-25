@@ -1,0 +1,58 @@
+{
+  "General": {
+    "Symbol": "GHC",
+    "Name": "GhostCoin",
+    "Description": "<p>GhostCoin is a Scrypt Altcoin based on both Proof of Work and Proof of Stake. The coin cap is set to 750 million and the block time is 30 seconds. The PoS rate reduces from 20% in year 1 to 5% in year six. There was a premine of 1%.</p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "750000000",
+    "Algorithm": "Scrypt",
+    "ProofType": "PoW/PoS",
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "10/03/2014",
+    "TotalCoinsMined": null,
+    "Twitter": "@ghostcoin1",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "-",
+    "GitHub": null,
+    "OnMarkets": [
+      "BitTrex"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "N/A",
+    "Description": null,
+    "TokenType": null,
+    "WebsiteLink": null,
+    "FundingCap": null,
+    "FundingTarget": null,
+    "Date": null,
+    "EndDate": null,
+    "FundsRaisedList": null,
+    "FundsRaisedUSD": null,
+    "StartPrice": null,
+    "StartPriceCurrency": null,
+    "Jurisdiction": null,
+    "BlogLink": null,
+    "WhitePaperLink": null
+  },
+  "ccId": "5336"
+}

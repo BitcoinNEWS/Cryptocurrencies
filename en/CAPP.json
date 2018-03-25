@@ -1,0 +1,61 @@
+{
+  "General": {
+    "Symbol": "CAPP",
+    "Name": "Cappasity",
+    "Description": "<p>Cappasity is a global decentralized trustless ecosystem that will allow users and developers to benefit from easy 3D object creation and embedding into websites, as well as mobile and VR/AR applications secured by smart contracts and blockchain technology.</p><p>To simplify the content exchange between participants from all over the globe and create a borderless AR/VR community network, Cappasity proposes to use a proper utility token (CAPP) as the primary payment vehicle within the Cappasity AR/VR Ecosystem. Cappasity will use its proprietary technological platform as a lever to boost the ecosystem’s growth, and it will provide the community with its API and SDK to integrate new tools and technologies developed by third-party service providers.</p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "10000000000",
+    "Algorithm": null,
+    "ProofType": null,
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "30/08/2017",
+    "TotalCoinsMined": 438686537.24,
+    "Twitter": "@cappasity",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": null,
+    "GitHub": null,
+    "OnMarkets": [
+      "HitBTC",
+      "Cryptopia",
+      "EtherDelta",
+      "Kucoin"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Ongoing",
+    "Description": "<p>Cappasity<span> </span>is a global decentralized trustless ecosystem that will allow users and developers to benefit from easy 3D object creation and embedding into websites, as well as mobile and VR/AR applications secured by smart contracts and blockchain technology.</p><p>To simplify the content exchange between participants from all over the globe and create a borderless AR/VR community network,<span> </span>Cappasity<span> </span>proposes to use a proper utility token (CAPP) as the primary payment vehicle within the<span> </span>Cappasity<span> </span>AR/VR Ecosystem.<span> </span>Cappasity<span> </span>will use its proprietary<span> </span>technological<span> </span>platform as a lever to boost the ecosystem’s growth, and it will provide the community with its API and SDK to integrate new tools and technologies developed by third-party service providers.</p><p><strong>Team</strong>:</p><ul><li><strong>Kosta Popov</strong>: CEO. <a href=\"https://www.linkedin.com/in/popovks\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Alex Chegaev</strong><span>: Co-Founder.</span></li><li><strong>Marianna Weber</strong><span>: Co-Founder.</span><span> </span><a href=\"https://www.linkedin.com/in/malshina\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Natalie Reyes</strong><span>: CSO. <a href=\"https://www.linkedin.com/in/natalie-reyes-9315a989/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></span></li><li><strong>Julia Kasiyanova</strong>: BDM <a href=\"https://www.linkedin.com/in/juliakas/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Henry Ines</strong><span>: Advisor.</span></li><li><strong>Jeff Smith</strong><span>: Advisor.</span></li><li><strong>Jim Theberge</strong><span>: Advisor.</span></li><li><strong>Leo Batalov</strong><span>: Advisor.</span></li></ul><p><span>Cappasity</span> will be holding its ICO on the 22nd of February, 2018 and the end date is set to the 19th of April, 2018. <span>Unsold tokens will be burnt.</span></p><p><strong>Token Reserve Split:</strong></p><ul><li>70% Sold in the token sale;</li><li>18% Retained as founders&#39; endowment;</li><li>12% Left for early contributors;</li></ul><p> </p>",
+    "TokenType": "ETH (ERC20)",
+    "WebsiteLink": "https://artoken.io/",
+    "FundingCap": "47,500,000 USD",
+    "FundingTarget": "N/A",
+    "Date": 1519257600,
+    "EndDate": 1524096000,
+    "FundsRaisedList": "4,800,000 USD",
+    "FundsRaisedUSD": "4800000",
+    "StartPrice": "N/A",
+    "StartPriceCurrency": "USD",
+    "Jurisdiction": "N/A",
+    "BlogLink": "https://blog.artoken.io/",
+    "WhitePaperLink": "https://artoken.io/whitepaper "
+  },
+  "ccId": "306304"
+}

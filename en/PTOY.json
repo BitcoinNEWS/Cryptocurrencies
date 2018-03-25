@@ -1,0 +1,61 @@
+{
+  "General": {
+    "Symbol": "PTOY",
+    "Name": "Patientory",
+    "Description": "<p>Patientory is a <span>Ethereum</span>-based decentralized medical record storage computing platform where Healthcare entities can secure private health information, rent computing power, servers and data centers and make their unused resources available through a unique private infrastructure. The <span>PTOY token is the native token of the Patientory platform. In exchange of PTOY tokens, users will be able to use the network to rent information storage space, and to execute smart payment contracts. </span>Patientory is a company incorporated in Delaware, United States under the name PATIENTORY, INC. (Company Number, 5921117).</p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "100002000",
+    "Algorithm": null,
+    "ProofType": null,
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "25/04/2017",
+    "TotalCoinsMined": 100001999.99994028,
+    "Twitter": "@Patientory",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "http://www.patientory.com",
+    "GitHub": null,
+    "OnMarkets": [
+      "HitBTC",
+      "Liqui",
+      "EtherDelta",
+      "BitTrex"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Finished",
+    "Description": "<p><span>The </span><span>PTOY token is the native token of the<span> </span>Patientory<span> </span>platform. In exchange of PTOY tokens, users will be able to use the network to rent information storage<span> </span>space,<span> </span>and to execute smart payment contracts. Patientory held an ICO that started on the 31st of May, during which 70 million PTOY were available to be purchased with Ether (ETH). The crowdsale was meant to last until the 28th of June, but the maximum cap of 46,666.6667 ETH was reached on the 3rd of June.</span></p><p><span>70% of the tokens were distributed in the ICO while the remaining 30% were pre-allocated to the Foundation PTOY. There was a bonus for the first 10 days of the ICO. </span><span>The ICO did not use an escrow. </span><span>The PTOY token is an Ethereum-based token and cannot be mined.</span></p><p> </p>",
+    "TokenType": "ETH (ERC20)",
+    "WebsiteLink": "http://www.patientory.com/",
+    "FundingCap": "N/A",
+    "FundingTarget": "N/A",
+    "Date": 1496246400,
+    "EndDate": 1496491200,
+    "FundsRaisedList": "46666.6667 ETH",
+    "FundsRaisedUSD": "10173188",
+    "StartPrice": "0.12099",
+    "StartPriceCurrency": "USD",
+    "Jurisdiction": "N/A",
+    "BlogLink": "http://www.patientory.com/blog/",
+    "WhitePaperLink": "http://www.patientory.com/patientory_whitepaper.pdf"
+  },
+  "ccId": "129035"
+}

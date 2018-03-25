@@ -1,0 +1,61 @@
+{
+  "General": {
+    "Symbol": "PIX",
+    "Name": "Lampix",
+    "Description": "<p>Lampix is a hardware and software solution that transforms any surface into a smart, augmented reality surface freeing human-computer interaction from digital screens.</p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "327154880",
+    "Algorithm": null,
+    "ProofType": null,
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "01/01/0001",
+    "TotalCoinsMined": 327154880,
+    "Twitter": "@lampix_co",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": null,
+    "GitHub": null,
+    "OnMarkets": [
+      "HitBTC",
+      "Tidex",
+      "Gatecoin",
+      "EtherDelta"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Finished",
+    "Description": "<p>Lampix is a hardware and software solution that transforms any surface into a smart, augmented reality surface freeing human-computer interaction from digital screens.</p><p><strong>Team</strong>:</p><ul><li><strong>George Popescu</strong>: CEO.</li><li><strong>Mihai Dumitrescu</strong>: CTO.</li><li><strong>Dzmitry Varhan</strong>: Hardware.</li><li><strong>Kyle Potter</strong><span>: Marketing.</span></li><li><span><strong>Florin Mihoc</strong><span>: Business Development.</span></span></li></ul><p><span>Lampix I</span>CO began on August 9, 2017. The ICO token supply represents 50% of the total token supply. The ICO funding target is 60,000,000 USD and is expected to end on August 18, 2017.</p><p><span>Lampix ICO campaign will feature a bonus structure, as shown below.</span></p><p><strong>Bonus Structure:</strong></p><ul><li>Day 1 <span>Lampix </span>will sell $20 million worth of tokens with a 15% bonus;</li><li>Day 2 <span>Lampix </span>will sell $20 million worth of tokens with a 10% bonus;</li><li>Day 3 to 10 <span>Lampix </span>will sell $20 million worth of token with a 5% bonus;</li></ul>",
+    "TokenType": "ETH (ERC20)",
+    "WebsiteLink": "https://lampix.co/index.html",
+    "FundingCap": "N/A",
+    "FundingTarget": "60,000,000 USD",
+    "Date": 1502236800,
+    "EndDate": 1503014400,
+    "FundsRaisedList": "40,921 ETH",
+    "FundsRaisedUSD": "14608797",
+    "StartPrice": "N/A",
+    "StartPriceCurrency": "N/A",
+    "Jurisdiction": "N/A",
+    "BlogLink": "https://medium.com/@lampix",
+    "WhitePaperLink": "https://lampix.co/whitepaper.pdf"
+  },
+  "ccId": "223283"
+}

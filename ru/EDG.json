@@ -1,0 +1,64 @@
+{
+  "General": {
+    "Symbol": "EDG",
+    "Name": "Edgeless",
+    "Description": "<p>Edgeless is an equity-based token that represents ownership in the profits of the Edgless casino, a decentralized online gaming platform based on Ethereum smart contracts that offers users a low to non-existent edge in games.</p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "132046997",
+    "Algorithm": null,
+    "ProofType": null,
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "16/12/2016",
+    "TotalCoinsMined": 132046997,
+    "Twitter": "@edgelessproject",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "https://edgeless.io/",
+    "GitHub": null,
+    "OnMarkets": [
+      "LiveCoin",
+      "Tidex",
+      "Liqui",
+      "Novaexchange",
+      "HitBTC",
+      "BitTrex",
+      "EtherDelta"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Finished",
+    "Description": "<p><span style=\"font-weight: 400;\"><span>Edgeless is an equity-based token that represents ownership in the profits of the Edgless casino, u</span></span><span style=\"font-weight: 400;\">sing the Ethereum smart contract, Edgeless introduces the Ethereum-based Online Casino which offers 0% edge for its players and 100% transparency. As well as full anonymity plus instant money deposits and withdrawals. </span></p><p><strong>Team</strong>:</p><ul><li><strong>NIgnas Mangevicius</strong>: Blockchain-Based Systems Developer, Co-Founder.</li><li><strong>Tomas Draksas</strong>: Professional Poker Player, Co-Founder.</li><li><strong>Tomas Lukosaitis</strong>: Operations and Business, Co-Founder.</li></ul><p><span>Edgeless </span>held its ICO on February 28, 2017. The ICO token supply represents 88% of the total token supply, so there was a total of <span>440,000,000 </span>tokens available at the offering. The ICO funding cap was 50,000 ETH. Edgeless Smart contracts can be found <a href=\"https://github.com/EdgelessCasino/Smart-Contracts\" target=\"_blank\">here</a>.</p><p><strong>Crowdsale allocation:</strong></p><ul><li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Development = 33%</span></li><li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Casino Bankroll to pay wins = 20%</span></li><li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Operations = 17%</span></li><li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Marketing = 16%</span></li><li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Legal = 14%</span></li></ul><p><span>Edgeless</span><span> </span>ICO campaign featured bonus and the token is not mineable.</p><p><strong>Bonus Structure:</strong></p><ul><li><span>Power hour 1ETH = 1200 EDG;</span></li><li><span>1st Week 1 ETH = 1100 EDG;</span></li><li><span>2nd Week 1 ETH = 1050 EDG;</span></li><li><span>3rd week 1 ETH = 1000 EDG;</span></li></ul>",
+    "TokenType": "ETH (ERC20)",
+    "WebsiteLink": "https://edgeless.io/",
+    "FundingCap": "N/A",
+    "FundingTarget": "50,000 ETH",
+    "Date": 1488294000,
+    "EndDate": 1490112000,
+    "FundsRaisedList": "N/A",
+    "FundsRaisedUSD": "2650788",
+    "StartPrice": "0.0008333",
+    "StartPriceCurrency": "ETH",
+    "Jurisdiction": "N/A",
+    "BlogLink": "https://medium.com/edgeless",
+    "WhitePaperLink": "https://github.com/EdgelessCasino/White_paper/blob/master/White_Paper.pdf"
+  },
+  "ccId": "55676"
+}

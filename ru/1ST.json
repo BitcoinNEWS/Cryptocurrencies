@@ -1,0 +1,65 @@
+{
+  "General": {
+    "Symbol": "1ST",
+    "Name": "FirstBlood",
+    "Description": "<p>FirstBlood is a decentralized platform where gamers can be rewarded for their gaming skills. Built on Ethereum, the First Blood platform allows users to bet against each other on mainstream games and for the results to be verified and settled automatically via a smart-contract system, eliminating attack vectors, middlemen, and server down time.</p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "93468691",
+    "Algorithm": null,
+    "ProofType": null,
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "25/09/2016",
+    "TotalCoinsMined": "79103203.39060551785",
+    "Twitter": "@firstbloodio",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "https://firstblood.io",
+    "GitHub": null,
+    "OnMarkets": [
+      "Novaexchange",
+      "BitTrex",
+      "Liqui",
+      "Gatecoin",
+      "OKEX",
+      "Yunbi",
+      "HitBTC",
+      "EtherDelta"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Finished",
+    "Description": "<p><span>FirstBlood</span><span> will be the first decentralized app, built on top of Ethereum, that allows eSports enthusiasts to compete in their favorite games through a decentralized, automated platform. FirstBlood<span> aims to be the preferred global platform for </span><span>skill-based eSports</span><span> competitors. </span></span><span>FirstBlood Token 1ST</span> is an essential part of the FirstBlood ecosystem and economy. The four major utilities available to FirstBlood Token holders are:</p><p>(1) Playing matches</p><p>(2) Witnessing matches and voting on the jury</p><p>(3) Hosting tournaments</p><p>(4) Claiming rewards from referrals</p><p>The first hour of the crowsdale was a &#39;Power Hour,&#39;  where 1 Ether bought 170 1SŦ. After that, the price was going to drop to 150:1, and then decrease every week until it reaches 100:1 in the fourth week. The power hour only lasted 10 minutes until the full $5.5million was raised. A total of <span>465,312.999 Ether was raised from 464 accounts with the largest investment worth more than $3 Million. 10% of tokens are being kept by the founding team and are subject to a 12 month holding period. 5% are to be allocated for the promotion of eSports events. </span></p><p> </p>",
+    "TokenType": "ETH (ERC20)",
+    "WebsiteLink": "https://firstblood.io/sale/",
+    "FundingCap": "5,500,000 USD",
+    "FundingTarget": "N/A",
+    "Date": 1474848000,
+    "EndDate": 1474848030,
+    "FundsRaisedList": "465,312.999 ETH",
+    "FundsRaisedUSD": "5500000",
+    "StartPrice": "0.0058823",
+    "StartPriceCurrency": "ETH",
+    "Jurisdiction": "N/A",
+    "BlogLink": "https://blog.firstblood.io/",
+    "WhitePaperLink": "https://github.com/Firstbloodio/white-paper/blob/master/FirstBlood_White_Paper_EN.pdf"
+  },
+  "ccId": "28328"
+}

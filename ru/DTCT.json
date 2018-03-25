@@ -1,0 +1,56 @@
+{
+  "General": {
+    "Symbol": "DTCT",
+    "Name": "DetectorToken",
+    "Description": "<p>Detector is a blockcchain-based bot that focuses on providing trading and gambling signals that can help the user get an edge in these two industries. Monitoring the <span>cryptocurrency &amp; betting markets, the bot notifies users about altcoin pumps, suspicious betting game, dropping betting odds and live betting tips. DetectorToken is an Ethereum-based token that is used as the currency of the platform.</span></p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "N/A",
+    "Algorithm": "N/A",
+    "ProofType": "N/A",
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "01/01/0001",
+    "TotalCoinsMined": null,
+    "Twitter": "@DetectorToken",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "https://detectortoken.com/",
+    "GitHub": null,
+    "OnMarkets": [],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Ongoing",
+    "Description": "<p>Detector is a blockcchain-based bot that focuses on providing trading and gambling signals that can help the user get an edge in these two industries. Monitoring the <span>cryptocurrency &amp; betting markets, the bot notifies users about altcoin pumps, suspicious betting game, dropping betting odds and live betting tips. DetectorToken is an Ethereum-based token that is used as the currency of the platform.</span></p><p><strong>Team</strong>:</p><ul><li><strong>Tomasz Mazur:</strong> Founder and Developer. <a href=\"https://www.linkedin.com/in/tomasz-mazur-7b85b4147\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Dawid Koralewski:</strong> Developer. <a href=\"https://www.linkedin.com/in/dawid-koralewski-816657147/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Adam Kowal:</strong> Developer.<span> </span></li></ul><p>The DetectorToken ICO will be held on from the 20th of August until the 20th of September. During the campaign, 98% of the tokens will be available, a total of 10m tokens out of the 12m supply. Users will be able to purchase DTCT with Ether for 0.0014 ETH.</p><p><strong>Token Reserve Split (XX%):</strong></p><ul><li>83% ICO;</li><li>17% Team and Company;</li></ul><p><span> The ICO will have a bonus campaign as well.</span></p><p><strong>Bonus Structure:</strong></p><ul><li>August 20 to August 30: 25% bonus ;</li><li>August 31 to September 9: 10% bonus</li></ul>",
+    "TokenType": "ETH (ERC20)",
+    "WebsiteLink": "https://detectortoken.com/ico/",
+    "FundingCap": "N/A",
+    "FundingTarget": "N/A",
+    "Date": 1503187200,
+    "EndDate": 1505865600,
+    "FundsRaisedList": "N/A",
+    "FundsRaisedUSD": "294629",
+    "StartPrice": "0.00142857143",
+    "StartPriceCurrency": "ETH",
+    "Jurisdiction": "N/A",
+    "BlogLink": null,
+    "WhitePaperLink": "https://detectortoken.com/docs/DetectorToken_White_Paper.pdf"
+  },
+  "ccId": "223644"
+}

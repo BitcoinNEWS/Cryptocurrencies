@@ -1,0 +1,61 @@
+{
+  "General": {
+    "Symbol": "INPAY",
+    "Name": "InPay",
+    "Description": "<p>InPay is a crypto asset issued on the Waves Platform. InPay&#39;s roadmap includes the creation of various decentralized services like a reputation and reviews platform, an escrow platform, an e-commerce platform and more.</p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "10000000",
+    "Algorithm": null,
+    "ProofType": null,
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "14/04/2017",
+    "TotalCoinsMined": 10000000,
+    "Twitter": "@InPay_Team",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "-",
+    "GitHub": null,
+    "OnMarkets": [
+      "Tidex",
+      "Yobit",
+      "Cryptopia",
+      "WavesDEX"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "N/A",
+    "Description": null,
+    "TokenType": null,
+    "WebsiteLink": null,
+    "FundingCap": null,
+    "FundingTarget": null,
+    "Date": null,
+    "EndDate": null,
+    "FundsRaisedList": null,
+    "FundsRaisedUSD": null,
+    "StartPrice": null,
+    "StartPriceCurrency": null,
+    "Jurisdiction": null,
+    "BlogLink": null,
+    "WhitePaperLink": null
+  },
+  "ccId": "61912"
+}

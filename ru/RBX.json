@@ -1,0 +1,60 @@
+{
+  "General": {
+    "Symbol": "RBX",
+    "Name": "RiptoBuX",
+    "Description": "<p><span>Ripto Bux is a dual-blockchain asset that exists both in the Waves and Ethereum blockchains through the use of </span><a href=\"https://blockswap.incentloyalty.com/\" target=\"_blank\">Incent’s Blockswap technology</a><span>. Ripto Bux has established itself as the defacto tipping currency on the Waves Platform slack, the Cryptocopia slack, and the Incent slack. By utilizing the Waves Asset Tip Bot, one can send asset/tokens instantly on the Waves main-network by using simple text commands. 200 million RBX tokens have been distributed thus far via airdrop to Waves token holders</span></p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": null,
+    "Algorithm": null,
+    "ProofType": null,
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "02/04/2017",
+    "TotalCoinsMined": 1000000000,
+    "Twitter": "@riptobux",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "-",
+    "GitHub": null,
+    "OnMarkets": [
+      "Cryptopia",
+      "Tidex",
+      "WavesDEX"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "N/A",
+    "Description": null,
+    "TokenType": null,
+    "WebsiteLink": null,
+    "FundingCap": null,
+    "FundingTarget": null,
+    "Date": null,
+    "EndDate": null,
+    "FundsRaisedList": null,
+    "FundsRaisedUSD": null,
+    "StartPrice": null,
+    "StartPriceCurrency": null,
+    "Jurisdiction": null,
+    "BlogLink": null,
+    "WhitePaperLink": null
+  },
+  "ccId": "73143"
+}

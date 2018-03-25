@@ -1,0 +1,64 @@
+{
+  "General": {
+    "Symbol": "OAX",
+    "Name": "OpenANX",
+    "Description": "<p><span>OAX is a token that can be exchanged for memberships in the DAO and/or its association. Members will be entitled to certain privileges, including but not limited to voting privileges on major operational decisions relating to the openANX platform. </span></p><p><span>The memberships will work through a tiered structure that allow for simple access, voting privileges or commercial (read: business) solicitation of services on the platform (e.g. escrow, legal, exchange, credit, asset gateway) with the relative number of tokens required for redemption varying with the level of benefits.</span></p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "100000000",
+    "Algorithm": "N/A",
+    "ProofType": "N/A",
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "01/06/2017",
+    "TotalCoinsMined": "100000000",
+    "Twitter": "@OAX_Foundation",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "https://www.openanx.org/",
+    "GitHub": null,
+    "OnMarkets": [
+      "Liqui",
+      "HitBTC",
+      "BTER",
+      "Binance",
+      "Gateio",
+      "OKEX",
+      "EtherDelta"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Finished",
+    "Description": "<p>OAX is a token that can be exchanged for memberships in the DAO and/or its association. Members will be entitled to certain privileges, including but not limited to voting privileges on major operational decisions relating to the openANX platform. </p><p>The memberships will work through a tiered structure that allow for simple access, voting privileges or commercial (read: business) solicitation of services on the platform (e.g. escrow, legal, exchange, credit, asset gateway) with the relative number of tokens required for redemption varying with the level of benefits.</p><p><span>OAX </span>will be holding its ICO on June 22, 2017. There will be a total of 30,000,000 tokens available at the offering.</p><p> </p>",
+    "TokenType": "ETH (ERC20)",
+    "WebsiteLink": "https://www.openanx.org/en/",
+    "FundingCap": "30000000 OAX",
+    "FundingTarget": "13000000 OAX",
+    "Date": 1498107600,
+    "EndDate": 1499126400,
+    "FundsRaisedList": "52,246 ETH",
+    "FundsRaisedUSD": "18756937",
+    "StartPrice": "0.0020890783",
+    "StartPriceCurrency": "ETH",
+    "Jurisdiction": "Hong Kong",
+    "BlogLink": "https://medium.com/@OAX_Foundation",
+    "WhitePaperLink": "https://www.openanx.org/assets/openANX_White_Paper_Released_Final_ENU_V2.0.pdf"
+  },
+  "ccId": "180013"
+}

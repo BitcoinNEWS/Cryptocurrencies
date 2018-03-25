@@ -1,0 +1,61 @@
+{
+  "General": {
+    "Symbol": "CDN",
+    "Name": "Canada eCoin",
+    "Description": "<p>Canada eCoin is a merge mineable scrypt-based cryptocurrency based on a Canadian theme.</p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "100000000 ",
+    "Algorithm": "Scrypt",
+    "ProofType": "PoW",
+    "BlockReward": 0.7352941185235977,
+    "Explorer": null,
+    "StartDate": "28/03/2014",
+    "TotalCoinsMined": 99461567.79908203,
+    "Twitter": "@ThisIsOurCoin",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "http://www.canadaecoin.ca/",
+    "GitHub": null,
+    "OnMarkets": [
+      "Novaexchange",
+      "Bleutrade",
+      "TradeSatoshi",
+      "Cryptopia"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "N/A",
+    "Description": null,
+    "TokenType": null,
+    "WebsiteLink": null,
+    "FundingCap": null,
+    "FundingTarget": null,
+    "Date": null,
+    "EndDate": null,
+    "FundsRaisedList": null,
+    "FundsRaisedUSD": null,
+    "StartPrice": null,
+    "StartPriceCurrency": null,
+    "Jurisdiction": null,
+    "BlogLink": null,
+    "WhitePaperLink": null
+  },
+  "ccId": "52015"
+}

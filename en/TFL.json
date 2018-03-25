@@ -1,0 +1,62 @@
+{
+  "General": {
+    "Symbol": "TFL",
+    "Name": "True Flip Lottery",
+    "Description": "<p><span>True Flip is a blockchain lottery platform. True Flip developed a bitcoin-based and fair-proof lottery 6/49 (Powerball*) and plan to make at least 3 more lottery games.</span></p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "N/A",
+    "Algorithm": "N/A",
+    "ProofType": "N/A",
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "01/01/0001",
+    "TotalCoinsMined": null,
+    "Twitter": "@TrueFlipLoto",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "http://bit.ly/2uLWGAz",
+    "GitHub": null,
+    "OnMarkets": [
+      "Yobit",
+      "LiveCoin",
+      "EtherDelta",
+      "HitBTC",
+      "Kucoin"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Ongoing",
+    "Description": "<p>True Flip is a blockchain lottery platform. True Flip developed a bitcoin-based and fair-proof lottery 6/49 (Powerball*) and plan to make at least 3 more lottery games.</p><p>True Flip Lottery will be holding its ICO on June 28, 2017. There will be a total of 14,700,000 TFL tokens available for 0.0005 BTC each at the offering. The ICO is expected to end on <span>July 28, 2017.</span></p><p><strong>Bonuses:</strong></p><table border=\"0\" width=\"383\" height=\"104\"><tbody><tr><td style=\"text-align: center;\"><strong>Cumulative BTC Committed</strong></td><td style=\"text-align: center;\"><strong>Bonus %</strong></td></tr><tr><td>0 - 1000</td><td style=\"text-align: right;\">30%</td></tr><tr><td style=\"text-align: left;\">1001 - 2000</td><td style=\"text-align: right;\">20%</td></tr><tr><td>2001 - 3000</td><td style=\"text-align: right;\">10%</td></tr><tr><td>3001 - 5000</td><td style=\"text-align: right;\">5%</td></tr><tr><td>5001 - 6125</td><td style=\"text-align: right;\">0%</td></tr></tbody></table>",
+    "TokenType": "ETH (ERC20)",
+    "WebsiteLink": "https://ico.trueflip.io/",
+    "FundingCap": "6125 BTC",
+    "FundingTarget": "6125 BTC",
+    "Date": 1498608000,
+    "EndDate": 1501326000,
+    "FundsRaisedList": "1196.85 BTC;\r\n632.262 LTC;\r\n10065.340 ETH;\r\n129.890 DASH;",
+    "FundsRaisedUSD": "5699281",
+    "StartPrice": "0.0005",
+    "StartPriceCurrency": "BTC",
+    "Jurisdiction": "N/A",
+    "BlogLink": " https://medium.com/@trueflip/",
+    "WhitePaperLink": "https://trueflip.io/TrueFlip%20Whitepaper(01.06).pdf?1"
+  },
+  "ccId": "150545"
+}

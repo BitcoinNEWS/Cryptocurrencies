@@ -1,0 +1,63 @@
+{
+  "General": {
+    "Symbol": "AST",
+    "Name": "Astral",
+    "Description": "<p>Astral is a PoW/PoS X13-based cryptocurrency. It has a high yield of 100% APY in staking rewards.</p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "500000000",
+    "Algorithm": null,
+    "ProofType": null,
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "11/05/2015",
+    "TotalCoinsMined": 500000000,
+    "Twitter": null,
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "-",
+    "GitHub": null,
+    "OnMarkets": [
+      "Binance",
+      "EtherDelta",
+      "Gatecoin",
+      "OKEX",
+      "Liqui",
+      "HuobiPro"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Finished",
+    "Description": "<p><span>The Swap protocol provides a peer-to-peer methodology to exchange assets on the Ethereum blockchain.</span></p><p><span>AirSwap is an ERC20 token that will have two functionalities, signal the intention to buy or sell Ethereum-based tokens and to give voting power to the traders providing managing capabilities to the roles of Oracles within the platform.</span></p><p><strong>Team</strong>:</p><ul><li><strong>Michael Oved</strong>: <span>Founder</span>. <a href=\"https://twitter.com/ovedm606\" target=\"_blank\"><img style=\"width: 13px; height: 13px;\" src=\"/media/1383932/twitter_logo_final.png?width=13&amp;height=13\" alt=\"\" data-id=\"202868\"></a> <a href=\"https://www.linkedin.com/in/michaeloved/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Don Mosites</strong>: <span>Founder</span>.<span> </span><a href=\"https://twitter.com/dmosites\" target=\"_blank\"><img style=\"width: 13px; height: 13px;\" src=\"/media/1383932/twitter_logo_final.png?width=13&amp;height=13\" alt=\"\" data-id=\"202868\"></a><span> </span><a href=\"https://www.linkedin.com/in/dmosites/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Nissa Szabo</strong>: <span>PR &amp; Marketing</span>. <a href=\"https://twitter.com/nisszab\" target=\"_blank\"><img style=\"width: 13px; height: 13px;\" src=\"/media/1383932/twitter_logo_final.png?width=13&amp;height=13\" alt=\"\" data-id=\"202868\"></a><span> </span><a href=\"https://www.linkedin.com/in/nissatszabo/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li></ul><p>AirSwap held its ICO on 10th of October, 2017. The ICO token supply represents 30% of the total token supply, so there was a total of 500000000 AST available, for 0.001 ETH each at the offering. The funding cap was 150,000 ETH and ended on 12th of October, 2017.</p><p><strong>Token Reserve Split (70%):</strong></p><ul><li><span>10% Advisors and Partners</span>;</li><li><span>10% Founders</span>;</li><li><span>10% New Partnerships</span>;</li><li><span>40% will be locked;</span></li></ul><p><span>AirSwap ICO campaign featured 20% bonus for beta testers, and the token will not be mineable.</span></p><p> </p>",
+    "TokenType": "ETH (ERC20)",
+    "WebsiteLink": "https://www.airswap.io/",
+    "FundingCap": "150,000 ETH",
+    "FundingTarget": "N/A",
+    "Date": 1507630210,
+    "EndDate": 1507766400,
+    "FundsRaisedList": "119,511.44 ETH",
+    "FundsRaisedUSD": "36000000",
+    "StartPrice": "0.001",
+    "StartPriceCurrency": "ETH",
+    "Jurisdiction": "N/A",
+    "BlogLink": "https://blog.airswap.io/",
+    "WhitePaperLink": "https://swap.tech/whitepaper/"
+  },
+  "ccId": "38959"
+}

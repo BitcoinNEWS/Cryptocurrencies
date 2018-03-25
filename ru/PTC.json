@@ -1,0 +1,61 @@
+{
+  "General": {
+    "Symbol": "PTC",
+    "Name": "PesetaCoin",
+    "Description": "<p>PesetaCoin is a scrypt altcoin like Litecoin. The block time is one minute and the diffiuclty retargets using the Kimoto Gravity Well. The starting block reward is 166 PTC and halves every year. The coin is merged mineable and has a negligable premine of 0.016%.</p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "166386000",
+    "Algorithm": "Scrypt",
+    "ProofType": "PoW",
+    "BlockReward": 9.99999998645349,
+    "Explorer": null,
+    "StartDate": "07/01/2014",
+    "TotalCoinsMined": 133254424.4139697,
+    "Twitter": "@oPesetaCoin",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "http://www.ptcweb.info",
+    "GitHub": null,
+    "OnMarkets": [
+      "Cryptopia",
+      "Novaexchange",
+      "BitTrex",
+      "TradeSatoshi"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "N/A",
+    "Description": null,
+    "TokenType": null,
+    "WebsiteLink": null,
+    "FundingCap": null,
+    "FundingTarget": null,
+    "Date": null,
+    "EndDate": null,
+    "FundsRaisedList": null,
+    "FundsRaisedUSD": null,
+    "StartPrice": null,
+    "StartPriceCurrency": null,
+    "Jurisdiction": null,
+    "BlogLink": null,
+    "WhitePaperLink": null
+  },
+  "ccId": "5317"
+}

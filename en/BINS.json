@@ -1,0 +1,58 @@
+{
+  "General": {
+    "Symbol": "BINS",
+    "Name": "Bitsense",
+    "Description": "<p><span>Bitsense is an online ecosystem built with a blockchain-oriented model. A marketplace for content creators and promoters designed to be fast in the sharing of information.</span><span> BINS is an ERC20 compliant token in the Ethereum Network and is to be used within the Bitsense Platform</span></p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "10000000",
+    "Algorithm": null,
+    "ProofType": null,
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "25/11/2017",
+    "TotalCoinsMined": 10000000,
+    "Twitter": "@binsofficial",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": null,
+    "GitHub": null,
+    "OnMarkets": [
+      "Tidex"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "N/A",
+    "Description": null,
+    "TokenType": null,
+    "WebsiteLink": null,
+    "FundingCap": null,
+    "FundingTarget": null,
+    "Date": null,
+    "EndDate": null,
+    "FundsRaisedList": null,
+    "FundsRaisedUSD": null,
+    "StartPrice": null,
+    "StartPriceCurrency": null,
+    "Jurisdiction": null,
+    "BlogLink": null,
+    "WhitePaperLink": "https://bitsense.biz/bitsense.pdf"
+  },
+  "ccId": "799897"
+}

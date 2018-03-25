@@ -1,0 +1,61 @@
+{
+  "General": {
+    "Symbol": "VEE",
+    "Name": "BLOCKv",
+    "Description": "<p>BLOCKv is a shared protocol for the blockchain developer stack. It enables the creation of smart digital objects (vAtoms) on different blockchains like Bitcoin, Ethereum and EON. vAtoms provide the holder with the all the advantages of cryptocurrency such as scarcity, ownership, and tradability, but can also take the form of collectibles, coupons, loyalty programs, gift cards, game items and much more, allowing users to own a virtual object much like you own a physical object. The V (VEE) token is an ERC20 token that powers all operations within the BLOCKv platform.</p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "6428571429",
+    "Algorithm": null,
+    "ProofType": null,
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "12/10/2017",
+    "TotalCoinsMined": 3646271241.2002554,
+    "Twitter": "@blockv_io",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": null,
+    "GitHub": null,
+    "OnMarkets": [
+      "Tidex",
+      "BitTrex",
+      "OKEX",
+      "EtherDelta"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Upcoming",
+    "Description": "<p><span>BLOCKv is a</span><span> shared protocol for the blockchain developer stack. It<span> </span></span><span>enables the creation of smart digital objects (vAtoms) on </span><span>different blockchains like Bitcoin, Ethereum and EON</span><span>. vAtoms provide the holder with the</span><span><span> </span>all the advantages of cryptocurrency such as scarcity, ownership, and tradability, but can also<span> </span></span><span>take the form of </span><span>collectibles, coupons, loyalty programs, gift cards, game items and much more</span><span>, allowing users to</span><span> own a virtual object much like you own a physical object.<span> </span></span><span>The V (VEE) token is an ERC20 token that powers all operations within the BLOCKv platform.</span></p><p><strong>Team</strong>:</p><ul><li><strong>REEVE</strong> <strong>COLLINS:</strong> CEO <a href=\"https://www.linkedin.com/in/reevecollins/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>GUNTHER THIEL:</strong> CTO <a href=\"https://www.linkedin.com/in/guntherthiel\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>LUKAS FLURI:</strong> COO <a href=\"https://www.linkedin.com/in/lukasfluri\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>CRAIG SELLARS:</strong> Blockchain Architect <a href=\"https://www.linkedin.com/in/craigcsellars/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li></ul><p>The BLOCKv ICO will start on the 12th of October 2017 and will last until the 16th of the same month or until the $40M funding cap is reached. The tokens for the ICO represent 35% of the total supply and will be available for purchase with BTC and ETH at a $0.02 starting price.</p><p><strong>Token Reserve Split:</strong></p><ul><li>35% allocated to the launch contributors</li><li>25% reserved to incentivise the development community</li><li>25% reserved for the development team, advisors and founders</li><li>15% strategic 6 year lock up reserved to fuel innovation and ecosystem health</li></ul><p> </p>",
+    "TokenType": "ETH (ERC20)",
+    "WebsiteLink": "http://t.blockv.io/cryptocompare",
+    "FundingCap": "40000000 USD",
+    "FundingTarget": "40000000 USD",
+    "Date": 1508418000,
+    "EndDate": 1508850000,
+    "FundsRaisedList": "71246 ETH",
+    "FundsRaisedUSD": "21933081.1",
+    "StartPrice": "0.02",
+    "StartPriceCurrency": "USD",
+    "Jurisdiction": "Switzerland",
+    "BlogLink": "https://medium.com/@blockv_io",
+    "WhitePaperLink": "https://blockv.io/documents/whitepaper.pdf"
+  },
+  "ccId": "306482"
+}

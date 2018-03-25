@@ -1,0 +1,59 @@
+{
+  "General": {
+    "Symbol": "GLYPH",
+    "Name": "GlyphCoin",
+    "Description": "<p>GlyphCoin (GLYPH) is an X11 PoW PoS alternative crypto currency. The PoS rate is 10% per annum and the block time is 90 seconds per block with difficulty retargetting each block too. There was 0% premine.</p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "7000000",
+    "Algorithm": "X11",
+    "ProofType": "PoW/PoS",
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "05/07/2014",
+    "TotalCoinsMined": null,
+    "Twitter": null,
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "-",
+    "GitHub": null,
+    "OnMarkets": [
+      "Cryptsy",
+      "Coinse"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "N/A",
+    "Description": null,
+    "TokenType": null,
+    "WebsiteLink": null,
+    "FundingCap": null,
+    "FundingTarget": null,
+    "Date": null,
+    "EndDate": null,
+    "FundsRaisedList": null,
+    "FundsRaisedUSD": null,
+    "StartPrice": null,
+    "StartPriceCurrency": null,
+    "Jurisdiction": null,
+    "BlogLink": null,
+    "WhitePaperLink": null
+  },
+  "ccId": "4530"
+}

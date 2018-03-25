@@ -1,0 +1,56 @@
+{
+  "General": {
+    "Symbol": "CIF",
+    "Name": "Crypto Improvement Fund",
+    "Description": "<p>Crypto Improvement Fund is a PoW cryptocurrency based on the X11 algorithm. CIF&#39;s team created the token with the purpose of using it as the medium of exchange for the content displayed on their own platform. The content displayed will help the platform users to learn and understand blockchain and cryptocurrency technologies.</p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "500000000",
+    "Algorithm": "X11",
+    "ProofType": "PoW",
+    "BlockReward": 50.00000000035585,
+    "Explorer": null,
+    "StartDate": "09/08/2017",
+    "TotalCoinsMined": 203924799.9999991,
+    "Twitter": "@CIF_Team",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": null,
+    "GitHub": null,
+    "OnMarkets": [],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "N/A",
+    "Description": null,
+    "TokenType": null,
+    "WebsiteLink": null,
+    "FundingCap": null,
+    "FundingTarget": null,
+    "Date": null,
+    "EndDate": null,
+    "FundsRaisedList": null,
+    "FundsRaisedUSD": null,
+    "StartPrice": null,
+    "StartPriceCurrency": null,
+    "Jurisdiction": null,
+    "BlogLink": null,
+    "WhitePaperLink": null
+  },
+  "ccId": "792268"
+}

@@ -1,0 +1,59 @@
+{
+  "General": {
+    "Symbol": "ZRC*",
+    "Name": "ZiftrCoin",
+    "Description": "<p>ziftrCOIN (ZRC) is a decentralised, open-source cryptocurrency forked from Bitcoin and launched in February 2015. It is developed by Ziftr, a US-based company that offers various e-commerce solutions, such as a browser add-on and mobile applications. The company&#39;s goal is to enable consumers to conduct simple, secure transactions, using ziftrCOINs (as well as several other cryptocurrencies), at their favorite retailers. </p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "450000000",
+    "Algorithm": "X11",
+    "ProofType": "PoW",
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "12/06/2014",
+    "TotalCoinsMined": null,
+    "Twitter": "@ziftrCOIN",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": null,
+    "GitHub": null,
+    "OnMarkets": [
+      "Cryptsy",
+      "BitTrex"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Finished",
+    "Description": "<p>Prior to formal launch, ziftrCOINs were offered to consumers in a pre-sale which generated over US$850,000 for the company; these funds were used to fund the development of a suite of tools for merchants in the Ziftr ecosystem, including a merchant API (Ziftrpay), a dedicated digital wallet (Ziftrwallet) and an online marketplace for the altcoins (Ziftrshop). </p>",
+    "TokenType": "N/A",
+    "WebsiteLink": "https://www.ziftrcoin.com/",
+    "FundingCap": "N/A",
+    "FundingTarget": "1,000,000 USD",
+    "Date": 1494504000,
+    "EndDate": 1497009600,
+    "FundsRaisedList": "N/A",
+    "FundsRaisedUSD": "875000",
+    "StartPrice": "0.21",
+    "StartPriceCurrency": "USD",
+    "Jurisdiction": "N/A",
+    "BlogLink": "http://blog.ziftr.com/tag/ziftrcoin/",
+    "WhitePaperLink": "https://d2blsqhhpyjjcf.cloudfront.net/assets/docs/ziftrcoinWP-08122015.pdf"
+  },
+  "ccId": "5037"
+}

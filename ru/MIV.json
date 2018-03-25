@@ -1,0 +1,56 @@
+{
+  "General": {
+    "Symbol": "MIV",
+    "Name": "MakeItViral",
+    "Description": "<p><span>MakeItViral is a video sharing platform that uses the decentralized MIV token to allow users to interact with each other. within the platform There usage concerns in many ways, i.e. microdonation and advertising. The MIV token runs on its own blockchain. It&#39;s a Scrypt PoW/PoS cryptocurrency.</span></p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "N/A",
+    "Algorithm": "Scrypt",
+    "ProofType": "PoW/PoS",
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "24/06/2017",
+    "TotalCoinsMined": null,
+    "Twitter": "@MIVlife",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "https://www.miv.life/",
+    "GitHub": null,
+    "OnMarkets": [],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Upcoming",
+    "Description": "<p><span>MakeItViral is a video sharing platform that uses the decentralized MIV token to allow users to interact with each other. within the platform There usage concerns in many ways, i.e. microdonation and advertising. The MIV token runs on its own blockchain. It&#39;s a Scrypt PoW/PoS cryptocurrency.</span></p><p>The MakeItViral ICO will start on the 18th of April 2017 at 16:00 UTC and will last until the last minute of October 31st. The ICO has a minimum 60BTC goal and accepts BTC. 30 Billion MIV will be given during the crowdfunding and will be distributed in various phases.<br /><br />Until 31th of July the rate will be  1 MIV = 0.00000003 BTC<br /><br />All August the rate will be 1 MIV = <span>0.00000004 BTC</span><br /><br />All September the rate will be 1 MIV = <span>0.00000005 BTC</span><br /><br />All October the rate will be 1 MIV = <span>0.00000006 BTC</span></p><p>60% of the Initial supply will be sold during the ICO, 30% will be allocated for giveaways and bounties, and 10% for the developer pool. The MakeItViral ICO has bounties available and the MIV token will be mineable after the ICO.</p>",
+    "TokenType": "N/A",
+    "WebsiteLink": "https://www.miv.life/",
+    "FundingCap": "N/A",
+    "FundingTarget": "60 BTC",
+    "Date": null,
+    "EndDate": null,
+    "FundsRaisedList": "N/A",
+    "FundsRaisedUSD": "N/A",
+    "StartPrice": "0.00000003",
+    "StartPriceCurrency": "BTC",
+    "Jurisdiction": "N/A",
+    "BlogLink": "https://medium.com/@MIVlife",
+    "WhitePaperLink": "http://188.226.133.21/MakeItViral_WhitePaper_May_2017.pdf"
+  },
+  "ccId": "177759"
+}

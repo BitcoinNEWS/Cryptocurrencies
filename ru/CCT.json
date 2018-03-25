@@ -1,0 +1,60 @@
+{
+  "General": {
+    "Symbol": "CCT",
+    "Name": "Crystal Clear Token ",
+    "Description": "<div>Crystal Clear Services is A platform that aims to change the way customers and service providers connect. CCS aims to reinvent and revolutionize the way customers and service providers connect, negotiate, and execute paid services through the transparent service platform of Crystal Clear Services. The Crystal Clear Token is an Ethereum-based cryptocurrency used to pay for the services available in the system.</div>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "10000000",
+    "Algorithm": null,
+    "ProofType": null,
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "31/07/2017",
+    "TotalCoinsMined": null,
+    "Twitter": "@CCS_Crystal",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": null,
+    "GitHub": null,
+    "OnMarkets": [
+      "Yobit",
+      "EtherDelta",
+      "HitBTC"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Ongoing",
+    "Description": "<p><span>Crystal Clear Services is a</span><span><span> </span>platform that aims to change the way customers and service providers connect. CCS aims to reinvent and revolutionize the way customers and service providers connect, negotiate, and execute paid services through the transparent service platform of Crystal Clear Services.<span> </span></span><span>The Crystal Clear Token </span><span>is an Ethereum-based cryptocurrency<span> </span></span><span>used</span><span> to pay for the services available in the system</span><span>.</span></p><p><strong>Team</strong>:</p><ul><li><strong>Alexander Veretennikov:</strong> CEO and founder. <a href=\"https://vk.com/ccs_alexv\" target=\"_blank\"><img style=\"width: 13px; height: 13px;\" src=\"/media/1383930/face_logo_final.png?width=13&amp;height=13\" alt=\"\" data-id=\"202866\"></a><span> </span><a href=\"https://www.linkedin.com/in/alexander-veretennikov-43490b147/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Valery Novikov:</strong> Web and Software Developer. <a href=\"https://vk.com/ccs_alexv\" target=\"_blank\"><img style=\"width: 13px; height: 13px;\" src=\"/media/1383930/face_logo_final.png?width=13&amp;height=13\" alt=\"\" data-id=\"202866\"></a><span> </span><a href=\"https://www.linkedin.com/in/valery-novikov-8b5101148/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Saravanakumar Malaichami:</strong> Blockchain and Solidity developer. <a href=\"https://www.facebook.com/slava.poe\" target=\"_blank\"><img style=\"width: 13px; height: 13px;\" src=\"/media/1383930/face_logo_final.png?width=13&amp;height=13\" alt=\"\" data-id=\"202866\"></a><span> </span><a href=\"https://www.linkedin.com/in/saravana-malaichami/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Elena Veretennikova:</strong> CMO, marketing and finance advisor, HR director. <a href=\"https://vk.com/id323999702\" target=\"_blank\"><img style=\"width: 13px; height: 13px;\" src=\"/media/1383930/face_logo_final.png?width=13&amp;height=13\" alt=\"\" data-id=\"202866\"></a> <a href=\"https://www.linkedin.com/in/elena-veretenikova-7390a9148/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li></ul><p>The Crystal Clear Services ICO began on the 8th of September, 2017. The ICO supply represents 60% of the total token supply and is sold for a 0.01ETH starting price. The ICO features a bonus and bounty campaigns, and it &#39;s expected to end on the 8th of October 2017.</p><p><strong>Token Reserve Split:</strong></p><p><img src=\"http://crystal-clear.io/img/table1_2.jpg?width=361&amp;height=209\" alt=\"...\" width=\"361\" height=\"209\"></p><p><strong>Bonus Structure:</strong></p><ul><li>First Hour has a MAX +40% Bonus</li><li>The First day +30% Bonus</li><li>The First Week +25% Bonus</li><li>The Second Week +20% Bonus</li><li>The Third Week +15% Bonus</li><li>The Fourth Week +10% Bonus</li></ul>",
+    "TokenType": "ETH (ERC20)",
+    "WebsiteLink": "http://crystal-clear.io",
+    "FundingCap": "N/A",
+    "FundingTarget": "N/A",
+    "Date": 1504872000,
+    "EndDate": 1507464000,
+    "FundsRaisedList": "770 ETH",
+    "FundsRaisedUSD": "230122.2",
+    "StartPrice": "0.01",
+    "StartPriceCurrency": "ETH",
+    "Jurisdiction": "N/A",
+    "BlogLink": null,
+    "WhitePaperLink": "http://crystal-clear.io/Whitepaper_english.pdf"
+  },
+  "ccId": "301191"
+}

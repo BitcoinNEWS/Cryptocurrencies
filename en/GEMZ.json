@@ -1,0 +1,60 @@
+{
+  "General": {
+    "Symbol": "GEMZ",
+    "Name": "Gemz Social",
+    "Description": "<p>100 million Gems is the total currency supply in the GENESIS BLOCK. Eventual supply is achieved as follows: 50 million Gems distributed to stakeholders; 30 million Gems distributed as daily Airdrop rewards during ~3 years after launch; 12 million Gems reserved for bonus block rewards, promotion, marketing, bounties; 8 million Gems + Presale BTC will fund the network R&amp;D and operation costs.</p><p>The Gems currency is powered by Counterparty. Every GetGems user automatically gets his own wallet, protected by the passphrase chosen on registration. The social network username is an alias to the GetGems address, making sending &amp; receiving Gems and bitcoins between users as easy as possible.</p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "90000000",
+    "Algorithm": null,
+    "ProofType": "PoW",
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "26/08/2014",
+    "TotalCoinsMined": 88125475,
+    "Twitter": "@getgemsorg",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "http://getgems.org/",
+    "GitHub": null,
+    "OnMarkets": [
+      "Poloniex",
+      "BitTrex",
+      "BTER"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "N/A",
+    "Description": null,
+    "TokenType": null,
+    "WebsiteLink": null,
+    "FundingCap": null,
+    "FundingTarget": null,
+    "Date": null,
+    "EndDate": null,
+    "FundsRaisedList": null,
+    "FundsRaisedUSD": null,
+    "StartPrice": null,
+    "StartPriceCurrency": null,
+    "Jurisdiction": null,
+    "BlogLink": null,
+    "WhitePaperLink": null
+  },
+  "ccId": "5310"
+}

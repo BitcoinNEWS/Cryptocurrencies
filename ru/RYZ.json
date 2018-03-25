@@ -1,0 +1,58 @@
+{
+  "General": {
+    "Symbol": "RYZ",
+    "Name": "Anryze",
+    "Description": "<p>Anryze is a distributed computing network for speech recognition and a neural network education. It allows users to transcribe audio files without having to rely on third parties. RYZ is a Waves-based token that serves as currency on Anryze network. Users are charged for transcribing a certain time of the audio file, those tokens are then divided throughout the miners (70%), the token holders (20%) and the team (10%).</p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "321000000",
+    "Algorithm": null,
+    "ProofType": null,
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "15/06/2017",
+    "TotalCoinsMined": 112500000,
+    "Twitter": "@anryze",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": null,
+    "GitHub": null,
+    "OnMarkets": [
+      "Tidex"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Finished",
+    "Description": "<p>Anryze is a distributed computing network for speech recognition and a neural network education. It allows users to transcribe audio files without having to rely on third parties. RYZ is a Waves-based token that serves as currency on Anryze network. Users are charged for transcribing a certain time of the audio file, those tokens are then divided throughout the miners (70%), the token holders (20%) and the team (10%).</p><p><strong>Team</strong>:</p><ul><li><strong>Anton Gera</strong>: CEO and Founder. <a href=\"https://www.linkedin.com/in/anton-gera-6b932a1a/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Mike Ezhov</strong>: CMO and Founder. </li><li><strong>Oleg Zaichuk</strong>: CTO and Founder. <a href=\"https://www.linkedin.com/in/oleg-zaichuk-84b304145\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Max Kudymets</strong>: Project Manager. </li><li><strong>Oleg Fedosenko</strong>: Machine Learning and AI development. </li><li><strong>Alex Pogrebenniy</strong>: Back-end development.</li><li><strong>Oleksii Leontiev</strong> PhD in applied mathematics, University of Tokyo.</li><li><strong>Sergey Levashkin</strong>: PhD in applied mathematics, Moscow State University.</li></ul><p>Anryze held its ICO on the 12th of September, 2017. There was a total of 321,000,000 tokens available, for 0.02 USD each at the offering. The ICO funding target was 1,600,000 USD, the funding cap was 6,000,000 and ended on the 12th of October, 2017.</p>",
+    "TokenType": "WAVES",
+    "WebsiteLink": null,
+    "FundingCap": "6,000,000 USD",
+    "FundingTarget": "1,600,000 USD",
+    "Date": 1505174400,
+    "EndDate": 1507766400,
+    "FundsRaisedList": "N/A",
+    "FundsRaisedUSD": "N/A",
+    "StartPrice": "0.02",
+    "StartPriceCurrency": "USD",
+    "Jurisdiction": "N/A",
+    "BlogLink": "https://medium.com/anryze",
+    "WhitePaperLink": "https://tokensale.anryze.com/assets/file/Anryze%20Distributed%20Network_EN.pdf"
+  },
+  "ccId": "339804"
+}

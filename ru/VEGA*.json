@@ -1,0 +1,56 @@
+{
+  "General": {
+    "Symbol": "VEGA*",
+    "Name": "VEGA",
+    "Description": "<p>The Vega Artificial Intelligence and Lyra Neural Network is a user-driven, application and open-integration platform that will give the ability to track cryptocurrencies, forex, and more. They use artificial intelligence and machine learning to analyze all collected data to assist a user in maintaining an ambitious portfolio and also the possibility to automate trading using indicator predictions. </p><p>VEGA is a ERC20 token in the Ethereum blockchain.</p><p> </p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "1178794.70588227",
+    "Algorithm": null,
+    "ProofType": "PoS",
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "18/11/2017",
+    "TotalCoinsMined": null,
+    "Twitter": "@VegaAISolutions",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": null,
+    "GitHub": null,
+    "OnMarkets": [],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Finished",
+    "Description": null,
+    "TokenType": "ETH (ERC20)",
+    "WebsiteLink": "https://vegais.com/",
+    "FundingCap": "2000 ETH",
+    "FundingTarget": "600 ETH",
+    "Date": 1511481600,
+    "EndDate": 1515283200,
+    "FundsRaisedList": "31.05 BTC and 68.85 ETH\r\n\r\n323453.25 USD",
+    "FundsRaisedUSD": "323453.25",
+    "StartPrice": "1.03",
+    "StartPriceCurrency": "USD",
+    "Jurisdiction": "U.S.A",
+    "BlogLink": "https://medium.com/@VegaAISolutions",
+    "WhitePaperLink": "https://vegais.com/whitepaper"
+  },
+  "ccId": "820940"
+}

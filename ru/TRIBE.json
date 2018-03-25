@@ -1,0 +1,56 @@
+{
+  "General": {
+    "Symbol": "TRIBE",
+    "Name": "TribeToken",
+    "Description": "<p>TribeToken is a decentralized platfrom design to bring ease and transparency to the charity industry. It uses cryptocurrency tokens to enable instant and verifiable donations. Using TribeToken users <span>can create their own charity and donate to other charities. TRIBE is an ERC20 token on the Ethereum blockchain and is used for transactions within the TribeToken Platform.</span></p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "N/A",
+    "Algorithm": "N/A",
+    "ProofType": "N/A",
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "06/07/2017",
+    "TotalCoinsMined": null,
+    "Twitter": "@tribetoken",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "https://tribetoken.org",
+    "GitHub": null,
+    "OnMarkets": [],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Finished",
+    "Description": "<p><span>TribeToken is a decentralized platfrom design to bring ease and transparency to the charity industry. It uses cryptocurrency tokens to enable instant and verifiable donations. Using TribeToken users </span><span>can create their own charity and donate to other charities. TRIBE is an ERC20 token on the Ethereum blockchain and is used for transactions within the TribeToken Platform.</span></p><p><span>The TribeToken ICO will start on the 24th of July 12:00 UTC and will last until the 14th of August 12:00 UTC or untill 75% (150M) of all TRIBE tokens are sold. The remaining tokens will be distributed as so:</span></p><p><span class=\"rte-image-full\"><img src=\"http://i.imgur.com/eXkQKWn.png\" alt=\"\" /></span></p><p> </p><p><span>The ICO has minimum target of 2500 ETH and a cap of 50000 ETH. The starting price for the ICO is 0.000333333333 ETH. The TribeToken ICO features both a Bonus and a Bounty campaign.</span></p><p> </p>",
+    "TokenType": "ETH (ERC20)",
+    "WebsiteLink": "https://tribetoken.org/ico/",
+    "FundingCap": "50000 ETH",
+    "FundingTarget": "2500 ETH",
+    "Date": 1500897600,
+    "EndDate": 1502712000,
+    "FundsRaisedList": "8.707 ETH",
+    "FundsRaisedUSD": "2551.151",
+    "StartPrice": "0.000333333333",
+    "StartPriceCurrency": "ETH",
+    "Jurisdiction": "N/A",
+    "BlogLink": "https://tribetoken.org/blog/",
+    "WhitePaperLink": "https://tribetoken.org/upl/WP_eng.pdf"
+  },
+  "ccId": "186253"
+}

@@ -1,0 +1,61 @@
+{
+  "General": {
+    "Symbol": "PLU",
+    "Name": "Pluton",
+    "Description": "<p>Plutus is a decentralized payment application that allows users to make purchases with Bitcoin and Ether anywhere. Users are simply required to load the app with BTC or ETH and hold the <span>phone over the card reader for the payment to complete.</span></p><p><span>Plutons are Ethereum-based tokens that can be earned as a reward for shopping with Plutus. </span><span>Plutons will be available to convert on the Plutus exchange network, allowing users to make in-store purchases with zero fees on conversion.</span></p><p>Only 850,000 Plutons (PLU) were available for sale during the ICO, which represents 4.25% of the total supply of 20,000,000. Issuance for the remaining 95.75% will be limited and locked in rebate smart contract pool and NOT owned by Plutus.it, which means there will be a very low circulation from the initial distribution and a total of 20 million Plutons ever created.</p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "20000000",
+    "Algorithm": null,
+    "ProofType": null,
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "21/06/2016",
+    "TotalCoinsMined": 20000000,
+    "Twitter": "@PlutusIT",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "https://plutus.it/",
+    "GitHub": null,
+    "OnMarkets": [
+      "Yobit",
+      "Liqui",
+      "HitBTC",
+      "EtherDelta"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Finished",
+    "Description": "<p><span>Only 850,000 (4.25% of a total 20 million) Plutons were available for sale for ETH and BTC. </span><span>Plutons are issued on the Ethereum blockchain, and can be distantly compared with cashback points or frequent flier miles. The remaining 95.75% of Plutons are no</span><span>t owned by Plutus.it. They are locked to be automatically and very slowly emitted by a decentralised rebate system over hundreds to thousands of years.</span></p><p><span>Money raised was said to be stored in a multi-signature account (provided by BitGo for BTC, a smart contract for ETH) , to be released to the development team according to these guidelines: 40% after the crowdsale, 10% after the launch of Plutus DEX, and 50% after the launch of the Plutus Mobile Payments App.</span></p><p><span>1033 participants raised a total of $1,005,487.65 over a 9 day period.</span></p>",
+    "TokenType": "ETH (ERC20)",
+    "WebsiteLink": "https://plutus.it/",
+    "FundingCap": "N/A",
+    "FundingTarget": "N/A",
+    "Date": 1498075200,
+    "EndDate": 1498824000,
+    "FundsRaisedList": "1,122.847 BTC; 20,471.2718400 ETH",
+    "FundsRaisedUSD": "1005487.65",
+    "StartPrice": "1.1829",
+    "StartPriceCurrency": "USD",
+    "Jurisdiction": "N/A",
+    "BlogLink": "https://medium.com/@PlutusIT",
+    "WhitePaperLink": "https://plutus.it/assets/Plutus.it-White-Paper-v1.1.pdf"
+  },
+  "ccId": "42837"
+}

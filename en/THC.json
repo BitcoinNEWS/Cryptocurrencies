@@ -1,0 +1,59 @@
+{
+  "General": {
+    "Symbol": "THC",
+    "Name": "The Hempcoin",
+    "Description": "<p>HempCoin входит в число первых 30 валют, разработанных в 2014 году, и представляет собой высококонцентрированную цифровую валюту для сельскохозяйственной индустрии и индустрии марихуаны, построенной на основе Биткойна. Hempcoin стремится жертвовать на исследования и легализацию  конопли. Hempcoin — это Scrypt, PoW/PoS криптовалюта для марихуанового сообщества.</p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "250000000",
+    "Algorithm": "Scrypt",
+    "ProofType": "PoW/PoS",
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "09/03/2014",
+    "TotalCoinsMined": 218008129.67188,
+    "Twitter": "@thehempcoin",
+    "Telegram": null,
+    "Youtube": "YYWRlXXi1u4",
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "http://hempcoin.org/",
+    "GitHub": null,
+    "OnMarkets": [
+      "Novaexchange",
+      "BitTrex"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "N/A",
+    "Description": null,
+    "TokenType": null,
+    "WebsiteLink": null,
+    "FundingCap": null,
+    "FundingTarget": null,
+    "Date": null,
+    "EndDate": null,
+    "FundsRaisedList": null,
+    "FundsRaisedUSD": null,
+    "StartPrice": null,
+    "StartPriceCurrency": null,
+    "Jurisdiction": null,
+    "BlogLink": null,
+    "WhitePaperLink": null
+  },
+  "ccId": "29924"
+}

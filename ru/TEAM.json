@@ -1,0 +1,58 @@
+{
+  "General": {
+    "Symbol": "TEAM",
+    "Name": "TeamUP",
+    "Description": "<p>TeamUP is a PoS cryptocurrency. It was launched as a way to protect less technical and experienced users from investing in dead or scam coins. TeamUP uses the ICO funds gathered for trading and the proceeds are then distributed through higher and higher buy walls to keep the coin market value growing.</p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "301000000",
+    "Algorithm": "PoS",
+    "ProofType": "PoS",
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "11/10/2016",
+    "TotalCoinsMined": "301000000",
+    "Twitter": "@teamupcoin",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "-",
+    "GitHub": null,
+    "OnMarkets": [
+      "Yobit"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "N/A",
+    "Description": null,
+    "TokenType": null,
+    "WebsiteLink": null,
+    "FundingCap": null,
+    "FundingTarget": null,
+    "Date": null,
+    "EndDate": null,
+    "FundsRaisedList": null,
+    "FundsRaisedUSD": null,
+    "StartPrice": null,
+    "StartPriceCurrency": null,
+    "Jurisdiction": null,
+    "BlogLink": null,
+    "WhitePaperLink": null
+  },
+  "ccId": "30523"
+}

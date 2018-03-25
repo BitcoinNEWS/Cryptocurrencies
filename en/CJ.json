@@ -1,0 +1,61 @@
+{
+  "General": {
+    "Symbol": "CJ",
+    "Name": "CryptoJacks",
+    "Description": "<div>CryptoJack is a PoW/PoS hybrid cryptocurrency focused on online gambling. CryptoJack&#39;s ICO extends over a 36 round period in which 10000000 coins will be sold, giving a total of 360000000 Coins being sold on the ICO. CJ uses the X13 algorithm for PoW and SHA-256 for PoS block hashing</div>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "500000000",
+    "Algorithm": "X13",
+    "ProofType": "PoW/PoS",
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "01/01/0001",
+    "TotalCoinsMined": null,
+    "Twitter": "CryptoJacksCoin",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "http://cryptojacks.com/",
+    "GitHub": null,
+    "OnMarkets": [
+      "Cryptopia",
+      "CCEX",
+      "Novaexchange",
+      "Yobit"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "N/A",
+    "Description": null,
+    "TokenType": null,
+    "WebsiteLink": null,
+    "FundingCap": null,
+    "FundingTarget": null,
+    "Date": null,
+    "EndDate": null,
+    "FundsRaisedList": null,
+    "FundsRaisedUSD": null,
+    "StartPrice": null,
+    "StartPriceCurrency": null,
+    "Jurisdiction": null,
+    "BlogLink": null,
+    "WhitePaperLink": null
+  },
+  "ccId": "23734"
+}

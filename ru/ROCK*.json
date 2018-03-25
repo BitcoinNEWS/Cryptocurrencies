@@ -1,0 +1,56 @@
+{
+  "General": {
+    "Symbol": "ROCK*",
+    "Name": "RocketCoin ",
+    "Description": "<p>RocketICO is an online startup accelerator based on the principles of Decentralized Autonomous Organizations (DAOs). ROCK is an ERC20 token that gives its holders a<span>ccess to platform&#39;s built-in tools and benefits, along with voting rights.</span></p><p> </p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "25000000",
+    "Algorithm": null,
+    "ProofType": null,
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "15/11/2017",
+    "TotalCoinsMined": null,
+    "Twitter": "@rocketico_io",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": null,
+    "GitHub": null,
+    "OnMarkets": [],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Ongoing",
+    "Description": "<p><span>RocketICO is an online startup accelerator based on the principles of Decentralized Autonomous Organizations (DAOs). ROCK is an ERC20 token that gives its holders a</span><span>ccess to platform&#39;s built-in tools and benefits, along with voting rights.</span></p><p><strong>Team</strong>:</p><ul><li><strong>Gabil Tagiev:</strong> CEO <a href=\"https://www.facebook.com/profile.php?id=1331297344\" target=\"_blank\"><img style=\"width: 13px; height: 13px;\" src=\"/media/1383930/face_logo_final.png?width=13&amp;height=13\" alt=\"\" data-id=\"202866\"></a><span> </span><a href=\"https://www.linkedin.com/in/gabil-tagiev-56163363/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Arthur Pinchuk:</strong> Board Director for IT Strategy <a href=\"https://www.facebook.com/arthur.pinchuk\" target=\"_blank\"><img style=\"width: 13px; height: 13px;\" src=\"/media/1383930/face_logo_final.png?width=13&amp;height=13\" alt=\"\" data-id=\"202866\"></a><span> </span><a href=\"https://www.linkedin.com/in/arthur-pinchuk\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Dmitry Korzhik:</strong> Product development <a href=\"https://www.facebook.com/profile.php?id=100009671774106\" target=\"_blank\"><img style=\"width: 13px; height: 13px;\" src=\"/media/1383930/face_logo_final.png?width=13&amp;height=13\" alt=\"\" data-id=\"202866\"></a><span> </span><a href=\"https://www.linkedin.com/in/dmitry-korzhik-07101982\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Sasha Shuhayeu:</strong> COO <a href=\"https://www.facebook.com/dumka.namaze\" target=\"_blank\"><img style=\"width: 13px; height: 13px;\" src=\"/media/1383930/face_logo_final.png?width=13&amp;height=13\" alt=\"\" data-id=\"202866\"></a> <a href=\"https://www.linkedin.com/in/sashashu/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li></ul><p>The RocketICO started on the 15th of November, 2017 and will last until the 15th of December. The ICO token allocation represents 68% of the total token supply. The ICO starting price is 0.00333 ETH and only Ether is accepted. The ICO funding cap is set at 50000 ETH.</p><p><strong>Token Reserve Split (32%):</strong></p><ul><li>20% for founders,</li><li>8% for advisers and bounty,</li><li>4% on pre-ICO</li></ul><p>The RocketICO ICO features a bonus and bounty campaign along with an Escrow agent </p><p><strong>Bonus Structure:</strong></p><ul><li>Dynamic bonus</li></ul>",
+    "TokenType": "ETH (ERC20)",
+    "WebsiteLink": "https://rocketico.io/",
+    "FundingCap": "50000 ETH",
+    "FundingTarget": "N/A",
+    "Date": 1510758000,
+    "EndDate": 1513350000,
+    "FundsRaisedList": "1034.61 ETH",
+    "FundsRaisedUSD": "688491.5706",
+    "StartPrice": "0.00333333333",
+    "StartPriceCurrency": "ETH",
+    "Jurisdiction": "N/A",
+    "BlogLink": null,
+    "WhitePaperLink": "https://rocketico.io/#whitepaper"
+  },
+  "ccId": "384950"
+}

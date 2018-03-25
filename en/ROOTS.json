@@ -1,0 +1,58 @@
+{
+  "General": {
+    "Symbol": "ROOTS",
+    "Name": "RootProject",
+    "Description": "<p>RootProject is a crowdfunding platform for local projects. A user will download the app or go to the website to start a new project. Mobile-first design allows her to propose a new project – say, a wall garden on her street-facing building – while she’s walking home. A budget, location, before and after images and a short description will be entered. The user then either donates the project amount or makes some initial donation. If she doesn’t cover the budget herself, she then begins a traditional crowdfunding campaign. Donations are received and within thirty days the minimum threshold is reached or the funds are returned. Once the threshold is reached, the project is again reviewed and confirmed. If necessary, the project founder is notified that any permits or other legal permissions are needed from the state or appropriate parties. The total budget for the project is 87% of total donations. 3% is reserved for credit card and handling fees, 10% goes to direct purchase of ROOTS tokens on the open market, increasing token demand. 87% is a higher project spend rate than most charitable organizations are capable of delivering, and in line with major international organizations. When everything is confirmed and ready to go, RootProject assigns a project foreman – a paid employee or contractor – and a budget for materials, tools and labor, aiming to hire a team that can finish the project in one day, if reasonable. A work start date and meeting point is assigned.</p><p>Participants will choose from projects that are listed, scheduling projects in their calendar, or reserving a spot for that day. <span>RootProject </span>will work with city, state and nonprofit officials where appropriate in order to reduce the cost of worker recruitment.</p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "10000000000",
+    "Algorithm": "N/A",
+    "ProofType": "N/A",
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "07/07/2017",
+    "TotalCoinsMined": "10000000000",
+    "Twitter": "@RootProjectCo",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "https://www.rootproject.co/",
+    "GitHub": null,
+    "OnMarkets": [
+      "HitBTC"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Upcoming",
+    "Description": "<p>RootProject is a crowdfunding platform for local projects. A user will download the app or go to the website to start a new project. Mobile-first design allows her to propose a new project – say, a wall garden on her street-facing building – while she’s walking home. A budget, location, before and after images and a short description will be entered. The user then either donates the project amount or makes some initial donation. If she doesn’t cover the budget herself, she then begins a traditional crowdfunding campaign. Donations are received and within thirty days the minimum threshold is reached or the funds are returned. Once the threshold is reached, the project is again reviewed and confirmed. If necessary, the project founder is notified that any permits or other legal permissions are needed from the state or appropriate parties. The total budget for the project is 87% of total donations. 3% is reserved for credit card and handling fees, 10% goes to direct purchase of ROOTS tokens on the open market, increasing token demand. 87% is a higher project spend rate than most charitable organizations are capable of delivering, and in line with major international organizations. When everything is confirmed and ready to go, RootProject assigns a project foreman – a paid employee or contractor – and a budget for materials, tools and labor, aiming to hire a team that can finish the project in one day, if reasonable. A work start date and meeting point is assigned.</p><p>Participants will choose from projects that are listed, scheduling projects in their calendar, or reserving a spot for that day. <span>RootProject </span>will work with city, state and nonprofit officials where appropriate in order to reduce the cost of worker recruitment.</p><p><strong>Team</strong>:</p><ul><li><strong>Chris Place</strong>: Co-Founder;</li><li><strong>Nicholas Adams Judge</strong>: Co-Founder;</li><li><strong>Ashley Hooper</strong>: Advisor;</li><li><strong>Anton Kraminkin</strong><span>: Development Director;</span></li><li><span><strong>Zac Filan</strong><span>: Principal Software Engineer;</span></span></li><li><strong>Alex Bazhanau</strong><span>: Principal Ethereum Engineer;</span></li></ul><p>RootProject will be holding its ICO on April 10, 2018. The ICO token supply represents 20% of the total token supply, so there will be a total of 2,000,000,000 tokens available, for 0.0001 ETH each at the offering. The ICO funding target is 1,000,000 USD, the funding cap is 38,000,000 USD and is expected to end on April 13<span>, 2018</span> or when the funding cap is reached (2,000,000,000 ROOTS Tokens).</p><p><strong>Token Reserve Split (80%):</strong></p><p><strong><img style=\"width: 488px; height: 263px;\" src=\"/media/1383856/roots_allocation.png?width=488&amp;height=263\" alt=\"\" data-id=\"195834\"></strong></p><p><span>RootProject </span><span>ICO campaign will feature<span> </span></span><span>bounties</span><span>, bonus and the token will<span> </span></span><span>not be<span> </span></span><span>mineable.</span></p><p>Those participating in the first five business days of the ICO itself will enjoy a <strong>10% bonus</strong>. For example, a purchase of 1 million ROOTS will give the investor 1.1 million roots.</p>",
+    "TokenType": "ETH (ERC20)",
+    "WebsiteLink": "https://www.rootproject.co/",
+    "FundingCap": "38,000,000 USD",
+    "FundingTarget": "1,000,000 USD",
+    "Date": 1523365200,
+    "EndDate": 1523624400,
+    "FundsRaisedList": "N/A",
+    "FundsRaisedUSD": "N/A",
+    "StartPrice": "0.0001",
+    "StartPriceCurrency": "ETH",
+    "Jurisdiction": "Switzerland",
+    "BlogLink": null,
+    "WhitePaperLink": "https://docs.wixstatic.com/ugd/903af2_2e38351151e5444b8a488fb9ee7af43a.pdf"
+  },
+  "ccId": "194906"
+}

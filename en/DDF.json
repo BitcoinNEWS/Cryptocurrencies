@@ -1,0 +1,60 @@
+{
+  "General": {
+    "Symbol": "DDF",
+    "Name": "Digital Developers Fund",
+    "Description": "<p><span>The Digital Developers Fund is a fund that invests digital assets such as domain names and cryptocurrencies. The DDF token is an Ethereum-based token that allows investors to own part of the Fund&#39;s portfolio, which includes </span>over 1,350 premium domains such as Swords.com, Audits.com, Exhibitions.com or PR.uk.</p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "250000000",
+    "Algorithm": "N/A",
+    "ProofType": "N/A",
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "29/06/2017",
+    "TotalCoinsMined": 6428932.126963297,
+    "Twitter": "@DigitalDevFund",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "https://www.digitaldevelopersfund.com/",
+    "GitHub": null,
+    "OnMarkets": [
+      "Cryptopia",
+      "EtherDelta",
+      "HitBTC"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Ongoing",
+    "Description": "<p><span>The Digital Developers Fund is a fund that invests digital assets such as domain names and cryptocurrencies. The DDF token is an Ethereum-based token that allows investors to own part of the Fund&#39;s portfolio, which includes </span><span>over 1,350 premium domains such as Swords.com, Audits.com, Exhibitions.com or PR.uk.</span></p><p><span>During the DDF Initial Coin Offering campaign, 98.8% of the total 250M supply will be sold to investors. The campaign will start on the 10th of July and will last for one month or until all tokens are sold. Any token that is not sold will be burnt after the ICO. The price for DDF is 0.001 ETH. The Digital Developers Fund plans to raise up to 249,000 ETH.</span></p>",
+    "TokenType": "ETH (ERC20)",
+    "WebsiteLink": "https://www.digitaldevelopersfund.com/ico/",
+    "FundingCap": "249000",
+    "FundingTarget": "N/A",
+    "Date": 1499691600,
+    "EndDate": 1502283600,
+    "FundsRaisedList": "6,254 ETH;",
+    "FundsRaisedUSD": "1792776",
+    "StartPrice": "0.001",
+    "StartPriceCurrency": "ETH",
+    "Jurisdiction": "N/A",
+    "BlogLink": null,
+    "WhitePaperLink": "https://www.digitaldevelopersfund.com/wp-content/uploads/2017/06/DDF.pdf"
+  },
+  "ccId": "180595"
+}

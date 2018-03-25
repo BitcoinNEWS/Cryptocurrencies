@@ -1,0 +1,58 @@
+{
+  "General": {
+    "Symbol": "XBOT",
+    "Name": "SocialXbotCoin",
+    "Description": "<p>Xbot aims to be the crypto currency of social media - the coin is scrypt with proof of work turning onto proof of stake with an annualised 25% rate.</p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "2000000",
+    "Algorithm": "Scrypt",
+    "ProofType": "PoW/PoS",
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "29/08/2014",
+    "TotalCoinsMined": null,
+    "Twitter": null,
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "-",
+    "GitHub": null,
+    "OnMarkets": [
+      "Cryptsy"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "N/A",
+    "Description": null,
+    "TokenType": null,
+    "WebsiteLink": null,
+    "FundingCap": null,
+    "FundingTarget": null,
+    "Date": null,
+    "EndDate": null,
+    "FundsRaisedList": null,
+    "FundsRaisedUSD": null,
+    "StartPrice": null,
+    "StartPriceCurrency": null,
+    "Jurisdiction": null,
+    "BlogLink": null,
+    "WhitePaperLink": null
+  },
+  "ccId": "5022"
+}

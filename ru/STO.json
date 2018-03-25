@@ -1,0 +1,58 @@
+{
+  "General": {
+    "Symbol": "STO",
+    "Name": "Save The Ocean",
+    "Description": "<p>Save The Ocean is a Proof of Work/Proof of Stake hybrid cryptocurrency that uses the popular x11 hashing algorithm. The STO cryptocurrency was designed to create and fund a movement to raise awareness regarding the degradation of the oceans through a carefully designed roadmap.</p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "150000000",
+    "Algorithm": "X11",
+    "ProofType": "PoW/PoS",
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "31/08/2016",
+    "TotalCoinsMined": null,
+    "Twitter": null,
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "-",
+    "GitHub": null,
+    "OnMarkets": [
+      "Yobit"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "N/A",
+    "Description": null,
+    "TokenType": null,
+    "WebsiteLink": null,
+    "FundingCap": null,
+    "FundingTarget": null,
+    "Date": null,
+    "EndDate": null,
+    "FundsRaisedList": null,
+    "FundsRaisedUSD": null,
+    "StartPrice": null,
+    "StartPriceCurrency": null,
+    "Jurisdiction": null,
+    "BlogLink": null,
+    "WhitePaperLink": null
+  },
+  "ccId": "28025"
+}

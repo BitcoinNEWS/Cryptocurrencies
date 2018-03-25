@@ -1,0 +1,58 @@
+{
+  "General": {
+    "Symbol": "PXS",
+    "Name": "Pundi X",
+    "Description": "<p>The Pundi X is a payment platform that will leverage the Ethereum blockchain to ease the cryptocurrency payments or transactions. The platform will feature retail intelligence, inventory management, order management, marketing, loyalty programs and transactions through mobile wallets and bank cards. Furthermore, the Pundi X will reward the global brand retailers for facilitating their customers to complete transactions via Pundi X POS devices.</p><p>The Pundi X token (PXS) is an ERC-20 that will be used to reward the retailers and as the medium of exchange within the platform.</p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": null,
+    "Algorithm": null,
+    "ProofType": null,
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "27/09/2017",
+    "TotalCoinsMined": 67680592.22224654,
+    "Twitter": "@PundiXLabs",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": null,
+    "GitHub": null,
+    "OnMarkets": [
+      "EtherDelta"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "N/A",
+    "Description": null,
+    "TokenType": null,
+    "WebsiteLink": null,
+    "FundingCap": null,
+    "FundingTarget": null,
+    "Date": null,
+    "EndDate": null,
+    "FundsRaisedList": null,
+    "FundsRaisedUSD": null,
+    "StartPrice": null,
+    "StartPriceCurrency": null,
+    "Jurisdiction": null,
+    "BlogLink": null,
+    "WhitePaperLink": null
+  },
+  "ccId": "731516"
+}

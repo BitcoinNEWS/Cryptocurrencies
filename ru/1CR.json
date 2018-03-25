@@ -1,0 +1,59 @@
+{
+  "General": {
+    "Symbol": "1CR",
+    "Name": "1Credit",
+    "Description": "<p>1CRedit was created to be the 4th coin in the game \"The Crypto Void\" by 1BillionHex.  Although a game coin in the sense of that being the driver for its creation, it is a fully functional cyber coin that can stand alone.</p><p>The genesis of the coin is to be something as stable as the current Bitcoin/Litecoin codebase will allow.  Kimoto Gravity Well is used to stabilize block times as of block 5000.</p><p>Long block times and high confirmation requirements should minimize fork opportunities.  They will tend to make this an \"investment\" coin rather than a \"transaction\" code.</p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "92000000000",
+    "Algorithm": "Scrypt",
+    "ProofType": "PoW",
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "27/04/2014",
+    "TotalCoinsMined": 88213,
+    "Twitter": null,
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "http://www.1creditcoin.org/",
+    "GitHub": null,
+    "OnMarkets": [
+      "Novaexchange",
+      "Poloniex"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "N/A",
+    "Description": null,
+    "TokenType": null,
+    "WebsiteLink": null,
+    "FundingCap": null,
+    "FundingTarget": null,
+    "Date": null,
+    "EndDate": null,
+    "FundsRaisedList": null,
+    "FundsRaisedUSD": null,
+    "StartPrice": null,
+    "StartPriceCurrency": null,
+    "Jurisdiction": null,
+    "BlogLink": null,
+    "WhitePaperLink": null
+  },
+  "ccId": "5406"
+}

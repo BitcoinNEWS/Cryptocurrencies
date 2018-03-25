@@ -1,0 +1,61 @@
+{
+  "General": {
+    "Symbol": "BCCOIN",
+    "Name": "BitConnect Coin",
+    "Description": "<p>BitConnect Coin is a Proof of Work/Proof of Stake Scrypt cryptocurrency. They are used by bitconnect community members for bitconnect services and to store and invest the wealth in a non-government controlled currency. The BitConnect coins will also be used as payment system on number of BitConnect partner websites.</p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "28000000",
+    "Algorithm": "Scrypt",
+    "ProofType": "PoW/PoS",
+    "BlockReward": 1.0540943900123239,
+    "Explorer": null,
+    "StartDate": "15/11/2016",
+    "TotalCoinsMined": 10134115.89402739,
+    "Twitter": "@bitconnect",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "http://www.bitconnectcoin.co/",
+    "GitHub": null,
+    "OnMarkets": [
+      "TradeSatoshi",
+      "LiveCoin",
+      "Novaexchange",
+      "HitBTC"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Finished",
+    "Description": "<p><span data-sheets-value=\"{&quot;1&quot;:2,&quot;2&quot;:&quot;BitConnect Coin is an open source, peer-to-peer, community driven decentralized cryptocurrency that allow people to store and invest their wealth in a non-government controlled currency, and even earn a substantial interest on investment. This means anyone holding BitConnect Coin in their wallet will receive interest on their balance in return for helping maintain security of the network. The first 10 days gives a 40% bonus (1400 Coins/BTC). For every following 10 days the bonus drops by 10%&quot;}\" data-sheets-userformat=\"{&quot;2&quot;:14977,&quot;3&quot;:{&quot;1&quot;:0},&quot;10&quot;:2,&quot;12&quot;:0,&quot;14&quot;:{&quot;1&quot;:2,&quot;2&quot;:0},&quot;15&quot;:&quot;Calibri&quot;,&quot;16&quot;:11}\">BitConnect Coin is an open source, peer-to-peer, community driven decentralised cryptocurrency that allow people to store and invest their wealth in a non-government controlled currency, and even earn a substantial interest on investment. This means anyone holding BitConnect Coin in their wallet will receive interest on their balance in return for helping maintain security of the network. </span></p><p><span data-sheets-value=\"{&quot;1&quot;:2,&quot;2&quot;:&quot;BitConnect Coin is an open source, peer-to-peer, community driven decentralized cryptocurrency that allow people to store and invest their wealth in a non-government controlled currency, and even earn a substantial interest on investment. This means anyone holding BitConnect Coin in their wallet will receive interest on their balance in return for helping maintain security of the network. The first 10 days gives a 40% bonus (1400 Coins/BTC). For every following 10 days the bonus drops by 10%&quot;}\" data-sheets-userformat=\"{&quot;2&quot;:14977,&quot;3&quot;:{&quot;1&quot;:0},&quot;10&quot;:2,&quot;12&quot;:0,&quot;14&quot;:{&quot;1&quot;:2,&quot;2&quot;:0},&quot;15&quot;:&quot;Calibri&quot;,&quot;16&quot;:11}\">The first 10 days of the ICO offered a 40% bonus (1400 Coins/BTC). For every following 10 days the bonus drops by 10%. BCCOIN also offers a lending function where you lend to BCCOIN&#39;s volatility software&#39; that aims to average a daily return of 0.1-0.25% a day.</span></p>",
+    "TokenType": "BTC",
+    "WebsiteLink": "https://bitconnectcoin.co/ico-presale",
+    "FundingCap": "N/A",
+    "FundingTarget": "N/A",
+    "Date": 1479211200,
+    "EndDate": 1483185600,
+    "FundsRaisedList": "N/A",
+    "FundsRaisedUSD": "2400000",
+    "StartPrice": "0.5",
+    "StartPriceCurrency": "USD",
+    "Jurisdiction": "UK",
+    "BlogLink": null,
+    "WhitePaperLink": "https://github.com/bitconnectcoin/bitconnectcoin/blob/master/README.md"
+  },
+  "ccId": "35165"
+}

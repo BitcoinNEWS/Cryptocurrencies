@@ -1,0 +1,61 @@
+{
+  "General": {
+    "Symbol": "CAG",
+    "Name": "Change",
+    "Description": null,
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "79184116",
+    "Algorithm": null,
+    "ProofType": null,
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "14/10/2017",
+    "TotalCoinsMined": 79184115.81564271,
+    "Twitter": "@changefinance",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": null,
+    "GitHub": null,
+    "OnMarkets": [
+      "Yobit",
+      "EtherDelta",
+      "Kucoin",
+      "OKEX"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Finished",
+    "Description": "<p>Change is a platform that will leverage the Ethereum blockchain to provide bank services. Change plan to create a universal crypto wallet, a Change card, and also integrate a marketplace of Fintechs.</p><p>Change Token is an ERC-20 token that will benefit users in several ways, user can validate their transactions through a Tokenised KYC information Sharing, possibility to spend their cryptocurrencies and receive cash-back (in the form of Change token, through the use of the Change Card), exchange their cryptocurrencies for different kind of products/services in the marketplace.</p><p><strong>Team</strong>:</p><ul><li><strong>Kristjan Kangro</strong>: CEO. <a href=\"https://www.linkedin.com/in/kristjankangro/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Edgars Simanovskis</strong>: CTO.<span> </span><a href=\"https://www.linkedin.com/in/edgars-simanovskis-b3019920/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Henry Kehlmann</strong>: Blockchain Developer.<span> </span><a href=\"https://www.linkedin.com/in/henrykehlmann\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li></ul><p>Change held its ICO on the 16th of September, 2017. The ICO token supply represents 40% of the total token supply, so there was a total of 79,184,115 tokens available, for 0,002 ETH each during the offering. The funding cap was 200,000 ETH and ended on the 16th of October,2017.</p><p><strong>Token Reserve Split (60%):</strong></p><ul><li>15% Community, R&amp;D &amp; bounties;</li><li>10% Early investors, current &amp; future advisors, partnerships;</li><li>15% Founders, team &amp; future employee motivation packages;</li><li>20% Change sustainability reserve;</li></ul><p><span>Change ICO campaign featured a bounty campaign and a bonus program, and the token will not be mineable.</span></p><p><strong>Bonus Structure:</strong></p><ul><li>20% first 24 hours;</li><li>15% first week;</li><li>10% second week;</li></ul>",
+    "TokenType": "ETH (ERC20)",
+    "WebsiteLink": "https://getchange.com/",
+    "FundingCap": "200,000 ETH",
+    "FundingTarget": "N/A",
+    "Date": 1505563200,
+    "EndDate": 1508112000,
+    "FundsRaisedList": "N/A",
+    "FundsRaisedUSD": "N/A",
+    "StartPrice": "0.002",
+    "StartPriceCurrency": "ETH",
+    "Jurisdiction": "N/A",
+    "BlogLink": "https://medium.com/@changebank",
+    "WhitePaperLink": "https://drive.google.com/file/d/0B4RKXcemFwwbNW5wVGtBMWM0c2s/view"
+  },
+  "ccId": "341422"
+}

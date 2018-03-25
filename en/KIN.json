@@ -1,0 +1,58 @@
+{
+  "General": {
+    "Symbol": "KIN",
+    "Name": "Kin",
+    "Description": "<p><span>Kin is a decentralized ecosystem composed of</span> a group of digital services l<span>aunched by Kik</span>. The Kin token is an Ethereum-based cryptocurrency that is to be used for daily online activites such as instant messaging, social media, tipping and payments within the <span>Kin Ecosystem </span>. The Kin token will <span>will also serve as the basis of interchangeability with other digital services.</span></p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "10000000000000",
+    "Algorithm": null,
+    "ProofType": null,
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "25/05/2017",
+    "TotalCoinsMined": 10000000000000,
+    "Twitter": "@kin_foundation",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": null,
+    "GitHub": null,
+    "OnMarkets": [
+      "EtherDelta"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Finished",
+    "Description": "<p><span>Kin is a decentralized ecosystem composed of</span><span> a group of digital services l</span><span>aunched by Kik</span><span>. The Kin token is an Ethereum-based cryptocurrency that is to be used for daily online activites such as instant messaging, social media, tipping and payments within the<span> </span></span><span>Kin Ecosystem </span><span>. The Kin token will </span><span>will also serve as the basis of interchangeability with other digital services.</span></p><p><strong>Team</strong>:</p><ul><li><strong>Ted Livingston</strong>: CEO, Founder.</li><li><strong>Peter Heinke</strong>: CFO &amp; COO.</li><li><strong>Eran Ben-Ari</strong>: CPO.</li><li><span><strong>Erin Clift</strong><span>: CMO.</span></span></li><li><strong>Dave Simons</strong><span>: SVP Engineering.</span></li></ul><p>Kin will be holding its ICO on September 12, 2017. The ICO token supply represents 10% of the total token supply, so there will be a total of 100000000000 tokens available at the offering. The ICO is expected to end on September 26, 2017.</p><p><strong>Token Reserve Split (90%):</strong></p><ul><li>30% Preallocated to Kik as the founding member of the Kin Foundation and subject to a long-term vesting schedule;</li><li>60% Under the purview of the Kin Foundation, locked under the Kin Rewards Engine schema, and used strategically to grow the Kin Ecosystem and fund the operations of the foundation;</li></ul>",
+    "TokenType": "ETH (ERC20)",
+    "WebsiteLink": "https://kin.kik.com/",
+    "FundingCap": "N/A",
+    "FundingTarget": "N/A",
+    "Date": 1505174400,
+    "EndDate": 1506384000,
+    "FundsRaisedList": "N/A",
+    "FundsRaisedUSD": "N/A",
+    "StartPrice": "N/A",
+    "StartPriceCurrency": "ETH",
+    "Jurisdiction": "N/A",
+    "BlogLink": "https://medium.com/kinfoundation",
+    "WhitePaperLink": "https://kin.kik.com/Kin%20Whitepaper%20v1.pdf"
+  },
+  "ccId": "177918"
+}

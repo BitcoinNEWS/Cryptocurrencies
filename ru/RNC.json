@@ -1,0 +1,58 @@
+{
+  "General": {
+    "Symbol": "RNC",
+    "Name": "ReturnCoin",
+    "Description": "<p>ReturnCoin (RNC) is a peer-to-peer digital currency with a distributed, decentralized public ledger; that unlike ones held at traditional banks, are viewable and easily audited by the people. ReturnCoin pays 100% interest per annum and is one of the best investments you can make. It will give you a full return in just 1 year.</p><p>The ability to manage transactions and issue additional ReturnCoins is all handled by the network of users utilizing ReturnCoin. Because the ReturnCoin network is run by the people, holders of ReturnCoin receive a 100% yearly interest through a process called staking.</p><p>ReturnCoin’s technology allows people to send and receive fast, easy and secure payments with friends, family, and merchants anywhere in the world. ReturnCoin allows you to manage your finances without the need for a central authority or bank.</p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "250000000",
+    "Algorithm": "X11",
+    "ProofType": "PoS",
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "04/12/2015",
+    "TotalCoinsMined": null,
+    "Twitter": null,
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "-",
+    "GitHub": null,
+    "OnMarkets": [
+      "Yobit"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "N/A",
+    "Description": null,
+    "TokenType": null,
+    "WebsiteLink": null,
+    "FundingCap": null,
+    "FundingTarget": null,
+    "Date": null,
+    "EndDate": null,
+    "FundsRaisedList": null,
+    "FundsRaisedUSD": null,
+    "StartPrice": null,
+    "StartPriceCurrency": null,
+    "Jurisdiction": null,
+    "BlogLink": null,
+    "WhitePaperLink": null
+  },
+  "ccId": "39710"
+}

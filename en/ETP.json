@@ -1,0 +1,62 @@
+{
+  "General": {
+    "Symbol": "ETP",
+    "Name": "Metaverse",
+    "Description": "<p>Metaverse is a decentralized platform based on blockchain technology. Metaverse is building a web of Smart Properties and establishing an open ecosystem in which digital value can be circulated freely.</p><p>ETP is the token used on Metaverse and can be used to measure the value of smart properties in Metaverse or as collateral in financial transactions. ETP is also used to pay transaction and other fees applied on Metaverse.</p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "100000000",
+    "Algorithm": "Ethash",
+    "ProofType": null,
+    "BlockReward": 7.7188133431764525,
+    "Explorer": null,
+    "StartDate": "11/02/2017",
+    "TotalCoinsMined": 57399513.61197982,
+    "Twitter": "@mvs_org",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": null,
+    "GitHub": null,
+    "OnMarkets": [
+      "HitBTC",
+      "BTER",
+      "Bitfinex",
+      "EXX",
+      "BitZ"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Finished",
+    "Description": "<p>Metaverse is a decentralized platform based on blockchain technology. Metaverse is building a web of Smart Properties and establishing an open ecosystem in which digital value can be circulated freely.</p><p>ETP is the token used on Metaverse and can be used to measure the value of smart properties in Metaverse or as collateral in financial transactions. ETP is also used to pay transaction and other fees applied on Metaverse.</p><p><strong>Team</strong>:</p><ul><li><strong>Eric Gu</strong>: <span>Founder</span>. </li></ul>",
+    "TokenType": "N/A",
+    "WebsiteLink": "http://ico.viewfin.com",
+    "FundingCap": "N/A",
+    "FundingTarget": "N/A",
+    "Date": 1470380400,
+    "EndDate": 1473058800,
+    "FundsRaisedList": "N/A",
+    "FundsRaisedUSD": "N/A",
+    "StartPrice": "N/A",
+    "StartPriceCurrency": "N/A",
+    "Jurisdiction": "N/A",
+    "BlogLink": "http://blog.mvs.org/",
+    "WhitePaperLink": "http://newmetaverse.org/white-paper/Metaverse-white-paper-v2.1-EN.pdf"
+  },
+  "ccId": "328639"
+}

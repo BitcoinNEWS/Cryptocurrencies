@@ -1,0 +1,58 @@
+{
+  "General": {
+    "Symbol": "IWT",
+    "Name": "IwToken",
+    "Description": "<p>IwToken is an ecosystem that contains an integrative wallet, multiwallet, an AMT network and a <span>debit card, the integrative card, which will be connected to each users&#39; </span><span>wallet</span>. IwToken plans to integrate cryptocurrencies to the everyday life of the user, making it easy for one to buy, sell and spend crypto at will. The IWT tokens represent a share of the company create and allow holders to receive payouts from the profits generated.</p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": null,
+    "Algorithm": null,
+    "ProofType": null,
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "01/01/0001",
+    "TotalCoinsMined": null,
+    "Twitter": "@iwtoken",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": null,
+    "GitHub": null,
+    "OnMarkets": [
+      "EtherDelta"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Ongoing",
+    "Description": "<p><span>IwToken is an ecosystem that contains an integrative wallet, multiwallet</span><span>, a</span><span>n </span><span>AMT network and a </span><span>debit card, the integrative card, which will be connected to each users&#39; </span><span>wallet</span><span>. </span><span>IwToken plans</span><span> to integrate cryptocurrencies to the everyday life of the user,<span> </span></span><span>making it easy for one to buy, sell and spend crypto at will. </span><span>The IWT tokens represent a share of the company create and allow holders to receive payouts from the profits generated.</span></p><p><strong>Team</strong>:</p><ul><li><strong>Franco Leonel: </strong>Founder and Developer <a href=\"https://www.linkedin.com/in/franco-leonel-869b7080/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Remedios Gonzalez: </strong>Project Manager <a href=\"https://www.linkedin.com/in/remedios-gonzalez-hernandez/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Maximiliano de Muro:</strong> Business Advisor <a href=\"https://www.linkedin.com/in/maximilianodemuro/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Tatiana de Rossi: </strong>Legal Advisor</li></ul><p>IwToken will be holding its ICO on the 21st of August, 2107. The ICO token supply represents 45% of the total 100m supply. The starting price is 0.00083 ETH per token and there is a funding cap of 12,500,000 USD. The ICO is expected to run until the 28th of September or until the cap is reached, whichever comes first. </p><p><strong>Token Reserve Split (XX%):</strong></p><ul><li>25% Rewards program</li><li>30% Held at a safe account</li></ul><p><span>The IWT ICO features a bonus campaign:</span></p><p><strong>Bonus Structure:</strong></p><ul><li>Week 1: 1 ETH = 1200 IWT</li><li><span>Week 2: </span>1 ETH = 1000 IWT </li><li><span>Week 3: 1 ETH = 800 IWT </span></li><li><span>Week 4: 1 ETH = 600 IWT </span></li></ul>",
+    "TokenType": "ETH (ERC20)",
+    "WebsiteLink": "https://iwtoken.com/en/",
+    "FundingCap": "12,500,000 USD",
+    "FundingTarget": "N/A",
+    "Date": 1504184400,
+    "EndDate": 1506603600,
+    "FundsRaisedList": "105 ETH",
+    "FundsRaisedUSD": "32025",
+    "StartPrice": "0.000833333333",
+    "StartPriceCurrency": "ETH",
+    "Jurisdiction": "N/A",
+    "BlogLink": null,
+    "WhitePaperLink": "https://iwtoken.com/whitepaper.pdf"
+  },
+  "ccId": "232556"
+}

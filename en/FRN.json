@@ -1,0 +1,61 @@
+{
+  "General": {
+    "Symbol": "FRN",
+    "Name": "Francs",
+    "Description": "<p>Francs is a cryptocurrency designed to create interest and adoption of crypto within the French community. FRN can be sent to anyone, instantly and with low fees.</p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "20000000",
+    "Algorithm": "Scrypt",
+    "ProofType": "PoW",
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "21/01/2016",
+    "TotalCoinsMined": 5482644.6836952,
+    "Twitter": "@francnoir",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "http://www.francs.paris/",
+    "GitHub": null,
+    "OnMarkets": [
+      "CCEX",
+      "Cryptopia",
+      "Yobit",
+      "Novaexchange"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "N/A",
+    "Description": null,
+    "TokenType": null,
+    "WebsiteLink": null,
+    "FundingCap": null,
+    "FundingTarget": null,
+    "Date": null,
+    "EndDate": null,
+    "FundsRaisedList": null,
+    "FundsRaisedUSD": null,
+    "StartPrice": null,
+    "StartPriceCurrency": null,
+    "Jurisdiction": null,
+    "BlogLink": null,
+    "WhitePaperLink": null
+  },
+  "ccId": "20991"
+}

@@ -1,0 +1,60 @@
+{
+  "General": {
+    "Symbol": "LYC",
+    "Name": "LycanCoin",
+    "Description": "<p>LycanCoin is a spoof coin based on its namesake, and part of a trilogy of three other Coins - namely ZombieCoin and Vampire Coin. Inspired by and for the creator&#39;s daughter - but ultimately a scrypt coin with a 2.5 min block time.</p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "4950000000",
+    "Algorithm": "Scrypt",
+    "ProofType": "PoW",
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "15/02/2014",
+    "TotalCoinsMined": null,
+    "Twitter": "@Lycancoin",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "http://lyccoin.org/",
+    "GitHub": null,
+    "OnMarkets": [
+      "Cryptopia",
+      "Novaexchange",
+      "Cryptsy"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "N/A",
+    "Description": null,
+    "TokenType": null,
+    "WebsiteLink": null,
+    "FundingCap": null,
+    "FundingTarget": null,
+    "Date": null,
+    "EndDate": null,
+    "FundsRaisedList": null,
+    "FundsRaisedUSD": null,
+    "StartPrice": null,
+    "StartPriceCurrency": null,
+    "Jurisdiction": null,
+    "BlogLink": null,
+    "WhitePaperLink": null
+  },
+  "ccId": "4557"
+}

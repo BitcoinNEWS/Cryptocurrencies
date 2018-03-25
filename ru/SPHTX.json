@@ -1,0 +1,59 @@
+{
+  "General": {
+    "Symbol": "SPHTX",
+    "Name": "SophiaTX",
+    "Description": "<p>SophiaTX is a platform that focuses on integrating blockchain with SAP and other major ERP, CRM, and SCM systems. The platform aims to expand the possibilities of enterprise applications with the trust and security that comes with blockchain technology. The platform can be thought of as three components: a blockchain designed and built specifically for business environment, a development platform with integration APIs to SAP and other enterprise applications, and a marketplace for both industrial companies and a global community of experts, consultants, and developers to buy and sell apps. The SophiaTX network is a<span> public blockchain platform based on DPoS.</span> It allows for businesses to join and participate in the entire value chain.</p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "350000000",
+    "Algorithm": null,
+    "ProofType": null,
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "05/12/2017",
+    "TotalCoinsMined": 350000000,
+    "Twitter": "@Sophia_TX_",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": null,
+    "GitHub": null,
+    "OnMarkets": [
+      "BitZ",
+      "EtherDelta"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Upcoming",
+    "Description": "<p>SophiaTX<span><span> </span>is a platform that focuses on integrating blockchain with SAP and other major ERP, CRM, and SCM systems. The platform aims to expand the possibilities of enterprise applications with the trust and security that comes with blockchain technology. The platform can be thought of as three components: a blockchain designed and built specifically for<span> </span></span>business<span><span> </span>environment, a development platform with integration APIs to SAP and other enterprise applications, and a marketplace for both industrial companies and a global community of experts, consultants, and developers to buy and sell apps. The SophiaTX network is a</span><span> public blockchain platform based on<span> </span>DPoS.</span><span><span> </span>It allows for businesses to join and participate in the entire value chain.</span></p><p><strong>Team</strong>:</p><ul><li><strong>Jaroslav </strong>Kacina<strong>:</strong> Chairman, CEO of equidato technologies ag &amp; sophiatx <a href=\"https://www.linkedin.com/in/jaroslav-kacina-33a11587/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Martyn Harler:</strong> CTO of equidato technologies ag &amp; sophiatx <a href=\"https://www.linkedin.com/in/martynharler/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Kok Weng Choo:</strong> platform development lead, apac lead <a href=\"https://www.linkedin.com/in/kok-weng-choo-52220964\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Marian Rajnic:</strong> lead architect <a href=\"https://www.linkedin.com/in/marian-r-2ba745a6\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Oliver Lienhard:</strong> senior architect <a href=\"https://www.linkedin.com/in/oliver-lienhard-b1024a8a\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Lubomir Vranka:</strong> senior consultant - erp &amp; distributed database integration <a href=\"https://www.linkedin.com/in/lubomir-vranka-8528b998\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Peter Matavovsky:</strong> senior sap integration expert <a href=\"https://www.linkedin.com/in/lubomir-vranka-8528b998\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Robert Petricek:</strong> senior expert, IT architecture and sap <a href=\"https://www.linkedin.com/in/peter-matavovsky-51793491\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li></ul><p>The SophiaTX ICO will start on the 5th of December and it will last until the 15th of December 2017. The ICO token allocation represents 30% of the total token supply and will be available for a 0.00062789 ETH starting price. Users will be able to participate with BTC, ETH and DCT.</p><p><strong>Token Reserve Split (70%):</strong></p><ul><li>30% Mining,</li><li>35% Development, Operations, Marketing, Team,</li><li>5% Future SPHTX TGE</li></ul><p><span>SophiaTX will be mineable.</span></p>",
+    "TokenType": "ETH (ERC20)",
+    "WebsiteLink": null,
+    "FundingCap": "115,000 ETH",
+    "FundingTarget": "N/A",
+    "Date": 1512655200,
+    "EndDate": 1513519200,
+    "FundsRaisedList": "39,797,444 SPHTX Sold",
+    "FundsRaisedUSD": "N/A",
+    "StartPrice": "0.00062789",
+    "StartPriceCurrency": "ETH",
+    "Jurisdiction": "Switzerland",
+    "BlogLink": "https://www.sophiatx.com/blog.html",
+    "WhitePaperLink": "https://www.sophiatx.com/_data/_custom/SophiaTX_Whitepaper_v1.2.pdf"
+  },
+  "ccId": "379248"
+}

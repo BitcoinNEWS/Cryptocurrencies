@@ -1,0 +1,58 @@
+{
+  "General": {
+    "Symbol": "ALTOCAR",
+    "Name": "AltoCar",
+    "Description": "<p>Alto Car connects passengers and drivers with the ability to add drivers to their favourites list. AltoCar has carried out more than 90,000 trips which is equivalent to 1.35 million kilometers. It has 8000 employees and a database of over 5,000 drivers generating a revenue of $500,000. The funds raised from the ICO will help expand to over 13 cities in Russia.</p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": null,
+    "Algorithm": null,
+    "ProofType": null,
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "01/01/0001",
+    "TotalCoinsMined": 32000000,
+    "Twitter": null,
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": null,
+    "GitHub": null,
+    "OnMarkets": [
+      "WavesDEX"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Ongoing",
+    "Description": "<p>Alto Car connects passengers and drivers, it has carried out more than 90,000 trips which is equivalent to 1.35 million kilometers. It has 8000 employees and a database of over 5,000 drivers generating a revenue of $500,000. The funds raised from the ICO will help expand to over 13 cities in Russia. Tokens will be used to receive significant discounts and free trips. For drivers and partners, the tokens will be included in the bonus program.</p><p><strong>Team:</strong></p><ul><li><strong>Alexander Bobylev: </strong>CEO</li><li><strong>Victor Neeshpapa: </strong>SVO</li><li><strong>Alexander Lyashenko: </strong>Drivers manager</li></ul><p><strong>Token reserve distribution (32%)</strong></p><ul><li>30% Enter domestic economy by bounties</li><li>2% Online bounties</li></ul><p><strong>Bonus Schedule:</strong></p><ul><li>25%: Week 1</li><li>20%: Week 2</li><li>15%: Week 3</li><li>10%: Week 4</li></ul>",
+    "TokenType": "WAVES",
+    "WebsiteLink": "https://altocar-ico.com/",
+    "FundingCap": "32,000,000",
+    "FundingTarget": "N/A",
+    "Date": 1507626000,
+    "EndDate": 1510304400,
+    "FundsRaisedList": "Presale: 350,000 USD\r\nMain ICO: 235.06 BTC, 2,570 ETH, 1 LTC, 25 DASH, 4.99 ETC, 265.23 WAVES, 4.99 ETC",
+    "FundsRaisedUSD": "2552155",
+    "StartPrice": "1",
+    "StartPriceCurrency": "USD",
+    "Jurisdiction": "N/A",
+    "BlogLink": null,
+    "WhitePaperLink": "https://drive.google.com/file/d/0B_kmY5mKXSK5cGgtb3JyT0VWZ1k/view"
+  },
+  "ccId": "240439"
+}

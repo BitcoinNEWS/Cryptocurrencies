@@ -1,0 +1,60 @@
+{
+  "General": {
+    "Symbol": "NEVA",
+    "Name": "NevaCoin",
+    "Description": "<p>NevaCoin<strong> </strong>is the first cryptocurrency to be created as a gift, it is a PoW/PoS Hybrid coin with a long Proof of Work period that will last pproximately 15 years. NEVA uses the Blake2s algorithm and provides an easy one-click miner incorporated in the wallet</p><p><span><br /><br />.<br /></span></p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "26280000",
+    "Algorithm": null,
+    "ProofType": "PoW/PoS",
+    "BlockReward": 5,
+    "Explorer": null,
+    "StartDate": "07/03/2016",
+    "TotalCoinsMined": 2732830,
+    "Twitter": "@nevacoin",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "http://nevacoin.pw/",
+    "GitHub": null,
+    "OnMarkets": [
+      "Cryptopia",
+      "TradeSatoshi",
+      "Yobit"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "N/A",
+    "Description": null,
+    "TokenType": null,
+    "WebsiteLink": null,
+    "FundingCap": null,
+    "FundingTarget": null,
+    "Date": null,
+    "EndDate": null,
+    "FundsRaisedList": null,
+    "FundsRaisedUSD": null,
+    "StartPrice": null,
+    "StartPriceCurrency": null,
+    "Jurisdiction": null,
+    "BlogLink": null,
+    "WhitePaperLink": null
+  },
+  "ccId": "21669"
+}

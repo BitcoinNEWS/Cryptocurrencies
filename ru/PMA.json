@@ -1,0 +1,56 @@
+{
+  "General": {
+    "Symbol": "PMA",
+    "Name": "PumaPay",
+    "Description": "<p><span>PumaPay&#39;s open-source Pull Payment Protocol is a comprehensive blockchain solution which offers robust payment mechanisms far more credible, efficient, flexible, cost-effective, and scalable than current implementations (credit cards). Unlike today&#39;s payment methods, which include credit cards and virtual coins like Bitcoin, the Pull Payment Protocol was designed from the ground up specifically to overcome existing hurdles and offers a set of tools developed to facilitate onboarding processes for both businesses and individuals.</span></p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": null,
+    "Algorithm": null,
+    "ProofType": null,
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "22/03/2018",
+    "TotalCoinsMined": null,
+    "Twitter": "@PumaPay",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": null,
+    "GitHub": null,
+    "OnMarkets": [],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Upcoming",
+    "Description": "<p><span>PumaPay&#39;s open-source Pull Payment Protocol is a comprehensive blockchain solution which offers robust payment mechanisms far more credible, efficient, flexible, cost-effective, and scalable than current implementations (credit cards). Unlike today&#39;s payment methods, which include credit cards and virtual coins like Bitcoin, the Pull Payment Protocol was designed from the ground up specifically to overcome existing hurdles and offers a set of tools developed to facilitate onboarding processes for both businesses and individuals.</span></p><p><strong>Team</strong>:</p><ul><li><strong>Yoav Dror</strong><span>: CEO.</span></li><li><span><strong>Pantelis Foulis</strong><span>: CFO.</span></span></li><li><strong>Gleb Chernov</strong><span>: VP Business Development.</span></li><li><span><strong>Constantinos Eracleous</strong><span>: Smart Contracts Developer.</span></span></li><li><strong>Mat Stone</strong><span>: Cyber Security.</span></li><li><span><strong>Giorgos Kourtellos</strong><span>: Chief Blockchain Architect.</span></span></li><li><strong>Milenko Strika</strong><span>: Head of Product.</span></li><li><span><strong>Stella Evagorou</strong><span>: Developer.</span></span></li><li><strong>Elena Savvides</strong><span>: Head of HR.</span></li><li><span><strong>Efi Klaus</strong><span>: Designer.</span></span></li></ul><p>PupaPay will be holding its ICO on the 26th of April, 2018. The ICO token supply represents 20% of the total token supply and will be available for 0.00002 ETH each at the offering. The ICO is uncapped and is expected to end on the 2nd of May, 2018.</p><p><strong>Token Reserve Split (70%):</strong></p><ul><li>Public contributors 20%</li><li>The Company 35%</li><li>Strategic partners and early adopters 20%</li><li>Advisors, bounty, bonuses and fees 15%</li><li>Founding Team 10%</li></ul>",
+    "TokenType": "ETH (ERC223)",
+    "WebsiteLink": "https://pumapay.io",
+    "FundingCap": "150,000,000 USD",
+    "FundingTarget": "N/A",
+    "Date": 1524700800,
+    "EndDate": 1525219200,
+    "FundsRaisedList": "N/A",
+    "FundsRaisedUSD": "N/A",
+    "StartPrice": "0.00002",
+    "StartPriceCurrency": "ETH",
+    "Jurisdiction": "Gibraltar",
+    "BlogLink": "http://blog.pumapay.io/",
+    "WhitePaperLink": "https://pumapay.io/docs/pumapay_whitepaper.pdf"
+  },
+  "ccId": "661398"
+}

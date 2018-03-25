@@ -1,0 +1,59 @@
+{
+  "General": {
+    "Symbol": "PART",
+    "Name": "Particl",
+    "Description": "<p>Particl is a blockchain-based eCommerce platform, allowing customers and merchants to be directl connected on a peer-to-peer network with reliable privacy features. Users can buy or sell anything, similar to eBay, Etsy or Amazon, except that all the transaction data, payments and conversations happen over a self-governed, distributed network instead of a central server. Transactions within the network are conducted in PART, the native cryptocurrency in the Particl PoS blockchain.</p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "8634140",
+    "Algorithm": "PoS",
+    "ProofType": "PoSv3",
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "21/03/2017",
+    "TotalCoinsMined": null,
+    "Twitter": "@particlproject",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "http://particl.io/",
+    "GitHub": null,
+    "OnMarkets": [
+      "BitZ",
+      "BitTrex"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Finished",
+    "Description": "<p><span>Transactions within the network are conducted in PART, the native cryptocurrency in the Particl PoS blockchain. Users can buy or sell anything, similar to eBay, Etsy or Amazon, except that all the transaction data, payments and conversations happen over a self-governed, distributed network instead of a central server. </span></p><p>1658 participants contributed 590 BTC which alongside the 5,150,000 SDC (77% of the SDC network) tokens converted generated 8,634,140 PART. In total 82.5% of the tokens are for investors however only 16.5% was from BTC.</p><p>The inflation rate is as follows; 5% year 1, 4% year 2, 3% year 3, 2% year 4</p>",
+    "TokenType": "N/A",
+    "WebsiteLink": "http://particl.io/",
+    "FundingCap": "750,000 USD",
+    "FundingTarget": "N/A",
+    "Date": 1489838400,
+    "EndDate": 1492257600,
+    "FundsRaisedList": "590 BTC; 5,150,210 SDC",
+    "FundsRaisedUSD": "750000",
+    "StartPrice": "0.526",
+    "StartPriceCurrency": "USD",
+    "Jurisdiction": "N/A",
+    "BlogLink": "https://particl.news/",
+    "WhitePaperLink": "https://github.com/particl/whitepaper/blob/master/decentralized-private-marketplace-draft-0.1.pdf"
+  },
+  "ccId": "191116"
+}

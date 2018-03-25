@@ -1,0 +1,59 @@
+{
+  "General": {
+    "Symbol": "REM",
+    "Name": "REMME",
+    "Description": "<p><span>REMME is an open source distributed Public Key Infrastructure (PKI) protocol with a set of DApps, enabling passwordless authentication for humans and devices. REM is an ERC20 utility token that powers all operations within the ecosystem and serves as a digital key for gaining access to REMME PKI (d) protocol and DApps.</span></p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "1000000000",
+    "Algorithm": null,
+    "ProofType": null,
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "04/12/2017",
+    "TotalCoinsMined": 1000000000,
+    "Twitter": "@remme_io",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": null,
+    "GitHub": null,
+    "OnMarkets": [
+      "Tidex",
+      "Gateio"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Finished",
+    "Description": "<p><span>REMME is an open source distributed Public Key Infrastructure (PKI) protocol with a set of DApps, enabling passwordless authentication for humans and devices. REM is an ERC20 utility token</span><span> that<span> </span></span><span>powers all operations within the ecosystem and serves as a digital key for gaining access to REMME PKI (d) protocol and DApps.</span></p><p><strong>Team</strong>:</p><ul><li><strong>Alex Momot:</strong> Founder &amp; CEO <a href=\"https://www.facebook.com/amomot86\" target=\"_blank\"><img src=\"/media/1383930/face_logo_final.png?width=13&amp;height=13\" alt=\"\" data-id=\"202866\"></a> <a href=\"https://www.linkedin.com/in/alex-momot-93596b32/\" target=\"_blank\"><img src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Kate Pospelova:</strong> CMO &amp; Co-founder<span> </span><a href=\"https://www.linkedin.com/in/kate-pospelova-6153a536/\" target=\"_blank\"><img src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Roman Kravchenko:</strong> CTO <a href=\"https://www.linkedin.com/in/romankrav4/\" target=\"_blank\"><img src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Jan Keil:</strong> CBDO <a href=\"https://www.linkedin.com/in/jan-keil-2011a61/\" target=\"_blank\"><img src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li></ul><p>The REMME ICO will start on the TBA and will end on the TBA. The ICO token allocation represents 50% of the total token supply which will be available for a $0.04 starting price each. The ICO funding cap is set at $20M.</p><p><strong>Token Reserve Split (50%):</strong></p><ul><li>Team and founders: 20%</li><li>Partners and advisors: 20%</li><li>Reserve fund: 10%</li></ul><p>The REM ICO feautres a bonus and bounty campaign</p><p><strong>Bonus Structure:</strong></p><p><strong><img src=\"https://daks2k3a4ib2z.cloudfront.net/59936b7137d7050001f9b748/5a16114045a0eb0001850ba7_bonuses.svg\" alt=\"\"></strong></p>",
+    "TokenType": "ETH (ERC20)",
+    "WebsiteLink": "https://tokensale.remme.io/",
+    "FundingCap": "$20,000,000",
+    "FundingTarget": "$480,000",
+    "Date": 1518552000,
+    "EndDate": null,
+    "FundsRaisedList": "N/A",
+    "FundsRaisedUSD": "N/A",
+    "StartPrice": "0.04",
+    "StartPriceCurrency": "USD",
+    "Jurisdiction": "N/A",
+    "BlogLink": "https://medium.com/remme",
+    "WhitePaperLink": "https://drive.google.com/file/d/0B1jTRGmj_3khUV9RTERnYzNvaE0/view"
+  },
+  "ccId": "625010"
+}

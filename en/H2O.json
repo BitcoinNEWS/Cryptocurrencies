@@ -1,0 +1,58 @@
+{
+  "General": {
+    "Symbol": "H2O",
+    "Name": "Hydrominer",
+    "Description": "<p><span>Hydrominer is a cryptocurrency mining project that aims to make mining an environmentally-friendly practice. The mining operation uses</span><span>green energy drawn from </span><span>hydro power</span><span><span> </span>stations in the Alpine region of Europe. The H2O token is an Ethereum-based token that can be exchanged in HydroMiner&#39;s platform for mining contracts. Meaning that the masses, through these mining contracts, have now access to<span style=\"font-weight: 400;\"> cheap electricity and advanced mining hardware </span></span><span>without requiring any expertise on how to assemble a mining operation.</span><br /><span></span></p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "100000000",
+    "Algorithm": null,
+    "ProofType": null,
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "11/09/2017",
+    "TotalCoinsMined": 100000000,
+    "Twitter": "@hydro_miner",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": null,
+    "GitHub": null,
+    "OnMarkets": [
+      "EtherDelta"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Ongoing",
+    "Description": "<p><span>Hydrominer is a cryptocurrency mining project that aims to make mining an environmentally-friendly practice. The mining operation uses</span><span>green energy drawn from </span><span>hydro power</span><span><span> </span>stations in the Alpine region of Europe. The H2O token is an Ethereum-based token that can be exchanged in HydroMiner&#39;s platform for mining contracts. Meaning that the masses, through these mining contracts, have now access to<span style=\"font-weight: 400;\"> cheap electricity and advanced mining hardware </span></span>without requiring any expertise on how to assemble a mining operation.</p><p><strong>Team</strong>:</p><ul><li><strong>Nadine Damblon: </strong>CEO <a href=\"https://web.facebook.com/nadine.damblon.3\" target=\"_blank\"><img style=\"width: 13px; height: 13px;\" src=\"/media/1383930/face_logo_final.png?width=13&amp;height=13\" alt=\"\" data-id=\"202866\"></a><span> </span><a href=\"https://www.hydrominer.org/team/\" target=\"_blank\"><img style=\"width: 13px; height: 13px;\" src=\"/media/1383932/twitter_logo_final.png?width=13&amp;height=13\" alt=\"\" data-id=\"202868\"></a><span> </span><a href=\"https://www.linkedin.com/in/nadine-damblon-243679147/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Nicole Damblon: </strong>CFO <a href=\"https://www.linkedin.com/in/nicole-damblon-80b3/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Christian Vogl: </strong>CTO <a href=\"https://www.linkedin.com/in/christian-vogl-1aa8b714a/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Philip Dimitrov: </strong>CMO <a href=\"https://www.linkedin.com/in/philip-dimitrov-1423b8b7/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li></ul><p>The Hydrominer ICO will start on the 18th of October 2017 and last until the 15th of November. The ICO token allocation represents 25% of the total 100m token supply. Early supporters can participate with Ether for a 0.01 ETH starting price.</p><p><strong>Bonus Structure:</strong></p><ul><li>Week 1: 20%</li><li>Week 2: 15%</li><li>Week 3: 10%</li><li>Week 4: 05%</li></ul>",
+    "TokenType": "ETH (ERC20)",
+    "WebsiteLink": "https://www.hydrominer.org/token-sale/?_af_token=795fc6b4542824a273e76ecf38683b9a",
+    "FundingCap": "N/A",
+    "FundingTarget": "N/A",
+    "Date": 1508320800,
+    "EndDate": 1510740000,
+    "FundsRaisedList": "8,639 ETH",
+    "FundsRaisedUSD": "2918689",
+    "StartPrice": "0.01",
+    "StartPriceCurrency": "ETH",
+    "Jurisdiction": "N/A",
+    "BlogLink": null,
+    "WhitePaperLink": "https://www.hydrominer.org/wp-content/uploads/HydroMiner.pdf"
+  },
+  "ccId": "310867"
+}

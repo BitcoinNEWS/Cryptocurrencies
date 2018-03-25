@@ -1,0 +1,63 @@
+{
+  "General": {
+    "Symbol": "MTH",
+    "Name": "Monetha",
+    "Description": "<p>Monetha is a decentralized payment solution built on the Ethereum network. The Monetha solution leverages smart contract technology to provide a <span>decentralized trust and reputation system in which sellers ratings are attatched to their respective transactions. The solution also enables merchants to accept ETH and Ethereum-based tokens which can be exchanged automatically into fiat currency</span></p><p><span>MTH is an Ethereum-based token that is used to pay for goods on Monetha. The value of the MTH token is based on its underlying assets, properties and/or <span>associated rights. Monetha tokens also represent percentage share of revenue of Monetha project.</span></span></p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "N/A",
+    "Algorithm": "N/A",
+    "ProofType": "N/A",
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "31/08/2017",
+    "TotalCoinsMined": 402400000,
+    "Twitter": "@Monetha_io",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "https://www.monetha.io",
+    "GitHub": null,
+    "OnMarkets": [
+      "Binance",
+      "Kucoin",
+      "OKEX",
+      "Tidex",
+      "HitBTC",
+      "EtherDelta"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Finished",
+    "Description": "<p>Monetha is a decentralized payment solution built on the Ethereum network. The Monetha solution leverages smart contract technology to provide a <span>decentralized trust and reputation system in which sellers ratings are attatched to their respective transactions. The solution also enables merchants to accept ETH and Ethereum-based tokens which can be exchanged automatically into fiat currency</span></p><p><span>MTH is an<span> </span>Ethereum-based token that is used to pay for goods on Monetha. The value of the MTH token is<span> </span>based on its underlying assets, properties and/or <span>associated rights. Monetha tokens also represent percentage share of revenue of Monetha project.</span></span></p><p><strong>Team</strong>:</p><ul><li><span>Andrej Ruckij</span>: <span>Co-Founder/Technology</span>. <a href=\"https://www.linkedin.com/in/andrejruckij\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><span>Eric Duprat</span>: Payments lead .<span> </span><a href=\"https://www.linkedin.com/in/ericduprat/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><span>Kellogg N. Fairbank</span>: Merchant Acquisition Lead.<span> </span><a href=\"https://www.linkedin.com/in/kelloggfairbank/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a><span></span></li><li>Dr. Jean-Marc Seigneur: Decentralised Trust and Reputation lead.<span> </span><a href=\"https://www.linkedin.com/in/jmseigneur/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li></ul><p>Monetha will be holding its ICO on the 31st of August. The ICO token supply represents 60% of the total supply that will be created during this crowd sale. The tokens will be sold at a 0.0005. Any unsold/remaining tokens will burnt.</p><p><strong>Token Reserve Split (XX%):</strong></p><ul><li><span>15%</span> <span>Monetha team</span></li><li><span>13%</span> Loyalty Program;</li><li>12% <span> bounty campaign, advisors, partners, ICO campaign costs</span>;</li></ul><p><span>The ICO will feature a bonus campaign.</span></p><p><strong>Bonus Structure:</strong></p><ul><li>1st price batch until the soft cap is reached: 1 ETH = 2400 MTH</li><li>2nd price batch after the soft cap is reached: 1 ETH = 2000 MTH</li></ul>",
+    "TokenType": "ETH (ERC20)",
+    "WebsiteLink": "https://www.monetha.io",
+    "FundingCap": "95,000 ETH",
+    "FundingTarget": "700000",
+    "Date": 1504180800,
+    "EndDate": 1504181880,
+    "FundsRaisedList": "95,000 ETH",
+    "FundsRaisedUSD": "37000000",
+    "StartPrice": "0.0005",
+    "StartPriceCurrency": "ETH",
+    "Jurisdiction": "N/A",
+    "BlogLink": "https://medium.com/@monetha",
+    "WhitePaperLink": "https://www.monetha.io/static/media/Monetha_White_Paper.8141b945.pdf "
+  },
+  "ccId": "208914"
+}

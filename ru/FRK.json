@@ -1,0 +1,61 @@
+{
+  "General": {
+    "Symbol": "FRK",
+    "Name": "Franko",
+    "Description": "<p>Franko is a high-value decentralized Internet currency based on the Scrypt algorithm. There is a dynamic kimoto gravity well difficulty retargetting and a 0.25 block reward with a 30 second block time. Apart from this - as a relatively old coin - there is a following and growing user base, if small.</p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "11235813",
+    "Algorithm": "Scrypt",
+    "ProofType": "PoW",
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "01/05/2013",
+    "TotalCoinsMined": 984154.14912776,
+    "Twitter": "@FrankoCurrency",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "http://frankos.org/",
+    "GitHub": null,
+    "OnMarkets": [
+      "Coinse",
+      "Cryptsy",
+      "Yobit",
+      "BitTrex"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "N/A",
+    "Description": null,
+    "TokenType": null,
+    "WebsiteLink": null,
+    "FundingCap": null,
+    "FundingTarget": null,
+    "Date": null,
+    "EndDate": null,
+    "FundsRaisedList": null,
+    "FundsRaisedUSD": null,
+    "StartPrice": null,
+    "StartPriceCurrency": null,
+    "Jurisdiction": null,
+    "BlogLink": null,
+    "WhitePaperLink": null
+  },
+  "ccId": "4522"
+}

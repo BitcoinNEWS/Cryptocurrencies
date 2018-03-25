@@ -1,0 +1,58 @@
+{
+  "General": {
+    "Symbol": "MT",
+    "Name": "Mycelium Token",
+    "Description": "<p><span>Mycelium Tokens are coloured coins issued on the Bitcoin blockchain, they represent ownership in the Mycelium wallet. They can be freely exchange though the team requests that you notify them of any changes in ownership. The total supply of MT represents 5% of the Mycelium Wallet.</span></p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "5311",
+    "Algorithm": null,
+    "ProofType": null,
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "18/05/2016",
+    "TotalCoinsMined": null,
+    "Twitter": "@MyceliumCom",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "https://mycelium.com/",
+    "GitHub": null,
+    "OnMarkets": [
+      "BitSquare"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Finished",
+    "Description": "<p><span>The tokens sold are actually assets representing ownership in the Mycelium Wallet. They act like shares which give dividends in future Wallet growth. Legally, they are known as Stocks Appreciating Rights (SARs), which are typically given out as cash bonus plans to employees. </span></p><p><span><span><span>The ICO raised 5,131.445 BTC. Mycelium locked the BTC price at $458.67 USD in June 2016, for a total of $2.353 million. Over 2500 investors participated. A 10% bonus was available to early investors.</span></span></span></p><p><a href=\"https://wallet.mycelium.com/elements/documentation.html\" target=\"_blank\"><span><span><span>Sale Terms</span></span></span></a></p>",
+    "TokenType": "N/A",
+    "WebsiteLink": "https://wallet.mycelium.com/elements/documentation.html",
+    "FundingCap": "N/A",
+    "FundingTarget": "N/A",
+    "Date": 1462104000,
+    "EndDate": 1463572800,
+    "FundsRaisedList": "5,131.445 BTC",
+    "FundsRaisedUSD": "2353000",
+    "StartPrice": "453",
+    "StartPriceCurrency": "USD",
+    "Jurisdiction": "N/A",
+    "BlogLink": "https://news.wallet.mycelium.com/update-for-december-more-bitcoin-buying-choices/",
+    "WhitePaperLink": "https://wallet.mycelium.com/crowdsale.pdf"
+  },
+  "ccId": "29378"
+}

@@ -1,0 +1,58 @@
+{
+  "General": {
+    "Symbol": "MEDI",
+    "Name": "MediBond",
+    "Description": "<p><span>Medibond is a blockchain-based platform designed to improve the pharmaceutical, insurance, and healthcare sectors. Medibond seeks to improve interaction between the biggest healthcare industrial players to help provide services more efficiently and securely to end users.</span></p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "250000000",
+    "Algorithm": null,
+    "ProofType": null,
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "05/08/2017",
+    "TotalCoinsMined": 12465061.6653,
+    "Twitter": "medibondproj",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": null,
+    "GitHub": null,
+    "OnMarkets": [
+      "EtherDelta"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Ongoing",
+    "Description": "<p><span>Medibond is a </span><span>blockchain-based</span><span><span> </span></span><span>platform<span> </span></span><span>designed to improve</span><span> the pharmaceutical, insurance, and healthcare sectors. Medibond seeks to improve interaction between the biggest healthcare industrial players to help provide services more efficiently and securely to end users.</span></p><p><strong>Team</strong>:</p><ul><li><strong>Ben Steffens:</strong> Founder &amp; President <a href=\"https://www.linkedin.com/in/ben-steffens-6229a052/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>James Billot:</strong> Cofounder &amp; Advisor <a href=\"https://www.linkedin.com/in/james-billot-06715a58/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Albrito Marques:</strong> Marketing &amp; Strategy <a href=\"https://www.linkedin.com/in/keegan-marques-41529a46/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Divya Gawas:</strong> Lead Developer <a href=\"https://www.linkedin.com/in/divya-gawas-4007b976/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li></ul><p>Medibond is holding its ICO on the 5th of August, 2017. It will last for a month or until the maximum cap of $15M is reached. During the ICO, 80% tokens will be available for BTC, LTC and ETH. The remaining tokens will be destributed in the following way:</p><p><strong>Token Reserve Split (XX%):</strong></p><ul><li>4%Affiliate;</li><li>5% MediBond Development Team;</li><li>1% Bounties/Rewards;</li><li>6% Early Bonus;</li><li>4% &gt; 50 BTC Investor Bonus</li></ul><p><span>The MEDI ICO will feature bonuses and bounties as well.</span></p><p><strong>Bonus Structure:</strong></p><ul><li><span>15% Bonus: Aug. 8th 00:00 UTC - Aug. 18th 23:59 UTC</span></li></ul>",
+    "TokenType": "ETH (ERC20)",
+    "WebsiteLink": "https://medibond.io/",
+    "FundingCap": "15000000",
+    "FundingTarget": "N/A",
+    "Date": 1501934400,
+    "EndDate": 1504612800,
+    "FundsRaisedList": "129.85 ETH \r\n0.69 BTC \r\n79.45 LTC",
+    "FundsRaisedUSD": "44841.9935",
+    "StartPrice": "0.000333333333",
+    "StartPriceCurrency": "ETH",
+    "Jurisdiction": "N/A",
+    "BlogLink": null,
+    "WhitePaperLink": "https://medibond.io/assets/doc/medibond_whitepaper.pdf"
+  },
+  "ccId": "233044"
+}

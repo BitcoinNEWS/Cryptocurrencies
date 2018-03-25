@@ -1,0 +1,59 @@
+{
+  "General": {
+    "Symbol": "CAT",
+    "Name": "Catcoin",
+    "Description": "<p>Bitcoin in scrypt - Catcoin (CAT) is a free open source peer-to-peer electronic cash system that is completely decentralized. Users hold the crypto keys to their own money and transact directly with each other, with the help of a P2P network to check for double-spending</p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "9200151.38980767339651393",
+    "Algorithm": null,
+    "ProofType": null,
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "23/12/2013",
+    "TotalCoinsMined": null,
+    "Twitter": "@CatcoinOfficial",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "http://www.catcoins.org/",
+    "GitHub": null,
+    "OnMarkets": [
+      "Cryptopia",
+      "EtherDelta"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Finished",
+    "Description": "<p>BlockCAT, short for Blockchain Complex Automated Transactions, is an Ethereum-based decentralized platform that provides an easy to use web portal for end users and organizations to provision and deploy smart contracts without the need to have prior knowledge or expertise.</p><p>The BlockCAT marketplace<span> </span>allows anyone to contribute and sell smart contracts, while<span> </span>the custom designed contract auditing system keeps users safe from faulty contracts in a completely decentralized manner. The CAT token will be used on the platform as the <span>only means of paying for contract deployment.</span></p><p><strong>Team:</strong></p><ul><li><span>Eric Huang: CEO (<a href=\"https://www.linkedin.com/in/eric-huang-088045a7/\" target=\"_blank\">LinkedIn</a>);</span></li><li><span> Wade Penson: CTO (<a href=\"https://www.linkedin.com/in/wade-penson-a2225935/\" target=\"_blank\">LinkedIn</a><span>)</span>;</span></li><li><span> Ben Stevens: Media Advisor</span></li></ul><p><span>The BlockCAT ICO started on the 15th of July and will run until the 14th of August or until the hidden cap is reach. The ICO coin supply represents 79% of the total coin supply starting with a price of  <span>0.00333333333 ETH each. A hidden, undisclosed hard cap will be used. If this cap is reached, then it will be revealed and the sale will immediately end. Otherwise, the sale ends once the sale period has come to a close.</span></span></p><p><span>The BlockCAT team will hold 20% of CAT (subject to a freeze period), and 1% will be allocated for the reserve pool.</span><span style=\"font-weight: 400;\">The BlockCAT ICO campaign features a bonus campaign, and the coin will not be minable.</span></p><p><strong>Bonus Structure:</strong></p><p><span>330 CAT to 1 ETH (first 24 hours)</span><br /><span>315 CAT to 1 ETH (next 48 hours)</span><br /><span>300 CAT to 1 ETH (rest of the sale)</span></p><p><span> </span></p><p> </p>",
+    "TokenType": "ETH (ERC20)",
+    "WebsiteLink": "https://blockcat.io/tokensale/",
+    "FundingCap": "N/A",
+    "FundingTarget": "N/A",
+    "Date": 1500148800,
+    "EndDate": 1502755200,
+    "FundsRaisedList": "23,799.65 ETH",
+    "FundsRaisedUSD": "7139000",
+    "StartPrice": "0.00333333333",
+    "StartPriceCurrency": "ETH",
+    "Jurisdiction": "N/A",
+    "BlogLink": "https://medium.com/@blockcat",
+    "WhitePaperLink": "https://blockcat.io/wp-content/uploads/whitepaper.pdf"
+  },
+  "ccId": "4410"
+}

@@ -1,0 +1,64 @@
+{
+  "General": {
+    "Symbol": "ENJ",
+    "Name": "Enjin Coin",
+    "Description": "<p>Enjin is a decentralized platform that wants to manage, distribute, and trade virtual goods. Giving gamers and content creators a new model of virtual ownership.</p><p>Enjin Coin platform is made for the game industry. SDKs for multiple languages, wallets and payment platforms will be available and completely open-source.</p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "1000000000",
+    "Algorithm": null,
+    "ProofType": null,
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "24/07/2017",
+    "TotalCoinsMined": 1000000000,
+    "Twitter": "@enjincs",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": null,
+    "GitHub": null,
+    "OnMarkets": [
+      "HitBTC",
+      "Tidex",
+      "Binance",
+      "Cryptopia",
+      "EtherDelta",
+      "LiveCoin",
+      "Kucoin"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Ongoing",
+    "Description": "<p>Enjin is a decentralized platform that wants to manage, distribute, and trade virtual goods. Giving gamers and content creators a new model of virtual ownership.</p><p>Enjin Coin platform is made for the game industry. SDKs for multiple languages, wallets and payment platforms will be available and completely open-source.</p><p><strong>Team</strong>:</p><ul><li><strong>Maxim Blagov</strong>: Founder &amp; CEO. <a href=\"https://www.linkedin.com/in/maxim-blagov-24787214/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Witek Radomski</strong>: Founder &amp; CTO.<span> </span><a href=\"https://www.linkedin.com/in/witek-radomski-5318a274/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Josh Woelfel</strong><span>: Lead Engineer.</span><span> </span><a href=\"https://www.linkedin.com/in/joshwoelfel/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Vyacheslav Volkov</strong><span>: Lead Mobile Engineer.</span><span> </span><a href=\"https://www.linkedin.com/in/vyacheslav-volkov-075b2b80/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li></ul><p><span>Enjin </span>will be holding its ICO on October 3, 2017. The ICO token supply represents 40% of the total token supply, so there will be a total of <span>400000000 </span>tokens available, for <span>0.0001666 ETH </span>each at the offering. The ICO is expected to end on <span>October 31</span>, 2017.</p><p><strong>Token Reserve Split (60%):</strong></p><ul><li>10 % Team &amp; Advisors</li><li>10 % Marketing &amp; Partnerships</li><li>40 % Pre-Sale ICO</li></ul><p><strong>Bonus Structure:</strong></p><ul><li><span>First Week: 1 ETH = 6,000 ENJ</span></li><li><span>Second Week: 1 ETH = 5,000 ENJ</span></li><li><span>Third Week: 1 ETH = 4,000 ENJ</span></li><li><span>FourthWeek: 1 ETH = 3,000 ENJ</span></li></ul>",
+    "TokenType": "ETH (ERC20)",
+    "WebsiteLink": "https://enjincoin.io/#section-crowdsale",
+    "FundingCap": "N/A",
+    "FundingTarget": "N/A",
+    "Date": 1507032000,
+    "EndDate": 1509451200,
+    "FundsRaisedList": "74,562 ETH",
+    "FundsRaisedUSD": "23024635",
+    "StartPrice": "0.03",
+    "StartPriceCurrency": "USD",
+    "Jurisdiction": "N/A",
+    "BlogLink": "https://medium.com/@coinfork",
+    "WhitePaperLink": "https://enjincoin.io/enjincoin_whitepaper.pdf"
+  },
+  "ccId": "283116"
+}

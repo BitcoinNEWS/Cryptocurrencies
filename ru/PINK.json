@@ -1,0 +1,62 @@
+{
+  "General": {
+    "Symbol": "PINK",
+    "Name": "PinkCoin",
+    "Description": "<p>PinkCoin (PC) is an X11 coin with a seven day PoW period before switching to being a pure PoS coin with a 1% annual interest rate. There is a hard cap of 380 million coins to be produced and a block time of 30 seconds. There was no premine.</p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "500000000",
+    "Algorithm": "X11",
+    "ProofType": "PoW/PoS",
+    "BlockReward": 63.888888898823,
+    "Explorer": null,
+    "StartDate": "02/05/2014",
+    "TotalCoinsMined": 397033649.4907002,
+    "Twitter": "@Pinkcoin_",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "http://getstarted.with.pink/",
+    "GitHub": null,
+    "OnMarkets": [
+      "Cryptopia",
+      "Novaexchange",
+      "TradeSatoshi",
+      "Poloniex",
+      "BitTrex"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "N/A",
+    "Description": null,
+    "TokenType": null,
+    "WebsiteLink": null,
+    "FundingCap": null,
+    "FundingTarget": null,
+    "Date": null,
+    "EndDate": null,
+    "FundsRaisedList": null,
+    "FundsRaisedUSD": null,
+    "StartPrice": null,
+    "StartPriceCurrency": null,
+    "Jurisdiction": null,
+    "BlogLink": null,
+    "WhitePaperLink": null
+  },
+  "ccId": "5374"
+}

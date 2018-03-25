@@ -1,0 +1,56 @@
+{
+  "General": {
+    "Symbol": "3DES",
+    "Name": "3DES",
+    "Description": "<p><span>The 3DES project is developing a decentralized solution for 3D slicing problem. </span><span>The team assumes that the slicing speed problem can be solved using a decentralized slicer that allows users with low-power equipment to rent computing capacity from others (a p2p interaction model), paying the service with DES tokens. In the end, a user who paid the slicing service gets a generated G-Code - the mentioned list of commands for a 3D printer.</span></p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "35000000",
+    "Algorithm": null,
+    "ProofType": null,
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "28/08/2017",
+    "TotalCoinsMined": null,
+    "Twitter": "@3DesProject",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": null,
+    "GitHub": null,
+    "OnMarkets": [],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Ongoing",
+    "Description": "<p><span>The 3DES project is developing a decentralized solution for 3D slicing problem. </span><span>The team assumes that the slicing speed problem can be solved using a decentralized slicer that allows users with low-power equipment to rent computing capacity from others (a p2p interaction model), paying the service with DES tokens. In the end, a user who paid the slicing service gets a generated G-Code - the mentioned list of commands for a 3D printer.</span></p><p><strong>Team</strong>:</p><ul><li><strong>Alena Anokhova</strong>: CEO. <a href=\"https://www.linkedin.com/in/alena-anokhova-3b2b7b87/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Sardorbek Imomaliev</strong>: Developer.<span> </span><a href=\"https://www.linkedin.com/in/sardorbek-imomaliev-43013b67/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Dmitry Felinger</strong>: <span>Developer</span>.<span> </span><a href=\"https://www.facebook.com/dmitry.felinger\" target=\"_blank\"><img style=\"width: 13px; height: 13px;\" src=\"/media/1383930/face_logo_final.png?width=13&amp;height=13\" alt=\"\" data-id=\"202866\"></a></li><li><strong>Irina Medver</strong><span>: Marketing Manager.</span><span><span> </span></span><a href=\"https://www.facebook.com/irina.zabelirina\" target=\"_blank\"><img style=\"width: 13px; height: 13px;\" src=\"/media/1383930/face_logo_final.png?width=13&amp;height=13\" alt=\"\" data-id=\"202866\"></a></li></ul><p><span>3DES </span>will be holding its ICO on September 25, 2017. The ICO token supply represents 83% of the total token supply. Each token will be sold for 0.0004 ETH at the offering. The ICO funding target is 1400 ETH, the funding cap is 35,000 ETH and is expected to end on October 25, 2017, or when the funding cap is reached.</p><p><strong>Token Reserve Split:</strong></p><ul><li>10% Pre-ICO;</li><li>14% Founders;</li><li>71% ICO;</li><li><span>02% Private-ICO;</span></li><li><span>02% Bounties;</span></li></ul><p><strong>Bonus Structure:</strong></p><p>During the Pre-ICO 3,500,000 DES will be sold with a 60% discount.</p>",
+    "TokenType": "ETH (ERC20)",
+    "WebsiteLink": "https://3des.network/?utm_source=ccm",
+    "FundingCap": "35,000 ETH",
+    "FundingTarget": "1,400 ETH",
+    "Date": 1506304800,
+    "EndDate": 1508896800,
+    "FundsRaisedList": "407 ETH",
+    "FundsRaisedUSD": "125294.95",
+    "StartPrice": "0.0004",
+    "StartPriceCurrency": "ETH",
+    "Jurisdiction": "N/A",
+    "BlogLink": null,
+    "WhitePaperLink": "https://3des.network/static/documents/en/whitepaper.pdf"
+  },
+  "ccId": "304693"
+}

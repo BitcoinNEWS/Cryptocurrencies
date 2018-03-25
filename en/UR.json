@@ -1,0 +1,58 @@
+{
+  "General": {
+    "Symbol": "UR",
+    "Name": "UR",
+    "Description": "<p><span>UR is a decentralized cryptographic information, application, and contract platform and a coin of the same name. The UR coin will be fairly distributed to all humans on Earth via the \"UR Airdrop,\" with each human receiving 2,000 UR initially and additional amounts. The coin itself is based on Ethereum, using the Dagger algorithm.</span></p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": null,
+    "Algorithm": "Dagger",
+    "ProofType": "PoW",
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "16/10/2016",
+    "TotalCoinsMined": null,
+    "Twitter": "@URforall",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "https://www.ur.technology/",
+    "GitHub": null,
+    "OnMarkets": [
+      "Cryptopia"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "N/A",
+    "Description": null,
+    "TokenType": null,
+    "WebsiteLink": null,
+    "FundingCap": null,
+    "FundingTarget": null,
+    "Date": null,
+    "EndDate": null,
+    "FundsRaisedList": null,
+    "FundsRaisedUSD": null,
+    "StartPrice": null,
+    "StartPriceCurrency": null,
+    "Jurisdiction": null,
+    "BlogLink": null,
+    "WhitePaperLink": null
+  },
+  "ccId": "34750"
+}

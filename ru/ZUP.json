@@ -1,0 +1,56 @@
+{
+  "General": {
+    "Symbol": "ZUP",
+    "Name": "Zupply Token",
+    "Description": "<p>Zupply<span><span> </span>is the new Supply BlockChain system for the new Era in<span> </span></span>industrial<span><span> </span>sector. The system is born to help buyers and suppliers to reduce costs, expand their business and open new markets.</span></p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "750000000",
+    "Algorithm": null,
+    "ProofType": null,
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "10/03/2018",
+    "TotalCoinsMined": null,
+    "Twitter": "@ZupplyICO",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": null,
+    "GitHub": null,
+    "OnMarkets": [],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Ongoing",
+    "Description": "<p>Zupply is the new Supply BlockChain system for the new Era in industrial sector. The system is born to help buyers and suppliers to reduce costs, expand their business and open new markets.</p><p><strong>Team</strong>:</p><ul><li><strong>Roberto Fabri</strong><span>: Founder. <a href=\"https://www.linkedin.com/in/roberto-fabbri-19568099/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></span></li><li><strong>Luca Moschini</strong><span>: Co-Founder. </span><a href=\"https://www.linkedin.com/in/luca-moschini-25171530/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Emiliano Vezzosi</strong><span>: Supply Chain &amp; Industry. </span><a href=\"https://www.linkedin.com/in/emiliano-vezzosi-75105033/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Sara Gianotti</strong><span>: Marketing &amp; SMM. </span><a href=\"https://www.linkedin.com/in/sara-gianotti-40501299/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Claudia Venturi</strong><span>: Operations Manager.</span></li><li><strong>Alessio Fanti</strong><span>: Advisor. <a href=\"https://www.linkedin.com/in/alessio-fanti-72150538/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></span></li><li><strong>Alejandro Malfetano</strong><span>: South America Ambassador. </span><a href=\"https://www.linkedin.com/in/alejandromalfetano/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li></ul><p>Zupply will be holding its ICO on the 10th of March, 2018. The ICO token supply represents 67% of the total token supply, so there will be a total of 600,000,000 tokens available, for 0.00005 ETH each at the offering. The ICO funding target is 1800 ETH, the funding cap is 36500 ETH and is expected to end on the 21st of April, 2017 or when the funding cap is reached.</p>",
+    "TokenType": "ETH (ERC20)",
+    "WebsiteLink": "https://www.zupply.net/",
+    "FundingCap": "36500 ETH",
+    "FundingTarget": "1800 ETH",
+    "Date": 1520640000,
+    "EndDate": 1524268800,
+    "FundsRaisedList": "N/A",
+    "FundsRaisedUSD": "N/A",
+    "StartPrice": "0.00005",
+    "StartPriceCurrency": "ETH",
+    "Jurisdiction": "N/A",
+    "BlogLink": null,
+    "WhitePaperLink": "http://zupply.net/assets/whitepaper1-0-1.pdf"
+  },
+  "ccId": "808252"
+}

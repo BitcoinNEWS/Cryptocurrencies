@@ -1,0 +1,56 @@
+{
+  "General": {
+    "Symbol": "MDL",
+    "Name": "Modulum",
+    "Description": "<p><span>Hitech One is a french company specialized in the conception and production of miniaturized smart and modular embedded systems. </span><span>Modulum, created by Hitech, is an IoT device able to interact with the real world using sensors, communication boards and actuators. Modulum’s hardware is modular in order to adapt to the consumer &#39;s final needs. Modulum is able to record real-world data to blockchains (public or private), or to any other network and web services (web servers, clouds, etc.). To give Modulum its utility, an application must be installed. The user is able to create his own embedded application and make it communicate with the external services and the blockchains that suit his specific needs. Modulum usages range from simply securing that a product is delivered according to a customer and insurance parameters to entire smart cities (energy infrastructures’ management, population flow management, financial independence of infrastructures.).</span></p><p><span>MDL is an Ethereum-based token that represents a real exchange value within the Modulum ecosystem. The tokens allow Modulum users, Hitech One, add-on creators, application creators, resellers, government and legal parties</span><span>, etc., to create, redeem and use associated services.</span></p><p> </p><p><span> </span></p><p> </p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "35100000",
+    "Algorithm": null,
+    "ProofType": null,
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "26/10/2017",
+    "TotalCoinsMined": null,
+    "Twitter": "@HitechOne_",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": null,
+    "GitHub": null,
+    "OnMarkets": [],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "N/A",
+    "Description": null,
+    "TokenType": null,
+    "WebsiteLink": null,
+    "FundingCap": null,
+    "FundingTarget": null,
+    "Date": null,
+    "EndDate": null,
+    "FundsRaisedList": null,
+    "FundsRaisedUSD": null,
+    "StartPrice": null,
+    "StartPriceCurrency": null,
+    "Jurisdiction": null,
+    "BlogLink": null,
+    "WhitePaperLink": "https://modulum.io/whitepaper-modulum-en.pdf"
+  },
+  "ccId": "364051"
+}

@@ -1,0 +1,56 @@
+{
+  "General": {
+    "Symbol": "INV*",
+    "Name": "Invacio",
+    "Description": "<p><span>Invacio Coin (INV) is a utility token that not only allows you to access the range of Invacio’s market-ready systems, from our Zero-Knowledge end-to-end encrypted communications to our groundbreaking data repository and financial offerings but also comprises the doorway to TAMIUS, Invacio’s decentralized blockchain banking system.</span></p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "450000000",
+    "Algorithm": null,
+    "ProofType": null,
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "12/03/2018",
+    "TotalCoinsMined": 450000000,
+    "Twitter": "@Invacio",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": null,
+    "GitHub": null,
+    "OnMarkets": [],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Ongoing",
+    "Description": "<p>Invacio Coin (INV) is a utility token that not only allows you to access the range of Invacio’s market-ready systems, from our Zero-Knowledge end-to-end encrypted communications to our groundbreaking data repository and financial offerings but also comprises the doorway to TAMIUS, Invacio’s decentralized blockchain banking system.</p><p><strong>Team</strong>:</p><ul><li><strong>Scott Soutter</strong><span>: AI and Deep Learning Counsel. </span><a href=\"https://www.linkedin.com/in/scott-soutter-706773/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Richard Cohen</strong><span>: Hedge Fund Management Advisor. </span><a href=\"https://www.linkedin.com/in/richiecohen/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Peter Nguyen</strong><span>: Systems Bug Buster Consultant. </span><a href=\"https://www.linkedin.com/in/peter-nguyen-b5736743/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>James Smith</strong><span>: Digital Security Specialist. </span><a href=\"https://www.linkedin.com/in/jasmith37/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Nathan L Smith</strong><span>: Advisor to the Board. </span><a href=\"https://www.linkedin.com/in/nathansmith9/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Arvind Patel</strong><span>: Systems Development Manager. </span><a href=\"https://www.linkedin.com/in/arvindlimbasiya/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Asif Majid</strong><span>: HNW Liaison Advisor. </span><a href=\"https://www.linkedin.com/in/asif-majid-50710514/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Arnaud C.M.C. Verstraete</strong><span>: Charitable Operations Counsel. </span><a href=\"https://www.linkedin.com/in/arnaudverstraete/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>David Lesperance</strong><span>: Legal Counsel. </span><a href=\"https://www.linkedin.com/in/davidslesperance/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>William James Dalrymple West</strong>: CEO &amp; Founder. <a href=\"https://www.linkedin.com/in/williamjamesdalrymplewest/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li></ul><p>Invacio will be holding its ICO on the 12th of March, 2018. The ICO token supply represents 33% of the total token supply, so there will be a total of 150,000,000 tokens available, for $1 each at the offering. The ICO funding target is 100,000,000 USD and is expected to end on the 14th of May, 2018 or when the funding cap is reached.</p>",
+    "TokenType": "ETH (ERC20)",
+    "WebsiteLink": "http://bit.ly/2HLBAV8",
+    "FundingCap": "N/A",
+    "FundingTarget": "100,000,000 USD",
+    "Date": 1520812800,
+    "EndDate": 1526256000,
+    "FundsRaisedList": "25,697,454 INV tokens sold",
+    "FundsRaisedUSD": "3000000",
+    "StartPrice": "1",
+    "StartPriceCurrency": "USD",
+    "Jurisdiction": "UK",
+    "BlogLink": null,
+    "WhitePaperLink": " https://invest.invacio.com/layouts/landing-content-media/2018/01/Final-White-paper-1.pdf"
+  },
+  "ccId": "819601"
+}

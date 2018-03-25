@@ -1,0 +1,60 @@
+{
+  "General": {
+    "Symbol": "REAL",
+    "Name": "REAL",
+    "Description": "<p><span>REAL is a new Ethereum Smart-Contracts governed ecosystem that applies Blockchain technologies to the enormous Real Estate investment industry, giving access to global investment in Real Estate, lowering barriers to entry, and increasing market liquidity.</span></p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "N/A",
+    "Algorithm": "N/A",
+    "ProofType": "N/A",
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "01/01/0001",
+    "TotalCoinsMined": null,
+    "Twitter": "http://www.real.markets",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "http://www.real.markets",
+    "GitHub": null,
+    "OnMarkets": [
+      "Gatecoin",
+      "BitFlip",
+      "EtherDelta"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Ongoing",
+    "Description": "<p>REAL is a new Ethereum Smart-Contracts governed ecosystem that applies Blockchain technologies to the enormous Real Estate investment industry, giving access to global investment in Real Estate, lowering barriers to entry, and increasing market liquidity.</p><p><strong>Team</strong>:</p><ul><li><strong>Enrique Dubois</strong>: CEO, Co-Founder. <a href=\"https://es.linkedin.com/in/enriquedubois\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Bernardo Hernández</strong>: Director, Co-Founder. <a href=\"https://www.linkedin.com/in/bernardohernandez\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Javier Llabrés</strong>: CTO. <a href=\"https://www.linkedin.com/in/javier-llabr%C3%A9s/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>David Ortega</strong><span>: Ethereum Developer.</span><span> <a href=\"https://www.linkedin.com/in/dortega/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></span></li><li><span><strong>Melissa Sapmaz</strong><span>: Communications Director.</span><span> <a href=\"https://es.linkedin.com/in/melissasapmaz\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></span></span></li><li><strong>Miguel Covas</strong><span>: COO. </span><span><a href=\"http://www.linkedin.com/in/miguelcovas\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></span></li></ul><p>REAL will be holding its ICO on August 31, 2017. The ICO token supply represents 51% of the total token supply. The ICO funding target is 200,00 ETH, the funding cap is 400,000 ETH and is expected to end 14 days after the starting day, or within 36 hours of the soft cap being achieved. Any unsold tokens will be burned.</p><p>REAL&#39;s ICO campaign will feature a bonus structure, as illustrated bellow.</p><p><strong>Bonus Structure:</strong></p><p><strong><img src=\"/media/1383917/real_bonus.png?width=406&amp;height=268\" alt=\"\" data-id=\"202050\"></strong></p><p><strong>Token Reserve Split (49%):</strong></p><p><img style=\"width: 420px; height: 248px;\" src=\"/media/1383918/real_token.png?width=420&amp;height=248\" alt=\"\" data-id=\"202051\"></p><p><strong>Token Sale Funds Distribution:</strong></p><p><strong><img style=\"width: 431px; height: 259px;\" src=\"/media/1383916/real_alocation.png?width=431&amp;height=259\" alt=\"\" data-id=\"202048\"></strong></p><p> </p>",
+    "TokenType": "ETH (ERC20)",
+    "WebsiteLink": "https://www.real.markets/",
+    "FundingCap": "400,000 ETH",
+    "FundingTarget": "200,000 ETH",
+    "Date": 1504191600,
+    "EndDate": 1506776400,
+    "FundsRaisedList": "35,169 ETH",
+    "FundsRaisedUSD": "10269348",
+    "StartPrice": "0.00454545454",
+    "StartPriceCurrency": "ETH",
+    "Jurisdiction": "N/A",
+    "BlogLink": "https://medium.com/@real_token/",
+    "WhitePaperLink": "http://www.real.markets/REAL_Whitepaper.pdf"
+  },
+  "ccId": "198490"
+}

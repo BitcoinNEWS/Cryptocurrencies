@@ -1,0 +1,58 @@
+{
+  "General": {
+    "Symbol": "8BT",
+    "Name": "8 Circuit Studios",
+    "Description": "<p>Circuit Studios is creating a new gaming ecosystem powered by their 8BT tokens, an Ethereum-based token. These tokens allow gamers to purchase game assets. The first release of Circuit Studios is <span>D-PARC, described as \"a new game that uses the Ethereum blockchain to enable digital sovereignty\".</span></p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "100000000",
+    "Algorithm": "N/A",
+    "ProofType": "N/A",
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "17/07/2017",
+    "TotalCoinsMined": 100000000,
+    "Twitter": "@8circuitstudios",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "https://www.tokensale.8circuitstudios.com/",
+    "GitHub": null,
+    "OnMarkets": [
+      "HitBTC"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Ongoing",
+    "Description": "<p><span>8 Circuit Studios is creating a new gaming ecosystem powered by their 8BT tokens, an Ethereum-based token. These tokens allow gamers to purchase game assets. The first release of 8 Circuit Studios is </span><span>D-PARC, described as \"a new game that uses the Ethereum blockchain to enable digital sovereignty\".</span></p><p>From 17th of July to 16th of August 2017, users will be able to purchase 8BT tokens with ETH in the 8 Circuits Studios ICO. During the campaign, 33000000 tokens will be sold (33%) to the public, while 33% will be retained by 8 Circuit Studios, 33% for distribution to incentivize participation in the ecosystem and 1% will be used to cover ICO expenses. 8 Circuit Studios plans to raise between $1.5m to $33m in Ether.</p><p>The 8Bit Token price will be based on the USD on the date of the sale; 1 8Bit = $1 USD. To determine the price of a single 8Bit we will divide 1 by the value of ETH on the day of the sale</p><p>There are no bonuses, bounties or escrow in this ICO. The 8BT token is not mineable.</p><p> </p>",
+    "TokenType": "ETH (ERC20)",
+    "WebsiteLink": "https://www.tokensale.8circuitstudios.com/",
+    "FundingCap": "33000000 USD",
+    "FundingTarget": "1500000 USD",
+    "Date": 1500253200,
+    "EndDate": 1503035308,
+    "FundsRaisedList": "N/A",
+    "FundsRaisedUSD": "N/A",
+    "StartPrice": "1",
+    "StartPriceCurrency": "USD",
+    "Jurisdiction": "N/A",
+    "BlogLink": null,
+    "WhitePaperLink": null
+  },
+  "ccId": "177124"
+}

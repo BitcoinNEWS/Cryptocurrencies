@@ -1,0 +1,62 @@
+{
+  "General": {
+    "Symbol": "BLU",
+    "Name": "BlueCoin",
+    "Description": "<p>BlueCoin (BLU) is a scrypt altcoin that is starts with a PoW phase lasting 100 days - and then switches to Proof of Stake. The block time is 90 seconds and the difficulty retargets every block. The coin is based on Scrypt and the PoS interest rate is set to 3%. There was a 3% premine for bugs, bountie and further development.</p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "500000000",
+    "Algorithm": "X11",
+    "ProofType": "PoW/PoS",
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "30/03/2015",
+    "TotalCoinsMined": null,
+    "Twitter": "@BlueCoin_info",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "http://bluecoin.info/",
+    "GitHub": null,
+    "OnMarkets": [
+      "Yobit",
+      "CCEX",
+      "Cryptsy",
+      "LiveCoin",
+      "BitTrex"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "N/A",
+    "Description": null,
+    "TokenType": null,
+    "WebsiteLink": null,
+    "FundingCap": null,
+    "FundingTarget": null,
+    "Date": null,
+    "EndDate": null,
+    "FundsRaisedList": null,
+    "FundsRaisedUSD": null,
+    "StartPrice": null,
+    "StartPriceCurrency": null,
+    "Jurisdiction": null,
+    "BlogLink": null,
+    "WhitePaperLink": null
+  },
+  "ccId": "4340"
+}

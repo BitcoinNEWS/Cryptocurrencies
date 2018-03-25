@@ -1,0 +1,56 @@
+{
+  "General": {
+    "Symbol": "RFL",
+    "Name": "RAFL",
+    "Description": "<div class=\"u-flex1\"><p class=\"ui-body hero-description\">RAFL is an Ethereum-based online raffle of goods marketplace. <span>A user can participate in a raffle and have the chance of winning an item at a fraction of the cost. On the other hand, a user can also host a raffle and earn the maximum amount for the item they wish to sell. The RAFL DApp will use Ethereum as its primary currency and all items will be listed using Ethereum but can be priced in fiat.</span></p><p class=\"ui-body hero-description\"><span>RFL is an ERC20 token that allows its holders to vote on proposals related to the project&#39;s development and to receive a share of RAFL&#39;s profits. RAFL&#39;s profits will be paid in ETH to the token holders.</span></p></div><div class=\"hero-avatar u-flex0 u-marginLeft20 u-relative\"></div>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "100000000",
+    "Algorithm": null,
+    "ProofType": null,
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "06/10/2017",
+    "TotalCoinsMined": null,
+    "Twitter": "@RAFLmarket",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": null,
+    "GitHub": null,
+    "OnMarkets": [],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "N/A",
+    "Description": null,
+    "TokenType": null,
+    "WebsiteLink": null,
+    "FundingCap": null,
+    "FundingTarget": null,
+    "Date": null,
+    "EndDate": null,
+    "FundsRaisedList": null,
+    "FundsRaisedUSD": null,
+    "StartPrice": null,
+    "StartPriceCurrency": null,
+    "Jurisdiction": null,
+    "BlogLink": null,
+    "WhitePaperLink": null
+  },
+  "ccId": "436162"
+}

@@ -1,0 +1,58 @@
+{
+  "General": {
+    "Symbol": "CLR",
+    "Name": "CopperLark",
+    "Description": "<p>There are many changes over Bitcoin which makes it not just another clone, one which includes using SHA3 instead of SHA2 or Scrypt. If compared to BTC, some significant changes have been done to basic system parameters. Transaction speed has increased by reducing the block generation rate down to 4 minutes and a total of 26 Million will be mined.</p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "27200000",
+    "Algorithm": "SHA256",
+    "ProofType": "PoW",
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "06/06/2013",
+    "TotalCoinsMined": null,
+    "Twitter": "@copperlark",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "http://copperlark.com/",
+    "GitHub": null,
+    "OnMarkets": [
+      "Cryptsy"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "N/A",
+    "Description": null,
+    "TokenType": null,
+    "WebsiteLink": null,
+    "FundingCap": null,
+    "FundingTarget": null,
+    "Date": null,
+    "EndDate": null,
+    "FundsRaisedList": null,
+    "FundsRaisedUSD": null,
+    "StartPrice": null,
+    "StartPriceCurrency": null,
+    "Jurisdiction": null,
+    "BlogLink": null,
+    "WhitePaperLink": null
+  },
+  "ccId": "4418"
+}

@@ -1,0 +1,63 @@
+{
+  "General": {
+    "Symbol": "SNC",
+    "Name": "SunContract",
+    "Description": "<p>SunContract is a <span>Decentralized Energy Market created to </span>disrupt the energy section. Through the use of SunContract <span>onnects </span><span>electricity producers and consumers directly on a electricity pool, skipping middlemen fees and complications. SNC is an Ethereum-based token that is used within the SunContract system.</span></p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "7994751.31",
+    "Algorithm": "N/A",
+    "ProofType": "N/A",
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "01/01/0001",
+    "TotalCoinsMined": 122707.5026929622,
+    "Twitter": "@sun_contract",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "https://suncontract.org/",
+    "GitHub": null,
+    "OnMarkets": [
+      "Yobit",
+      "OKEX",
+      "HuobiPro",
+      "Kucoin",
+      "HitBTC",
+      "EtherDelta"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Finished",
+    "Description": "<p>SunContract is a Decentralized Energy Market created to disrupt the energy section. Through the use of SunContract onnects electricity producers and consumers directly on a electricity pool, skipping middlemen fees and complications. SNC is an Ethereum-based token that is used within the SunContract system.</p><p>The SunContract ICO starts on the 28th of June at 15:00 UTC and will last for a month. During this period, users will be able to buy SNC with ETH for roughly 0.0001. The basis for token supply is set at the ratio of 10.000 to 11.600 SNC per 1 ETH, depending on the participation date Bonus Timeline:</p><ul><li>week 1 registered addresses; 11,600 SNCs for 1 ETH</li><li>week 1 regular price; 11.500 SNCs for 1 ETH</li><li>week 2; 11.000 SNCs for 1 ETH</li><li>week 3; 10.500 SNCs for 1 ETH</li><li>week 4; 10.000 SNCs for 1 ETH</li></ul><h4><a id=\"user-content-cap\" href=\"https://github.com/SunContract/SmartContracts#cap\" class=\"anchor\"></a>Cap:</h4><ul><li>Min cap is 5,000.00 ETH</li><li>Max cap is 100,000.00 ETH</li></ul><h4><a id=\"user-content-token-distribution\" href=\"https://github.com/SunContract/SmartContracts#token-distribution\" class=\"anchor\"></a>Token Distribution:</h4><ul><li>25% of tokens sold will be minted on top for the team &amp; bounties, the final ratio will therefore be 80/20.</li></ul>",
+    "TokenType": "ETH (ERC20)",
+    "WebsiteLink": "https://suncontract.org/ico.html",
+    "FundingCap": "100,000.00 ETH",
+    "FundingTarget": "5,000.00 ETH",
+    "Date": 1498662000,
+    "EndDate": 1501599600,
+    "FundsRaisedList": "8,089 ETH;",
+    "FundsRaisedUSD": "1637245",
+    "StartPrice": "0.0001",
+    "StartPriceCurrency": "ETH",
+    "Jurisdiction": "N/A",
+    "BlogLink": "http://blog.suncontract.org/",
+    "WhitePaperLink": "https://suncontract.org/res/whitepaper.pdf"
+  },
+  "ccId": "179926"
+}

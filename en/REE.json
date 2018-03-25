@@ -1,0 +1,59 @@
+{
+  "General": {
+    "Symbol": "REE",
+    "Name": "ReeCoin",
+    "Description": "<p><span>ReeCoin is a peer-to-peer PoW/PoS hybrid cryptocurrency with increased security and a fast consensus mechanism.</span></p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "350000000",
+    "Algorithm": "Scrypt",
+    "ProofType": "PoW/PoS",
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "08/05/2016",
+    "TotalCoinsMined": null,
+    "Twitter": "@SpaceCoinLab",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "-",
+    "GitHub": null,
+    "OnMarkets": [
+      "Yobit",
+      "LiveCoin"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "N/A",
+    "Description": null,
+    "TokenType": null,
+    "WebsiteLink": null,
+    "FundingCap": null,
+    "FundingTarget": null,
+    "Date": null,
+    "EndDate": null,
+    "FundsRaisedList": null,
+    "FundsRaisedUSD": null,
+    "StartPrice": null,
+    "StartPriceCurrency": null,
+    "Jurisdiction": null,
+    "BlogLink": null,
+    "WhitePaperLink": null
+  },
+  "ccId": "22418"
+}

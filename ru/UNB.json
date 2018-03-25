@@ -1,0 +1,61 @@
+{
+  "General": {
+    "Symbol": "UNB",
+    "Name": "UnbreakableCoin",
+    "Description": "<p>Unbreakable Coin - монета SHA-256 POW с жестким ограничением 80 миллионов UNB и блочным временем 300 секунд. Существует два шага за вознаграждение в размере 50 монет за первые 800 000 блоков и 25 после этого.</p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "80000000",
+    "Algorithm": "SHA256",
+    "ProofType": "PoW",
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "29/05/2014",
+    "TotalCoinsMined": 2278150,
+    "Twitter": "@Unbreakablcoin",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "http://www.unbreakablecoin.com/",
+    "GitHub": null,
+    "OnMarkets": [
+      "Cryptopia",
+      "BitTrex",
+      "CCEX",
+      "Cryptsy"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "N/A",
+    "Description": null,
+    "TokenType": null,
+    "WebsiteLink": null,
+    "FundingCap": null,
+    "FundingTarget": null,
+    "Date": null,
+    "EndDate": null,
+    "FundsRaisedList": null,
+    "FundsRaisedUSD": null,
+    "StartPrice": null,
+    "StartPriceCurrency": null,
+    "Jurisdiction": null,
+    "BlogLink": null,
+    "WhitePaperLink": null
+  },
+  "ccId": "4629"
+}

@@ -1,0 +1,58 @@
+{
+  "General": {
+    "Symbol": "VIOR",
+    "Name": "ViorCoin",
+    "Description": "<p>ViorCoin includes encrypted messageing but is also a scrypt alternative crypto currency.</p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "0",
+    "Algorithm": "Scrypt",
+    "ProofType": "PoW/PoS",
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "29/10/2014",
+    "TotalCoinsMined": null,
+    "Twitter": "@viorcoin",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "http://viorcoin.com/",
+    "GitHub": null,
+    "OnMarkets": [
+      "BitTrex"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "N/A",
+    "Description": null,
+    "TokenType": null,
+    "WebsiteLink": null,
+    "FundingCap": null,
+    "FundingTarget": null,
+    "Date": null,
+    "EndDate": null,
+    "FundsRaisedList": null,
+    "FundsRaisedUSD": null,
+    "StartPrice": null,
+    "StartPriceCurrency": null,
+    "Jurisdiction": null,
+    "BlogLink": null,
+    "WhitePaperLink": null
+  },
+  "ccId": "5407"
+}

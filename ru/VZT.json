@@ -1,0 +1,56 @@
+{
+  "General": {
+    "Symbol": "VZT",
+    "Name": "Vezt",
+    "Description": "<p><span>Vezt brings cutting-edge blockchain technology to the music industry, allowing artists to partner with fans and investors to monetize their IP on a song-by-song basis.</span></p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "125000000",
+    "Algorithm": null,
+    "ProofType": "PoW",
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "03/11/2017",
+    "TotalCoinsMined": null,
+    "Twitter": "https://twitter.com/veztinc",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": null,
+    "GitHub": null,
+    "OnMarkets": [],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Ongoing",
+    "Description": "<p><span>Vezt brings cutting-edge blockchain technology to the music industry, allowing artists to partner with fans and investors to monetize their IP on a song-by-song basis.</span></p><p><strong>Team</strong>:</p><ul><li><strong>Steve Stewart</strong>: <span>CEO &amp; Co-Founder</span>.</li><li><strong>Robert Menendez</strong><span>: CFO &amp; Co-Founder.</span></li><li><span><strong>Josh SmithE</strong><span>: CTO.</span></span></li><li><strong>Paul NovoaE</strong><span>: CCO.</span></li></ul><p><span>Vezt </span>will be holding its ICO on November 4, 2017. The ICO token supply represents 45% of the total token supply. The ICO funding cap is 15,000,000 USD and is expected to end on December 3, 2017 or when the funding cap is reached. </p><p><strong>Token Reserve Split:</strong></p><ul><li>50% sold in Private &amp; Public Token Generating Event;</li><li>35% held by Vezt Inc. for platform development;</li><li>10% reserved for partnerships, marketing &amp; PR;</li><li>5% for Advisors &amp; Consultants;</li></ul>",
+    "TokenType": "ETH (ERC20)",
+    "WebsiteLink": "https://vezt.co/",
+    "FundingCap": "15,000,000 USD",
+    "FundingTarget": "N/A",
+    "Date": 1509768000,
+    "EndDate": 1512100800,
+    "FundsRaisedList": "Pre-sale: 3,500,000 USD\r\nMain ICO: 1,345,753.3961 USD",
+    "FundsRaisedUSD": "4845753.3961",
+    "StartPrice": "0.00116",
+    "StartPriceCurrency": "ETH",
+    "Jurisdiction": "U.S.A",
+    "BlogLink": "https://medium.com/@vezt",
+    "WhitePaperLink": "https://vezt.co/wp-content/uploads/2017/10/VeztWhitePaper101217.pdf"
+  },
+  "ccId": "350476"
+}

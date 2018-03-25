@@ -1,0 +1,59 @@
+{
+  "General": {
+    "Symbol": "PXC",
+    "Name": "PhoenixCoin",
+    "Description": "<p>Phoenixcoin (PXC)is Scrypt based cryptocoin and digital currency for everyone. It doesn&#39;t depend upon very expensive hardware and can be mined successfully with popular computer video cards or processors. It is also a fast and reliable way to send money worldwide. The currency can be used on the developers casino website.</p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "98000000",
+    "Algorithm": "Scrypt",
+    "ProofType": "PoW/PoS",
+    "BlockReward": 24.999999994412065,
+    "Explorer": null,
+    "StartDate": "20/05/2013",
+    "TotalCoinsMined": 65084737.74149638,
+    "Twitter": "@Phoenixcoin",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "http://phoenixcoin.org/",
+    "GitHub": null,
+    "OnMarkets": [
+      "Cryptopia",
+      "Cryptsy"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "N/A",
+    "Description": null,
+    "TokenType": null,
+    "WebsiteLink": null,
+    "FundingCap": null,
+    "FundingTarget": null,
+    "Date": null,
+    "EndDate": null,
+    "FundsRaisedList": null,
+    "FundsRaisedUSD": null,
+    "StartPrice": null,
+    "StartPriceCurrency": null,
+    "Jurisdiction": null,
+    "BlogLink": null,
+    "WhitePaperLink": null
+  },
+  "ccId": "4590"
+}

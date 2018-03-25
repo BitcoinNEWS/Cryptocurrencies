@@ -1,0 +1,59 @@
+{
+  "General": {
+    "Symbol": "TZC",
+    "Name": "TrezarCoin",
+    "Description": "<p><span>TrezorCoin is a proof of work cryptocurrency supporting multi-algo mining through PoS and PoW. It uses NeoScrypt PoW, Sha256d PoS and BLAKE2s for Blockhashing and has implemented 0% PoS by Ghostlander.</span></p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "400000000",
+    "Algorithm": "NeoScrypt",
+    "ProofType": "PoW/PoS",
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "01/09/2017",
+    "TotalCoinsMined": 95718600,
+    "Twitter": "@TrezarCoin",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": null,
+    "GitHub": null,
+    "OnMarkets": [
+      "Cryptopia",
+      "Novaexchange"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "N/A",
+    "Description": null,
+    "TokenType": null,
+    "WebsiteLink": null,
+    "FundingCap": null,
+    "FundingTarget": null,
+    "Date": null,
+    "EndDate": null,
+    "FundsRaisedList": null,
+    "FundsRaisedUSD": null,
+    "StartPrice": null,
+    "StartPriceCurrency": null,
+    "Jurisdiction": null,
+    "BlogLink": null,
+    "WhitePaperLink": null
+  },
+  "ccId": "338180"
+}

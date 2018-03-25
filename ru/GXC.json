@@ -1,0 +1,58 @@
+{
+  "General": {
+    "Symbol": "GXC",
+    "Name": "Gx Coin",
+    "Description": "<p>The Gx Coin project is a cryptocurrency VC fund presented by Genevieve that will buy<span> into local economies around the world in the form of business financing</span>. The <span>GXC is an Ethereum-based token and represents a stake in the fund.</span></p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "10000000",
+    "Algorithm": null,
+    "ProofType": null,
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "25/08/2017",
+    "TotalCoinsMined": null,
+    "Twitter": "@GxCoinGenevieve",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": null,
+    "GitHub": null,
+    "OnMarkets": [
+      "EtherDelta"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Ongoing",
+    "Description": "<p><span>The Gx Coin project is a cryptocurrency VC fund presented by Genevieve that will </span><span>buy</span><span> into local economies around the world in the form of business financing</span><span>. The </span><span>GXC is an Ethereum-based token and represents<span> </span>a stake in the fund.</span></p><p><strong>Team</strong>:</p><ul><li><strong>Fabien Dureuil:</strong> CEO</li><li><strong>Duane Kirkpatrick:</strong> Senior Partner</li><li><strong>Stéphanie Webb:</strong> Junior Partner - Manager</li></ul><p>The Gx Coin ICO began on the 25th of August and will last until the 31st of August, 2017 or until the investment cap of $10m is reached. During the token sale, 82.5% of the total 10m GXC will be destributed for a $1 price. </p><p><strong>Token Reserve Split (XX%):</strong></p><ul><li>7.5% GXC Liquidity Reserve,</li><li>5% Bounties,</li><li>5% Team and Founders.</li></ul>",
+    "TokenType": "ETH (ERC20)",
+    "WebsiteLink": "https://www.genevieveco.com/copy-of-accredited-investor",
+    "FundingCap": "10000000",
+    "FundingTarget": "N/A",
+    "Date": 1503622800,
+    "EndDate": 1504137600,
+    "FundsRaisedList": "297,731 USD",
+    "FundsRaisedUSD": "297731",
+    "StartPrice": "1",
+    "StartPriceCurrency": "USD",
+    "Jurisdiction": "N/A",
+    "BlogLink": "https://medium.com/@genevievegx",
+    "WhitePaperLink": "https://www.genevieveco.com/copy-of-about-us"
+  },
+  "ccId": "247350"
+}

@@ -1,0 +1,62 @@
+{
+  "General": {
+    "Symbol": "ZEIT",
+    "Name": "ZeitCoin",
+    "Description": "<p>Zeitcoin is a cryptocurrency that allows insant peer-to-peer payments to anyone, withou the oversight of any central authority. Zeitcoin is a charity and activism driven coin. ZEIT uses a sustainable PoS algorithm with dynamic staking rewards: </p><p>25% during the first year</p><p>20% <span>during the second year</span></p><p>15% <span>during the third year</span></p><p>5% until all coins have been mined</p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": " 99000000000",
+    "Algorithm": "PoS",
+    "ProofType": "PoS",
+    "BlockReward": 0.013405227661132812,
+    "Explorer": null,
+    "StartDate": "28/02/2014",
+    "TotalCoinsMined": 36971190044.22227,
+    "Twitter": "@Zeitcoin",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "www.zeit-coin.net",
+    "GitHub": null,
+    "OnMarkets": [
+      "TradeSatoshi",
+      "Cryptopia",
+      "Yobit",
+      "Novaexchange",
+      "Cryptsy"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "N/A",
+    "Description": null,
+    "TokenType": null,
+    "WebsiteLink": null,
+    "FundingCap": null,
+    "FundingTarget": null,
+    "Date": null,
+    "EndDate": null,
+    "FundsRaisedList": null,
+    "FundsRaisedUSD": null,
+    "StartPrice": null,
+    "StartPriceCurrency": null,
+    "Jurisdiction": null,
+    "BlogLink": null,
+    "WhitePaperLink": null
+  },
+  "ccId": "20908"
+}

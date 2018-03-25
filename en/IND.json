@@ -1,0 +1,62 @@
+{
+  "General": {
+    "Symbol": "IND",
+    "Name": "Indorse",
+    "Description": "<p>Indorse is a platform using new models of tokenization and decentralization to change the shape of professional social networking.</p><p>Indorse uses internal rewards (Indorse Rewards) and a reputation system (Indorse Score) to incentivize members to add their skills / accomplishments and indorse those of others.</p><p>The core features of the Indorse platform will be implemented through the combination of a few technologies, which include Ethereum, IPFS/Swarm, and Whisper. The Indorse platform will have a serverless, decentralized architecture, with the content and code on IPFS, and the Ethereum blockchain as the computational engine.</p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "N/A",
+    "Algorithm": "N/A",
+    "ProofType": "N/A",
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "01/01/0001",
+    "TotalCoinsMined": 170622046.99999997,
+    "Twitter": "@joinindorse",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "https://indorse.io/",
+    "GitHub": null,
+    "OnMarkets": [
+      "Liqui",
+      "Yobit",
+      "HitBTC",
+      "Gatecoin",
+      "EtherDelta"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Ongoing",
+    "Description": "<p>Indorse is a platform using new models of tokenization and decentralization to change the shape of professional social networking.</p><p>Indorse uses internal rewards (Indorse Rewards) and a reputation system (Indorse Score) to incentivize members to add their skills / accomplishments and indorse those of others.</p><p>The core features of the Indorse platform will be implemented through the combination of a few technologies, which include Ethereum, IPFS/Swarm, and Whisper.<span> </span>The Indorse platform<span> </span>will have a serverless, decentralized architecture, with the content and code on IPFS, and the Ethereum blockchain as the computational<span> </span>engine.</p><p>Click <a href=\"https://www.wings.ai/\" target=\"_blank\">here</a> to participate in the token sale forecast being held on the WINGS Platform.</p><p><strong>Team</strong>:</p><ul><li><strong>David Moskowitz</strong>: Project Head (Founder). (<a href=\"http://www.twitter.com/davidmosk\" target=\"_blank\">Twitter</a>, <a href=\"https://www.linkedin.com/in/davidmoskowitz\" target=\"_blank\">LinkedIn</a>);</li><li><strong>NGaurang Torvekar</strong>: Project Technical Lead (Founder). (<span><a href=\"http://www.twitter.com/gaurangtorvekar\" target=\"_blank\">Twitter</a>, <a href=\"https://www.linkedin.com/in/gaurangtorvekar\" target=\"_blank\">LinkedIn</a></span>);</li><li><strong>Dipesh Sukhani</strong>: Project Operations Manager. (<span><a href=\"http://www.twitter.com/dipeshsukhani\" target=\"_blank\">Twitter</a>, <a href=\"https://www.linkedin.com/in/dipeshsukhani/\" target=\"_blank\">LinkedIn</a></span>);</li></ul><p><span>Indorse </span>will be holding its ICO on <span>August 8</span>, 2017. The ICO coin supply represents 35% of the total coin supply, and the ICO funding target is 5,000 ETH, the funding cap is 50,000 ETH and is expected to end on <span>August 8</span>, 2017 or when the funding cap is reached.</p><p><strong>Token Reserve Split (65%):</strong></p><ul><li>40% Future Usage;</li><li>05% Advisors (time-locked 240 days);</li><li>08%<span> Founders </span>(time-locked 240 days);</li><li>05%<span> Employees </span>(time-locked 240 days);</li><li>05% Marketing / Promotion;</li><li>02% Bounties;</li></ul><p><span>Indorse </span>ICO campaign features bounties, and the coin will be minable.</p>",
+    "TokenType": "ETH (ERC20)",
+    "WebsiteLink": "https://indorse.io/token-sale",
+    "FundingCap": "50,000 ETH",
+    "FundingTarget": "5,000 ETH",
+    "Date": 1502222400,
+    "EndDate": 1504828800,
+    "FundsRaisedList": "32,045.413 ETH",
+    "FundsRaisedUSD": "9613623.9",
+    "StartPrice": "0.001",
+    "StartPriceCurrency": "ETH",
+    "Jurisdiction": "N/A",
+    "BlogLink": "https://medium.com/joinindorse",
+    "WhitePaperLink": "https://indorse.io/static/media/Indorse-Whitepaper-v0.5.0.d4cd42bc.pdf"
+  },
+  "ccId": "185953"
+}

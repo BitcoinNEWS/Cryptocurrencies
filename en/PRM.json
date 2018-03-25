@@ -1,0 +1,59 @@
+{
+  "General": {
+    "Symbol": "PRM",
+    "Name": "Prism",
+    "Description": "<p><span>Prism is a Blockchain-as-a-Service development and production environment. PRM</span> offers Dapp development and E Language coding support</p><p>Prism reached their ICO goal and sucessfully destributed <span>28500000 PRM</span></p>",
+    "Features": null,
+    "Technology": "<p>Triple Layer Blockchain (<span>TLB)</span>: A <span>single blockchain with three different layers to handle various functions.</span></p>",
+    "TotalCoinSupply": null,
+    "Algorithm": "SHA256",
+    "ProofType": "PoW/PoS",
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "18/03/2016",
+    "TotalCoinsMined": null,
+    "Twitter": null,
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "-",
+    "GitHub": null,
+    "OnMarkets": [
+      "Yobit",
+      "CCEX"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Finished",
+    "Description": "<p><span>Crowdsale fund destination: 75% Development, 10% Marketing and Community Support, 5% Developers funding for initial network sustain and processes, 10 % Legal Contingency Fund</span><br /><br /><span>PRM tokens are based on PoS system with a fixed rate of 1% yearly, so holders are incentivised to vault their funds and receive PoS rewards instead of selling them in the brief period until PRISM alpha launches.</span></p><p><strong>Note: </strong>All blog posts have been deleted along with the twitter account.</p>",
+    "TokenType": "N/A",
+    "WebsiteLink": null,
+    "FundingCap": "500 BTC",
+    "FundingTarget": "N/A",
+    "Date": 1457956800,
+    "EndDate": null,
+    "FundsRaisedList": "470 BTC",
+    "FundsRaisedUSD": "180000",
+    "StartPrice": "N/A",
+    "StartPriceCurrency": "N/A",
+    "Jurisdiction": "N/A",
+    "BlogLink": null,
+    "WhitePaperLink": null
+  },
+  "ccId": "20304"
+}

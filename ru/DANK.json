@@ -1,0 +1,58 @@
+{
+  "General": {
+    "Symbol": "DANK",
+    "Name": "DarkKush",
+    "Description": "<p>DarkKush is a cryptocurrency built for the marijuana community, it&#39;s a PoW/PoS hybrid coin.</p>",
+    "Features": null,
+    "Technology": "<p><strong>Block Reward:</strong><br /><span>Block 1 - 499 (2000 DarkKush)</span><br /><span>Block 500 - 1999 (1000 DarkKush)</span><br /><span>Block 2000 - 3999 (500 DarkKush)</span><br /><span>Block 4000 - 5999 (250 DarkKush)</span><br /><span>Block 6000 - 7999 (150 DarkKush)</span><br /><span>Block 8000 - 9999 (100 DarkKush)</span><br /><span>Block 10000 - 12499 (50 DarkKush)   </span><br /><span>Block 12000 - 15000 (25 DarkKush)</span></p>",
+    "TotalCoinSupply": "3000000",
+    "Algorithm": "X13",
+    "ProofType": "PoW/PoS",
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "26/10/2014",
+    "TotalCoinsMined": null,
+    "Twitter": "@DarkKushDANK",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "-",
+    "GitHub": null,
+    "OnMarkets": [
+      "BitTrex"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "N/A",
+    "Description": null,
+    "TokenType": null,
+    "WebsiteLink": null,
+    "FundingCap": null,
+    "FundingTarget": null,
+    "Date": null,
+    "EndDate": null,
+    "FundsRaisedList": null,
+    "FundsRaisedUSD": null,
+    "StartPrice": null,
+    "StartPriceCurrency": null,
+    "Jurisdiction": null,
+    "BlogLink": null,
+    "WhitePaperLink": null
+  },
+  "ccId": "3640"
+}

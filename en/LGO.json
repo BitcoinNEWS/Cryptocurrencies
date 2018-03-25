@@ -1,0 +1,56 @@
+{
+  "General": {
+    "Symbol": "LGO",
+    "Name": "Legolas Exchange",
+    "Description": "<p><span>The Legolas Exchange is an exchange that runs on </span>an hybrid<span><span> </span>model, incorporating </span><span>a decentralized ledger within its proprietary centralized platform in a bid to provide unalterability, temporality, and transparency of the order book. </span><span>The exchange system is fueled by the LGO token, an ERC-20 token based on ethereum used to pay for Order fees and other paid services provided by Legolas.</span></p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": null,
+    "Algorithm": null,
+    "ProofType": null,
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "01/02/2018",
+    "TotalCoinsMined": null,
+    "Twitter": "@LegolasExchange",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": null,
+    "GitHub": null,
+    "OnMarkets": [],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Finished",
+    "Description": "<p>The Legolas Exchange is an exchange that runs on an hybrid model, incorporating <span>a decentralized ledger within its proprietary centralized platform in a bid to provide unalterability, temporality, and transparency of the order book. </span>The exchange system is fueled by the LGO token, an ERC-20 token based on Ethereum used to pay for Order fees and other paid services provided by Legolas.</p><p><strong>Team</strong>:</p><ul><li><strong>Frédéric Montagnon:</strong> CEO <a href=\"https://www.linkedin.com/in/fredericmontagnon/\" target=\"_blank\"><img src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Julien Romanetto:</strong> COO<span> </span><a href=\"https://www.linkedin.com/in/romanetto/\" target=\"_blank\"><img src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Ouziel Slama:</strong> CTO<span> </span><a href=\"https://www.linkedin.com/in/fredericmontagnon/\" target=\"_blank\"><img src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Yaacov Akiba:</strong> Slama Principal Architect <a href=\"https://www.linkedin.com/in/yaacov-akiba-slama/\" target=\"_blank\"><img src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li></ul><p>The Legolas Exchange ICO will start on the 1st of February, 2018. The ICO token allocation represents 60% of the total token supply which will be available for a 0.00005 BTC starting price. The ICO funding cap is set at 2000 BTC.</p><p><strong>Token Reserve Split (40%):</strong></p><ul><li><strong>Reserve:</strong><span> </span>20%</li><li><strong>Advisors:</strong><span> </span>5%</li><li><strong>Team:</strong><span> </span>15% </li></ul>",
+    "TokenType": "ETH (ERC20)",
+    "WebsiteLink": "https://legolas.exchange/",
+    "FundingCap": "2000 BTC",
+    "FundingTarget": "N/A",
+    "Date": null,
+    "EndDate": null,
+    "FundsRaisedList": "N/A",
+    "FundsRaisedUSD": "N/A",
+    "StartPrice": "0.00005",
+    "StartPriceCurrency": "BTC",
+    "Jurisdiction": "N/A",
+    "BlogLink": "https://medium.com/legolas-exchange",
+    "WhitePaperLink": "https://legolas.exchange/static/public/legolas-whitepaper.pdf?v=12"
+  },
+  "ccId": "710370"
+}

@@ -1,0 +1,59 @@
+{
+  "General": {
+    "Symbol": "DAY",
+    "Name": "Chronologic",
+    "Description": "<p>ChronoLogic is a cryptocurrency project that wants to introduce a new concept of Proof-of-Time. The DAY token is an ERC20 compliant token based on the Ethereum blockchain. The only way additional DAY can be produced is via the passage of time where the rate of DAY tokens minted will depend on the minting power, named ChronoPower.</p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "806812",
+    "Algorithm": null,
+    "ProofType": null,
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "28/07/2017",
+    "TotalCoinsMined": null,
+    "Twitter": null,
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": null,
+    "GitHub": null,
+    "OnMarkets": [
+      "LiveCoin",
+      "EtherDelta"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Finished",
+    "Description": "<p>ChronoLogic is a project that wants to introduce a new concept of Proof-of-Time for blockchain technology and afterward also to other projects. ChronoLogic provide a new way to peg time to assets, instead of, for example pegging it with gold or traditional currencies.</p><p><span>The DAY token is an ERC20 wallet compliant token based on the Ethereum blockchain. </span><span>The only <span>way additional DAY can be produced is via the passage of time where the rate of DAY tokens minted will depend on the minting power, named as ChronoPower.</span></span>     </p><p><strong>Team</strong>:</p><ul><li><strong>Deven Soni</strong>: </li><li><strong>Eric Weiss</strong>: </li><li><strong>Jovar Gaylan</strong>: Mathematician &amp; Computer Scientist.<span> </span></li></ul><p>Chronologic Day held its ICO on the 28th of August, 2017. The ICO token supply represents XX% of the total token supply, so there was a total of ICO_TOKEN_SUPPLY tokens available, for PRICE_AND_CURRENCY each at the offering. The funding cap was either reach 38,383 ETH or 3333 TimeMints and ended on 29th of August, 2017.</p><p> </p>",
+    "TokenType": "ETH (ERC20)",
+    "WebsiteLink": null,
+    "FundingCap": "38,383 ETH",
+    "FundingTarget": "N/A",
+    "Date": 1503878400,
+    "EndDate": 1503964800,
+    "FundsRaisedList": "20,245 ETH",
+    "FundsRaisedUSD": "7536201.25",
+    "StartPrice": "0.04166666666",
+    "StartPriceCurrency": "ETH",
+    "Jurisdiction": "N/A",
+    "BlogLink": "https://blog.chronologic.network/?gi=a4f784dca25f",
+    "WhitePaperLink": "https://chronologic.network/uploads/Chronologic_Whitepaper.pdf"
+  },
+  "ccId": "336705"
+}

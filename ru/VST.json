@@ -1,0 +1,56 @@
+{
+  "General": {
+    "Symbol": "VST",
+    "Name": "Vestarin",
+    "Description": "<p><span>Vestarin platform It is a marketplace for goods and services, and platform for cryptonetworking. The </span><span>Vestarin token (VST) is an ERC20 token and smart contract system, based on Ethereum protocol. </span><span>Due to this protocol, Vestarin tokens can be freely transferred between the wallets and easily integrated into the cryptomarkets.</span></p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "200000000",
+    "Algorithm": null,
+    "ProofType": null,
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "30/01/2018",
+    "TotalCoinsMined": null,
+    "Twitter": "@vestarin",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": null,
+    "GitHub": null,
+    "OnMarkets": [],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Ongoing",
+    "Description": "<p><span>Vestarin platform It is a marketplace for goods and services, and platform for cryptonetworking. The </span>Vestarin token (VST) is an ERC20 token and smart contract system, based on Ethereum protocol. Due to this protocol, Vestarin tokens can be freely transferred between the wallets and easily integrated into the cryptomarkets.</p><p> </p><p><strong>Team</strong>:</p><ul><li><strong>Said Radzhabov</strong>: CEO. <img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></li><li><strong>Jane Alieva</strong>: Business Development.<span> </span><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></li></ul><p>Vestarin will be holding its ICO on the 30th of January, 2018. The ICO token supply represents 82% of the total token supply, so there will be a total of 150,000,000 tokens available, for 0.00033333333 ETH each at the offering. The ICO funding target is 5,000 ETH, the funding cap is 100,000 ETH and is expected to end on 28th of February, 2018 or when the funding cap is reached. Any unsold/remaining tokens will be burned.</p><p><strong>Bonus Structure:</strong></p><table border=\"0\" cellspacing=\"0\" cellpadding=\"0\" class=\"m_8560345937797938160gmail-table\"><thead><tr><th><p>Amount of ETH investments</p></th><th><p>Number of Tokens for 1 ETH / discount</p></th></tr></thead><tbody><tr><td><p>[Stage 1] 3500 - 5000</p></td><td><p>1 ETH = 2000/ -35%</p></td></tr><tr><td><p>[Stage 2] 5000 – 6000</p></td><td><p>1 ETH = 1800/ -28%</p></td></tr><tr><td><p>[Stage 3] 6000 – 9000</p></td><td><p>1 ETH = 1700/ -23%</p></td></tr><tr><td><p>[Stage 4] 9000 – 16 000</p></td><td><p>1 ETH = 1600/ -19%</p></td></tr><tr><td><p>[Stage 5] 16 000 – 23 000</p></td><td><p>1 ETH = 1500/ -13%</p></td></tr><tr><td><p>[Stage 6] 23 000 – 35 000</p></td><td><p>1 ETH = 1300</p></td></tr><tr><td><span>Total: 35 000 ETH</span></td><td><span>Total: 47 200 000 VST</span></td></tr></tbody></table>",
+    "TokenType": "ETH (ERC20)",
+    "WebsiteLink": "https://www.vestarin.io",
+    "FundingCap": "35 000 ETH",
+    "FundingTarget": "5,000 ETH",
+    "Date": 1517270400,
+    "EndDate": 1519776000,
+    "FundsRaisedList": "3220 ETH",
+    "FundsRaisedUSD": "2875524.4",
+    "StartPrice": "0.00033333333",
+    "StartPriceCurrency": "ETH",
+    "Jurisdiction": "N/A",
+    "BlogLink": "https://medium.com/@vestarin",
+    "WhitePaperLink": "https://www.vestarin.io/en/whitepaper"
+  },
+  "ccId": "692727"
+}

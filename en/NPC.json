@@ -1,0 +1,58 @@
+{
+  "General": {
+    "Symbol": "NPC",
+    "Name": "NPCcoin",
+    "Description": "<p><span>NPCcoin is an SHA256d Proof of Work (PoW) / Proof of Stake (PoS) based cryptocurrency. PoS rewards are 30% for the 1st year, then 20% for the 2nd, 3rd year 15%, 4th year 10%, and then 7%.</span></p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "7000000000",
+    "Algorithm": "SHA256D",
+    "ProofType": "PoW/PoS",
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "11/02/2016",
+    "TotalCoinsMined": null,
+    "Twitter": "@npccoin",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "http://npccoin.com/",
+    "GitHub": null,
+    "OnMarkets": [
+      "Yobit"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "N/A",
+    "Description": null,
+    "TokenType": null,
+    "WebsiteLink": null,
+    "FundingCap": null,
+    "FundingTarget": null,
+    "Date": null,
+    "EndDate": null,
+    "FundsRaisedList": null,
+    "FundsRaisedUSD": null,
+    "StartPrice": null,
+    "StartPriceCurrency": null,
+    "Jurisdiction": null,
+    "BlogLink": null,
+    "WhitePaperLink": null
+  },
+  "ccId": "34491"
+}

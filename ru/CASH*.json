@@ -1,0 +1,56 @@
+{
+  "General": {
+    "Symbol": "CASH*",
+    "Name": "Cash Poker Pro",
+    "Description": "<p>Cash Poker Pro is a blockchain-based gambling platform <span>built as a multilevel system of poker rooms. CASH is an Ethereum-based token that allows the user to pay against the casino or other players , having the opportunity to instantly withdraw the tokens from the system and exchange them for other types of cryptocurrencies and official national currencies of any country. </span></p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": null,
+    "Algorithm": null,
+    "ProofType": null,
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "31/07/2017",
+    "TotalCoinsMined": null,
+    "Twitter": "@CashPokPro ",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": null,
+    "GitHub": null,
+    "OnMarkets": [],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Ongoing",
+    "Description": "<p><span>Cash Poker Pro. is a </span><span>blockchain-based</span><span> gambling platform </span><span>built as a multilevel system of poker rooms.<span> </span>CASH is an Ethereum-based token that allows the user to pay against the casino or other players , having the opportunity to instantly withdraw the tokens from the system and exchange them for other types of cryptocurrencies and official national currencies of any country. </span></p><p><strong>Team</strong>:</p><ul><li><strong>Danila Prozorov:</strong> CEO. <a href=\"https://www.facebook.com/profile.php?id=100011487736104\" target=\"_blank\"><img style=\"width: 13px; height: 13px;\" src=\"/media/1383930/face_logo_final.png?width=13&amp;height=13\" alt=\"\" data-id=\"202866\"></a> <img style=\"width: 13px; height: 13px;\" src=\"/media/1383932/twitter_logo_final.png?width=13&amp;height=13\" alt=\"\" data-id=\"202868\"> <img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></li><li><strong>Yaroslav Dementev:</strong> COO.<span> </span><span> </span><img style=\"width: 13px; height: 13px;\" src=\"/media/1383932/twitter_logo_final.png?width=13&amp;height=13\" alt=\"\" data-id=\"202868\"><span> </span><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></li><li><strong>Kir Lizhnikov:</strong> Marketing director.<span> </span><a href=\"https://www.facebook.com/profile.php?id=100001407266096\" target=\"_blank\"><img style=\"width: 13px; height: 13px;\" src=\"/media/1383930/face_logo_final.png?width=13&amp;height=13\" alt=\"\" data-id=\"202866\"></a><span> </span><img style=\"width: 13px; height: 13px;\" src=\"/media/1383932/twitter_logo_final.png?width=13&amp;height=13\" alt=\"\" data-id=\"202868\"><span> </span><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></li></ul><p>Cash Poker Pro will be holding its presale on the 26th of August, during which 10m will be sold. The presale will last until the 6th of September or until the $500,000 target is reached. Following the presale, Cash Poker Pro will host its official ICO which will start on the 26 of September and end on the 18th of November.  During the ICO, 60% of the tokens (60m) will be available at a $0.05 price. The funding target for the ICO is $3M and the fundign cap is $25M.</p><p><strong>Token Reserve Split:</strong></p><ul><li>70% For Investors (pre ICO 10% and ICO 60%)</li><li>10% Team, 20% mining, legal, bounty</li></ul><p><span>The CASH token will be mineable.</span></p>",
+    "TokenType": "ETH (ERC20)",
+    "WebsiteLink": "http://cashpokerpro.io/",
+    "FundingCap": "25000000 USD",
+    "FundingTarget": "3000000 USD",
+    "Date": 1509040800,
+    "EndDate": 1511028000,
+    "FundsRaisedList": "Pre-ICO:\r\n1,360 ETH;",
+    "FundsRaisedUSD": "400000",
+    "StartPrice": "0.05",
+    "StartPriceCurrency": "USD",
+    "Jurisdiction": "N/A",
+    "BlogLink": "https://medium.com/@CashPokPro ",
+    "WhitePaperLink": "http://cashpokerpro.io/whitepaper.pdf"
+  },
+  "ccId": "222436"
+}

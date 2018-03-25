@@ -1,0 +1,56 @@
+{
+  "General": {
+    "Symbol": "DRG",
+    "Name": "Dragon Coin",
+    "Description": "<p>Dragon Coin will act as a friction-less, low-cost &amp; transparent alternative financial mechanism within Casinos, to enhance the age-old gaming industry. With its expertise in blockchain technology, the Dragon’s goal is to reshape the long-standing gaming industry while benefiting those rooted in the industry, as well as all the members of the public who join in the journey to achieve the goals of Dragon Coin.</p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "500000000",
+    "Algorithm": null,
+    "ProofType": null,
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "05/12/2017",
+    "TotalCoinsMined": 500000000,
+    "Twitter": "@DragonCoin",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": null,
+    "GitHub": null,
+    "OnMarkets": [],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Ongoing",
+    "Description": "<p>Dragon Coin will act as a friction-less, low-cost &amp; transparent alternative financial mechanism within Casinos, to enhance the age-old gaming industry. With its expertise in blockchain technology, the Dragon’s goal is to reshape the long-standing gaming industry while benefiting those rooted in the industry, as well as all the members of the public who join in the journey to achieve the goals of Dragon Coin.</p><p><strong>Team</strong>:</p><ul><li><strong>Chakrit (Chris) Ahmad</strong>: Founder &amp; CEO at the Dragon Inc.</li><li><strong>Paul Moynan</strong>: Co-Founder Business Development.</li><li><strong>Panchat Chayutthana</strong>: Director of Business Development and Finance at Dragon.</li><li><strong>Yobie Benjamin</strong>: Chief Technology Officer.</li><li><strong>Dr. Alen Siy</strong>: Director of Business Development and Finance at Dragon.</li></ul><p>The Dragon Coin ICO was postponed and the new ICO dates are yet to be announced. The ICO token supply represents 7% of the total token supply, so there will be a total of 35,000,000 tokens available, for 0.005 ETH each during the offering. The ICO funding cap is 500,000,000 USD.</p><p><strong>Token Reserve Split (28%):</strong></p><ul><li>10% Founders;</li><li>1% Advisors;</li><li>7% Treasury;</li><li>10% Reserve;</li><li>53% Junket Partners;</li><li>12% Early Supporters;</li></ul><p><span>Dragon Coin ICO will feature a bounty campaign and a bonus program, and the token will not be mineable.</span></p><p><strong>Bonus Structure:</strong></p><ul><li>Bronze Package - Requires the subscriber to commit 0.333 ETH to purchase 100 DRG - Bonus 8 DRG;</li><li><span>Silver Package - R<span>equires the subscriber to commit </span>3.33ETH to purchase 1,000 DRG</span><span> - Bonus 88 DRG</span>;</li><li>Gold Package - <span>Requires the subscriber to commit 33.33ETH to purchase 10,000 DRG</span><span> - Bonus 888 DRG</span>;</li></ul>",
+    "TokenType": "ETH (ERC20)",
+    "WebsiteLink": "https://tokensale.drgtoken.io/",
+    "FundingCap": "500,000,000 USD",
+    "FundingTarget": "N/A",
+    "Date": 1518710400,
+    "EndDate": 1521072000,
+    "FundsRaisedList": "320,000,000 USD",
+    "FundsRaisedUSD": "320000000",
+    "StartPrice": "0.005",
+    "StartPriceCurrency": "ETH",
+    "Jurisdiction": "N/A",
+    "BlogLink": null,
+    "WhitePaperLink": "https://s3.amazonaws.com/drg-token/Whitepaper-Dragon.pdf"
+  },
+  "ccId": "683927"
+}

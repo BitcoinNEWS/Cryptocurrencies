@@ -1,0 +1,59 @@
+{
+  "General": {
+    "Symbol": "BTCZ",
+    "Name": "BitcoinZ",
+    "Description": "<p>BitcoinZ is a proof of work cryptocurrency based on the Equihash algorithm. It also leverages zk-snarks to bring anonymous transactions.</p><p> </p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "21000000000",
+    "Algorithm": "Equihash",
+    "ProofType": "PoW",
+    "BlockReward": 13031.915049999317,
+    "Explorer": null,
+    "StartDate": "10/09/2017",
+    "TotalCoinsMined": 1403237656.3486447,
+    "Twitter": "@BTCZCommunity",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": null,
+    "GitHub": null,
+    "OnMarkets": [
+      "TradeSatoshi",
+      "CCEX"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "N/A",
+    "Description": null,
+    "TokenType": null,
+    "WebsiteLink": null,
+    "FundingCap": null,
+    "FundingTarget": null,
+    "Date": null,
+    "EndDate": null,
+    "FundsRaisedList": null,
+    "FundsRaisedUSD": null,
+    "StartPrice": null,
+    "StartPriceCurrency": null,
+    "Jurisdiction": null,
+    "BlogLink": null,
+    "WhitePaperLink": "https://bitcoinz.site/wp-content/uploads/2017/10/Community_Paper_Finalv1.0.0_20171007.pdf"
+  },
+  "ccId": "327184"
+}

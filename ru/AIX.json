@@ -1,0 +1,59 @@
+{
+  "General": {
+    "Symbol": "AIX",
+    "Name": "Aigang",
+    "Description": "<p>Aigang is an automated insurance platform for IoT devices and for insurance innovation built around data. The platform will allow the network users to diagnose their own IoT device operating state and communicate imminent failure. Afterwards, the insurance company verifies the claim events and pays claims automatically. In order to automate the insurance process, the Aigang team will create a Decentralized Autonomous Organisation (DAO) featuring smart contracts to connect intelligent devices with insurance policies. Furthermore, the platform will feature algorithms to price the policy premiums and predict the profitability of insurance pools allowing the network users to predict insurance markets.</p><p>The Aigang token (AIX) will be used to reward the network users for accurate insurance market predictions.</p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "29274566.724462560143156861",
+    "Algorithm": null,
+    "ProofType": null,
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "02/07/2017",
+    "TotalCoinsMined": null,
+    "Twitter": "@aigangnetwork",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": null,
+    "GitHub": null,
+    "OnMarkets": [
+      "EtherDelta",
+      "Kucoin"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "N/A",
+    "Description": null,
+    "TokenType": null,
+    "WebsiteLink": null,
+    "FundingCap": null,
+    "FundingTarget": null,
+    "Date": null,
+    "EndDate": null,
+    "FundsRaisedList": null,
+    "FundsRaisedUSD": null,
+    "StartPrice": null,
+    "StartPriceCurrency": null,
+    "Jurisdiction": null,
+    "BlogLink": null,
+    "WhitePaperLink": "https://aigang.network/AigangWhitepaper0.2.pdf"
+  },
+  "ccId": "187030"
+}

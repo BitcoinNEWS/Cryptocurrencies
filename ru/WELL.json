@@ -1,0 +1,56 @@
+{
+  "General": {
+    "Symbol": "WELL",
+    "Name": "Well",
+    "Description": "<p><span>WELL is globalizing healthcare and eliminating country borders to directly connect doctors, therapists, psychologists and other healthcare specialists to patients worldwide through the WELL platform. WELL tokens are based on the Ethereum network. It&#39;s used for transactions in the network, used to solve the world’s biggest healthcare issues surrounding cross-border payments, data accessibility and payment risk. </span></p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "1500000000",
+    "Algorithm": null,
+    "ProofType": null,
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "10/01/2018",
+    "TotalCoinsMined": null,
+    "Twitter": "@jointeamwell",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": null,
+    "GitHub": null,
+    "OnMarkets": [],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Upcoming",
+    "Description": "<p><span>WELL is globalizing healthcare and eliminating country borders to directly connect doctors, therapists, psychologists and other healthcare specialists to patients worldwide through the WELL platform.</span><span> WELL tokens are based on the Ethereum network. It&#39;s used for transactions in the network, used to solve the world’s biggest healthcare issues surrounding cross-border payments, data accessibility and payment risk.</span><span> </span></p><p><strong>Team</strong>:</p><ul><li><strong>Ildar Fazulyanov:</strong> Founder and CEO <a href=\"https://www.linkedin.com/in/ildarf/\" target=\"_blank\"><img src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"> </a></li><li><strong>Alex Prokhorov:</strong> Co-Founder</li><li><strong>Dmitry Semenov:</strong> Development Team Lead <a href=\"https://www.linkedin.com/in/mxnrl/\" target=\"_blank\"><img src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Dr. Matthew Lefferman:</strong> Clinical Director <a href=\"https://www.linkedin.com/in/matthew-lefferman-627a9b8/\" target=\"_blank\"><img src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li></ul><p>The Well ICO will start on the 16th of April and will end on the 15th of May. The ICO token allocation represents 40% of the total token supply and will be available for a $0.1 base price. The ICO funding target is set at $10M and the tokens will be available for <span>ETH, BTC, BCH, LTC and fiat currencies.</span></p><p><strong>Token Reserve Split (60%):</strong></p><ul><li><span>40% business and network development, </span></li><li><span>20% team and product launch</span></li></ul><p>The WELL ICO features a bonus campaign.</p><p><strong>Bonus Structure:</strong></p><p><strong><img src=\"https://joinwell.io/images/timeline.svg\" alt=\"WELL ICO Timeline\"></strong></p>",
+    "TokenType": "ETH (ERC20)",
+    "WebsiteLink": "https://click.runcpa.com/getoffer/38228-64ba5eb7cc00f82258c47d92e9d000c8-1062",
+    "FundingCap": "28,000,000$",
+    "FundingTarget": "3,000,000$",
+    "Date": 1523836800,
+    "EndDate": 1526342400,
+    "FundsRaisedList": "N/A",
+    "FundsRaisedUSD": "N/A",
+    "StartPrice": "0.1",
+    "StartPriceCurrency": "USD",
+    "Jurisdiction": "U.S.A",
+    "BlogLink": "https://medium.com/@joinwell",
+    "WhitePaperLink": "https://www.joinwell.io/docs/joinwell-whitepaper-en.pdf"
+  },
+  "ccId": "653806"
+}

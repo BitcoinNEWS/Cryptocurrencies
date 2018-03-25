@@ -1,0 +1,56 @@
+{
+  "General": {
+    "Symbol": "CMCT",
+    "Name": "Crowd Machine",
+    "Description": "<p>Crowd Machine is a highly capable blockchain-agnostic decentralized cloud and sofware app creation technology that allows developers and inexperienced users to create decentralized applications at up to 45x the speed of conventional development approaches. To achieve this, Crowd Machine is creating the Crowd Computer, a global decentralized app execution engine comprised of a p2p network of Crowd Virtual Machines (CVM) designed to execute smart contracts and dapps. These CVMs are rewarded with the Crowd Machine token (CMCT), an ERC20 token built on the Ethereum blockchain.</p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "2000000000",
+    "Algorithm": null,
+    "ProofType": null,
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "01/04/2018",
+    "TotalCoinsMined": null,
+    "Twitter": "@Crowd_Machine",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": null,
+    "GitHub": null,
+    "OnMarkets": [],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Upcoming",
+    "Description": "<p><span>Crowd Machine is a highly capable blockchain-agnostic decentralized cloud and sofware app creation technology that allows developers and inexperienced users to create decentralized applications at up to 45x the speed of conventional development approaches. To achieve this, Crowd Machine is creating the Crowd Computer, a global decentralized app execution engine comprised of a p2p network of Crowd Virtual Machines (CVM) designed to execute smart contracts and dapps. These CVMs are rewarded with the Crowd Machine token (CMCT), an ERC20 token built on the Ethereum blockchain.</span></p><p><strong>Team</strong>:</p><ul><li><strong>Craig Sproule:</strong> Founder &amp; CEO</li><li><strong>Kurt Pfluger:</strong> CSO</li><li><strong>Ben Gorlick:</strong> CTO</li><li><strong>James Duchenne:</strong> COO</li></ul><p>The Crowd Machine ICO will start on the first of April 2018 and will last until the 22nd of May 2019. The ICO token allocation represents 80% of the total token supply and will be avilable for a dynamic price during the ICO. Users can participate with ETH. </p><p><strong>Token Reserve Split (20%):</strong></p><ul><li>5% Community and Loyalty Incentives</li><li>15% Company Inventory Reserve</li></ul>",
+    "TokenType": "ETH (ERC20)",
+    "WebsiteLink": "http://www.crowdmachine.com/token-sale/",
+    "FundingCap": "N/A",
+    "FundingTarget": "N/A",
+    "Date": 1522540800,
+    "EndDate": 1558483200,
+    "FundsRaisedList": "N/A",
+    "FundsRaisedUSD": "N/A",
+    "StartPrice": "N/A",
+    "StartPriceCurrency": "ETH",
+    "Jurisdiction": "N/A",
+    "BlogLink": "https://medium.com/crowd-machine",
+    "WhitePaperLink": "https://www.crowdmachine.com/wp-content/uploads/2017/11/Crowd-Machine-Whitepaper.pdf"
+  },
+  "ccId": "793021"
+}

@@ -1,0 +1,61 @@
+{
+  "General": {
+    "Symbol": "USDT",
+    "Name": "Tether",
+    "Description": "<p>USDT is a cryptocurrency asset issued on the Bitcoin blockchain via the Omni Layer Protocol. Each USDT unit is backed by a U.S Dollar held in the reserves of the Tether Limited and can be redeemed through the Tether Platform. USDT can be transferred, stored, spent, just like bitcoins or any other cryptocurrency.</p><p>USDT and other Tether currencies were created to facilitate the transfer of national currencies, to provide users with a stable alternative to Bitcoin and to provide an alternative for exchange and wallet audits which are currently unreliable. USDT provides an alternative to Proof of Solvency methods by introducing a Proof of Reserves Process.</p><p>In the Tether Proof of Reserves system, the amount of USDT in circulations can be easily checked on the Bitcoin blockchain via the tools provided at Omnichest.info, while the corresponding total amount of USD held reserves is proved by publishing the bank balance and undergoing periodic audits by professionals.</p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "N/A",
+    "Algorithm": "N/A",
+    "ProofType": "N/A",
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "10/06/2014",
+    "TotalCoinsMined": 2287140814,
+    "Twitter": "@Tether_to",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "https://tether.to/",
+    "GitHub": null,
+    "OnMarkets": [
+      "CCEX",
+      "Exmo",
+      "BitTrex",
+      "Kraken"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "N/A",
+    "Description": null,
+    "TokenType": null,
+    "WebsiteLink": null,
+    "FundingCap": null,
+    "FundingTarget": null,
+    "Date": null,
+    "EndDate": null,
+    "FundsRaisedList": null,
+    "FundsRaisedUSD": null,
+    "StartPrice": null,
+    "StartPriceCurrency": null,
+    "Jurisdiction": null,
+    "BlogLink": null,
+    "WhitePaperLink": null
+  },
+  "ccId": "171986"
+}

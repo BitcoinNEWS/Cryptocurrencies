@@ -1,0 +1,56 @@
+{
+  "General": {
+    "Symbol": "CUZ",
+    "Name": "Cool Cousin",
+    "Description": "<p>Information overload and biased online content in the centralized travel market, makes it impossible for travelers to find relevant info these days. <span>Cool Cousin is shaking up the travel industry with a new kind of travel agency, optimized for Millennial and Gen Z travelers.</span></p><p><span>With the token CUZ, Cool Cousin will offer travelers diverse, trustworthy and affordable premium travel services, while creating a new source of income for locals around the world.</span></p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "300000000",
+    "Algorithm": null,
+    "ProofType": null,
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "01/01/0001",
+    "TotalCoinsMined": null,
+    "Twitter": "@CoolCousinCo",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": null,
+    "GitHub": null,
+    "OnMarkets": [],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Ongoing",
+    "Description": "<p>Information overload and biased online content in the centralized travel market makes it impossible for travellers to find relevant info these days. <span>Cool Cousin is shaking up the travel industry with a new kind of travel agency, optimized for Millennial and Gen Z travellers.</span></p><p><span>With the token CUZ, Cool Cousin will offer travellers diverse, trustworthy and affordable premium travel services, while creating a new source of income for locals around the world.</span></p><p><strong>Team</strong>:</p><ul><li><strong>Itay Nagler</strong><span>: CEO.</span><span> </span><a href=\"https://www.linkedin.com/in/itaynagler/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Gil Azrielkant</strong><span>: CTO.</span><span> </span><a href=\"https://www.linkedin.com/in/gil-azrielant-88b7a1b5/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Nadav Saadia</strong><span>: CMO.</span><span> </span><a href=\"https://www.linkedin.com/in/nadavsaadia/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Shachar Cotani</strong><span>: CPO.</span><span> </span><a href=\"https://www.linkedin.com/in/cotani/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Itamar Weizman</strong><span>: COO.</span><span> </span><a href=\"https://www.linkedin.com/in/itamarweizman/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li></ul><p>Cool Cousin will be holding its ICO on the 3rd of April. The ICO token supply represents 33% of the total token supply, so there will be a total of 100,000,000 tokens available, for 0.000265 ETH each at the offering. The ICO funding cap is 17,500 ETH and is expected to end on the 25th of April, 2018 or when the funding cap is reached.</p><p><strong>Token Reserve Split (67%):</strong></p><ul><li>10% Team;</li><li>08% Advisors &amp; Early Supporters;</li><li>25% Community;</li><li><span>24% Future Operations;</span></li></ul>",
+    "TokenType": "ETH (ERC20)",
+    "WebsiteLink": "https://www.coolcousin.com/ico/",
+    "FundingCap": "17,500 ETH",
+    "FundingTarget": "N/A",
+    "Date": 1522713600,
+    "EndDate": 1524614400,
+    "FundsRaisedList": "N/A",
+    "FundsRaisedUSD": "N/A",
+    "StartPrice": "0.000265",
+    "StartPriceCurrency": "ETH",
+    "Jurisdiction": "N/A",
+    "BlogLink": "https://blog.coolcousin.com/",
+    "WhitePaperLink": "https://www.coolcousin.com/ico/coolcousin-whitepaper.pdf"
+  },
+  "ccId": "749450"
+}

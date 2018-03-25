@@ -1,0 +1,59 @@
+{
+  "General": {
+    "Symbol": "BIC",
+    "Name": "Bikercoins",
+    "Description": "<p>Bikercoin is a digital cryptocurrency that operates on a community-based standard of value using peer-to-peer (P2P) networking as the means of conducting transactions. Rather than having a central authority determine the value of the currency, its worth is determined by the number of products and services people are willing to buy or sell using Bikercoins. Bikercoins have a global value, so they can be used in any country, at any time. Bikercoin is also open-source; its architecture is public, nobody owns or controls Bikercoin and anybody can take part.</p><p>Bikercoin uses the cryptonote algorithm and is a PoW coin. </p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "25000000",
+    "Algorithm": "CryptoNight",
+    "ProofType": "PoW",
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "07/06/2016",
+    "TotalCoinsMined": 9357088,
+    "Twitter": "@BikerCoins",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "http://bikercoin.org/",
+    "GitHub": null,
+    "OnMarkets": [
+      "CCEX",
+      "Cryptopia"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "N/A",
+    "Description": null,
+    "TokenType": null,
+    "WebsiteLink": null,
+    "FundingCap": null,
+    "FundingTarget": null,
+    "Date": null,
+    "EndDate": null,
+    "FundsRaisedList": null,
+    "FundsRaisedUSD": null,
+    "StartPrice": null,
+    "StartPriceCurrency": null,
+    "Jurisdiction": null,
+    "BlogLink": null,
+    "WhitePaperLink": null
+  },
+  "ccId": "41587"
+}

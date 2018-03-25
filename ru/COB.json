@@ -1,0 +1,58 @@
+{
+  "General": {
+    "Symbol": "COB",
+    "Name": "Cobinhood",
+    "Description": "<p><span>Cobinhood is a cryptocurrency exchange platform that features zero transaction fees and zero cut on margin funding interest earnings. It provides cryptocurrency trading, margin trading/funding, futures trading, and ICO Underwriting Services. </span><span>It guarantees 100% reserve for cryptocurrency deposit. Furthermore, its ability to process millions of orders per second has rendered it as a cryptocurrency exchange that is capable of conducting high frequency trading.</span></p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "1000000000",
+    "Algorithm": null,
+    "ProofType": null,
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "01/09/2017",
+    "TotalCoinsMined": 1000000000,
+    "Twitter": "@cobinhood",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": null,
+    "GitHub": null,
+    "OnMarkets": [
+      "EtherDelta"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Ongoing",
+    "Description": "<p>Cobinhood is a cryptocurrency exchange platform that features zero transaction fees and zero cut on margin funding interest earnings. It provides cryptocurrency trading, margin trading/funding, futures trading, and ICO Underwriting Services. It guarantees 100% reserve for cryptocurrency deposit. Furthermore, its ability to process millions of orders per second has rendered it as a cryptocurrency exchange that is capable of conducting high frequency trading.</p><p><strong>Team</strong>:</p><ul><li><strong>Popo Chen</strong>: <span>Cobinhood CEO and Founder</span>.</li><li><strong>Du Jun</strong><span>: CSO, Co-founder of Huobi.</span></li><li><span><strong>Pu-Chen Mao</strong><span>: CTO.</span></span></li><li><strong>Wei-Ning Huang</strong><span>: Advisor.</span></li><li><span><strong>Shao-yu Wang</strong><span>: Advisor.</span></span></li><li><span><span><strong>Tz-Iu, Jeng</strong><span>: Advisor.</span></span></span></li></ul><p><span>COB tokens are based on Ethereum ERC20 token standard. A total of 1 Billion COB tokens will be issued, while 500M COB tokens will be available for </span>crowdsale<span>. </span></p><p><span>Crowdsale Amount: 50% (500M COB tokens) Team-held Amount: 40% (400M COB tokens) Private Placement Amount: 10% (100M COB Tokens).</span></p><p><strong> Crowdsale will be 2 phases </strong>as following<strong>:</strong></p><p><span>Phase 1 of<span> </span></span>crowdsale<span><span> </span>starts on September<span> </span></span>1st<span><span> </span>2017 and continues to September<span> </span></span>30th<span><span> </span>2017. </span><span>The maximum amount of COB tokens issued will be capped at 300M in Phase 1. </span></p><p><span>Phase 2 of<span> </span></span>crowdsale<span><span> </span>will start on October<span> </span></span>1st<span><span> </span>2017 for 100 days. A total of 200M COB tokens will be issued during this stage. The COBs amount issued to auctioneers is in proportion to the ETH input.</span></p>",
+    "TokenType": "ETH (ERC20)",
+    "WebsiteLink": "http://cobinhood.com/",
+    "FundingCap": "500,000,000 COB",
+    "FundingTarget": "N/A",
+    "Date": 1505260800,
+    "EndDate": 1508630400,
+    "FundsRaisedList": "41,787.6 ETH",
+    "FundsRaisedUSD": "12755664.9",
+    "StartPrice": "0.0001785714285714286",
+    "StartPriceCurrency": "ETH",
+    "Jurisdiction": "N/A",
+    "BlogLink": null,
+    "WhitePaperLink": "http://cobinhood.com/whitepaper/whitepaper_en.pdf"
+  },
+  "ccId": "234811"
+}

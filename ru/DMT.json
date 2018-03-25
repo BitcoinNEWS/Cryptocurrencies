@@ -1,0 +1,58 @@
+{
+  "General": {
+    "Symbol": "DMT",
+    "Name": "DMarket",
+    "Description": "<p><span>DMarket is a</span> marketplace based on blockchain and smart contracts to enable one-click sale, exchange or evaluation of every virtual item between all games on any platform. DMarket tokens will be the only platform currency supplying item prices for every trade, exchange, fee and smart contract.</p><p><span>DMarket wants to </span>create a whole new economic segment. Any kind of collaboration between gamers and games developers on<span> </span><span>DMarket </span>platform will be regulated by market demand. Therefore, gamers have their own interest in the looting rare items, as well as game developers in creating and maintaining of unique, relevant, and tradable gaming content. Users (players as well as developers) will be able to leverage their own achievements and time spent, either for better gaming experience or for monetary purposes.</p><p>DMarket API will be supported by any popular gaming engine (Unreal Engine, Cryengine, Unity 3D, etc.).<span> </span><span>DMarket </span>API will be available for any games, whether old games (from the 1990s) or new ones. This is caused by the existence of a big community which is still playing old-fashioned games, and have been collecting enormous amount of digital items, which can be converted into real value.</p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "56921773.1719715",
+    "Algorithm": null,
+    "ProofType": null,
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "14/11/2017",
+    "TotalCoinsMined": null,
+    "Twitter": "@dmarket_io",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": null,
+    "GitHub": null,
+    "OnMarkets": [
+      "EtherDelta"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Ongoing",
+    "Description": "<p><span>DMarket is a global marketplace solution that turns every virtual item into real commodity. It enables one-click sale, exchange or evaluation of every virtual item between all games on any platform. The blockchain will ensure 100% security and safety. Smart contracts are the bridge on<br /><span>blockchain to connect all game worlds and universes without any third party needed. They will log changes of ownership and automatically transfer payments.</span><br /><br /><span>Using our API, every game developer can easily connect their game to DMarket. That will increase lifetime value, revenue, and time spent in their games. Gamers will finally enter the global economy with virtual items, creating a new billion dollar marketplace in an instant.</span><br /><br /><span>DMarket API will be supported by any popular gaming engine (Unreal Engine, Cryengine, Unity 3D, etc.). DMarket API will be available for any games, whether old games (from the 1990s) or new ones. This is caused by the existence of a big community which is still playing old-fashioned games, and have been collecting enormous amount of digital items, which can be converted into real value.</span></span></p><p><span><strong>Team:</strong><br /></span></p><ul><li><strong>Volodymyr Panchenko</strong>: Founder &amp; CEO. (<a href=\"https://www.linkedin.com/in/volodymyr-panchenko-a8b906146/\" target=\"_blank\">LinkedIn</a>);</li><li><strong>Alexander Kokhanovskyy</strong>: Co-Founder. (<a href=\"https://www.linkedin.com/in/kokhanovskyy/\" target=\"_blank\"><span>LinkedIn</span></a>);</li><li><strong>Sergey Nemesh</strong>: CTO. (<a href=\"https://www.linkedin.com/in/snemesh/\" target=\"_blank\"><span>LinkedIn</span></a>);</li><li><span><strong>Andriy Khavryuchenko</strong>: Blockchain Architect. </span><span>(</span><a href=\"https://www.linkedin.com/in/akhavr/\" target=\"_blank\">LinkedIn</a><span>);</span></li></ul><p><span><span>DMarket&#39;s ICO will be divided on two separate phases for the public , and one limited pre-sale for industry leaders only.</span><br /><br /><span>The limited pre-sale is targeted to spread the idea and enlarge the community, and is for industry leaders only. The currencies accepted are ETH and BTC, the token exchange rate is 1 ETH = 750 DMarket tokens with a bonus of +10%. 50 slots are reserved for industry leaders public participation with 50-500k Dmarket token per slot limit.</span><br /><br /><span>Phase #1 will start on<span> </span></span><span class=\"aBn\" data-term=\"goog_714548214\"><span class=\"aQJ\">August 17, 2017</span></span><span><span> </span>and is expected to end on<span> </span></span><span class=\"aBn\" data-term=\"goog_714548215\"><span class=\"aQJ\">August 20, 2017</span></span><span><span> </span>or when the funding cap is reached. Phase#1 minimal goal to start the development is 5,000,000 DMarket tokens, and the funding cap is 50,000,000 DMarket tokens. The token exchange rate is 1 ETH = 1,000 DMarket tokens, and the currencies accepted are ETH and BTC. After the token sale is closed, 10% of the total tokens amount sold are issued and reserved for DMarket&#39;s core activities. Phase#1 will have bonus tokens for the early buyers, as described below.</span><br /><br /><strong>Phase #1 Bonus Structure:</strong><br /></span></p><ul><li><strong>Day 1:</strong><span> +10% bonus;</span></li><li><strong>Day 2:</strong><span> +5% bonus;</span></li><li><strong>Day 3:</strong><span> +3% bonus;</span></li><li><strong>Day 4:</strong><span> no bonuses;</span></li></ul><p><span><span>Phase #2 will start on<span> </span></span><span class=\"aBn\" data-term=\"goog_714548216\"><span class=\"aQJ\">November 1, 2017</span></span><span><span> </span>and is expected to end on<span> </span></span><span class=\"aBn\" data-term=\"goog_714548217\"><span class=\"aQJ\">November 15, 2017</span></span><span><span> </span>or when the funding cap is reached. The token exchange rate is 1 ETH = 750 DMarket tokens, and the currencies accepted are ETH, BTC, ETC and LTC. After the token sale is closed, 10% of the total tokens amount sold are issued and reserved for DMarket&#39;s core activities.</span><br /><br /><span>Limited Industry tokens distribution (Industry leaders only)</span><br /><span>The main idea of this token sale phase is to spread the word about DMarket to enlarge our community.</span><br /><br /><span>DMarket will reserve only 50 slots for industry leaders on this stage, chosen by our team, and notify them via invitation letter. The minimal number of tokens to buy is 50k, the maximum is 500k Dmarket tokens. Only public participation with official statement is available</span></span></p>",
+    "TokenType": "ETH (ERC20)",
+    "WebsiteLink": "https://dmarket.io/?utm_source=cryptocompare&utm_medium=display&utm_campaign=crypto_icolist_flat2507",
+    "FundingCap": "50,000,000 DMT",
+    "FundingTarget": "5,000,000 DMT",
+    "Date": 1510675200,
+    "EndDate": 1512144000,
+    "FundsRaisedList": "803 BTC; 36779 ETH; 1172 ETC; 875 LTC",
+    "FundsRaisedUSD": "18218796",
+    "StartPrice": "0.00133333333",
+    "StartPriceCurrency": "ETH",
+    "Jurisdiction": "N/A",
+    "BlogLink": "https://medium.com/@dmarket",
+    "WhitePaperLink": "https://dmarket.io/assets/documents/DMarket_whitepaper_EN.pdf"
+  },
+  "ccId": "192400"
+}

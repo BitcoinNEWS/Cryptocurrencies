@@ -1,0 +1,64 @@
+{
+  "General": {
+    "Symbol": "OK",
+    "Name": "OKCash",
+    "Description": "<p><span>The \"OK\" name got selected to represent the new brand precisely because it reflects properly the coin&#39;s goals and attitude. OK is one of only 2 words in the whole world that requires no translation at all to be understood, giving it the potential for mainstream adoption without the hassle of trying to integrate the new name to different cultures. \"OK\" is understood the whole world over.</span><br /><br /><span>OK reflects a positive outcome, speed and empathy. Security and user experience are the first thoughts behind any update or code modification. The addition of the word \"cash\" was made to give it direct inclusion into the financial sector and to communicate the whole concept in a word: \"OKCash\".</span><br /><span>Anybody who hears this word gets an overall concept or general idea of what it is about. OK is the technology while OKCash is the first application of this technology, being the coins we can send or put in our wallets for saving, spending or sharing.</span><br /> <br /><span>OKCash&#39;s rebranding was done in April 2015, and since then the OK cryptocurrency has been added to one of the largest cryptocurrency exchanges - Bittrex. This adds to the list of exchanges where the coin is already trading (Bittrex, Bleutrade, Cryptopia ).</span></p>",
+    "Features": "<p>$OK - OKCash<span> is The future for Social payments.</span><br /><br /><span>The name is </span>OKCash <span>with the </span>\"OK\"<span> Ticker, the different dedicated languages sites and resources are currently being rolled out across the networks and social media.</span><br /><br /><span>The purpose of the name OKCash is to ensure that the name of the coin properly reflects the trust, positivism, innovation and vision that are at the center of all of our work.  We firmly believe  that </span>OKCash <span>will have better projection and appeal to a broader international audience, making it a perfect fit for integration in different markets, promotions, exchanges and resources.  Say OK to Cash!</span><br /><br /><span>Development focus on the long term service provision for </span>OKCash <span>across multiple payment platforms, and the  accessibility and reliability will compliment the socially orientated services that are currently under development.</span><br /><br /><span>We are very excited by the new opportunities that </span>OKCash <span>is bringing to different communities and people around the world with its new positioning as a mainstream brand.  </span><br /><br />OKCash is fun and inclusive, we warmly welcome the community and would like to thank you for your continued support.<br /><br />History:<span> Started as a PoW/PoS hybrid, meaning miners were able to use their gpu cards and special miner equipments to mine the coin for the first 15 days without halving to make it more fair to miners, After this Phase, OKCash became a Full Proof of Stake (PoS) Cryptocurrency, meaning the only way to create more coins is the process of staking. It had a Dev_Fund mined of 2,691,000 OK in 1st Block for initial distribution for the community. ( Dev Fund was fully distributed via Rains, Giveaways, Bounties, Quiz bots and contests to all the participant crypto communities. Full dev already spent.</span><br /><br /><span>Launched in November 2014 with the name Positive Innovation for Multi Payment Cash solutions and re branded later to OKCash, it has a growing reputation as The most socially orientated cryptocurrency with almost daily updates, shared directly on a website for news and updates for the community, and across broad social media. </span><br /><br /><span>In December 2014 released a custom wallet for Gaia coin based on the previous OK design, a first for cross-coin collaboration in the crypto Eco-system. This reflects the OKCash focus on developing relationships with other cryptocurrencies, through charitable initiatives and collaborative projects with other coins, which so far have included projects with Gaia, Einsteinium (EMC2) and others.</span><br /><br /><span>Another important point to be highlighted regarding OKCash is the fact that there has not been any problems so far with the block chain or it’s code and it runs in real fast and reliable network.</span><br /><br /><span>The custom wallet designs reflect an attention to detail and an importance of visual design that is unique to OKCash, along with its emphasis on positivism, inclusiveness and to further the advancement of all the cryptocurrency environment adoption and decentralized payment systems, while bringing back trust to Crypto and becoming The Future of Social Payments.</span><br /><br />Uses:<span>  Spending, Sharing, Saving, Remittance, Social Tipping, Crowdfunding, Promotion, Bitcoin Support, Education, communications and much more to be discovered.</span></p>",
+    "Technology": "<p><strong>OK Specs</strong></p><p><br />Released:<span> Nov 24th 2014</span><br />PoW Ended at block: <span>33,186</span><br />Total coins at the end of Pow/Pos Hybrid Period:<span> 36,297,000 OKCash</span><br />Max Cap:<span> 105,000,000 OKCash</span><br />Full POS started:<span> Dec 9th 2014</span><br />Proof of Stake<br />Stake Rewards:<span> 69% 1st Year (block 531,257)</span><br /><span>| 20% 2nd (block 1,022,514) | 10% 3rd (block 1,523,771)| 6% 4th Year on wards</span><br />PoS Min Stake Time:<span> 8 hr</span><br />Transactions: <span>10 confirmations</span><br />Stakes: <span>64 confirmations</span><br />Block Time:<span> 72 seconds average block time.</span><br />Rpcport:<span> 6969</span><br />Port:<span> 6970</span><br />Test ports:<span> ( RPCport 7979 ) ( Port 7980 )</span></p>",
+    "TotalCoinSupply": "105000000",
+    "Algorithm": null,
+    "ProofType": "PoW/PoS",
+    "BlockReward": 1.397633370757103,
+    "Explorer": null,
+    "StartDate": "24/11/2014",
+    "TotalCoinsMined": 73932168.44244453,
+    "Twitter": "@OKCashCrypto",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "http://okcash.co/",
+    "GitHub": null,
+    "OnMarkets": [
+      "Cryptopia",
+      "Yobit",
+      "CCEX",
+      "Novaexchange",
+      "Bleutrade",
+      "TradeSatoshi",
+      "BitTrex"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "N/A",
+    "Description": null,
+    "TokenType": null,
+    "WebsiteLink": null,
+    "FundingCap": null,
+    "FundingTarget": null,
+    "Date": null,
+    "EndDate": null,
+    "FundsRaisedList": null,
+    "FundsRaisedUSD": null,
+    "StartPrice": null,
+    "StartPriceCurrency": null,
+    "Jurisdiction": null,
+    "BlogLink": null,
+    "WhitePaperLink": null
+  },
+  "ccId": "17857"
+}

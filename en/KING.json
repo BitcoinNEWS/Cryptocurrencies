@@ -1,0 +1,60 @@
+{
+  "General": {
+    "Symbol": "KING",
+    "Name": "King93",
+    "Description": "<p>King93 is a Waves-based asset.</p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "50000000",
+    "Algorithm": "N/A",
+    "ProofType": "N/A",
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "09/07/2017",
+    "TotalCoinsMined": 10000000,
+    "Twitter": "@king93_dev",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "https://king93.io",
+    "GitHub": null,
+    "OnMarkets": [
+      "Cryptopia",
+      "WavesDEX",
+      "EtherDelta"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "N/A",
+    "Description": null,
+    "TokenType": null,
+    "WebsiteLink": null,
+    "FundingCap": null,
+    "FundingTarget": null,
+    "Date": null,
+    "EndDate": null,
+    "FundsRaisedList": null,
+    "FundsRaisedUSD": null,
+    "StartPrice": null,
+    "StartPriceCurrency": null,
+    "Jurisdiction": null,
+    "BlogLink": null,
+    "WhitePaperLink": null
+  },
+  "ccId": "196560"
+}

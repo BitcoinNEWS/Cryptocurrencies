@@ -1,0 +1,59 @@
+{
+  "General": {
+    "Symbol": "DTR",
+    "Name": "Dynamic Trading Rights",
+    "Description": "<div class=\"freebirdFormviewerViewItemsItemItem freebirdFormviewerViewItemsTextTextItem\" data-required=\"true\" data-item-id=\"534092066\"><div class=\"freebirdFormviewerViewItemsTextLongText freebirdFormviewerViewItemsTextDisabledText freebirdThemedInput\">Tokens.net is a cryptocurrency trading platform that allows users to exchange <span>ERC20 tokens and other cryptocurrencies. Trading fees within the platform are paid in Dynamic Trading Rights (DTR), an ERC20 token on the Ethereum blockchain. DTR is charged as trading fees based on the market price of DTR at the moment of the trade. A transaction for a DTR holder will be charged at the best ask price, ignoring the market depth. Users that do not hold</span><span> DTR will be charged a fee in the currency they are trading in. Conversion of the fee cost into DTR will be executed automatically and clients owning DTR will have their DTR subtracted from their balance, based on the DTR’s market value.</span></div></div>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "3750000",
+    "Algorithm": null,
+    "ProofType": null,
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "31/10/2017",
+    "TotalCoinsMined": null,
+    "Twitter": "@TokensNet",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": null,
+    "GitHub": null,
+    "OnMarkets": [
+      "LiveCoin",
+      "EtherDelta"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Finished",
+    "Description": "<p><span>Tokens.net is a cryptocurrency trading platform that allows users to exchange </span><span>ERC20 tokens and other cryptocurrencies. Trading fees within the platform are paid in Dynamic Trading Rights (DTR), an ERC20 token on the Ethereum blockchain. DTR is charged as trading fees based on the market price of DTR at the moment of the trade. A transaction for a DTR holder will be charged at the best ask price, ignoring the market depth. Users that do not hold</span><span> DTR will be charged a fee in the currency they are trading in. Conversion of the fee cost into DTR will be executed automatically and clients owning DTR will have their DTR subtracted from their balance, based on the DTR’s market value.</span></p><p><strong>Team</strong>:</p><ul><li><strong>Damian Merlak:</strong> Founder, Lead Software Architect, Serial Investor</li><li><strong>Gregor Karlovsek, MBA:</strong> Corporate, Finance &amp; Control</li><li><strong>Gregor Gololicic:</strong> Development</li><li><strong>Luka Pusic:</strong> Information Security</li><li><strong>Matej</strong> Resman: Design, Marketing</li><li><strong>Sebastjan</strong> Stucl: Business Development</li></ul><p>The DTR ICO will start on the 6th of November and will last until the 6th of December, 2017. The ICO token allocation represents 40% of the total supply and will be available for a $0.01 starting price. DTR can be purchased with BTC, ETH and XRP. The funding target/cap is $15M.</p><p><strong>Token Reserve Split (XX%):</strong></p><ul><li>30% company</li><li>30% team</li></ul><p> </p>",
+    "TokenType": "ETH (ERC20)",
+    "WebsiteLink": "https://www.tokens.net",
+    "FundingCap": "15,000,000 USD",
+    "FundingTarget": "15,000,000 USD",
+    "Date": 1509958800,
+    "EndDate": 1511773200,
+    "FundsRaisedList": "15,000,000 USD",
+    "FundsRaisedUSD": "15000000",
+    "StartPrice": "0.01",
+    "StartPriceCurrency": "USD",
+    "Jurisdiction": "UK",
+    "BlogLink": "https://medium.com/@tokensnet",
+    "WhitePaperLink": "https://www.tokens.net/pdf/whitepaper.pdf"
+  },
+  "ccId": "360063"
+}

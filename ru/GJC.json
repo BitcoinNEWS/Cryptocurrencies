@@ -1,0 +1,56 @@
+{
+  "General": {
+    "Symbol": "GJC",
+    "Name": "Global Jobcoin",
+    "Description": "<p>Global Jobcoin is a cryptocurrency created to pay for <span>services related to employment &amp; integrated into international Job platforms of Jobstoday, one of the leading Job platforms in Switzerland, Germany, Poland &amp; Austria. Clients can hire &amp; pay for Freelancer services on the Jobstoday platform, being protected by Smart Contract technology. GJC is an ERC20 token based on the Ethereum blockchain.</span></p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "100000000",
+    "Algorithm": null,
+    "ProofType": null,
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "28/10/2017",
+    "TotalCoinsMined": null,
+    "Twitter": "@Globaljobcoin",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": null,
+    "GitHub": null,
+    "OnMarkets": [],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Ongoing",
+    "Description": "<p>Global Jobcoin is a cryptocurrency created to pay for services related to employment &amp; integrated into international Job platforms of Jobstoday, one of the leading Job platforms in Switzerland, Germany, Poland &amp; Austria. Clients can hire &amp; pay for Freelancer services on the Jobstoday platform, being protected by Smart Contract technology. GJC is an ERC20 token based on the Ethereum blockchain.</p><p><strong>Team</strong>:</p><ul><li><strong>Sanket Deshmukh:</strong> Founder &amp; CEO <a href=\"https://www.linkedin.com/in/deshmukhsanket/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Lukasz Ochnik:</strong> Founder &amp; CTO <a href=\"https://www.linkedin.com/in/roberto-duran-a22a4514a/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Roberto Duran:</strong> Project Manager <a href=\"https://www.linkedin.com/in/roberto-duran-a22a4514a/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li></ul><p>The Global Jobcoin ICO will take place on the 28th of October and it will end on the 06th of December, 2017. The ICO token allocation represents 70% of the total 100m token supply. GJC will be available for a $0.57 starting price. Users will be able to participate on the ICO with Ether. The ICO funding cap is 200,000 ETH.</p><p><strong>Token Reserve Split (30%):</strong></p><ul><li><span>10% for founders, </span></li><li><span>10% Partners, </span></li><li><span>5%for Charity projects, </span></li><li><span>5% Crypto Community</span></li></ul><p>The Global Jobcoin ICO features a bonus and bounty campaign as well as an escrow agent.</p><p><strong>Bonus Structure:</strong></p><ul><li>Week 1: 50% Bonus</li><li>Week 2: 30% Bonus</li><li>Week 3: 20% Bonus</li><li>Week 4: 0% Bonus </li></ul><p> </p>",
+    "TokenType": "ETH (ERC20)",
+    "WebsiteLink": "https://www.globaljobcoin.com/",
+    "FundingCap": "200,000 ETH",
+    "FundingTarget": "200,000 ETH",
+    "Date": 1509148800,
+    "EndDate": 1512518400,
+    "FundsRaisedList": "18,666 ETH, 403 BTC, 23,636 LTC, 4,000,000 XRP",
+    "FundsRaisedUSD": "5604155.52",
+    "StartPrice": "0.57",
+    "StartPriceCurrency": "USD",
+    "Jurisdiction": "Switzerland",
+    "BlogLink": "https://medium.com/@Globaljobcoin",
+    "WhitePaperLink": "https://www.globaljobcoin.com/media/files/documents/GJC_Whitepaper.pdf"
+  },
+  "ccId": "320412"
+}

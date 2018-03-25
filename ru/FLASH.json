@@ -1,0 +1,58 @@
+{
+  "General": {
+    "Symbol": "FLASH",
+    "Name": "FLASH coin",
+    "Description": "<p>FLASH is a blockchain platform that allows users and developers to leverage this technology for social media, websites, blogs and e-commerce sites. It’s a permissioned blockchain based on litecoin/bitcoin.</p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "900000000",
+    "Algorithm": null,
+    "ProofType": null,
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "01/01/0001",
+    "TotalCoinsMined": 900000000,
+    "Twitter": "@FlashCoins",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": null,
+    "GitHub": null,
+    "OnMarkets": [
+      "Cryptopia"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "N/A",
+    "Description": null,
+    "TokenType": null,
+    "WebsiteLink": null,
+    "FundingCap": null,
+    "FundingTarget": null,
+    "Date": null,
+    "EndDate": null,
+    "FundsRaisedList": null,
+    "FundsRaisedUSD": null,
+    "StartPrice": null,
+    "StartPriceCurrency": null,
+    "Jurisdiction": null,
+    "BlogLink": null,
+    "WhitePaperLink": "https://flashcoin.io/docs/FLASHWhitepaper.pdf"
+  },
+  "ccId": "326222"
+}

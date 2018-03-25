@@ -1,0 +1,56 @@
+{
+  "General": {
+    "Symbol": "DOC*",
+    "Name": "Doc Coin",
+    "Description": "<p>DocCoin is an internationally available service that integrates the entire online medicine industry and provides advantages to the businesses, as well as the clients. The company is completely built on a decentralized network.</p><p>The objective of DocCoin is to give everyone access to doctors, anywhere in the world, through the use of a smart contract.</p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "200000000",
+    "Algorithm": null,
+    "ProofType": null,
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "25/01/2018",
+    "TotalCoinsMined": null,
+    "Twitter": "@Doc_Coin",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": null,
+    "GitHub": null,
+    "OnMarkets": [],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Ongoing",
+    "Description": "<p>DocCoin is an internationally available service that integrates the entire online medicine industry and provides advantages to the businesses, as well as the clients. The company is completely built on a decentralized network.</p><p>The objective of DocCoin is to give everyone access to doctors, anywhere in the world, through the use of a smart contract.</p><p><strong>Team</strong>:</p><ul><li><strong>Nikita Zykov</strong><span>: Founder and CEO.<span> </span></span><a href=\"https://www.facebook.com/nikita.zykov.94\" target=\"_blank\"><img style=\"width: 13px; height: 13px;\" src=\"/media/1383930/face_logo_final.png?width=13&amp;height=13\" alt=\"\" data-id=\"202866\"></a></li><li><strong>Kirill Sevalnev</strong><span>: CFO.<span> </span></span><a href=\"https://ru-ru.facebook.com/people/Kirill-Sevalnev/100008330770728\" target=\"_blank\"><img style=\"width: 13px; height: 13px;\" src=\"/media/1383930/face_logo_final.png?width=13&amp;height=13\" alt=\"\" data-id=\"202866\"></a></li><li><strong>Elena Sokolova</strong><span>: Project Manager.<span> </span></span><a href=\"https://ru-ru.facebook.com/people/%D0%95%D0%BB%D0%B5%D0%BD%D0%B0-%D0%A1%D0%BE%D0%BA%D0%BE%D0%BB%D0%BE%D0%B2%D0%B0/100010326722896\" target=\"_blank\"><img style=\"width: 13px; height: 13px;\" src=\"/media/1383930/face_logo_final.png?width=13&amp;height=13\" alt=\"\" data-id=\"202866\"></a></li><li><strong>Anton Gunin</strong><span>: DocCoin Design and Implementation.</span></li><li><strong>Vitaly Shchudrov</strong><span>: Program Manager.<span> </span></span><a href=\"https://www.facebook.com/vitaly.shchudrov\" target=\"_blank\"><img style=\"width: 13px; height: 13px;\" src=\"/media/1383930/face_logo_final.png?width=13&amp;height=13\" alt=\"\" data-id=\"202866\"></a></li><li><strong>Alina Yarovaya</strong><span>: Marketing Executive.<span> </span></span><a href=\"https://www.facebook.com/alina.yarovaya.1\" target=\"_blank\"><img style=\"width: 13px; height: 13px;\" src=\"/media/1383930/face_logo_final.png?width=13&amp;height=13\" alt=\"\" data-id=\"202866\"></a></li><li><strong>Vyacheslav Poskonin</strong><span>: Software engineer.</span><span><span> </span></span><a href=\"https://www.linkedin.com/in/%D0%B2%D1%8F%D1%87%D0%B5%D1%81%D0%BB%D0%B0%D0%B2-%D0%BF%D0%BE%D1%81%D0%BA%D0%BE%D0%BD%D0%B8%D0%BD-55113b150/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Denis Bohlovskoi</strong><span>: Adviser/Cardiovascular Surgeon.</span></li></ul><p>Doc Coin will be holding its ICO on the 25th of January, 2018. The ICO token supply represents 70% of the total token supply, so there will be a total of 140,000,000 tokens available, for 0.0001 ETH each at the offering. The ICO funding cap is 20,000 ETH and is expected to end on 11th of March, 2018 or when the funding cap is reached.</p>",
+    "TokenType": "ETH (ERC20)",
+    "WebsiteLink": "https://www.doc-coin.com/token-sale",
+    "FundingCap": "20,000 ETH",
+    "FundingTarget": "N/A",
+    "Date": 1516838400,
+    "EndDate": 1520726400,
+    "FundsRaisedList": "N/A",
+    "FundsRaisedUSD": "N/A",
+    "StartPrice": "0.0001",
+    "StartPriceCurrency": "ETH",
+    "Jurisdiction": "Estonia",
+    "BlogLink": "https://medium.com/@doc.coin.ico",
+    "WhitePaperLink": "https://www.doc-coin.com/white-paper-eng"
+  },
+  "ccId": "707515"
+}

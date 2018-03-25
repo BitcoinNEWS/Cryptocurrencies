@@ -1,0 +1,62 @@
+{
+  "General": {
+    "Symbol": "HMQ",
+    "Name": "Humaniq",
+    "Description": "<p>Humaniq is a decentralized application created on the Ethereum blockchain to deliver banking tools to the roughly two bln global inhabitants without access to more traditional institutions using the biometric technology as a anti-sybil measure. The dapp is to be made available for smartphones, making it globally accessible. HMQ is an Ethereum-based token that will be used for all operations within the network and will also be distributed to users through bounty and referral programs.</p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": null,
+    "Algorithm": null,
+    "ProofType": null,
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "11/12/2016",
+    "TotalCoinsMined": 184194944.0355976,
+    "Twitter": "@Humaniq_co",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "https://humaniq.co/",
+    "GitHub": null,
+    "OnMarkets": [
+      "BitTrex",
+      "Yobit",
+      "CCEX",
+      "Liqui",
+      "EtherDelta"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Finished",
+    "Description": "<p><span>Humaniq is a simple and secure 4th generation mobile bank. Humaniq is developing a completely new banking experience by dissolving all the barriers of archaic banks such as the need to come to a branch, doing endless paperwork, dealing with hard-to-use, buggy mobile apps, and protecting data with hard-to-remember, complex passwords. Humaniq aim to </span><span>create a safe, strong financial tool, specifically designed to be used by people who are under educated or who don’t possess identification. Most of them live in emerging economies on less than two dollars a day.</span></p><p><strong>Team</strong>:</p><ul><li><strong><span>Alex Fork</span></strong>: Founder.</li><li><strong><span>Richard Kastelein</span></strong>: <span>Chief Marketing Officer</span>.</li><li><strong><span>Parth Bhatt </span><span>Upendra Kumar</span></strong>: P<span>roject’s Partner for </span>India.</li><li><strong><span>Alakanani Itireleng</span></strong><span>: Lead Ambassador</span><span>.</span></li></ul><p><span>Humaniq </span>held its ICO on <span>April 6</span>, 2017. The ICO token supply represents 86% of the total token supply. With an <span>average contribution of $430, Humaniq raised $5.1 million. </span>The ICO ended on <span>April 26</span>, 2017. <span>31824818 HMQ tokens were distributed during the Pre-ICO where the price was 1500 HMQ (+Bonuses) = 1 ETH.</span></p><p><strong>Token Reserve Split (XX%):</strong></p><ul><li>04% Team;</li><li><span>04</span>% Bounty Campaign;</li><li><span>06</span>% Advisory Board;</li></ul><p><span>Humaniq</span><span> </span>ICO campaign featured bonus, escrow and pre-sale.</p><p><strong>Bonus Structure:</strong></p><ul><li><span>49.9% bonus for the first 24 hours</span>;</li><li><span>33% bonus for the first week;</span></li><li><span>20% bonus for the second week;</span></li><li><span>14% bonus for the third week;</span></li><li><span>07% bonus for the fourth week;</span></li></ul>",
+    "TokenType": "ETH (ERC20)",
+    "WebsiteLink": "https://humaniq.co/",
+    "FundingCap": "N/A",
+    "FundingTarget": "N/A",
+    "Date": 1491436800,
+    "EndDate": 1493250955,
+    "FundsRaisedList": "94,500 ETH",
+    "FundsRaisedUSD": "5163000",
+    "StartPrice": "0.0035",
+    "StartPriceCurrency": "USD",
+    "Jurisdiction": "N/A",
+    "BlogLink": "https://blog.humaniq.co/?_ga=2.167467898.53774837.1498482916-357452556.1498482916",
+    "WhitePaperLink": "https://humaniq.co/assets/downloads/humaniq_wp_english.pdf"
+  },
+  "ccId": "72438"
+}

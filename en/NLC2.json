@@ -1,0 +1,61 @@
+{
+  "General": {
+    "Symbol": "NLC2",
+    "Name": "NoLimitCoin",
+    "Description": "<p>NoLimitCoin is a Proof of Stake cryptocurrency for CryptoFantasySports, a platform that seeks to provide the crypto world easy access to the fantasy games.</p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "200000000",
+    "Algorithm": "PoS",
+    "ProofType": "PoS",
+    "BlockReward": 16.760937534383213,
+    "Explorer": null,
+    "StartDate": "11/11/2016",
+    "TotalCoinsMined": 205600743.14762187,
+    "Twitter": null,
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "http://www.nolimitcoin.org/",
+    "GitHub": null,
+    "OnMarkets": [
+      "Yobit",
+      "Novaexchange",
+      "CCEX",
+      "Cryptopia"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "N/A",
+    "Description": null,
+    "TokenType": null,
+    "WebsiteLink": null,
+    "FundingCap": null,
+    "FundingTarget": null,
+    "Date": null,
+    "EndDate": null,
+    "FundsRaisedList": null,
+    "FundsRaisedUSD": null,
+    "StartPrice": null,
+    "StartPriceCurrency": null,
+    "Jurisdiction": null,
+    "BlogLink": null,
+    "WhitePaperLink": null
+  },
+  "ccId": "195018"
+}

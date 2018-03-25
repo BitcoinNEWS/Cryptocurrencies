@@ -1,0 +1,58 @@
+{
+  "General": {
+    "Symbol": "CBC",
+    "Name": "CashBagCoin",
+    "Description": "<p>CashBag<span> </span>is a blockchain-based platform for instant settlement and micropayments of cash back rewards. The platform will use the Ethereum blockchain to provide an instant settlement platform with low transactions costs and a reward system that helps shoppers to earn cash back and secure discounts on any online purchase.</p><p>CashBagCoin is an ERC-20 compliant token, that will serve as the utility token on the platform.</p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "367000000",
+    "Algorithm": null,
+    "ProofType": null,
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "24/10/2017",
+    "TotalCoinsMined": null,
+    "Twitter": "@CashBagco",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": null,
+    "GitHub": null,
+    "OnMarkets": [
+      "Novaexchange"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Ongoing",
+    "Description": "<p>CashBag<span> </span>is a blockchain-based platform for instant settlement and micropayments of cash back rewards. The platform will use the Ethereum blockchain to provide an instant settlement platform with low transactions costs and a reward system that helps shoppers to earn cash back and secure discounts on any online purchase.</p><p>CashBagCoin is an ERC-20 compliant token, that will serve as the utility token on the platform.</p><p><strong>Team</strong>:</p><ul><li><strong>Jonathan Miller</strong>: Co-founder / CEO. <a href=\"https://www.linkedin.com/in/jbmiller/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Kirsty Henderson</strong>: Co-founder / Business Lead.<span> </span><a href=\"https://www.linkedin.com/in/kirstyhn/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Eugene Benade</strong>: CO-CTO / Software Development.<span> </span><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></li><li><strong>Nicolaas Venter</strong>: CO-CTO.<span> </span><a href=\"https://www.linkedin.com/in/nicolaas-venter-8b915317/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Jonathan Meanwell</strong>: CMO.<span> </span><a href=\"https://www.linkedin.com/in/jonathan-meanwell-8235465/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Divan Bower</strong>: User Communication &amp; Messaging.<span> </span><a href=\"https://www.linkedin.com/in/divanbower/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li></ul><p>CashBag will be holding its ICO on the 12th of March, 2018. The ICO token supply represents 33% of the total token supply, so there will be a total of 120,000,000 tokens available, for 0.0001666 each during the offering. The ICO funding target is $500,000, the funding cap is $30,000,000 and is expected to end on the 9th of April, 2018 or when the funding cap is reached.</p><p><strong>Token Reserve Split (67%):</strong></p><ul><li>4% Token sale costs;</li><li>45% Member incentive pool;</li><li>18% Liquidity reserve;</li></ul><p><span>CashBag ICO will feature a bonus program and a bounty campaign, and the token will not be mineable.</span></p><p><strong>Bonus Structure:</strong></p><p><strong><img style=\"width: 481px; height: 225px;\" src=\"/media/30001672/cbc_bonus.png?width=481&amp;height=225\" alt=\"\" data-id=\"810737\"></strong></p>",
+    "TokenType": "ETH (ERC20)",
+    "WebsiteLink": "http://goo.gl/J1mVBW",
+    "FundingCap": "30,000,000 USD",
+    "FundingTarget": "500,000 USD",
+    "Date": 1520856000,
+    "EndDate": 1523275140,
+    "FundsRaisedList": "25 076 185 CBC tokens sold\r\n4179.36416668 ETH\r\n2215063.00834 USD",
+    "FundsRaisedUSD": "2215063.00834",
+    "StartPrice": "0.000166666666667",
+    "StartPriceCurrency": "ETH",
+    "Jurisdiction": "South Africa",
+    "BlogLink": "https://medium.com/@jbmiller",
+    "WhitePaperLink": "https://tokensale.cashbag.co/documents/CB_Token_Sale_Whitepaper.pdf"
+  },
+  "ccId": "810719"
+}

@@ -1,0 +1,61 @@
+{
+  "General": {
+    "Symbol": "RED",
+    "Name": "Redcoin",
+    "Description": "<p>Redcoin is a Proof of Work cryptocurrency based on the Scrypt algorithm.</p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": null,
+    "Algorithm": "Scrypt",
+    "ProofType": "PoW",
+    "BlockReward": 1014.1805357251849,
+    "Explorer": null,
+    "StartDate": "30/06/2013",
+    "TotalCoinsMined": 28799899697.123104,
+    "Twitter": null,
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "http://redcoin.pw/",
+    "GitHub": null,
+    "OnMarkets": [
+      "Cryptsy",
+      "Cryptopia",
+      "Coinse",
+      "BTER"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "N/A",
+    "Description": null,
+    "TokenType": null,
+    "WebsiteLink": null,
+    "FundingCap": null,
+    "FundingTarget": null,
+    "Date": null,
+    "EndDate": null,
+    "FundsRaisedList": null,
+    "FundsRaisedUSD": null,
+    "StartPrice": null,
+    "StartPriceCurrency": null,
+    "Jurisdiction": null,
+    "BlogLink": null,
+    "WhitePaperLink": null
+  },
+  "ccId": "79864"
+}

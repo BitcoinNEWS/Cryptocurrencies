@@ -1,0 +1,59 @@
+{
+  "General": {
+    "Symbol": "CV",
+    "Name": "CarVertical",
+    "Description": "<p>CarVertical is a blockchain-based vehicle history registry. The CarVertical will allow the network users to register their vehicles on the blockchain as a property and by installing a miner into the vehicle OBD slot (<span>On-Board Diagnostics)</span> generate a stream of real-time information that will be used to calculate the real value of the vehicle. In order to calculate the real value of a certain vehicle, the CarVertical team will use machine learning and advanced mathematical models. Furthermore, the CarVertical will feature a wallet that will serve as a gateway to most of their services, including the car&#39;s registration and maintenance records previously mentioned, and also perform insurance or technical inspection tasks.</p><p>CarVertical token (CV) is an ERC-20 token that will be used to reward the network users that provide information about the vehicle.</p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "9931143978",
+    "Algorithm": null,
+    "ProofType": null,
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "10/12/2017",
+    "TotalCoinsMined": 9931143978,
+    "Twitter": "@carVertical_com",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": null,
+    "GitHub": null,
+    "OnMarkets": [
+      "Kucoin",
+      "EtherDelta"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "N/A",
+    "Description": null,
+    "TokenType": null,
+    "WebsiteLink": null,
+    "FundingCap": null,
+    "FundingTarget": null,
+    "Date": null,
+    "EndDate": null,
+    "FundsRaisedList": null,
+    "FundsRaisedUSD": null,
+    "StartPrice": null,
+    "StartPriceCurrency": null,
+    "Jurisdiction": null,
+    "BlogLink": null,
+    "WhitePaperLink": null
+  },
+  "ccId": "713925"
+}

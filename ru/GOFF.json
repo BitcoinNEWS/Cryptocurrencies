@@ -1,0 +1,56 @@
+{
+  "General": {
+    "Symbol": "GOFF",
+    "Name": "Gift Off Token",
+    "Description": "<p><span>Gift Off is a UK based digital gift card retailer with the largest range on offer in Europe. Since February 2014 </span><span>they have </span><span>been enabling digital currency users to shop with major retailers worldwide like Amazon.co.uk, Tesco, and Argos. </span><span>Gift Off has more then 180 different</span><span> gift cards on stock cards and</span><span> </span><span>accepts over 40 digital currencies as well as UK credit and debit cards.</span></p><p>GOFF is an ERC20<span> </span><span>security token representing equity ownership in<span> </span>the<span> </span>company.</span></p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "1295000",
+    "Algorithm": null,
+    "ProofType": null,
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "01/02/2014",
+    "TotalCoinsMined": null,
+    "Twitter": "@GiftOff",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": null,
+    "GitHub": null,
+    "OnMarkets": [],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Ongoing",
+    "Description": "<p><span>Gift Off is a UK based digital gift card retailer with the largest range on offer in Europe. Since February 2014 </span><span>they have </span><span>been enabling digital currency users to shop with major retailers worldwide like Amazon.co.uk, Tesco, and Argos. </span><span>Gift Off has more then 180 different</span><span> gift cards on stock cards and</span><span> </span><span>accepts over 40 digital currencies as well as UK credit and debit cards.</span></p><p>GOFF is an ERC20<span> </span><span>security token representing equity ownership in<span> </span>the<span> </span>company.</span></p><p><strong>Team</strong>:</p><ul><li><strong>Rusty Nash</strong>: Founder. <a href=\"https://twitter.com/rustynash\" target=\"_blank\"><img style=\"width: 13px; height: 13px;\" src=\"/media/1383932/twitter_logo_final.png?width=13&amp;height=13\" alt=\"\" data-id=\"202868\"></a> <a href=\"https://uk.linkedin.com/in/rustynash\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Lois Foulger</strong>: Communications Manager. <a href=\"https://www.linkedin.com/profile/view?id=AAIAABWJnJ8BzRpFUPwrTBncghGb1_PiceFyu58\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Adam Cleary</strong>: Investor Director.<span> </span><a href=\"https://twitter.com/adc555\" target=\"_blank\"><img style=\"width: 13px; height: 13px;\" src=\"/media/1383932/twitter_logo_final.png?width=13&amp;height=13\" alt=\"\" data-id=\"202868\"></a><span> </span><a href=\"https://www.linkedin.com/profile/view?id=AAkAAAltlJUBJ2grHvCCyMl-fR7Sj1xNFgmvvds\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Paul Gordon</strong><span>: Investor.</span><span><span> </span></span><a href=\"https://twitter.com/coinscrum\" target=\"_blank\"><img style=\"width: 13px; height: 13px;\" src=\"/media/1383932/twitter_logo_final.png?width=13&amp;height=13\" alt=\"\" data-id=\"202868\"></a><span><span> </span></span><a href=\"https://www.linkedin.com/profile/view?id=AAkAAASCIYMBvOFvkTT7W3sPyW7qlMtbvoygkSU\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Dr. Daniel Hulme</strong><span>: Advisor.</span><span><span> </span></span><a href=\"https://twitter.com/TheSolveEngine\" target=\"_blank\"><img style=\"width: 13px; height: 13px;\" src=\"/media/1383932/twitter_logo_final.png?width=13&amp;height=13\" alt=\"\" data-id=\"202868\"></a><span><span> </span></span><a href=\"https://www.linkedin.com/profile/view?id=AAkAAAFScIMBsmy6p2jzv5tdXFYF6fh3OjSVi8c\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Polly Gowers, OBE</strong><span>: Advisor.</span><span><span> </span></span><a href=\"https://twitter.com/pollybarnfield\" target=\"_blank\"><img style=\"width: 13px; height: 13px;\" src=\"/media/1383932/twitter_logo_final.png?width=13&amp;height=13\" alt=\"\" data-id=\"202868\"></a><span><span> </span></span><a href=\"https://www.linkedin.com/profile/view?id=AAkAAAA-p0UB_XDMkReSebnL4WGcsUbh-Bdduyc\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li></ul><p>Gift Off Token will be holding its ICO on March 9th, 2018. The ICO token supply represents 96.5% of the total token supply. The ICO funding cap is 1,250,000 GBP and is expected to end on April 6th, 2018 or when the funding cap is reached. </p><p><strong>Token Reserve Split (3.5%):</strong></p><ul><li>3.5% Team;</li></ul>",
+    "TokenType": "ETH (ERC20)",
+    "WebsiteLink": "https://tokens.giftoff.com/",
+    "FundingCap": "1,250,000 GBP",
+    "FundingTarget": "N/A",
+    "Date": 1520582400,
+    "EndDate": 1523044800,
+    "FundsRaisedList": "72,655 GOFF tokens sold",
+    "FundsRaisedUSD": "101487.41",
+    "StartPrice": "1",
+    "StartPriceCurrency": "GBP",
+    "Jurisdiction": "UK",
+    "BlogLink": "https://medium.com/@cavenham/gift-off-tokens-a-new-equity-token-6215992ccd02",
+    "WhitePaperLink": "https://docsend.com/view/azvjydg"
+  },
+  "ccId": "800364"
+}

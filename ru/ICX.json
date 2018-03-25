@@ -1,0 +1,62 @@
+{
+  "General": {
+    "Symbol": "ICX",
+    "Name": "ICON Project",
+    "Description": "<p><span>The ICON Project is a decentralized transactions network. The ICON Project aims to connect independent blockchains with different </span>governance,<span><span> </span>so that they can transact with one another without intermediaries. ICX is a<span> </span></span>loopchain<span>-based smart contract digital protocol that facilitates, verifies, and enacts a negotiated agreement between consenting parties within ICON.</span></p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "400230000",
+    "Algorithm": null,
+    "ProofType": "LFT",
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "24/10/2017",
+    "TotalCoinsMined": 400230000,
+    "Twitter": "@helloiconworld",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": null,
+    "GitHub": null,
+    "OnMarkets": [
+      "OKEX",
+      "HuobiPro",
+      "Binance",
+      "HitBTC",
+      "Gateio"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Finished",
+    "Description": "<p>The ICON Project is a decentralized transactions network. The ICON Project aims to connect independent blockchains with different governance, so that they can transact with one another without intermediaries. ICX is a loopchain-based smart contract digital protocol that facilitates, verifies, and enacts a negotiated agreement between consenting parties within ICON.</p><p><strong>Team</strong>:</p><ul><li><strong><span>KJ Eee</span></strong>: <span>Foundation Council</span>. </li><li><strong><span>JH Kim</span></strong>: <span>Foundation Council</span>.<span> </span></li><li><strong><span>Jay Kim</span></strong>: <span>Foundation Council</span>.<span> </span></li><li><strong><span>Hoon Lee</span></strong>: <span>Foundation Council</span>.<span> </span></li></ul><p><strong>Token Reserve Split (50%):</strong></p><ul><li>16% Reseve;</li><li>10% Team, Advisors and Early Contributors;</li><li>10% Community group and Strategy Partners;</li><li>14% Foundation;</li></ul>",
+    "TokenType": "New Blockchain",
+    "WebsiteLink": null,
+    "FundingCap": "150,000 ETH",
+    "FundingTarget": "N/A",
+    "Date": 1505880000,
+    "EndDate": 1505903580,
+    "FundsRaisedList": "150,000 ETH",
+    "FundsRaisedUSD": "43545000",
+    "StartPrice": "0.0004",
+    "StartPriceCurrency": "ETH",
+    "Jurisdiction": "Switzerland",
+    "BlogLink": "https://medium.com/helloiconworld",
+    "WhitePaperLink": "http://docs.icon.foundation/ICON-Whitepaper-EN-Draft.pdf"
+  },
+  "ccId": "324068"
+}

@@ -1,0 +1,59 @@
+{
+  "General": {
+    "Symbol": "DAR",
+    "Name": "Darcrus",
+    "Description": "<p>Darcrus — это актив, выпущенный на блок-цепочке NXT, который позволит его владельцам получать вознаграждения за счет выплат, которые назначаются через DASH. Система вознаграждения может быть основана на программе выкупа по обмену или выплате через собственные системы NXT & Waves. Darcrus также генерирует прибыль для своих держателей, продавая децентрализованные приложения, такие как dAppsheet, приложение, которое автоматически реплицирует и децентрализует базовую инфраструктуру для компаний, чтобы адаптировать практически любые приложения для отслеживания, биллинга или службы поддержки к их конкретным потребностям.</p><p>Начальный период выпуска монет Dracrus начнется 21 ноября и продлится три недели. В первый день инвесторы получат 50% бонус, который затем будет разбавлен в течение ICO. Будет выпущено 50 миллионов токенов DAR, из которых 42 500 000 будут распространены среди инвесторов, а 5 миллионов токенов будут зарезервированы для свопов активов SIGFARM и SIGWO. Оставшаяся часть будет храниться для обслуживания, аудита, маркетинга и развития, а также для программ общинных бонусов. Выпуск приложения dAppsheet запланирован на май 2017 года, после чего Dracrus продолжит разработку новых продуктов.</p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "14055048",
+    "Algorithm": null,
+    "ProofType": null,
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "12/12/2016",
+    "TotalCoinsMined": null,
+    "Twitter": "@darcrus",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "https://darcr.us/",
+    "GitHub": null,
+    "OnMarkets": [
+      "WavesDEX",
+      "BitTrex"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Finished",
+    "Description": "<p>307 bitcoin was raised which led to the reduction of the total supply from 50,000,000 to 14,055,048. ICO investors received 11,415,628.00 tokens. Trading went live shortly after the sale finished on Bittrex. The ICO bonus started at 50%. The token reserves split is as follows 10% for current Sigfarm and Sigwo asset holders, 2% for Tech and maintenance, 2% for marketing, 1% for bounties.</p>",
+    "TokenType": "NXT",
+    "WebsiteLink": "https://ico.darcr.us/",
+    "FundingCap": "N/A",
+    "FundingTarget": "N/A",
+    "Date": 1479729600,
+    "EndDate": 1481457600,
+    "FundsRaisedList": "307 BTC",
+    "FundsRaisedUSD": "295000",
+    "StartPrice": "0.0209",
+    "StartPriceCurrency": "USD",
+    "Jurisdiction": "N/A",
+    "BlogLink": "https://blog.darcr.us/",
+    "WhitePaperLink": "https://darcr.us/docs/Darcrus-Use-Cases.pdf"
+  },
+  "ccId": "32694"
+}

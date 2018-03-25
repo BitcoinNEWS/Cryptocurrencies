@@ -1,0 +1,63 @@
+{
+  "General": {
+    "Symbol": "GAS",
+    "Name": "Gas",
+    "Description": "<p>There are two built-in system assets: NEO and GAS. NEO represent the ownership of the blockchain, which is used for electoral accounting, to obtain GAS dividends, etc. GAS represents the right to use the blockchain, and are used to pay fees of various systems on the chain.</p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "9677664",
+    "Algorithm": "N/A",
+    "ProofType": "N/A",
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "01/01/0001",
+    "TotalCoinsMined": null,
+    "Twitter": "@neo_blockchain",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "https://neo.org/",
+    "GitHub": null,
+    "OnMarkets": [
+      "HuobiPro",
+      "Kucoin",
+      "Poloniex",
+      "OKEX",
+      "Binance",
+      "Gateio"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "N/A",
+    "Description": null,
+    "TokenType": null,
+    "WebsiteLink": null,
+    "FundingCap": null,
+    "FundingTarget": null,
+    "Date": null,
+    "EndDate": null,
+    "FundsRaisedList": null,
+    "FundsRaisedUSD": null,
+    "StartPrice": null,
+    "StartPriceCurrency": null,
+    "Jurisdiction": null,
+    "BlogLink": null,
+    "WhitePaperLink": null
+  },
+  "ccId": "213532"
+}

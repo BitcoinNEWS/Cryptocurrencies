@@ -1,0 +1,61 @@
+{
+  "General": {
+    "Symbol": "MAPC",
+    "Name": "MapCoin",
+    "Description": "<p>The coin is designed for shop/bar/store owners who want to give incentive for people coming to their locations ie pay coins for checking in.</p><p>Later on there will be built in exchange where people will be able to exchange MAPC directly to BTC within the wallet/app.</p>",
+    "Features": "<p>They will be using Foursquare API and later on Google Maps API to let you checkin at choosen spots.</p><p>You will be able to get there MAPCoins for checkin option in the Swarm/Fouraquare APP or change them into BTC.</p><p>Their coin/app will allow people to get free MAPcoins for checkins at choosen spots - making the cryptocurrency popular this way.</p><p>On the start they will be an addon app to Swarm/Foursquare yet later we will want to join Google Maps.</p>",
+    "Technology": "<p>Total supply: ~3,000,000 (3MM) [ 2228921.184 ]</p><p>Premine: 100% Premine</p><p>Devs Premine: 1% (30000)</p><p>Algorithm: x11 (POS)</p><p>PoS: 2% a year</p>",
+    "TotalCoinSupply": "2228921.184",
+    "Algorithm": "X11",
+    "ProofType": "PoS",
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "19/06/2015",
+    "TotalCoinsMined": null,
+    "Twitter": "@mapcoinofficial",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "-",
+    "GitHub": null,
+    "OnMarkets": [
+      "Yobit",
+      "CCEX",
+      "BitTrex",
+      "Cryptsy"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "N/A",
+    "Description": null,
+    "TokenType": null,
+    "WebsiteLink": null,
+    "FundingCap": null,
+    "FundingTarget": null,
+    "Date": null,
+    "EndDate": null,
+    "FundsRaisedList": null,
+    "FundsRaisedUSD": null,
+    "StartPrice": null,
+    "StartPriceCurrency": null,
+    "Jurisdiction": null,
+    "BlogLink": null,
+    "WhitePaperLink": null
+  },
+  "ccId": "12223"
+}

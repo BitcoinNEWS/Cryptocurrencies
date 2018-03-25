@@ -1,0 +1,60 @@
+{
+  "General": {
+    "Symbol": "BOST",
+    "Name": "BoostCoin",
+    "Description": "<p>Boostcoin (BOST) claims to be the first hybrid PoW/PoS X13 altcoin. The PoW phase was set to have a block reward of 515 coins per block - a sixty second block target and a total supply of 11.7 million coins. The total supply of coins is limited to 40 million including the PoS phase which has an interest rate of 10% annually. There are continuing rewards from PoS blocks towards the BoostCoin foundation and there was a 1% premine.</p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": null,
+    "Algorithm": "X13",
+    "ProofType": "PoW/PoS",
+    "BlockReward": 2.2191063227752843,
+    "Explorer": null,
+    "StartDate": "15/05/2014",
+    "TotalCoinsMined": 17137352.17757463,
+    "Twitter": null,
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "-",
+    "GitHub": null,
+    "OnMarkets": [
+      "CCEX",
+      "Cryptsy",
+      "BTC38"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "N/A",
+    "Description": null,
+    "TokenType": null,
+    "WebsiteLink": null,
+    "FundingCap": null,
+    "FundingTarget": null,
+    "Date": null,
+    "EndDate": null,
+    "FundsRaisedList": null,
+    "FundsRaisedUSD": null,
+    "StartPrice": null,
+    "StartPriceCurrency": null,
+    "Jurisdiction": null,
+    "BlogLink": null,
+    "WhitePaperLink": null
+  },
+  "ccId": "4342"
+}

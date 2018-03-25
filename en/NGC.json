@@ -1,0 +1,59 @@
+{
+  "General": {
+    "Symbol": "NGC",
+    "Name": "NagaCoin",
+    "Description": "<p>The Naga is a German trade retail stock platform specialized in the development of technology for capital markets and gaming. The company operates and owns an EU-licensed brokerage company, one social network for trading (SwipeStox), and a virtual good exchange (Switex).</p><p>In order to open up the world of trading financial and virtual good to everyone, the Naga company will implement a decentralized unit on their platforms. The Naga team aims to create an ecosystem for the social trading of cryptocurrencies, virtual good and stocks powered by the NagaCoin (NGC). The NGC will unite all platform in the Naga ecosystem through its own wallet service called The Naga Wallet. Besides the aforementioned features, the NGC will allow receiving cash back and bonuses through a token economy framework. </p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "77910266.157690633123324857",
+    "Algorithm": null,
+    "ProofType": null,
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "04/11/2017",
+    "TotalCoinsMined": null,
+    "Twitter": "@naga_coin",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": null,
+    "GitHub": null,
+    "OnMarkets": [
+      "OKEX",
+      "HitBTC"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Ongoing",
+    "Description": "<p>The Naga is a German trade retail stock platform specialized in the development of technology for capital markets and gaming. The company operates and owns an EU-licensed brokerage company, one social network for trading (SwipeStox), and a virtual good exchange (Switex).</p><p>In order to open up the world of trading financial and virtual good to everyone, the Naga company will implement a decentralized unit on their platforms. The Naga team aims to create an ecosystem for the social trading of cryptocurrencies, virtual good and stocks powered by the NagaCoin (NGC). The NGC will unite all platform in the Naga ecosystem through its own wallet service called The Naga Wallet. Besides the aforementioned features, the NGC will allow receiving cash back and bonuses through a token economy framework. </p><p><strong>Team</strong>:</p><ul><li><strong>Yasin Sebastian Qureshi</strong>: Founder &amp; Executive Director. <a href=\"https://www.linkedin.com/in/yasin-sebastian-qureshi-9454bb25\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Christoph Brück</strong>: Founder &amp; Executive Director.<span> </span><a href=\"https://www.linkedin.com/in/chris-br%C3%BCck-59759086\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Benjamin Bilski</strong>: Founder &amp; Executive Director.<span> </span><a href=\"https://www.linkedin.com/in/benjaminbilski/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Igor Kulatov</strong>:<span> <span>Co-Founder &amp; CTO</span></span>.<span> </span><a href=\"https://www.linkedin.com/in/kulatov/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li></ul><p>Naga will be holding its ICO on the 1st of December, 2017. The ICO token supply represents 50% of the total token supply, so there will be a total of 200,000,000 NGC tokens available, for 1 USD each during the offering. The ICO funding target is 1,000,000 NGC tokens, the funding cap is 200,000,000 NGC tokens and is expected to end on the 15th of December, 2017 or when the funding cap is reached. Any unsold tokens will be burned.</p><p><strong>Token Reserve Split (50%):</strong></p><ul><li>5% <span>Pre-Sale</span>;</li><li><span>17.5</span>% <span>Team Tokens</span>;</li><li><span>12.5</span>% <span>Legal &amp; Advisory</span>;</li><li><span>10</span>% <span>M&amp;A Reserve, Buyback &amp; Options</span>;</li><li><span>5</span>% <span>Referral Program</span>;</li></ul><p><span>Naga ICO will feature a referral program, and the token will not be mineable.</span></p>",
+    "TokenType": "ETH (ERC20)",
+    "WebsiteLink": "https://www.nagaico.com/?refcode=97qcdy",
+    "FundingCap": "200,000,000 NGC",
+    "FundingTarget": "1,000,000 NGC",
+    "Date": 1512086400,
+    "EndDate": 1513382340,
+    "FundsRaisedList": "40,204,343 USD",
+    "FundsRaisedUSD": "40204343",
+    "StartPrice": "1",
+    "StartPriceCurrency": "USD",
+    "Jurisdiction": "Germany",
+    "BlogLink": "https://medium.com/@thenagaico",
+    "WhitePaperLink": "https://docsend.com/view/srsg4zw"
+  },
+  "ccId": "466339"
+}

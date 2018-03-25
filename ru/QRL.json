@@ -1,0 +1,60 @@
+{
+  "General": {
+    "Symbol": "QRL",
+    "Name": "Quantum Resistant Ledger",
+    "Description": "<p>QRL is a Python-based blockchain ledger utilising hash-based one-time merkle tree signature scheme (XMSS) instead of ECDSA. Proof-of-stake block selection via HMAC_DRBG PRF and a signed iterative hash chain reveal scheme. It was designed to resist potential quantum computer hacks.</p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "65000000",
+    "Algorithm": null,
+    "ProofType": "PoS",
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "27/12/2016",
+    "TotalCoinsMined": 65000000,
+    "Twitter": null,
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "https://theqrl.org/",
+    "GitHub": null,
+    "OnMarkets": [
+      "Tidex",
+      "Liqui",
+      "BitTrex"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Finished",
+    "Description": "<p><span>52 Million token were sold with 13 Million tokens held back by the foundation and developers. The approximate price per token was .08 cents in USD at the presale, raising 4.16 Million dollars in cryptocurrency at the close of the early crowdsale. Approximately 85% of the 600+ participants requested ERC20 Tokens.</span></p><p><a href=\"https://theqrl.org/roadmap.html\" target=\"_blank\" title=\"Roadmap\">Roadmap</a></p>",
+    "TokenType": "N/A",
+    "WebsiteLink": "https://theqrl.org/",
+    "FundingCap": "N/A",
+    "FundingTarget": "N/A",
+    "Date": 1493640000,
+    "EndDate": 1495627200,
+    "FundsRaisedList": "N/A",
+    "FundsRaisedUSD": "4160000",
+    "StartPrice": "0.064",
+    "StartPriceCurrency": "USD",
+    "Jurisdiction": "N/A",
+    "BlogLink": "https://medium.com/the-quantum-resistant-ledger",
+    "WhitePaperLink": "https://theqrl.org/whitepaper/QRL_whitepaper.pdf"
+  },
+  "ccId": "127667"
+}

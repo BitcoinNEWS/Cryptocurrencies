@@ -1,0 +1,56 @@
+{
+  "General": {
+    "Symbol": "LTA",
+    "Name": "Litra",
+    "Description": "<p><span>The Litra project aims to provide additional accountability and transparency to the healthcare industry by allowing data to be deposited anywhere while the blockchain stores the links to EHR updates. Using the Litra Blockchain, individuals will have access to their EHR record from their own devices.</span></p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "99999999",
+    "Algorithm": null,
+    "ProofType": null,
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "30/08/2017",
+    "TotalCoinsMined": null,
+    "Twitter": "@Litracoin",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": null,
+    "GitHub": null,
+    "OnMarkets": [],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Ongoing",
+    "Description": "<p><span>The Litra project aims to </span><span>provide additional accountability and transparency to the healthcare industry</span><span> by allowing<span> </span></span><span>data<span> </span></span><span>to</span><span> be deposited anywhere while the blockchain stores the links to EHR updates. Using </span><span>the</span><span> Litra Blockchain, individuals will have access to their EHR record from their own devices</span><span>.</span></p><p>Litra will be hosting its ICO on the 30th of August, 2017. The ICO token supply represents 30% of the total coin supply (99m). The LTA token can be purchased with BTC, ETH or USD. The ICO is expected to last until the 30th of September, 2017.</p><p><span>The ICO will feature a 25% pre-sale bonus.</span></p>",
+    "TokenType": "BTC",
+    "WebsiteLink": "http://www.litra.site",
+    "FundingCap": "N/A",
+    "FundingTarget": "N/A",
+    "Date": 1504051200,
+    "EndDate": 1506729600,
+    "FundsRaisedList": "N/A",
+    "FundsRaisedUSD": "8300000",
+    "StartPrice": "1",
+    "StartPriceCurrency": "USD",
+    "Jurisdiction": "N/A",
+    "BlogLink": null,
+    "WhitePaperLink": "http://www.litra.site/Litrawhitepaper.pdf"
+  },
+  "ccId": "234526"
+}

@@ -1,0 +1,62 @@
+{
+  "General": {
+    "Symbol": "NLG",
+    "Name": "Gulden",
+    "Description": "<p>Gulden (NLG) is another national currency for the Netherlands. The premine is 10% with 1% to be used for bounties and not distributed. The total number of coins to be mined is 1.68 billion and the block time is set to 150 seconds. The difficulty retargetting occurs every 576 blocks using the Kimoto Gravity well. The coin is scrypt and pure Proof of Work.</p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "1680000000",
+    "Algorithm": "Scrypt",
+    "ProofType": "PoW",
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "02/04/2014",
+    "TotalCoinsMined": 394417200,
+    "Twitter": "@guldencoin",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "https://guldencoin.com/",
+    "GitHub": null,
+    "OnMarkets": [
+      "Cryptopia",
+      "Yobit",
+      "Novaexchange",
+      "Bleutrade",
+      "BitTrex"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "N/A",
+    "Description": null,
+    "TokenType": null,
+    "WebsiteLink": null,
+    "FundingCap": null,
+    "FundingTarget": null,
+    "Date": null,
+    "EndDate": null,
+    "FundsRaisedList": null,
+    "FundsRaisedUSD": null,
+    "StartPrice": null,
+    "StartPriceCurrency": null,
+    "Jurisdiction": null,
+    "BlogLink": null,
+    "WhitePaperLink": null
+  },
+  "ccId": "5315"
+}

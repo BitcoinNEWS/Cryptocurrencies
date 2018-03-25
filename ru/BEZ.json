@@ -1,0 +1,58 @@
+{
+  "General": {
+    "Symbol": "BEZ",
+    "Name": "Bezop",
+    "Description": "<p><span>Based on blockchain technology, the Bezop Network will allow developersto sell their softwares and skills easily with a Copy and Paste \"Easy Integration\". </span>Their asset BEZ is a ERC20 compliant Token in the Ethereum Network, and is to be used within their platform.</p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "89267250",
+    "Algorithm": null,
+    "ProofType": null,
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "17/11/2017",
+    "TotalCoinsMined": 89267250,
+    "Twitter": "@BezopNetwork",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": null,
+    "GitHub": null,
+    "OnMarkets": [
+      "HitBTC"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "N/A",
+    "Description": null,
+    "TokenType": null,
+    "WebsiteLink": null,
+    "FundingCap": null,
+    "FundingTarget": null,
+    "Date": null,
+    "EndDate": null,
+    "FundsRaisedList": null,
+    "FundsRaisedUSD": null,
+    "StartPrice": null,
+    "StartPriceCurrency": null,
+    "Jurisdiction": null,
+    "BlogLink": null,
+    "WhitePaperLink": null
+  },
+  "ccId": "811575"
+}

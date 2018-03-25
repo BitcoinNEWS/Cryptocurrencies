@@ -1,0 +1,59 @@
+{
+  "General": {
+    "Symbol": "XLC",
+    "Name": "LeviarCoin",
+    "Description": "<p>LeviarCoin is an open-source, secure, private and anonymous currency, based on CryptoNote technology. The cryptonote technology provides LeviarCoin with untraceable payments, unlinkable transactions, double-spending proof, fair proof of work and blockchain analysis resistance. The mining rate will release around 40% of the maximum supply within the first three years. 10 % is offered via an ICO.</p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "54000000",
+    "Algorithm": "CryptoNight",
+    "ProofType": "PoW",
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "14/08/2017",
+    "TotalCoinsMined": 11145662,
+    "Twitter": "leviarcoin_fdn",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "https://leviarcoin.org/project",
+    "GitHub": null,
+    "OnMarkets": [
+      "HitBTC",
+      "Cryptopia"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Finished",
+    "Description": "<p>The XLC token aims to help users to overcome the fraud within the software and gaming industry by creating a blockchain to store the private keys of these games and software. The bonus started at 40% and dropped by 10% each week with an initial price of 0.00030 BTC/XLC. 2,7000,000 XLC are reserved for the development team and 10% of the maximum supply is available to investors in the ICO.</p><p>The next milestone is to release the first version of the Integration API followed by iOS, Android and PHP libraries. Every unsold coin will be put on the market at the fixed price of 0.00055 BTC / XLC for who missed out the main event. It was said that if the target of 100 BTC was not hit a refund will occur, the project is still going ahead despite not hitting the target. SebastianJu Escrow was used for the ICO.</p>",
+    "TokenType": "N/A",
+    "WebsiteLink": "https://leviarcoin.org/ico",
+    "FundingCap": "No Cap",
+    "FundingTarget": "100 BTC",
+    "Date": 1491566400,
+    "EndDate": 1499601600,
+    "FundsRaisedList": "20 BTC; 125.27 ETH",
+    "FundsRaisedUSD": "63729.88",
+    "StartPrice": "0.0118",
+    "StartPriceCurrency": "USD",
+    "Jurisdiction": "N/A",
+    "BlogLink": null,
+    "WhitePaperLink": "https://leviarcoin.org/assets/pdf/LeviarCoin_White_Paper_v1.pdf"
+  },
+  "ccId": "198337"
+}

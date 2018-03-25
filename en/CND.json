@@ -1,0 +1,59 @@
+{
+  "General": {
+    "Symbol": "CND",
+    "Name": "Canada eCoin",
+    "Description": "<p><span>CanadaCoin is a merge mineable scrypt-based eCoin with a Canadian theme. </span></p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "2000000005",
+    "Algorithm": null,
+    "ProofType": null,
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "28/03/2014",
+    "TotalCoinsMined": 2000000004.6079144,
+    "Twitter": "@ThisIsOurCoin",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "www.canadaecoin.ca",
+    "GitHub": null,
+    "OnMarkets": [
+      "HitBTC",
+      "Binance"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Finished",
+    "Description": "<p><span>Cindicator incorporates financial analysts and a set of machine learning models into a single Hybrid Intelligence infrastructure where investors&#39; capital can be managed in both traditional financial and crypto-markets. CND is an ERC 20 utility token that powers Condicator&#39;s ecosystem. Each token holder can obtain a new level of access to Cindicator&#39;s indicators, indices, data, services, information, and analytical products, depending on the number of tokens possessed.</span></p><p> </p><p><strong>Team</strong>:</p><ul><li><strong>Mike Brusov</strong>: CEO and Co-founder. <a href=\"https://www.linkedin.com/in/mike-brusov/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Yuri Lobyntsev</strong>: CTO and Co-founder. <a href=\"https://www.linkedin.com/in/yurilobyntsev/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Artem Baranov</strong>: COO and Co-founder. <a href=\"https://www.linkedin.com/in/artembaranov/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Kate Kurbanova</strong>: Head of Analytics. <a href=\"https://www.linkedin.com/in/kate-kurbanova-241600124/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Nodari Kolmakhidze</strong>: Chief Investment Officer. <a href=\"https://www.linkedin.com/in/nodari-kolmakhidze/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Alexander Frolov</strong>: Backend Developer. <a href=\"https://www.linkedin.com/in/alexander-frolov-84191165/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Evgeniy Koltsov</strong>: Backend Developer. <a href=\"https://www.linkedin.com/in/evgeniy-koltsov-372246a1/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Misha Vasilev</strong>: iOS Developer. <a href=\"https://www.linkedin.com/in/misha-vasilev-23b9a7144/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Marina Cherniavskaia</strong>: Product Designer. <a href=\"https://www.linkedin.com/in/marinatsche/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li>Sergey Bliznetsov: Frontend Architect. <a href=\"https://www.linkedin.com/in/sergey-bliznetsov/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Sergey Zhirnov</strong><span><strong>:</strong> Frontend Architect. </span><a href=\"https://www.linkedin.com/in/sergey-zhirnov-004461145/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Yaroslav Marakhonov: </strong>Community Manager. <a href=\"https://www.linkedin.com/in/iaroslav-marakhonov-19230bb1/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Alexander Yakushev: </strong>Frontend Developer. <a href=\"https://www.linkedin.com/in/alexander-yakushev-86a01a143/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li></ul><p><strong>Token Reserve Split (25%):</strong></p><ul><li>20% Cindicator Company;</li><li>~3% Advisors and Partners;</li><li>1% Bounty Program;</li></ul>",
+    "TokenType": "ETH (ERC20)",
+    "WebsiteLink": null,
+    "FundingCap": "N/A",
+    "FundingTarget": "N/A",
+    "Date": 1505174400,
+    "EndDate": 1507766400,
+    "FundsRaisedList": "N/A",
+    "FundsRaisedUSD": "N/A",
+    "StartPrice": "N/A",
+    "StartPriceCurrency": "N/A",
+    "Jurisdiction": "N/A",
+    "BlogLink": "https://medium.com/@Cindicator",
+    "WhitePaperLink": "https://cindicator.com/Cindicator_WhitePaper_en.pdf"
+  },
+  "ccId": "37746"
+}

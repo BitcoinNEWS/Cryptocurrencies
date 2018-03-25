@@ -1,0 +1,61 @@
+{
+  "General": {
+    "Symbol": "MDA",
+    "Name": "Moeda",
+    "Description": "<p>MOEDA is a Cooperative Crypto Credit Banking-as-a-Service Platform designed to provide a mobile lending system. Moeda will provide a multi-purpose digital identity and opportunities to build credit-worthiness and reputation. It will also give investors real-time transparency of SDG-aligned Impact Investment, trust of cryptographically assured blockchain records and contracts while facilitating the scaling of community investments, payment transactions and service more customers online.</p><p>Moeda Tokens (MDA) are backed by a social contract in loyal support of Green Cross Brazil to achieve the United Nations Sustainable Development Goals (SDGs). The tokens will be transferable once the sale has concluded.</p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "19628888",
+    "Algorithm": null,
+    "ProofType": null,
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "17/07/2017",
+    "TotalCoinsMined": 19628888,
+    "Twitter": "@moedabanking",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": null,
+    "GitHub": null,
+    "OnMarkets": [
+      "Binance",
+      "OKEX",
+      "Gateio",
+      "EtherDelta"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Finished",
+    "Description": "<p>MOEDA is a Cooperative Crypto Credit Banking-as-a-Service Platform designed to provide a mobile lending system. Moeda will provide a multi-purpose digital identity and opportunities to build credit-worthiness and reputation. It will also give investors real-time transparency of SDG-aligned Impact Investment, trust of cryptographically assured blockchain records and contracts while facilitating the scaling of community investments, payment transactions and service more customers online.</p><p>Moeda Tokens (MDA) are backed by a social contract in loyal support of Green Cross Brazil to achieve the United Nations Sustainable Development Goals (SDGs). The tokens will be transferable once the sale has concluded.</p><p><strong>Team</strong>:</p><ul><li><strong>Taynaah Reis</strong></li><li><strong>Brad Chun</strong></li><li><strong>Athena Diaconis</strong></li><li><strong>Isa Yu</strong></li><li><strong>Alex Todaro</strong></li><li><strong>Angela Cheng</strong></li><li><strong>Brent Dixon</strong></li><li><strong>Ari Eisenstat</strong></li></ul><p>Moeda held its ICO on the 28th of August, 2017. The ICO token supply represents 25% of the total token supply and each token was sold for $1 at the offering. The ICO ended on the 5th of September, 2017.</p><p><strong>Token Reserve Split (75%):</strong></p><ul><li>75% Private sales, pre-sales, and foundation;</li></ul><p> </p>",
+    "TokenType": "ETH (ERC20)",
+    "WebsiteLink": "https://moeda.in/#crowdsale",
+    "FundingCap": "N/A",
+    "FundingTarget": "N/A",
+    "Date": 1503878400,
+    "EndDate": 1504569600,
+    "FundsRaisedList": "N/A",
+    "FundsRaisedUSD": "N/A",
+    "StartPrice": "1",
+    "StartPriceCurrency": "USD",
+    "Jurisdiction": "N/A",
+    "BlogLink": "https://medium.com/moeda",
+    "WhitePaperLink": "https://moeda.in/whitepaper.pdf"
+  },
+  "ccId": "341279"
+}

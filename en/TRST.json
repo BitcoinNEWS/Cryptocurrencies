@@ -1,0 +1,62 @@
+{
+  "General": {
+    "Symbol": "TRST",
+    "Name": "TrustCoin",
+    "Description": "<p><span>WeTrust is a collaborative lending and insurance platform built on the blockchain created as an alternative to traditional finance and provide community based form of credit scores, insurance, and banking. </span><span>The first product being built at WeTrust is a Rotating Savings and Credit Association (ROSCA) platform running on a decentralized blockchain, Ethereum. WeTrust ROSCA allows users to save and issue credit as a group, at self-determined and fair interest rates.</span></p><p>TrustCoin is an Ethereum-based token that is used to fuel operations within the WeTrust services, like its ROSCA platform and future products.</p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "100000000",
+    "Algorithm": null,
+    "ProofType": null,
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "07/12/2016",
+    "TotalCoinsMined": 100000000,
+    "Twitter": "@WeTrustPlatform",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "https://www.wetrust.io/",
+    "GitHub": null,
+    "OnMarkets": [
+      "BitTrex",
+      "LiveCoin",
+      "EtherDelta",
+      "Liqui",
+      "HitBTC"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Finished",
+    "Description": "<p><span>Trustcoin (TRST) tokens are the currency for services performed by WeTrust as well as other service providers in the WeTrust ecosystem. The coin is a reward to any actor that facilitates trust and is paid by any actor that uses the Trust Network. Collateral used in any transaction will also be in the form of Trustcoin. The value of Trustcoin is derived from usage of the platform. There will be a total of 100 million tokens created, and there is no inflation. </span>1,791 participants raised a total of 80,092 ETH 1,048 BTC which was worth approximately $4,662,000 when the ICO ended on April 12, 2017.</p><p>Of the 100 million issued tokens, the distribution will look like this:</p><p>2 million to bounties, 8 million to future contingency, 10 million to founders, 80 million to funders.</p><p>Bonus structure:</p><p>1st Day 30%, 1st Week 25%, 2nd Week 20%, 3rd Week 15%, 4th Week 10%, 5th Week 5%, 6th Week 0%</p><p><a href=\"https://blog.wetrust.io/updated-budget-and-roadmap-135db39281cb\" target=\"_blank\">Roadmap</a></p><p> </p>",
+    "TokenType": "ETH (ERC20)",
+    "WebsiteLink": "https://www.wetrust.io/",
+    "FundingCap": "N/A",
+    "FundingTarget": "N/A",
+    "Date": 1488456000,
+    "EndDate": 1491998400,
+    "FundsRaisedList": "80,092 ETH; 1,048 BTC",
+    "FundsRaisedUSD": "4662000",
+    "StartPrice": "0.0582",
+    "StartPriceCurrency": "USD",
+    "Jurisdiction": "N/A",
+    "BlogLink": "https://blog.wetrust.io/?gi=e7eb90ff7f0c",
+    "WhitePaperLink": "https://github.com/WeTrustPlatform/documents/blob/master/WeTrustWhitePaper.pdf"
+  },
+  "ccId": "37040"
+}

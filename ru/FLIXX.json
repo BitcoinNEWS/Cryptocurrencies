@@ -1,0 +1,60 @@
+{
+  "General": {
+    "Symbol": "FLIXX",
+    "Name": "Flixxo",
+    "Description": "<p>Flixxo is a decentralized video sharing platform, similar to Popcorn Time. This streaming service aims to ensure that its <span>users are the owners and beneficiaries of their content. FLIXX is an Ethereum-based ERC20 token that serves as a currency on Flixxo&#39;s ecosystem. It is used by users to watch videos, by producers to monetize their work and incentivize the network, and by advertisers to pay for a moment of the users&#39; attention.</span></p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "189151328.5746",
+    "Algorithm": null,
+    "ProofType": null,
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "11/09/2017",
+    "TotalCoinsMined": null,
+    "Twitter": "@flixxo",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": null,
+    "GitHub": null,
+    "OnMarkets": [
+      "EtherDelta",
+      "LiveCoin",
+      "Kucoin"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "N/A",
+    "Description": null,
+    "TokenType": null,
+    "WebsiteLink": null,
+    "FundingCap": null,
+    "FundingTarget": null,
+    "Date": null,
+    "EndDate": null,
+    "FundsRaisedList": null,
+    "FundsRaisedUSD": null,
+    "StartPrice": null,
+    "StartPriceCurrency": null,
+    "Jurisdiction": null,
+    "BlogLink": null,
+    "WhitePaperLink": null
+  },
+  "ccId": "408849"
+}

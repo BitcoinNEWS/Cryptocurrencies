@@ -1,0 +1,59 @@
+{
+  "General": {
+    "Symbol": "CHAN",
+    "Name": "ChanCoin",
+    "Description": "<p>ChanCoin is a Proof of Work cryptocurrency based on the Scrypt algorithm. The development team has plans to implement a browser extension that allows users of 4chan boards to tip each others posts.</p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "30000000",
+    "Algorithm": "Cloverhash",
+    "ProofType": "PoW",
+    "BlockReward": 49.999999998509885,
+    "Explorer": null,
+    "StartDate": "28/06/2017",
+    "TotalCoinsMined": 10777614.62748737,
+    "Twitter": null,
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "-",
+    "GitHub": null,
+    "OnMarkets": [
+      "TradeSatoshi",
+      "Cryptopia"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "N/A",
+    "Description": null,
+    "TokenType": null,
+    "WebsiteLink": null,
+    "FundingCap": null,
+    "FundingTarget": null,
+    "Date": null,
+    "EndDate": null,
+    "FundsRaisedList": null,
+    "FundsRaisedUSD": null,
+    "StartPrice": null,
+    "StartPriceCurrency": null,
+    "Jurisdiction": null,
+    "BlogLink": null,
+    "WhitePaperLink": null
+  },
+  "ccId": "175683"
+}

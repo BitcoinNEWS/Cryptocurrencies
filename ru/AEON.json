@@ -1,0 +1,60 @@
+{
+  "General": {
+    "Symbol": "AEON",
+    "Name": "AeonCoin",
+    "Description": "<p>AEON is a privacy driven cryptocurrency that allows anonymous payments. AeonCoin uses a CPU/GPU friendly algorithm</p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "18400000",
+    "Algorithm": "CryptoNight-Lite",
+    "ProofType": "PoW",
+    "BlockReward": 10.709351685911,
+    "Explorer": null,
+    "StartDate": "06/06/2014",
+    "TotalCoinsMined": 15639362.49471,
+    "Twitter": "@AeonCoin",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "-",
+    "GitHub": null,
+    "OnMarkets": [
+      "Cryptopia",
+      "BitTrex",
+      "HitBTC"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "N/A",
+    "Description": null,
+    "TokenType": null,
+    "WebsiteLink": null,
+    "FundingCap": null,
+    "FundingTarget": null,
+    "Date": null,
+    "EndDate": null,
+    "FundsRaisedList": null,
+    "FundsRaisedUSD": null,
+    "StartPrice": null,
+    "StartPriceCurrency": null,
+    "Jurisdiction": null,
+    "BlogLink": null,
+    "WhitePaperLink": null
+  },
+  "ccId": "20730"
+}

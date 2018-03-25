@@ -1,0 +1,60 @@
+{
+  "General": {
+    "Symbol": "DTB",
+    "Name": "Databits",
+    "Description": "<p>Databits are the unique cryptocurrency used in the Augmentors game. These Databits are backed by the Bitcoin Blockchain, ensuring players that they will truly own these Databits. They are also tradable and sellable for any other cryptocurrency. The more Databits you have, the more characters you will be able to purchase and the more potions, skins and relics you’ll be able to buy to strengthen your characters.</p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "22747809",
+    "Algorithm": null,
+    "ProofType": null,
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "19/01/2017",
+    "TotalCoinsMined": 22747809,
+    "Twitter": "@AugmentorsGame",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "http://www.augmentorsgame.com",
+    "GitHub": null,
+    "OnMarkets": [
+      "EtherDelta",
+      "TuxExchange",
+      "BitTrex"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Finished",
+    "Description": "<p>The Databits token is the in game currency for the Augmentors game. <span>The vision of the Augmentors game is to launch the world’s first Augmented Reality cross platform (iOS &amp; Android) game backed by the Bitcoin Blockchain where users will summon creatures into the real world to battle against enemies and foes.</span></p><p>They conducted an ICO on the 30th of January that ran for one month and raised 895 BTC which was worth $1,069,525 at the time of the ICO. 395 participants invested creating an average investment size of $2707. There was a sliding bonus starting from Day 1 15,000 DTB / BTC +20 % sliding down to 10,000 DTB / BTC.</p><p>70% of the total 100,000,000 DTB tokens were sold in the ICO. The remaining 30% are being used to create awareness, promote and develop the game. </p><p><a href=\"http://www.augmentorsgame.com/wp-content/uploads/2017/01/170130.cln-Augmentor-ICO-TCs.pdf\" target=\"_blank\">Sale terms</a> </p>",
+    "TokenType": "N/A",
+    "WebsiteLink": "http://www.augmentorsgame.com/token-sale-ico/",
+    "FundingCap": "N/A",
+    "FundingTarget": "$1,000,000",
+    "Date": 1485781200,
+    "EndDate": 1488283200,
+    "FundsRaisedList": "895 BTC",
+    "FundsRaisedUSD": "1069525",
+    "StartPrice": "0.0666",
+    "StartPriceCurrency": "USD",
+    "Jurisdiction": "N/A",
+    "BlogLink": "http://www.augmentorsgame.com/category/latest-news/",
+    "WhitePaperLink": null
+  },
+  "ccId": "55540"
+}

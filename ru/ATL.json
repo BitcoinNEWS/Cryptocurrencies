@@ -1,0 +1,61 @@
+{
+  "General": {
+    "Symbol": "ATL",
+    "Name": "ATLANT",
+    "Description": "<p>Atlant Platform is building a global real-estate platform based on blockchain technology.<span> </span><span>Atlant is </span>using an ICO (Initial Coin Offering) for growth capital rather than traditional venture capital and shareholders.</p><p>With a secure, tamper-proof system based on the blockchain, users can trade parcels of property on<span> </span><span>Atlant&#39;s </span>platform and bypass intermediaries in rental deals, transacting P2P (peer-to-peer).</p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "54175041",
+    "Algorithm": null,
+    "ProofType": null,
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "29/07/2017",
+    "TotalCoinsMined": 54175040.67775495,
+    "Twitter": "@atlantio",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": null,
+    "GitHub": null,
+    "OnMarkets": [
+      "Yobit",
+      "OKEX",
+      "HitBTC",
+      "EtherDelta"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Ongoing",
+    "Description": "<p>Atlant Platform is building a global real-estate platform based on blockchain technology. <span>Atlant is </span>using an ICO (Initial Coin Offering) for growth capital rather than traditional venture capital and shareholders.</p><p>With a secure, tamper-proof system based on the blockchain, users can trade parcels of property on <span>Atlant&#39;s </span>platform and bypass intermediaries in rental deals, transacting P2P (peer-to-peer).</p><p><strong>Team</strong>:</p><ul><li><strong>Julian Svirsky</strong>: CEO &amp; Co-founder; <a href=\"https://www.linkedin.com/in/jules8\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Neil Mohinani</strong>: CFO &amp; Co-founder. <a href=\"https://www.linkedin.com/in/neil-mohinani-5114558\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Denis Donin</strong>: CTO &amp; Co-founder.<span> </span><a href=\"https://www.linkedin.com/in/denis-donin-968a4a102\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Alex Taylor</strong><span>: Communication/HR.</span><span> </span><a href=\"https://www.linkedin.com/in/alexander-taylor-73b7125\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Pavel Foos</strong><span>: Solidity / JavaScript.</span></li><li><strong>Eugene Seregin</strong><span>: Solidity / JavaScript.</span></li><li><strong>Sergey Kashich</strong><span>: Go / C++.</span></li><li><strong>Erik Bitner</strong><span>: UI / Frontend.</span></li></ul><p><span>The project raised over $1,500,000 during the pre sale period.</span></p><p><span>Atlant </span>will be holding its ICO on September 7, 2017. There will be a total of 103,548,812 tokens available, for 0.00198019801 ETH (Starting Price) each at the offering. The ICO soft cap is $1,500,000 USD, the funding cap is 225 404 ETH and is expected to end on October 31, 2017 or when the funding cap is reached.</p><p><span>Atlant</span><span> ICO will feature a bonus campaign for early buyers as shown bellow:</span></p><p><strong>Bonus Structure:</strong></p><p><strong><img style=\"width: 500px; height: 255.57206537890045px;\" src=\"/media/9350713/bonus_atl.png?width=500&amp;height=255.57206537890045\" alt=\"\" data-id=\"236068\"></strong></p>",
+    "TokenType": "ETH (ERC20)",
+    "WebsiteLink": "https://runcpa.com/getoffer/38228-e374c9ba76a59b689e008c3e10f3e2fd-865",
+    "FundingCap": "225 404 ETH",
+    "FundingTarget": "225 403 ETH",
+    "Date": 1504742400,
+    "EndDate": 1509494400,
+    "FundsRaisedList": "265.36 BTC; 2512.97 LTC; 106.95 ZEC; 9066.79 ETH; 184.88 BCH; 214.76 BTG",
+    "FundsRaisedUSD": "6258094",
+    "StartPrice": "0.00198019801",
+    "StartPriceCurrency": "ETH",
+    "Jurisdiction": "N/A",
+    "BlogLink": "https://medium.com/@atlantio",
+    "WhitePaperLink": "https://atlant.io/assets/documents/en/Atlant_WP_publish.pdf"
+  },
+  "ccId": "235213"
+}

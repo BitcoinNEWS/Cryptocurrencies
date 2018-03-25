@@ -1,0 +1,58 @@
+{
+  "General": {
+    "Symbol": "ETHS",
+    "Name": "EthereumScrypt",
+    "Description": "<p><span>EthereumScrypt is a Decentralized payment system that provides free transactions. ETHS uses a PoW/PoS hybrid version of the Scrypt algorithm</span>.</p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "4200000",
+    "Algorithm": "Scrypt",
+    "ProofType": "PoW/PoS",
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "08/03/2016",
+    "TotalCoinsMined": null,
+    "Twitter": "@Ethereum_scrypt",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "-",
+    "GitHub": null,
+    "OnMarkets": [
+      "Yobit"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "N/A",
+    "Description": null,
+    "TokenType": null,
+    "WebsiteLink": null,
+    "FundingCap": null,
+    "FundingTarget": null,
+    "Date": null,
+    "EndDate": null,
+    "FundsRaisedList": null,
+    "FundsRaisedUSD": null,
+    "StartPrice": null,
+    "StartPriceCurrency": null,
+    "Jurisdiction": null,
+    "BlogLink": null,
+    "WhitePaperLink": null
+  },
+  "ccId": "20448"
+}

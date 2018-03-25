@@ -1,0 +1,56 @@
+{
+  "General": {
+    "Symbol": "HIVE",
+    "Name": "Hive",
+    "Description": "<p><span>Based in Estonia with roots in Japan, </span>Blockhive <span>creates practical and innovative solutions for businesses in the form of partnership, helping them unlock new markets and untapped opportunities as part of our ambition to create a win-win outcome. Blockhive works with partners to design their blockchain strategy, and jointly develops projects with them. No fees are charged. Instead, revenue from the projects is shared between blockhive and its partners. HIVE is an ERC20 token based on the Ethereum network which give Creditors who provided lending to the company the ability to trade their rights with others.</span></p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": null,
+    "Algorithm": null,
+    "ProofType": null,
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "01/01/0001",
+    "TotalCoinsMined": null,
+    "Twitter": "@blockhive_ee",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": null,
+    "GitHub": null,
+    "OnMarkets": [],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Upcoming",
+    "Description": "<p><span>Based in Estonia with roots in Japan, </span><span>Blockhive<span> </span></span><span>creates practical and innovative solutions for businesses in the form of partnership, helping them unlock new markets and untapped opportunities as part of our ambition to create a win-win outcome. Blockhive works with partners to design their blockchain strategy, and jointly develops projects with them. No fees are charged. Instead, revenue from the projects is shared between blockhive and its partners. HIVE is an ERC20 token based on the Ethereum network which give Creditors who provided lending to the company the ability to trade their rights with others.</span></p><p><strong>Team</strong>:</p><ul><li><strong>Kazuteru Arimura:</strong> Co-Founder, Finance and Management Lead <a href=\"https://www.linkedin.com/in/kazuteru-arimura-17244526/\" target=\"_blank\"><img src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Kathleen Chu:</strong> Digital Content, PR and Marketing Lead <a href=\"https://www.linkedin.com/in/kathleen-chu-3653b528/\" target=\"_blank\"><img src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Yinghan Huang:</strong> Lead Designer</li><li><strong>Hikaru Kusaka:</strong> Co-Founder, Business Design and Strategy Lead <a href=\"https://www.linkedin.com/in/hikaru-kusaka-71b60759/\" target=\"_blank\"><img src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li></ul><p>The Future Loan Access Tokens will start on the 26th of January and it will last until the 9th of February. The ILP token allocation represents 30% of the total token supply and will be available for a 0.045 EUR starting price. The ILP funding target/cap is set at 13,500,000 USD. </p><p><strong>Token Reserve Split (70%):</strong></p><ul><li>Early ILP 8%</li><li>Management</li><li>Team 8%</li><li>Advisors 4%</li><li>Company 50%</li></ul><p>The FLAT ILP features a bonus and bounty campaign.</p>",
+    "TokenType": "ETH (ERC20)",
+    "WebsiteLink": "https://blockhive.ee/ilp",
+    "FundingCap": "13,500,000 USD",
+    "FundingTarget": "N/A",
+    "Date": 1516971600,
+    "EndDate": 1518181200,
+    "FundsRaisedList": "N/A",
+    "FundsRaisedUSD": "N/A",
+    "StartPrice": "0.045",
+    "StartPriceCurrency": "EUR",
+    "Jurisdiction": "Estonia",
+    "BlogLink": "https://blog.blockhive.ee/",
+    "WhitePaperLink": "https://blockhive.ee/ilp#whitepaper"
+  },
+  "ccId": "679566"
+}

@@ -1,0 +1,56 @@
+{
+  "General": {
+    "Symbol": "TTT",
+    "Name": "Tap Project",
+    "Description": "<p><span>The Tap Coin is a new ERC20 token that is supported by projects and other services that are written on the blockchain. </span>The Tap Networks primary initiative consists of developing a digital currency, along with partnering with a network of developers to allow a smooth, elegant and robust system that will allow the Tap Coin the ability to traverse multiple games and platforms. Allowing Tap Coins to be transferred between games.</p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "1500000000",
+    "Algorithm": null,
+    "ProofType": null,
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "01/01/0001",
+    "TotalCoinsMined": null,
+    "Twitter": "https://twitter.com/Tap_Coin",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": null,
+    "GitHub": null,
+    "OnMarkets": [],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Finished",
+    "Description": "<p>The Tap Coin (TTT) is a token on the Ethereum ERC20 token. It allows gamers to buy, sell, and trade Tap Coins (“TTT”) on cryptocurrency exchanges and peer-to-peer just like any other exchange.<br />• An amount of 1.5 billion tokens will be created initially to start. 750 million will be offered<br />to the public during a 28 day crowdfunding sale.</p><p><strong>Token Reserve Distribution:</strong></p><ul><li>30% Foundation</li><li>10% Team</li><li>8% Legacy Investors</li><li>2% Reward </li></ul><p><strong>Distribution of funds:</strong></p><ul><li>35% Team</li><li>25% Marketing/Business development</li><li>15% Technological Expansion</li><li>10% Business Unification</li><li>10% Business operations</li><li>5% Contingency</li></ul><p> </p><p> </p>",
+    "TokenType": "ETH (ERC20)",
+    "WebsiteLink": "https://tapproject.net/",
+    "FundingCap": "75,000 ETH",
+    "FundingTarget": "500,000 USD",
+    "Date": null,
+    "EndDate": null,
+    "FundsRaisedList": "N/A",
+    "FundsRaisedUSD": "N/A",
+    "StartPrice": "0.0001",
+    "StartPriceCurrency": "ETH",
+    "Jurisdiction": "N/A",
+    "BlogLink": "https://medium.com/@Tap_Coin",
+    "WhitePaperLink": "https://tapproject.net/wp-content/uploads/2017/06/tap-project-whitepaper-1-3.pdf"
+  },
+  "ccId": "243013"
+}

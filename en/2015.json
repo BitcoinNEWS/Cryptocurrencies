@@ -1,0 +1,60 @@
+{
+  "General": {
+    "Symbol": "2015",
+    "Name": "2015 coin",
+    "Description": "<p>Twenty15 Coin was conceived to be an asset backed &#39;sweat equity&#39; currency.  The main emphasis will be on creating assets that will generate revenue, and will also be available for purchase by other Crypto enthusiasts.  These assets will be available for public demonstration or full usage, but also sold to interested parties for 2015 Coins. </p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "0",
+    "Algorithm": "X11",
+    "ProofType": "PoW/PoS",
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "01/12/2014",
+    "TotalCoinsMined": null,
+    "Twitter": null,
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "-",
+    "GitHub": null,
+    "OnMarkets": [
+      "CCEX",
+      "Yobit",
+      "BitTrex"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "N/A",
+    "Description": null,
+    "TokenType": null,
+    "WebsiteLink": null,
+    "FundingCap": null,
+    "FundingTarget": null,
+    "Date": null,
+    "EndDate": null,
+    "FundsRaisedList": null,
+    "FundsRaisedUSD": null,
+    "StartPrice": null,
+    "StartPriceCurrency": null,
+    "Jurisdiction": null,
+    "BlogLink": null,
+    "WhitePaperLink": null
+  },
+  "ccId": "3744"
+}

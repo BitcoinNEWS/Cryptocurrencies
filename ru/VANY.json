@@ -1,0 +1,56 @@
+{
+  "General": {
+    "Symbol": "VANY",
+    "Name": "Vanywhere",
+    "Description": "<p>Vanywhere<span> </span>is a skill-sharing platform that aims to connect people seeking and offering skills. The platform will allow users to work as freelancers and be monetize for their skills while mitigating the fees and commissions charged on the traditional freelancing platforms. Furthermore,<span> </span>Vanywhere<span> </span>will feature an iOS and Android applications.</p><p>The Vanywhere<span> </span>token (VANY) is an QRC-20 token that will be used<span> </span>to reward the freelancers.</p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "800000000",
+    "Algorithm": null,
+    "ProofType": null,
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "20/11/2017",
+    "TotalCoinsMined": null,
+    "Twitter": "@vVanywhere",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": null,
+    "GitHub": null,
+    "OnMarkets": [],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Upcoming",
+    "Description": "<p>Vanywhere is a skill-sharing platform that aims to connect people seeking and offering skills. The platform will allow users to work as freelancers and be monetize for their skills while mitigating the fees and commissions charged on the traditional freelancing platforms. Furthermore,<span> </span>Vanywhere<span> </span>will feature an iOS and Android applications.</p><p>The Vanywhere<span> </span>token (VANY) is an QRC-20 token that will be used<span> </span>to reward the freelancers.</p><p><strong>Team</strong>:</p><ul><li><strong>Rami Shechter</strong>: CEO and Founder.</li><li><strong>Itay Shechter</strong>: COO and Founder.</li><li><strong>Gilad Menashe</strong>: CTO.</li><li><strong>Dmitry Khmelnitsky</strong>: Art Director.</li><li><strong>Gil Ram</strong>: Community Manager.</li><li><strong>Paul Fischer</strong>: Creative Director.</li></ul><p>Vanywhere ICO dates and bonus program are yet to be announced. The ICO token supply represents 50% of the total token supply, so there will be a total of 400,000,000 tokens available, for a 0.05 USD based price. The ICO funding cap is 20,000,000 USD and any unsold/remaining tokens will be burned.</p><p><strong>Token Reserve Split (50%):</strong></p><ul><li>23% Company;</li><li>14% Bounty, partners, advisors;</li><li>13% Vanywhere team;</li></ul><p><span>Vanywhere ICO will feature a bounty campaign and a bonus program, and the token will not be mineable.</span></p>",
+    "TokenType": "QTUM (QRC20)",
+    "WebsiteLink": "https://vanywhere.com",
+    "FundingCap": "20,000,000 USD",
+    "FundingTarget": "N/A",
+    "Date": null,
+    "EndDate": null,
+    "FundsRaisedList": "N/A",
+    "FundsRaisedUSD": "N/A",
+    "StartPrice": "0.05",
+    "StartPriceCurrency": "USD",
+    "Jurisdiction": "U.S.A",
+    "BlogLink": "https://blog.vanywhere.com",
+    "WhitePaperLink": "https://vanywhere.com/WhitePaper_en.pdf"
+  },
+  "ccId": "784462"
+}

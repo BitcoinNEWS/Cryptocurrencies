@@ -1,0 +1,62 @@
+{
+  "General": {
+    "Symbol": "QASH",
+    "Name": "Quoine Liquid",
+    "Description": "<p>Quoine Liquid is a trading platform that aims to combine every liquidity source into a single highly liquid tradable order book. The Quoine Liquid team will empower their services with the blockchain technology and consequently allow the migration of financial institutions to a decentralized platform. The platform is built on top of QUOINE&#39;s existing technologies like, a Matching Engine, a Smart Order routing, and a currency conversion engine.</p><p>QASH is an ERC-20 token that will allow users to benefit from the platform services and also work as a trading asset.</p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "1000000000",
+    "Algorithm": null,
+    "ProofType": null,
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "02/10/2017",
+    "TotalCoinsMined": 1000000000,
+    "Twitter": "@QUOINE_SG",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": null,
+    "GitHub": null,
+    "OnMarkets": [
+      "Quoine",
+      "Gateio",
+      "HuobiPro",
+      "Bitfinex",
+      "EtherDelta"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "N/A",
+    "Description": null,
+    "TokenType": null,
+    "WebsiteLink": null,
+    "FundingCap": null,
+    "FundingTarget": null,
+    "Date": null,
+    "EndDate": null,
+    "FundsRaisedList": null,
+    "FundsRaisedUSD": null,
+    "StartPrice": null,
+    "StartPriceCurrency": null,
+    "Jurisdiction": null,
+    "BlogLink": null,
+    "WhitePaperLink": null
+  },
+  "ccId": "402714"
+}

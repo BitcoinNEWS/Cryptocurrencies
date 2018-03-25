@@ -1,0 +1,58 @@
+{
+  "General": {
+    "Symbol": "HBT",
+    "Name": "Hubiit",
+    "Description": "<p><span>The Hubbi Network is an </span><span>Ethereum-based decentralised content marketplace where the production, distribution and consumption is done between peers</span><span><span> </span></span><span>without </span><span>the oversight or intermediation of a third party. Hubiit is an ERC20 token and will be the native currency of the Hubii Network used to engage with various platform features.</span></p><p> </p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "31,801,783.6598",
+    "Algorithm": null,
+    "ProofType": null,
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "24/08/2017",
+    "TotalCoinsMined": null,
+    "Twitter": "@hubiinetwork",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": null,
+    "GitHub": null,
+    "OnMarkets": [
+      "EtherDelta"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Ongoing",
+    "Description": "<p><span>The Hubbi Network is an </span><span>Ethereum-based decentralised content marketplace where the production, distribution and consumption is done between peers</span><span><span> </span></span><span>without </span><span>the oversight or intermediation of a third party. Hubiit is an ERC20 token and will be the native currency of the Hubii Network used to engage with various platform features.</span></p><p><strong>Team</strong>:</p><ul><li>Jacobo Toll-Messi: CEO &amp; Founder <a href=\"https://www.linkedin.com/in/jacobotoll/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li>Jens Ivar Jorde: CTO, PhD <a href=\"https://www.linkedin.com/in/jijordre/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li>Mark Briscombe: Special Adviser <a href=\"https://www.linkedin.com/in/markbriscombe/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li>Oyvind Pedersen Jr Special Adviser <span><a href=\"https://www.linkedin.com/in/oyvindpedersenjr/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></span></li></ul><p><span>The Hubbi Network ICO began on the 24th of August, 2017 and will end on the 7th of September, 2017 or when the $50M. The ICO token supply represents 70% of the total coin supply and it will be available for a 0.001 ETH each. The minimum target for the campaign to be considered successful is $5M.</span></p><p><strong>Token Reserve Split (XX%):</strong></p><ul><li>10% - team members and advisers.</li><li>5% - liquidity pool.</li><li>5% - partnerships.</li><li>10% - further platform funding as well as for building partnerships. (locked).</li></ul><p>The HBT ICO features a bounty campaign.</p>",
+    "TokenType": "ETH (ERC20)",
+    "WebsiteLink": "https://www.hubii.network/#token-sale-link",
+    "FundingCap": "50,000,000 USD",
+    "FundingTarget": "5,000,000 USD",
+    "Date": 1503583200,
+    "EndDate": 1504792800,
+    "FundsRaisedList": "20,125.496 ETH",
+    "FundsRaisedUSD": "6560911.696",
+    "StartPrice": "0.001",
+    "StartPriceCurrency": "ETH",
+    "Jurisdiction": "N/A",
+    "BlogLink": null,
+    "WhitePaperLink": "https://hubii.network/hubii-network-whitepaper-en.pdf"
+  },
+  "ccId": "247391"
+}

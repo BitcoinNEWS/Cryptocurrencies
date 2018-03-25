@@ -1,0 +1,56 @@
+{
+  "General": {
+    "Symbol": "SNK",
+    "Name": "Sosnovkino",
+    "Description": "<p>Sosnovkino is a decentralized land development project that allows anyone to be part of the industry. The company currently owns a land area of 194 hacters and seeks to create an infrastructure, which includes central sewage, gas pipelines, electric system, and more. In order to fund this development, the SNK token will be crowdfunded, giving users the hability to vote on the project and to receive its dividends based on the ERC20 token system.</p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "390000",
+    "Algorithm": "N/A",
+    "ProofType": "N/A",
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "01/01/0001",
+    "TotalCoinsMined": null,
+    "Twitter": "@Sosnovkino_ico",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "http://sosnovkino.info/",
+    "GitHub": null,
+    "OnMarkets": [],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Ongoing",
+    "Description": "<p><span>Sosnovkino is a decentralized land development project that allows anyone to be part of the industry. The company currently owns a land area of 194 hacters and seeks to create an infrastructure, which includes central sewage, gas pipelines, electric system, and more. </span><span>In order to fund this development, the SNK token will be crowdfunded, giving users the hability to vote on the project and to receive its dividends based on the ERC20 token system.</span></p><p><strong>Team:</strong></p><ul><li style=\"font-weight: 400;\">Maxim Dvedenidov, CEO (<a href=\"https://ru.linkedin.com/in/maxim-dvedenidov-45001950\" target=\"_blank\">LinkedIn</a>, <a href=\"https://www.facebook.com/dvedenidov\" target=\"_blank\">Facebook</a>);</li><li style=\"font-weight: 400;\">Olga Serbinenko, CFO<span> (<a href=\"https://www.linkedin.com/in/olga-serbinenko-97686843/\" target=\"_blank\">LinkedIn</a>, <a href=\"https://www.facebook.com/olga.serbinenko\">Facebook</a>)</span>;</li><li style=\"font-weight: 400;\">Dmitry Nagornykh, CIO <span> (<a href=\"https://www.facebook.com/d.nagornyh\" target=\"_blank\">Facebook</a>)</span></li></ul><p><span>The Sosnovkino ICO will start on the 26th of July 9:00 UTC and will last for a month or until all tokens have been sold</span><span>. The ICO coin supply represents 69.23% of the total supply, meaning investors will receive 270000 SNK tokens in total. The ICO has a $10 starting price and a $2,700,000 minimum funding goal. The remaining tokens (not sold in the ICO) are retained by the company.</span></p><p> </p>",
+    "TokenType": "ETH (ERC20)",
+    "WebsiteLink": "http://sosnovkino.info/sale",
+    "FundingCap": "N/A",
+    "FundingTarget": "$2,700,000",
+    "Date": 1501059600,
+    "EndDate": 1503738000,
+    "FundsRaisedList": "77.17 ETH; 78.36 BTC;",
+    "FundsRaisedUSD": "163807.15",
+    "StartPrice": "10",
+    "StartPriceCurrency": "USD",
+    "Jurisdiction": "N/A",
+    "BlogLink": null,
+    "WhitePaperLink": "https://drive.google.com/file/d/0B-QBdFrWXGeAc3NkQ1hvX3p6T00/view"
+  },
+  "ccId": "196612"
+}

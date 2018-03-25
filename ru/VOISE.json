@@ -1,0 +1,62 @@
+{
+  "General": {
+    "Symbol": "VOISE",
+    "Name": "Voise",
+    "Description": "<p><span>The Voise is an Ethereum based music streaming platform. VOICE tokens </span><span>are<span> </span></span><span>the framework for the Voice´s environment, serving as the currency that rewards content creators and is charged to the streamers.</span></p><p> </p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "825578000",
+    "Algorithm": null,
+    "ProofType": null,
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "28/03/2017",
+    "TotalCoinsMined": 825578000,
+    "Twitter": "@voisecom",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": null,
+    "GitHub": null,
+    "OnMarkets": [
+      "LiveCoin",
+      "Cryptopia",
+      "BitZ",
+      "HitBTC",
+      "EtherDelta"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Finished",
+    "Description": "<p>The Voise is an Ethereum based music streaming platform. VOICE tokens are the framework for the Voice´s environment, serving as the currency that rewards content creators and is charged to the streamers.</p><ul><li><span style=\"text-decoration: underline;\"></span><strong>Ivan Rossetti: </strong>Founder, CEO. <a href=\"https://www.linkedin.com/in/ivan-rossetti-ivro\" target=\"_blank\"><img src=\"https://www.cryptocompare.com/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" /></a></li><li><strong>Isaac Rodrígue</strong>z: Co-founder, Backend Developer. <a href=\"https://www.linkedin.com/in/isaac-rodr%C3%ADguez-isro\" target=\"_blank\"><img src=\"https://www.cryptocompare.com/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" /></a></li><li><strong>Ying Hao Chen:</strong> UI/UX designer. <a href=\"https://www.voise.com/about\" target=\"_blank\"><img src=\"https://www.cryptocompare.com/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" /></a></li><li><strong>Jayanand Sagar: </strong><span>Head of Development Team, Business Advisor</span>. <a href=\"https://www.linkedin.com/in/jayanandsagar/\" target=\"_blank\"><img src=\"https://www.cryptocompare.com/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" /></a></li><li><strong>Jonathan Millet: </strong><span>Business/Marketing Advisor</span>. <a href=\"https://www.linkedin.com/in/jonathan-millet-0a37179/\" target=\"_blank\"><img src=\"https://www.cryptocompare.com/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" /></a></li></ul>",
+    "TokenType": "ETH (ERC20)",
+    "WebsiteLink": null,
+    "FundingCap": "57,500 ETH",
+    "FundingTarget": "7,500 ETH",
+    "Date": 1494036000,
+    "EndDate": 1496757600,
+    "FundsRaisedList": "N/A",
+    "FundsRaisedUSD": "1362203",
+    "StartPrice": "0.00625",
+    "StartPriceCurrency": "ETH",
+    "Jurisdiction": "N/A",
+    "BlogLink": "https://medium.com/@voisecom",
+    "WhitePaperLink": "https://voise.com/whitepaper-voise.pdf"
+  },
+  "ccId": "188352"
+}

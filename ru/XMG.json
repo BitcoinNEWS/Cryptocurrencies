@@ -1,0 +1,65 @@
+{
+  "General": {
+    "Symbol": "XMG",
+    "Name": "Coin Magi",
+    "Description": "<p>Coin Magi (XMG) is an online payment system, enabling instant payments to anyone in the world without needing an intermediary.</p><p>With Coin Magi, anyone in the world can issue digital coins through their personal computers and a software-based minting process. Coin Magi removes the competitive nature of minting and offers an even playing field for anyone looking to issue currencies without expensive equipment. Coin Magi distinguishes itself from other counter parties by its fairness, cost effective and energy efficiency in maintaining the operation of the system.</p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": null,
+    "Algorithm": "M7M",
+    "ProofType": "PoW/PoM/PoSII",
+    "BlockReward": 0.30108633867154516,
+    "Explorer": null,
+    "StartDate": "12/08/2014",
+    "TotalCoinsMined": 7777024.3420492,
+    "Twitter": "@CoinMagi",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "http://coinmagi.org/",
+    "GitHub": null,
+    "OnMarkets": [
+      "Yobit",
+      "Novaexchange",
+      "Cryptopia",
+      "Poloniex",
+      "BitTrex",
+      "CCEX",
+      "Cryptsy",
+      "TradeSatoshi"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "N/A",
+    "Description": null,
+    "TokenType": null,
+    "WebsiteLink": null,
+    "FundingCap": null,
+    "FundingTarget": null,
+    "Date": null,
+    "EndDate": null,
+    "FundsRaisedList": null,
+    "FundsRaisedUSD": null,
+    "StartPrice": null,
+    "StartPriceCurrency": null,
+    "Jurisdiction": null,
+    "BlogLink": null,
+    "WhitePaperLink": null
+  },
+  "ccId": "5331"
+}

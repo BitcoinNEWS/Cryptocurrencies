@@ -1,0 +1,61 @@
+{
+  "General": {
+    "Symbol": "GBYTE",
+    "Name": "Byteball",
+    "Description": "<p>Byteball is a decentralized database with it&#39;s own native cryptocurrency, Bytes, that unlike most does not require PoW or PoS mining and does not have a blockchain nor blocks. Instead, Byteball links transactions by signing the hashes from the previous transactions on the new one. These <span>links between transactions form a DAG (Directed Acyclic Graph). </span><span>Since Byteball has no blocks, there is no block size issue.</span></p><p>Byteball can be used as a means to transfer value between users in a transaction, either with Bytes or assets that can be issued on the network or as a decentralized data base that allows users to store information within it. Byteball&#39;s<span> currency, Bytes, are used to pay transaction fees in this network. Transactions can be meant to exchange value or to store any type of data. The transaction fees (Bytes) are relative to the Bytes used in the transaction, so if a transaction uses 500 Bytes, that&#39;s the tx fee that will be charged. This system gives the currency intrinsic value, each Byte is worth a byte of information that is stored on the network, which alows the system to scale according to its use.</span></p><p><span>1 GBYTE equals 1000000000 BYTES</span></p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "1000000",
+    "Algorithm": null,
+    "ProofType": null,
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "25/12/2016",
+    "TotalCoinsMined": 645222,
+    "Twitter": "@ByteballOrg",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "https://byteball.org/",
+    "GitHub": null,
+    "OnMarkets": [
+      "Cryptopia",
+      "BitSquare",
+      "BitTrex",
+      "CryptoX"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "N/A",
+    "Description": null,
+    "TokenType": null,
+    "WebsiteLink": null,
+    "FundingCap": null,
+    "FundingTarget": null,
+    "Date": null,
+    "EndDate": null,
+    "FundsRaisedList": null,
+    "FundsRaisedUSD": null,
+    "StartPrice": null,
+    "StartPriceCurrency": null,
+    "Jurisdiction": null,
+    "BlogLink": null,
+    "WhitePaperLink": null
+  },
+  "ccId": "30736"
+}

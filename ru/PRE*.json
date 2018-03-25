@@ -1,0 +1,58 @@
+{
+  "General": {
+    "Symbol": "PRE*",
+    "Name": "Presearch",
+    "Description": "<p><span>Presearch is an open, decentralized search engine that rewards community members with Presearch tokens for their usage, contribution to, and promotion of the platform.</span></p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "1000000000",
+    "Algorithm": null,
+    "ProofType": null,
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "05/07/2017",
+    "TotalCoinsMined": 1000000000,
+    "Twitter": "@decentralsearch",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": null,
+    "GitHub": null,
+    "OnMarkets": [
+      "HitBTC"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Upcoming",
+    "Description": "<p><span>Presearch is an open, decentralized search engine that rewards community members with Presearch Tokens for their usage, contribution to, and promotion of the platform. </span>Open and transparent ranking factors enable content creators to access a level playing field, and users the choice of which data sources to utilize. Community-driven decision-making process ensures that everyone’s interests are aligned, and the best content is surfaced and displayed. Ability to vote on and fund development projects provides ability to influence and improve the platform, and earn tokens for contributing.</p><p>Token-holders will be able to vote on decisions, suggest / fund dev projects. Devs will receive tokens for contributing to features / projects. Advertisers will be able to purchase targeted, non-intrusive, keyword sponsorships with PSTs.</p><p><span>Presearch has split its sale into 5 lots with the intention to allow all those who want to participate to get tokens. The first two lots sold out. The third lot is available September 7th.</span></p><p> </p><p><strong>Team</strong>:</p><ul><li><strong>Colin Pape</strong>: Project Lead. <a href=\"https://www.facebook.com/forbusiness\" target=\"_blank\"><img style=\"width: 13px; height: 13px;\" src=\"/media/1383930/face_logo_final.png?width=13&amp;height=13\" alt=\"\" data-id=\"202866\"></a> <a href=\"https://twitter.com/colinpape\" target=\"_blank\"><img style=\"width: 13px; height: 13px;\" src=\"/media/1383932/twitter_logo_final.png?width=13&amp;height=13\" alt=\"\" data-id=\"202868\"></a> <a href=\"https://www.linkedin.com/in/colinpape/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Rob Calvert</strong>: Technical Lead.<span> </span></li><li><strong>Nolan Dubeau</strong>: Product Development Lead.<span> </span><span> </span><a href=\"https://www.linkedin.com/in/nolandubeau/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>David Keefe</strong><span>:<span> </span></span><span>Lead Frontend Developer</span><span>.</span><span> </span><span> </span><a href=\"https://www.linkedin.com/in/david-keefe-762b0b97/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Corey Piitz</strong><span>:<span> Senior Fullstack Engineer</span></span></li><li><strong>Jim Terry</strong><span>:<span> </span></span><span>Blockchain Research</span><span>.</span><span> </span><a href=\"https://www.linkedin.com/in/james-terry\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Prentice Chang</strong><span>:<span> <span>Blockchain Research</span><span>.</span></span></span><span> </span><a href=\"https://www.linkedin.com/in/prentice-chang-36b4114/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Thomas LeClair:</strong><span> Marketing</span>.  <a href=\"https://www.linkedin.com/in/tleclair/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Sherry Cooper: </strong>Community Builder </li><li><strong>Megan Wojtwych</strong>: Graphic Designer</li></ul><p><strong>Advisors</strong>:</p><ul><li><strong>Rich Skrenta:</strong> CEO of Blekko <img src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></li><li><strong>Addison Cameron-Huff:</strong> GlobalRegulation.com.<span> <a href=\"https://www.linkedin.com/in/addisoncameronhuff/\" target=\"_blank\"><img src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></span></li><li><strong>Trey Grainger</strong>: SVP Engineering LucidWorks.<span> </span><span> </span><a href=\"https://www.linkedin.com/in/treygrainger/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li></ul><p><strong>Token Reserve Split (70%):</strong></p><ul><li>30% Rewards;</li><li>25% Early adopters;</li><li>15% Team;</li></ul><p><strong>Bonus Structure:</strong></p><ul><li>7.5 cents Lot 1;</li><li>10 cents Lot 2;</li><li>15 cents Lot 3;</li><li>20 cents Lot 4;</li><li>25 cents Lot 5</li></ul>",
+    "TokenType": "ETH (ERC20)",
+    "WebsiteLink": "https://www.presearch.io/#token",
+    "FundingCap": "200000000 PRE",
+    "FundingTarget": "N/A",
+    "Date": 1510668000,
+    "EndDate": 1510668000,
+    "FundsRaisedList": "4,500,000 USD",
+    "FundsRaisedUSD": "4500000",
+    "StartPrice": "0.25",
+    "StartPriceCurrency": "USD",
+    "Jurisdiction": "N/A",
+    "BlogLink": "https://www.presearch.io/#news",
+    "WhitePaperLink": "https://www.presearch.io/uploads/WhitePaper.pdf"
+  },
+  "ccId": "186331"
+}

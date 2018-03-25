@@ -1,0 +1,61 @@
+{
+  "General": {
+    "Symbol": "DMD",
+    "Name": "Diamond",
+    "Description": "<p>Diamond (DMD) combines the best from Bitcoin/Litecoin/Novacoin/Luckycoin/Florincoin, it uses both Proof of Work and Proof of Stake. This provides a excellent resistence to 51% attack. It also combines the random block feature from Luckycoin, making it the first coin in PoW/PoS category to use random blocks. This coin has very low transaction fees. It provides steady coin supply at 1 diamond per block for 8 years.</p><p><strong>It&#39;s SCARCE</strong></p><p>There will be only 4,38 million Diamonds created over the course of many decades, making this one of the most scarce electronic commodities.</p><p><strong>It&#39;s VALUABLE</strong></p><p>The moment you acquire Diamond it becomes an interest bearing asset with 50% return per year. The interest will be successively reduced over the coming years.</p><p><strong>It&#39;s SECURE</strong></p><p>Security lies at the core of Diamond. This means that transactions cannot be forged or altered while gaining an access to your account is practically impossible.</p><p><strong>It&#39;s BRAND</strong></p><p>Diamond is the brand you can trust. It is not only ideal for promoting your own business, but also a tool that can be utilised to engage your customers, taking your enterprise into another level.</p><p><strong>It&#39;s FAST</strong></p><p>Diamond network has been designed to be excellent for quick money transfers. Under one minute block times ensure unparalleled speed to conventional remittance and payment systems.</p><p><strong>It&#39;s ECOLOGICAL</strong></p><p>Proof-of-Stake approach not only dramatically reduces carbon footprint but also dramatically lowers electricity consumption making it environmentally friendly.</p>",
+    "Features": "<p><strong>It&#39;s SCARCE</strong></p><p>There will be only 4,38 million Diamonds created over the course of many decades, making this one of the most scarce electronic commodities.</p><p><strong>It&#39;s VALUABLE </strong></p><p>The moment you acquire Diamond it becomes an interest bearing asset with 50% return per year. The interest will be successively reduced over the coming years.</p><p><strong>It&#39;s SECURE</strong></p><p>Security lies at the core of Diamond. This means that transactions cannot be forged or altered while gaining an access to your account is practically impossible.</p><p><strong>It&#39;s BRAND</strong></p><p>Diamond is the brand you can trust. It is not only ideal for promoting your own business, but also a tool that can be utilised to engage your customers, taking your enterprise into another level.</p><p><strong>It&#39;s FAST</strong></p><p>Diamond network has been designed to be excellent for quick money transfers. Under one minute block times ensure unparalleled speed to conventional remittance and payment systems.</p><p><strong>It&#39;s ECOLOGICAL</strong></p><p>Proof-of-Stake approach not only dramatically reduces carbon footprint but also dramatically lowers electricity consumption making it environmentally friendly.</p>",
+    "Technology": "<div id=\"rollout\" class=\"full layer\"><div class=\"content\"><div class=\"container\"><div class=\"row\"><div class=\"col-lg-6 col-md-12\"><ul><li><p>Algorithm is ASIC resistant Grøstl.</p></li><li><p>4.38 million total coins.</p></li><li><p>Block solving target time ~ 100 seconds.</p></li><li><p>Low transaction fee at 0.001.</p></li><li><p>Mean time per block under 60 seconds.</p></li><li><p>Difficulty retargets at every block.</p></li><li><p>Endless Hybrid Network Security.</p></li><li><p>Transaction Message.</p></li><li><p>Fast and secure transactions with 6 required confirmations.</p></li><li><p>Provision for continuous promotion and development.</p></li><li><p>Brand new code base with up to date security patches and significant performance improvements.</p></li></ul></div></div></div></div></div>",
+    "TotalCoinSupply": "4380000",
+    "Algorithm": "Groestl",
+    "ProofType": "PoW/PoS",
+    "BlockReward": 2.34981952625094,
+    "Explorer": null,
+    "StartDate": "13/07/2013",
+    "TotalCoinsMined": 2705312.31838243,
+    "Twitter": "@dmdcoin",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "https://bit.diamonds/",
+    "GitHub": null,
+    "OnMarkets": [
+      "LiveCoin",
+      "Cryptsy",
+      "Cryptopia",
+      "BitTrex"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "N/A",
+    "Description": null,
+    "TokenType": null,
+    "WebsiteLink": null,
+    "FundingCap": null,
+    "FundingTarget": null,
+    "Date": null,
+    "EndDate": null,
+    "FundsRaisedList": null,
+    "FundsRaisedUSD": null,
+    "StartPrice": null,
+    "StartPriceCurrency": null,
+    "Jurisdiction": null,
+    "BlogLink": null,
+    "WhitePaperLink": null
+  },
+  "ccId": "4431"
+}

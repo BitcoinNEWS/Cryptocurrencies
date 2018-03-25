@@ -1,0 +1,61 @@
+{
+  "General": {
+    "Symbol": "BLOCK",
+    "Name": "BlockNet",
+    "Description": "<p>The Blocknet is founded on the XBridge, the first peer-to-peer protocol enabling communication between nodes on different blockchains. It is open source and is implemented in every Blocknet-enabled app. It is what connects an open-ended array of services – either decentralized or centralized – to one another.</p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": null,
+    "Algorithm": null,
+    "ProofType": "PoW/PoS",
+    "BlockReward": 0.9999812385954318,
+    "Explorer": null,
+    "StartDate": "20/10/2014",
+    "TotalCoinsMined": 5069315.21029665,
+    "Twitter": "@The_Blocknet",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "http://blocknet.co/",
+    "GitHub": null,
+    "OnMarkets": [
+      "Novaexchange",
+      "BitTrex",
+      "Poloniex",
+      "BTER"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "N/A",
+    "Description": null,
+    "TokenType": null,
+    "WebsiteLink": null,
+    "FundingCap": null,
+    "FundingTarget": null,
+    "Date": null,
+    "EndDate": null,
+    "FundsRaisedList": null,
+    "FundsRaisedUSD": null,
+    "StartPrice": null,
+    "StartPriceCurrency": null,
+    "Jurisdiction": null,
+    "BlogLink": null,
+    "WhitePaperLink": null
+  },
+  "ccId": "5305"
+}

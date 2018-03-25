@@ -1,0 +1,59 @@
+{
+  "General": {
+    "Symbol": "BIOS",
+    "Name": "BiosCrypto",
+    "Description": "<p>BiosCrypto focuses on crowdfunding, mobile applications and software development industries. BIOS plans to develop a way to empower developers while still reducing costs for app users.</p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "20190463.54969237",
+    "Algorithm": "Quark",
+    "ProofType": "PoW/PoS",
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "22/07/2015",
+    "TotalCoinsMined": null,
+    "Twitter": "@vanyabios",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "-",
+    "GitHub": null,
+    "OnMarkets": [
+      "CCEX",
+      "Yobit"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "N/A",
+    "Description": null,
+    "TokenType": null,
+    "WebsiteLink": null,
+    "FundingCap": null,
+    "FundingTarget": null,
+    "Date": null,
+    "EndDate": null,
+    "FundsRaisedList": null,
+    "FundsRaisedUSD": null,
+    "StartPrice": null,
+    "StartPriceCurrency": null,
+    "Jurisdiction": null,
+    "BlogLink": null,
+    "WhitePaperLink": null
+  },
+  "ccId": "20209"
+}

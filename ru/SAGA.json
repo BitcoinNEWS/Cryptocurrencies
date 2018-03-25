@@ -1,0 +1,58 @@
+{
+  "General": {
+    "Symbol": "SAGA",
+    "Name": "SagaCoin",
+    "Description": "<p>SagaCoin is a hybrid PoW/PoS cryptocurrency based on the Scrypt algorithm.</p><p><span>Click <a href=\"https://masternodes.online/currencies/SAGA/\" target=\"_blank\">here</a> for Masternode stats from masternodes.online.</span></p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": null,
+    "Algorithm": "Scrypt",
+    "ProofType": "PoW/PoS",
+    "BlockReward": 21.080042350871285,
+    "Explorer": null,
+    "StartDate": "04/12/2017",
+    "TotalCoinsMined": 4394938.95611295,
+    "Twitter": "@Saga_Coin",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": null,
+    "GitHub": null,
+    "OnMarkets": [
+      "Cryptopia"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "N/A",
+    "Description": null,
+    "TokenType": null,
+    "WebsiteLink": null,
+    "FundingCap": null,
+    "FundingTarget": null,
+    "Date": null,
+    "EndDate": null,
+    "FundsRaisedList": null,
+    "FundsRaisedUSD": null,
+    "StartPrice": null,
+    "StartPriceCurrency": null,
+    "Jurisdiction": null,
+    "BlogLink": null,
+    "WhitePaperLink": null
+  },
+  "ccId": "659724"
+}

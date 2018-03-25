@@ -1,0 +1,60 @@
+{
+  "General": {
+    "Symbol": "RKC",
+    "Name": "Royal Kingdom Coin",
+    "Description": "<p>Royal Kingdom Enterprise Limited is a brand and project manager that follows a transformation management process geared towards innovation, in order to create fast solutions tailored to the needs of the market.</p><p>With a focus on several sectors of the market, based on Blockchain technology applications, Royal Kingdom Entreprise generates flexibility and adaptation that results in a wide range of investment possibilities in new projects.</p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "15000000",
+    "Algorithm": "N/A",
+    "ProofType": "N/A",
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "10/07/2017",
+    "TotalCoinsMined": "15000000",
+    "Twitter": "@RKC_ICO",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "https://royalkingdomcoin.com/",
+    "GitHub": null,
+    "OnMarkets": [
+      "Cryptopia",
+      "HitBTC",
+      "CCEX"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Finished",
+    "Description": "<p>Royal Kingdom Enterprise Limited is a brand and project manager that follows a transformation management process geared towards innovation, in order to create fast solutions tailored to the needs of the market.</p><p>With a focus on several sectors of the market, based on Blockchain technology applications, <span>Royal Kingdom Enterprise Limited</span> generates flexibility and adaptation that results in a wide range of investment possibilities in new projects.</p><p>For more information about <span>Royal Kingdom Enterprise Limited projects and solutions, please read the <a href=\"https://royalkingdomcoin.com/wp-content/uploads/2017/07/White-Paper_EN_OFFICIAL2.pdf\" target=\"_blank\">whitepaper</a>.</span></p><p><strong>Team</strong>:</p><ul><li><strong>Abu Saleh</strong>: Chief Executive Officer, Co-Founder;</li><li><strong>Serge Uvarov</strong>: Chief Technology Officer, Co-Founder;</li><li><strong>Suelen Sourient</strong>: Chief Public Relations Officer;</li><li><strong>Adriana Costa</strong><span>: Chief Financial Officer;</span></li><li><span><strong>Paulo Sakamoto</strong><span>: Senior Software Engineer;</span></span></li><li><strong>Igor Tarasov</strong><span>: Senior Software Engineer;</span></li><li><span><strong>Adrian Luiz</strong><span>: Head of Customer Care;</span></span></li><li><strong>Houcine Malik</strong><span>: Director of Digital Marketing;</span></li></ul><p>Royal Kingdom Coin ICO began on July 10, 2017. The ICO token supply represents 18% of the total token supply, so there is a total of 2,700,000 RKC tokens available, for 0.10$ each. The ICO is expected to end on August 11, 2017.</p><p><span>Royal Kingdom Coin </span>ICO campaign features bounties, and the token will not be mineable.</p><p><strong>Token Reserve Split:</strong></p><p><strong><img style=\"width: 394px; height: 221px;\" src=\"/media/1383857/rkc_ico.png?width=394&amp;height=221\" alt=\"\" data-id=\"195939\"></strong></p>",
+    "TokenType": "ETH (ERC20)",
+    "WebsiteLink": "https://royalkingdomcoin.com/#ICO",
+    "FundingCap": "N/A",
+    "FundingTarget": "N/A",
+    "Date": 1499727600,
+    "EndDate": 1502492400,
+    "FundsRaisedList": "1,925.85 ETH;",
+    "FundsRaisedUSD": "577755.00",
+    "StartPrice": "0.10",
+    "StartPriceCurrency": "USD",
+    "Jurisdiction": "N/A",
+    "BlogLink": "https://royalkingdomcoin.com/news/",
+    "WhitePaperLink": "https://royalkingdomcoin.com/wp-content/uploads/2017/07/White-Paper_EN_OFFICIAL2.pdf"
+  },
+  "ccId": "194924"
+}

@@ -1,0 +1,56 @@
+{
+  "General": {
+    "Symbol": "CRL",
+    "Name": "Cryptelo Coin",
+    "Description": "<p>Cryptelo is a company that develops cutting-edge software solutions for corporate communication, including <span>security-first architecture and services for encrypted data storage, key </span><span>management, and communication. Cryptelo is already offering the Cryptelo Drive, premium product designed specifically for B2B sales and provides an encrypted virtual drive for companies where users with user account can access their data via web and desktop application and can easily upload, share and edit any type of files. </span></p><p><span>Now, Cryptelo is also building the new generation of digital key secured management platform and services implementing the trustless key server concept and providing solution about fixing the web-of-trust, C.A and other standards, the Cryptelo Platform.</span></p><p><span>the Cryptelo Platform provides server API. Companies build 3rd party applications using our crypto library, that communicate by server API. The Cryptelo Platform is provided as SaaS (Software as a service). API requests are paid with Cryptelo Tokens, an ERC-20 token based on the Ethereum network.</span></p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "500000000",
+    "Algorithm": null,
+    "ProofType": null,
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "15/03/2018",
+    "TotalCoinsMined": null,
+    "Twitter": "@CrypteloDrive",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": null,
+    "GitHub": null,
+    "OnMarkets": [],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Ongoing",
+    "Description": "<p>Cryptelo is a company that develops cutting-edge software solutions for corporate communication, including security-first architecture and services for encrypted data storage, key management, and communication. Cryptelo is already offering the Cryptelo Drive, premium product designed specifically for B2B sales and provides an encrypted virtual drive for companies where users with user account can access their data via web and desktop application and can easily upload, share and edit any type of files.</p><p>Now, Cryptelo is also building the new generation of digital key secured management platform and services implementing the trustless key server concept and providing solution about fixing the web-of-trust, C.A and other standards, the Cryptelo Platform.</p><p>the Cryptelo Platform provides server API. Companies build 3rd party applications using our crypto library, that communicate by server API. The Cryptelo Platform is provided as SaaS (Software as a service). API requests are paid with Cryptelo Tokens, an ERC-20 token based on the Ethereum network.</p><p><strong>Team</strong>:</p><ul><li><strong>Martin Baros:</strong> CEO <a href=\"https://www.linkedin.com/in/martinbaros/\" target=\"_blank\"><img src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Jiri Zuna:</strong> CTO <a href=\"https://www.linkedin.com/in/jzuna\" target=\"_blank\"><img src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Yann Bouvier:</strong> Security Manager <a href=\"https://www.linkedin.com/in/yann-bouvier-cissp/\" target=\"_blank\"><img src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Gabriela Teissing:</strong> Head of Marketing <a href=\"https://www.linkedin.com/in/gabrielateissing/\" target=\"_blank\"><img src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li></ul><p>The Cryptelo ICO will start on the 15th of March and will last until the 30th of April, 2018. The ICO token allocation represents 50% of the total token supply and will be available for a 0.00008 ETH starting price.  The ICO funding target is set at 1000 ETH and the cap is set at 12000 ETH</p><p><strong>Token Reserve Split (50%):</strong></p><ul><li>25% Company,</li><li>22% Platform expansion incentive,</li><li>3% Bounty</li></ul><p>The CRL ICO features a bonus and bounty campaign.</p><p> </p><p> </p>",
+    "TokenType": "ETH (ERC20)",
+    "WebsiteLink": "https://www.cryptelo.com",
+    "FundingCap": "12000 ETH",
+    "FundingTarget": "1000 ETH",
+    "Date": 1521072000,
+    "EndDate": 1525046400,
+    "FundsRaisedList": "Pre-sale + public sale: 2,255 ETH",
+    "FundsRaisedUSD": "1303390",
+    "StartPrice": "0.00008",
+    "StartPriceCurrency": "ETH",
+    "Jurisdiction": "N/A",
+    "BlogLink": "https://blog.cryptelo.com",
+    "WhitePaperLink": "https://www.cryptelo.com/whitepaper"
+  },
+  "ccId": "766461"
+}

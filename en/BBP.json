@@ -1,0 +1,58 @@
+{
+  "General": {
+    "Symbol": "BBP",
+    "Name": "BiblePay",
+    "Description": "<p>BiblePay is a POBh cryptocurrency based on the Proof-of-Biblehash algorithm, an algorithm that compensates full nodes participation while preventing GPUs and ASIC by requiring full blockchain transaction referencing in the hashing function, along with chained bible verses.</p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "5200000000",
+    "Algorithm": "Proof-of-BibleHash",
+    "ProofType": "POBh",
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "23/07/2017",
+    "TotalCoinsMined": 492756089.8276019,
+    "Twitter": "@BiblePay",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": null,
+    "GitHub": null,
+    "OnMarkets": [
+      "CCEX"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "N/A",
+    "Description": null,
+    "TokenType": null,
+    "WebsiteLink": null,
+    "FundingCap": null,
+    "FundingTarget": null,
+    "Date": null,
+    "EndDate": null,
+    "FundsRaisedList": null,
+    "FundsRaisedUSD": null,
+    "StartPrice": null,
+    "StartPriceCurrency": null,
+    "Jurisdiction": null,
+    "BlogLink": null,
+    "WhitePaperLink": null
+  },
+  "ccId": "779041"
+}

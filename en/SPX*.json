@@ -1,0 +1,56 @@
+{
+  "General": {
+    "Symbol": "SPX*",
+    "Name": "Sp8de",
+    "Description": "<p><span>Sp8de is a protocol for A blockchain-based platform with multiple features that are essential for the growing blockchain gambling industry and whose solid implementation is lacking in any of the currently existing projects in this space. </span><span>SPX is an Ethereum-based token that allows users to access the universe of applications, to bet within the ecosystem and it&#39;s also used to reward the developers fairly on the protocol level. SPX is an Ethereum-based token that allows users to access the universe of applications, to bet within the ecosystem and it&#39;s also used to reward the developers fairly on the protocol level.</span></p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "8888888888",
+    "Algorithm": null,
+    "ProofType": null,
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "08/01/2018",
+    "TotalCoinsMined": null,
+    "Twitter": "@SP8DE_Official",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": null,
+    "GitHub": null,
+    "OnMarkets": [],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Ongoing",
+    "Description": "<p><span>Sp8de is a protocol for A blockchain-based platform with multiple features that are essential for the growing blockchain gambling industry and whose solid implementation is lacking in any of the currently existing projects in this space. </span><span>SPX is an Ethereum-based token that allows users to access the universe of applications, to bet within the ecosystem and it&#39;s also used to reward the developers fairly on the protocol level. SPX is an Ethereum-based token that allows users to access the universe of applications, to bet within the ecosystem and it&#39;s also used to reward the developers fairly on the protocol level.</span></p><p><strong>Team</strong>:</p><ul><li><strong>Alexey Kashirsky:</strong> CEO &amp; Co-Founder <a href=\"https://www.linkedin.com/in/alexey-kashirsky-166997b2/\" target=\"_blank\"><img src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Mikhail Krapivnoi:</strong> CIO &amp; Co-Founder <a href=\"https://www.linkedin.com/in/mikhail-krapivnoi-1601a1142/\" target=\"_blank\"><img src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Evgeny Borchers:</strong> CVO &amp; Co-Founder <a href=\"https://www.linkedin.com/in/evgeny-borchers-53906168/\" target=\"_blank\"><img src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Alexander Baykiev:</strong> CMO &amp; Co-founder <a href=\"https://www.linkedin.com/in/alexander-baykiev-12654814b/\" target=\"_blank\"><img src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li></ul><p>The Sp8de ICO began on the 8th of January and will end on the 11th of Marcha 2018. The ICO token allocation represents 80% of the total token supply and will be available for a 0.00001011245 ETH starting price. The ICO funding target/cap is set at $4M.</p><p><strong>Token Reserve Split (20%):</strong></p><ul><li>20% Business Development, Marketing, Bounties, Advisory</li></ul><p>The SPX ICO features a bonus and bounty campaign.</p>",
+    "TokenType": "ETH (ERC20)",
+    "WebsiteLink": "https://ico.sp8de.com",
+    "FundingCap": "4,000,000 USD",
+    "FundingTarget": "4,000,000 USD",
+    "Date": 1515410973,
+    "EndDate": 1520767779,
+    "FundsRaisedList": "9180 ETH",
+    "FundsRaisedUSD": "7217775",
+    "StartPrice": "0.00001011245",
+    "StartPriceCurrency": "ETH",
+    "Jurisdiction": "Russia",
+    "BlogLink": "https://medium.com/@evgenybits",
+    "WhitePaperLink": "https://sp8de.com/sp8de_white_paper.pdf"
+  },
+  "ccId": "683963"
+}

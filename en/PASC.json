@@ -1,0 +1,60 @@
+{
+  "General": {
+    "Symbol": "PASC",
+    "Name": "Pascal Coin",
+    "Description": "<p>Pascal Coin prides itself on being an easy to understand and easy to work with Crypto because it is very similar to a bank. Using accounts instead of a cryptographic address lowers the entry barrier for people not used to the crypto space. Everybody needs to have a personal account in order to receive or send coins. The name derives from the use of Pascal programming language in the reference client. </p><p><span><a href=\"https://github.com/PascalCoin/PascalCoin/blob/master/PascalCoin%20White%20Paper%20-%20EN.pdf\">Read White Paper Here</a></span></p>",
+    "Features": "<ul><li><p><strong>Written in the Pascal programming language</strong>. This is the first cryptocurrency written in the Pascal programming language. Easy to understand for students and binary multi-platform compatible. (like \"C++\", the language used to make BitCoin)</p><ul><li>All code is new and written by the Pascal Coin creator <a href=\"https://github.com/PascalCoin/PascalCoin/wiki/bpascalblockchain@gmail.com\">Albert Molina</a></li><li>Cross-platform. Source can be compiled with Delphi and/or Free Pascal compiler and run over with Windows / Linux / Mac</li></ul></li><li><p><strong>Pascal Coin works with ordinal numbered accounts instead of complicated cryptocurrency addresses</strong>, yes, like a traditional bank (from account \"0\" to account \"XXXX\")</p><ul><li>To operate with coins, first, you must have at least one account (like a bank)</li><li>Accounts are created on each block by the miners. <strong>Each block creates 5 new accounts</strong></li><li>Users can&#39;t create accounts by themselves. Unless the user is a miner and creates a block. Users can only create public/private keys to operate with accounts. Users can also have someone with an extra account send one to their public wallet key.</li></ul></li><li><p>Crypto keys (Public key/Private key) are not part of the address like Bitcoin, keys are used as a personal password to operate with your accounts (like a password PIN), wallets can also be locked with a password.</p></li><li>Due to the White Paper explained concept, historical transactions can be deleted, but there will always be some nodes with all historical transactions to check consensus on the blockchain.</li></ul>",
+    "Technology": "<ul><li><p>Average block time - 5 minutes</p><ul><li>288 blocks per day</li><li>105,120 blocks per year</li><li><em>Note: Average is an estimation, due to internal adjusting mechanism, real average time is a value between 4 and 5 minutes, having a range of 288-360 blocks/day or 105,120-131,400 blocks/year</em></li></ul></li><li><p>Pascal Coin use&#39;s <strong>4 decimal values</strong>: ex. 15.1234 (<em>15.12345 is not a valid value</em>)</p></li><li>Initial reward per mined block is <strong>100.0000 Pascal Coins per block</strong>.<ul><li>This value will be divided by 2 every 420,480 blocks (average 4 years), so the next cycle reward will be 50.0000, 25.0000, etc. ... until reaching 1.0000 Pascal Coin per block.</li><li><strong>The minimum reward will be 1.0000 Pascal Coin.</strong> After block 2,943,360 (avg 32 years) the block reward will remain a constant 1.0000</li></ul></li><li>Pascal Coin uses self-creating accounts. <strong>Each block produces 5 accounts</strong></li><li><p><strong>3 operation types</strong> can be done with Pascal Coin:</p><ul><li><strong>Transaction 1 to 1</strong>: A single and simple transaction, from one account to another account.</li><li><strong>Change Account key</strong>: Change Public/Private key of an account.</li><li><strong>Recover funds</strong>: Explained on the White Paper. This is to prevent lost keys/lost coins inside the Pascal Coin blockchain. This operation can only be done by miners when mining.<ul><li>Recover funds can only be executed after <strong>420,480 blocks</strong> when no operations occur in an account (approx 4 years)</li></ul></li></ul></li><li><p>In order to easily operate with Accounts, each account has 2 extra verification numbers.</p><ul><li>Account \"0\" -&gt; \"0-10\"</li><li>Account \"1\" -&gt; \"1-22\"</li><li>Account \"12345\" -&gt; \"12345-54\"</li></ul></li><li><p>Cryptographic keys (elliptic curve keys) used by Pascal Coin can be one of:</p><ul><li>secp256k1 (like bitcoin)</li><li>secp384r1</li><li>secp283k1</li><li>secp521r1<ul><li>See \"SEC 2: Recommended Elliptic Curve Domain Parameters:\" [<a href=\"http://www.secg.org/SEC2-Ver-1.0.pdf\">http://www.secg.org/SEC2-Ver-1.0.pdf</a>]</li></ul></li></ul></li><li><p>Genesis block was created on August 11 2016</p></li><li>This coin has <strong>NO PREMINE</strong>. All coins have been distributed to miners from block 0.</li><li><em>Note: Current blockchain version is 1. The Pascal technical&#39;s can only change with a blockchain version upgrade</em></li></ul>",
+    "TotalCoinSupply": null,
+    "Algorithm": null,
+    "ProofType": null,
+    "BlockReward": 100,
+    "Explorer": null,
+    "StartDate": "11/08/2016",
+    "TotalCoinsMined": null,
+    "Twitter": "@PascalCoin",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "-",
+    "GitHub": null,
+    "OnMarkets": [
+      "Cryptopia",
+      "BitSquare",
+      "Poloniex"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "N/A",
+    "Description": null,
+    "TokenType": null,
+    "WebsiteLink": null,
+    "FundingCap": null,
+    "FundingTarget": null,
+    "Date": null,
+    "EndDate": null,
+    "FundsRaisedList": null,
+    "FundsRaisedUSD": null,
+    "StartPrice": null,
+    "StartPriceCurrency": null,
+    "Jurisdiction": null,
+    "BlogLink": null,
+    "WhitePaperLink": null
+  },
+  "ccId": "40811"
+}

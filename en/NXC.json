@@ -1,0 +1,61 @@
+{
+  "General": {
+    "Symbol": "NXC",
+    "Name": "Nexium",
+    "Description": "<p>Nexium is an Ethereum-based token created to be used as in-game currency for items in the <span>Beyond the Void game, an upcoming real-time strategy video game. NXC was created to provide true ownership in the game.</span></p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "100000000",
+    "Algorithm": null,
+    "ProofType": null,
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "29/09/2016",
+    "TotalCoinsMined": 66520848.5,
+    "Twitter": "@BeyondVoidGame",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "http://beyond-the-void.net/",
+    "GitHub": null,
+    "OnMarkets": [
+      "HitBTC",
+      "Poloniex",
+      "EtherDelta",
+      "BitTrex"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Finished",
+    "Description": "<p>Beyond the Void is an upcoming MOBA (Multiplayer Online Battle Arena) video game. Two players compete against each other on a space battlefield to rule the galaxy. The game is designed to be competitive and playable in E-sport tournaments. The tokens allow players to be the real owners of their in game assets as well as trade and wager these assets.</p><p>The ICo lasted for one month and sold 66% of the target 100,000,000 tokens raising approximately $115,000 in ETH and BCY.</p>",
+    "TokenType": "N/A",
+    "WebsiteLink": "https://www.beyond-the-void.net/wiki/crowdfunding-and-ico/",
+    "FundingCap": "400,000 USD",
+    "FundingTarget": "50,000 USD",
+    "Date": 1478001600,
+    "EndDate": 1478002320,
+    "FundsRaisedList": "30,395 ETH; 515,143 BCY",
+    "FundsRaisedUSD": "400000",
+    "StartPrice": "0.01",
+    "StartPriceCurrency": "USD",
+    "Jurisdiction": "N/A",
+    "BlogLink": "https://www.beyond-the-void.net/wiki/posts/",
+    "WhitePaperLink": null
+  },
+  "ccId": "35678"
+}

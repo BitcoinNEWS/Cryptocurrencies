@@ -1,0 +1,59 @@
+{
+  "General": {
+    "Symbol": "OCL",
+    "Name": "Oceanlab",
+    "Description": "<p>Oceanlab will act as the missing link between transactions and people, users will be able to read the blockchain as if they were reading a newspaper, accessing information related to trading, new uses of the blockchain, new technologies, projects, without browsing through an enormous amount of data.</p><p>Oceanlab is in the process of creating the technology able to gather and process an enormous, ever growing amount of data and they plan to make the tools to make that technology available to everyone.</p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "50000000",
+    "Algorithm": "N/A",
+    "ProofType": "DPoS/LPoS",
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "30/07/2017",
+    "TotalCoinsMined": 46500000,
+    "Twitter": "@oceanlab_eu",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "https://oceanlab.eu",
+    "GitHub": null,
+    "OnMarkets": [
+      "WavesDEX",
+      "Tidex"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Ongoing",
+    "Description": "<p>Oceanlab will act as the missing link between transactions and people, users will be able to read the blockchain as if they were reading a newspaper, accessing information related to trading, new uses of the blockchain, new technologies, projects, without browsing through an enormous amount of data.</p><p>Oceanlab is in the process of creating the technology able to gather and process an enormous, ever growing amount of data and they plan to make the tools to make that technology available to everyone.</p><p><strong>Team</strong>:</p><ul><li><strong>Fabrice Distefano</strong>: <span>Founder</span>. <a href=\"https://twitter.com/sphearis\" target=\"_blank\"><img style=\"width: 13px; height: 13px;\" src=\"/media/1383932/twitter_logo_final.png?width=13&amp;height=13\" alt=\"\" data-id=\"202868\"></a></li><li><strong>Olivier Saintelet</strong>: Co-Founder &amp; Ocean Community Guru.<span> </span><a href=\"https://twitter.com/dibatch\" target=\"_blank\"><img style=\"width: 13px; height: 13px;\" src=\"/media/1383932/twitter_logo_final.png?width=13&amp;height=13\" alt=\"\" data-id=\"202868\"></a></li><li><strong>Marnie Denison</strong>: <span>Wakame Scheduler</span>.<span> </span><a href=\"https://twitter.com/marnie_be\" target=\"_blank\"><img style=\"width: 13px; height: 13px;\" src=\"/media/1383932/twitter_logo_final.png?width=13&amp;height=13\" alt=\"\" data-id=\"202868\"></a></li><li><strong>Stéphane Paquay</strong>: Underwater Technical Manager.<span> </span><a href=\"https://twitter.com/PaquayStephane\" target=\"_blank\"><img style=\"width: 13px; height: 13px;\" src=\"/media/1383932/twitter_logo_final.png?width=13&amp;height=13\" alt=\"\" data-id=\"202868\"></a></li><li><strong>Élise Fauville</strong><span>: Naiad Art Director.</span><span> </span><a href=\"https://twitter.com/elise_fauville\" target=\"_blank\"><img style=\"width: 13px; height: 13px;\" src=\"/media/1383932/twitter_logo_final.png?width=13&amp;height=13\" alt=\"\" data-id=\"202868\"></a></li><li><strong>Johan Vanopdenbosch</strong><span>: Whale Tamer.</span><span> </span><a href=\"https://twitter.com/whale_tamer\" target=\"_blank\"><img style=\"width: 13px; height: 13px;\" src=\"/media/1383932/twitter_logo_final.png?width=13&amp;height=13\" alt=\"\" data-id=\"202868\"></a></li><li><strong>Laurent Redondo Sanchez</strong><span>: Gambas Copywriter Editor.</span><span> </span><a href=\"https://twitter.com/glis21\" target=\"_blank\"><img style=\"width: 13px; height: 13px;\" src=\"/media/1383932/twitter_logo_final.png?width=13&amp;height=13\" alt=\"\" data-id=\"202868\"></a></li><li><strong>Rémy Saint-Cricq</strong><span>: Tsunami UX Designer.</span><span> </span><a href=\"https://twitter.com/remysaintcricq\" target=\"_blank\"><img style=\"width: 13px; height: 13px;\" src=\"/media/1383932/twitter_logo_final.png?width=13&amp;height=13\" alt=\"\" data-id=\"202868\"></a></li></ul><p>Oceanlab ICO began on August 7, 2017. The ICO token supply represents 93% of the total token supply, so there is a total of <span>46,500,000 </span>tokens available at the offering. The ICO funding target is 1,000,000 USD, the funding cap is 35,000,000 USD and is expected to end on August 31, 2017 or when the funding cap is reached.</p><p><strong>Token Reserve Split (7%):</strong></p><ul><li>5% Team;</li><li>1% Bounties;</li><li>1% Airdrop;</li></ul><p><span>Oceanlab&#39;s </span>ICO features bonus and a bounty campaign.</p><p><strong>Bonus<span> </span>Structure:</strong></p><ul><li>15% Bonus ICO Day 1;</li><li>10% <span>Bonus ICO Day 2</span><span>;</span></li><li>05% <span>Bonus ICO Day 3</span><span>;</span></li><li><span>05% Permanent <span>Bonus From ICO Day 4, to People Who Invest Using Waves</span><span>;</span></span></li></ul>",
+    "TokenType": "WAVES",
+    "WebsiteLink": "http://ico.oceanlab.eu",
+    "FundingCap": "35,000,000 USD",
+    "FundingTarget": "1,000,000 USD",
+    "Date": 1502100966,
+    "EndDate": 1504174571,
+    "FundsRaisedList": "N/A",
+    "FundsRaisedUSD": "N/A",
+    "StartPrice": "N/A",
+    "StartPriceCurrency": "N/A",
+    "Jurisdiction": "N/A",
+    "BlogLink": null,
+    "WhitePaperLink": "https://docs.google.com/document/d/19dcdfQs40PTm3U57MK0mUCcWAHmoGroSJneJuKQFKo4"
+  },
+  "ccId": "214738"
+}

@@ -1,0 +1,60 @@
+{
+  "General": {
+    "Symbol": "STORM",
+    "Name": "Storm",
+    "Description": "<p>STORM is an ERC20 compliant token operating on the Ethereum blockchain.</p><p><span>Storm will use the blockchain to expand their platform to create StorMarket, a decentralized micro-task marketplace economy. StorMarket will be a place where people can go to utilize their skills and talents to complete various tasks. In addition, automation via blockchain technology will allow for all of the project management and marketing aspect of a micro-task to be integrated into the platform.</span></p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "7500000000",
+    "Algorithm": "N/A",
+    "ProofType": "N/A",
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "06/07/2017",
+    "TotalCoinsMined": 10000000000,
+    "Twitter": "@Storm_Token",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "http://stormtoken.com/",
+    "GitHub": null,
+    "OnMarkets": [
+      "HitBTC",
+      "Binance",
+      "EtherDelta"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Finished",
+    "Description": "<p>STORM is an ERC20 compliant token operating on the Ethereum blockchain.</p><p><span>Storm will use the blockchain to expand their platform to create StorMarket, a decentralized micro-task marketplace economy.</span></p><p><span>Storm will be holding its ICO on August 15, 2017. There will be a total of 5,002,500,000 coins available for $0.01 USD each at the offering. The ICO is expected to end on September 14, 2017.</span></p><p> </p>",
+    "TokenType": "ETH (ERC20)",
+    "WebsiteLink": "https://stormtoken.com/tokensale",
+    "FundingCap": "50000000 USD",
+    "FundingTarget": "N/A",
+    "Date": null,
+    "EndDate": null,
+    "FundsRaisedList": "N/A",
+    "FundsRaisedUSD": "N/A",
+    "StartPrice": "0.01",
+    "StartPriceCurrency": "USD",
+    "Jurisdiction": "N/A",
+    "BlogLink": "https://blog.stormtoken.com/",
+    "WhitePaperLink": "https://s3.amazonaws.com/cakecodes/pdf/storm_web/STORM_Token_White_Paper_Market_Research_Network_Development_vFINAL_.pdf"
+  },
+  "ccId": "186875"
+}

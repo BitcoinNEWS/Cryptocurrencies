@@ -1,0 +1,59 @@
+{
+  "General": {
+    "Symbol": "MRT",
+    "Name": "MinersReward",
+    "Description": "<p>Since Waves has limited supply, no new coins are ever issued through mining. Instead, full nodes and leasers are rewarded with transaction fees. While keeping standard transactions fees low, and in order to incentivize more PoS mining within the network, the Waves Platform team issued the MRT asset. This asset is an extra incentive to help maintain a full node until the network becomes widely used and is also an additional option to enable miners to vote on different network settings in the near future.</p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "10000000",
+    "Algorithm": null,
+    "ProofType": null,
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "28/03/2017",
+    "TotalCoinsMined": 10000000,
+    "Twitter": "@wavesplatform",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "http://wavesplatform.com",
+    "GitHub": null,
+    "OnMarkets": [
+      "WavesDEX",
+      "Tidex"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "N/A",
+    "Description": null,
+    "TokenType": null,
+    "WebsiteLink": null,
+    "FundingCap": null,
+    "FundingTarget": null,
+    "Date": null,
+    "EndDate": null,
+    "FundsRaisedList": null,
+    "FundsRaisedUSD": null,
+    "StartPrice": null,
+    "StartPriceCurrency": null,
+    "Jurisdiction": null,
+    "BlogLink": null,
+    "WhitePaperLink": null
+  },
+  "ccId": "75475"
+}

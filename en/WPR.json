@@ -1,0 +1,58 @@
+{
+  "General": {
+    "Symbol": "WPR",
+    "Name": "WePower",
+    "Description": "<p><span>WePower is a blockchain-based green energy trading platform. It connects energy buyers (households and investors) directly with the green energy producers and creates an opportunity to purchase energy upfront at below-market rates. WePower uses energy tokenization to standardize, simplify and open globally the currently existing energy investment ecosystem. Energy tokenization ensures liquidity and extends access to capital. </span><span>Final consumers, investors, and energy market makers can buy energy </span><span>for a reduced price. WePower is an ERC20 token on the Ethereum blockchain and it&#39;s the sole payment method of the WePower Network.</span></p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "746403007.29",
+    "Algorithm": null,
+    "ProofType": null,
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "01/01/0001",
+    "TotalCoinsMined": 745248183.0967742,
+    "Twitter": "@WePowerN ",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": null,
+    "GitHub": null,
+    "OnMarkets": [
+      "HuobiPro"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Finished",
+    "Description": "<p><span>WePower is a blockchain-based green energy trading platform. It connects energy buyers (households and investors) directly with the green energy producers and creates an opportunity to purchase energy upfront at below-market rates. WePower uses energy tokenization to standardize, simplify and open globally the currently existing energy investment ecosystem. Energy tokenization ensures liquidity and extends access to capital. <span>Final consumers, investors, and energy market makers can buy energy </span><span>for a reduced price. WePower is an ERC20 token on the Ethereum blockchain and it&#39;s the sole payment method of the WePower Network.</span></span></p><p><strong>Team</strong>:</p><ul><li>Nikolaj Martyniuk: Co-Founder, Energy <a href=\"https://www.linkedin.com/in/nikolaj-martyniuk-7b007a9\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li>Artūras Asakavičius: Co-Founder, Investments <a href=\"https://www.linkedin.com/in/arturasasakavicius/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li>Kaspar Kaarlep: CTO, energy <a href=\"https://www.linkedin.com/in/kaspar-kaarlep-76268b28/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li>Jon Matonis: Blockchain advisor <a href=\"https://www.linkedin.com/in/jonmatonis/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li>Eyal Hertzog: Blockchain advisor <a href=\"https://www.linkedin.com/in/hertzog/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li>Heikki Kolk: Energy IOT Expert <a href=\"https://www.linkedin.com/in/heikki-kolk-580291136/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li></ul><p>The WePower ICO will start on the 1st of February and will end on the 14th of the same month. The ICO token allocation represents 55% of the total supply. The WPR token will be available for a 0.00025 ETH starting price. The ICO funding soft cap is set at $5M and the cap to $15M. </p><p><strong>Token Reserve Split (45%):</strong></p><ul><li>WePower team 20% of tokens with 12 month lock-up and vesting with 6 month cliff</li><li>Community and users growth 15% of tokens</li><li>Future stakeholders 10% of tokens with 12 months lock-up in smart contract and only used if deemed necessary for the growth of WePower Network or burned if proven otherwise</li><li>Token sale contributors 55% of tokens</li></ul><p>The WePower ICO features a bounty campaign and bonus campaign.</p>",
+    "TokenType": "ETH (ERC20)",
+    "WebsiteLink": "http://wepowernetwork.go2cloud.org/aff_c?offer_id=2&aff_id=1001",
+    "FundingCap": "40,000,000 USD",
+    "FundingTarget": "5,000,000 USD",
+    "Date": 1517443200,
+    "EndDate": 1517529600,
+    "FundsRaisedList": "40,000,000 USD",
+    "FundsRaisedUSD": "40000000",
+    "StartPrice": "0.125",
+    "StartPriceCurrency": "USD",
+    "Jurisdiction": "Gibraltar",
+    "BlogLink": "https://medium.com/wepower",
+    "WhitePaperLink": "https://drive.google.com/file/d/0B_OW_EddXO5RWWFVQjJGZXpQT3c/view"
+  },
+  "ccId": "355242"
+}

@@ -1,0 +1,61 @@
+{
+  "General": {
+    "Symbol": "PST",
+    "Name": "Presearch",
+    "Description": "<p><span>Presearch is an open, decentralized search engine that rewards community members with Presearch Tokens for their usage, contribution to, and promotion of the platform.</span></p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "1000000000",
+    "Algorithm": "N/A",
+    "ProofType": "N/A",
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "05/07/2017",
+    "TotalCoinsMined": "1000000000",
+    "Twitter": "@decentralsearch",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "https://www.presearch.io/",
+    "GitHub": null,
+    "OnMarkets": [
+      "OKEX",
+      "Gateio",
+      "BTER",
+      "EtherDelta"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Finished",
+    "Description": "<p><span>Primas is an open content release, recommendation and trading ecosphere. The tokens are a utlity token that allow users access to the Primas network. They aim to solve five issues they identify in the content ecosystem.</span></p><ol><li><span>Solve the credibility of the information overload</span></li><li><span>To solve the problem of plagiarism and piracy</span></li><li><span>To solve the problem of the quality of the eye economy brought about by the problem</span></li><li><span>Address the centralization of the platform to display the content of the intervention</span></li><li><span>Address privacy and data abuse issues</span></li></ol><p><strong>Team</strong>:</p><ul><li><strong>Wu Peng</strong>: Business Leader</li><li><strong>Honeydew</strong>: CTO</li><li><strong>Fan Xi</strong>: Product Leader</li><li><strong>Luo Zhonghe</strong>: Blockchain expert</li><li><strong>Wang Qi</strong>: Systems architect</li></ul><p>Primas held its ICO on August 7, 2017. The ICO raised a total of $11,000,000. The ICO ended on August 26, 2017, and any unsold/remaining tokens will DESCRIPTION.</p><p><strong>Token Reserve Split (49%):</strong></p><ul><li>20% Team (6 months vesting);</li><li>20% Primas reserve;</li><li>9% Academic research;</li></ul><p><strong>Bonus Structure:</strong></p><table border=\"0\"><tbody><tr><td>August 07, 20:00 - 08 August 19:59</td><td>Each ETH is exchanged for 1350 PSTs</td></tr><tr><td>August 08, 20:00 - August 12, 19:59</td><td>Each ETH is exchanged for 1200 PST</td></tr><tr><td>August 12, 20:00 - August 19, 19:59</td><td>Each ETH exchange 1050 PST</td></tr><tr><td>August 19 20:00 - August 26th 20:00</td><td>Each ETH is exchanged for 900 PST</td></tr></tbody></table>",
+    "TokenType": "N/A",
+    "WebsiteLink": "https://primas.io/",
+    "FundingCap": "31,000 ETH",
+    "FundingTarget": "N/A",
+    "Date": 1502125200,
+    "EndDate": 1503766800,
+    "FundsRaisedList": "31,000 ETH",
+    "FundsRaisedUSD": "11000000",
+    "StartPrice": "0.00074",
+    "StartPriceCurrency": "ETH",
+    "Jurisdiction": "N/A",
+    "BlogLink": null,
+    "WhitePaperLink": "https://yb-public.oss-cn-shanghai.aliyuncs.com/primas/primas-1.2.1.pdf"
+  },
+  "ccId": "186331"
+}

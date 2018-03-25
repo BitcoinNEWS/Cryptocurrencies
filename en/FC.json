@@ -1,0 +1,58 @@
+{
+  "General": {
+    "Symbol": "FC",
+    "Name": "Facecoin",
+    "Description": "<p>FaceCoin is aiming to bring the decentralized web to everyday users without the need of additional software beyond a web browser. Smart contracts and an extended IPFS, where the data will be stored without a central data point, ensure the nodes have zero knowledge about the users of the platform, and that they are not able to read messages and content.Users running the FaceCoin node software will earn FaceCoin tokens based on<span> </span>the amount of<span> </span>users and requests</p><p>Users running the FaceCoin node software will earn FaceCoin tokens based on the amount of users and requests<span> </span>they<span> </span>service. FaceCoin tokens can be used by other users or businesses to create FaceCoin pages and other apps.</p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "20000000",
+    "Algorithm": null,
+    "ProofType": null,
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "16/08/2017",
+    "TotalCoinsMined": 20000000,
+    "Twitter": "@FaceCoinTech",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": null,
+    "GitHub": null,
+    "OnMarkets": [
+      "EtherDelta"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Finished",
+    "Description": "<p>FaceCoin is aiming to bring the decentralized web to everyday users without the need of additional software beyond a web browser. Smart contracts and an extended IPFS, where the data will be stored without a central data point, ensure the nodes have zero knowledge about the users of the platform, and that they are not able to read messages and content.Users running the FaceCoin node software will earn FaceCoin tokens based on the amount of users and requests</p><p>Users running the FaceCoin node software will earn FaceCoin tokens based on the amount of users and requests they service. FaceCoin tokens can be used by other users or businesses to create FaceCoin pages and other apps.</p><p><strong>Team</strong>:</p><ul><li><strong>Richard Roman</strong><span>: Project Lead.</span></li><li><span><strong>Kenneth Withrow</strong><span>: Full-stack Developer.</span></span></li><li><strong>Eric Botelho</strong><span>: Solidity Wizard.</span></li><li><span><strong>Manuel Fowler</strong><span>: Blockchain Expert.</span></span></li><li><strong>Gregg Gibson</strong><span>: Business.</span></li></ul><p>Facecoin held its ICO on August 15, 2017. The ICO token supply represents 100% of the total token supply, so there was a total of 20,000,000, tokens available, for 0.002 ETH each at the offering. The ICO funding cap was 40,000 ETH and ended on September 15, 2017.</p><p> </p>",
+    "TokenType": "ETH (ERC20)",
+    "WebsiteLink": "http://facecoin.tech/ico/",
+    "FundingCap": "40,000 ETH",
+    "FundingTarget": "N/A",
+    "Date": 1502755200,
+    "EndDate": 1505433600,
+    "FundsRaisedList": "N/A",
+    "FundsRaisedUSD": "N/A",
+    "StartPrice": "0.002",
+    "StartPriceCurrency": "ETH",
+    "Jurisdiction": "N/A",
+    "BlogLink": null,
+    "WhitePaperLink": "http://facecoin.tech/WhitePaper.pdf"
+  },
+  "ccId": "307112"
+}

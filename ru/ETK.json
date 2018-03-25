@@ -1,0 +1,56 @@
+{
+  "General": {
+    "Symbol": "ETK",
+    "Name": "Energi Token",
+    "Description": "<p>Energi Mine is a decentralized energy platform that <span> matches customers with smaller generators, as well as creating a global eco-system whereby users are rewarded with tokens (Energi Tokens – ETK) for energy-efficient behaviour. These ETK tokens can be exchanged for fiat currencies or held to pay for future energy bills/Electric Vehicle charging.</span></p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "2307692310",
+    "Algorithm": null,
+    "ProofType": null,
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "17/11/2017",
+    "TotalCoinsMined": null,
+    "Twitter": "@EnergiMine",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": null,
+    "GitHub": null,
+    "OnMarkets": [],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Finished",
+    "Description": "<p>Energi Mine is a decentralized energy platform that matches customers with smaller generators, as well as creating a global eco-system whereby users are rewarded with tokens (Energi Tokens – ETK) for energy-efficient behaviour. These ETK tokens can be exchanged for fiat currencies or held to pay for future energy bills or charging Electric Vehicles.</p><p style=\"font-weight: 400;\"><strong>Team</strong>:</p><ul style=\"font-weight: 400;\"><li><strong>Omar Rahim:</strong> CEO <a href=\"https://twitter.com/energimine\" target=\"_blank\"><img src=\"/media/1383932/twitter_logo_final.png?width=13&amp;height=13\" alt=\"\" data-id=\"202868\"></a><span> </span><a href=\"https://www.linkedin.com/in/omar-rahim-69a81311/\" target=\"_blank\"><img src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Alain Richardt:</strong> CTO <a href=\"https://twitter.com/energimine\" target=\"_blank\"><img src=\"/media/1383932/twitter_logo_final.png?width=13&amp;height=13\" alt=\"\" data-id=\"202868\"></a><span> </span><a href=\"https://www.linkedin.com/in/alain-richardt\" target=\"_blank\"><img src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Dr. Philipp Eggert:</strong> Senior Engineer <a href=\"https://twitter.com/energimine\" target=\"_blank\"><img src=\"/media/1383932/twitter_logo_final.png?width=13&amp;height=13\" alt=\"\" data-id=\"202868\"></a><span> </span><a href=\"https://www.linkedin.com/in/philipp-eggert-95435017\" target=\"_blank\"><img src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Ralf Meyer Senior:</strong> Engineer <a href=\"https://twitter.com/energimine\" target=\"_blank\"><img src=\"/media/1383932/twitter_logo_final.png?width=13&amp;height=13\" alt=\"\" data-id=\"202868\"></a><span> </span><a href=\"https://www.linkedin.com/in/ralf-meyer-186917141/\" target=\"_blank\"><img src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>John Towsend:</strong> CFO <a href=\"https://twitter.com/energimine\" target=\"_blank\"><img src=\"/media/1383932/twitter_logo_final.png?width=13&amp;height=13\" alt=\"\" data-id=\"202868\"></a> <a href=\"https://www.linkedin.com/company/11005552/\" target=\"_blank\"><img src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li></ul><p style=\"font-weight: 400;\">The ICO pre-sale started on the 17th November 2017 and ended ahead of schedule on the 25<sup>th</sup><span> </span>January 2018 after raising $11M of the $15M funding cap. The ICO starts 1<sup>st</sup><span> </span>February at 10am GMT.</p><p style=\"font-weight: 400;\">The token allocation for the ICO represents 65% of the total token supply. The ETK token will be available for 0.00003333333 ETH (Ether is the only accepted currency).</p><p style=\"font-weight: 400;\"><strong>Token Reserve Split (35%):</strong></p><ul style=\"font-weight: 400;\"><li>20% team and advisors</li><li>15% reserve</li></ul>",
+    "TokenType": "ETH (ERC20)",
+    "WebsiteLink": "https://energitoken.com/",
+    "FundingCap": "15000000 USD",
+    "FundingTarget": "N/A",
+    "Date": 1510941600,
+    "EndDate": 1517486400,
+    "FundsRaisedList": "N/A",
+    "FundsRaisedUSD": "N/A",
+    "StartPrice": "0.00003333333",
+    "StartPriceCurrency": "ETH",
+    "Jurisdiction": "Gibraltar",
+    "BlogLink": "https://medium.com/@energimine",
+    "WhitePaperLink": "https://energitoken.com/whitepaper/WhitePaperv2.0.pdf"
+  },
+  "ccId": "385960"
+}

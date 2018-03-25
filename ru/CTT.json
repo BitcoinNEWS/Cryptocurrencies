@@ -1,0 +1,58 @@
+{
+  "General": {
+    "Symbol": "CTT",
+    "Name": "CodeTract",
+    "Description": null,
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "N/A",
+    "Algorithm": "N/A",
+    "ProofType": "N/A",
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "01/01/0001",
+    "TotalCoinsMined": null,
+    "Twitter": "@codetractio",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "https://launch.codetract.io/",
+    "GitHub": null,
+    "OnMarkets": [
+      "EtherDelta"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Upcoming",
+    "Description": "<p>CodeTract created an on-chain token auction that will establish Ethereum’s capability with exchanging different units of value. Lastly, to create recurring demand for these services, <span>CodeTract </span>will provide a service for individuals to receive their salary in Ethereum tokens.</p><p><span>T</span><span>ies Network </span><span>will be holding its ICO in 2017. The ICO structure, details and dates will be announced soon.</span></p><p> </p><p><strong>Use of Funds:</strong></p><ul><li>60% Employment;</li><li>10% Sales and Marketing;</li><li>12% General and Administrative;</li><li><span>10% External Consultants;</span></li><li><span>08% Contingency Sum;</span></li></ul>",
+    "TokenType": "ETH (ERC20)",
+    "WebsiteLink": "https://launch.codetract.io/",
+    "FundingCap": "450,000 ETH",
+    "FundingTarget": "50,000 ETH",
+    "Date": null,
+    "EndDate": null,
+    "FundsRaisedList": "N/A",
+    "FundsRaisedUSD": "N/A",
+    "StartPrice": "0.01",
+    "StartPriceCurrency": "ETH",
+    "Jurisdiction": "N/A",
+    "BlogLink": "https://medium.com/@codetractio",
+    "WhitePaperLink": " https://launch.codetract.io/whitepaper.pdf"
+  },
+  "ccId": "206009"
+}

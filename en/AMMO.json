@@ -1,0 +1,56 @@
+{
+  "General": {
+    "Symbol": "AMMO",
+    "Name": "Ammo Rewards",
+    "Description": "<p>Ammo Rewards is a Proof of Stake cryptocurrency.</p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "77777777",
+    "Algorithm": "N/A",
+    "ProofType": "PoS",
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "10/05/2017",
+    "TotalCoinsMined": null,
+    "Twitter": "@ammorewards",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "http://www.ammorewards.net/",
+    "GitHub": null,
+    "OnMarkets": [],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "N/A",
+    "Description": null,
+    "TokenType": null,
+    "WebsiteLink": null,
+    "FundingCap": null,
+    "FundingTarget": null,
+    "Date": null,
+    "EndDate": null,
+    "FundsRaisedList": null,
+    "FundsRaisedUSD": null,
+    "StartPrice": null,
+    "StartPriceCurrency": null,
+    "Jurisdiction": null,
+    "BlogLink": null,
+    "WhitePaperLink": null
+  },
+  "ccId": "182463"
+}

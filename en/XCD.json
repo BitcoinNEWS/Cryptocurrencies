@@ -1,0 +1,56 @@
+{
+  "General": {
+    "Symbol": "XCD",
+    "Name": "Capdax",
+    "Description": "<div class=\"freebirdFormviewerViewItemsItemItem freebirdFormviewerViewItemsTextTextItem\" data-required=\"true\" data-item-id=\"534092066\"><div class=\"freebirdFormviewerViewItemsTextLongText freebirdFormviewerViewItemsTextDisabledText freebirdThemedInput\">Capdax is a cryptocurrency exchange for beginner and professional traders alike. It features a simple interface allows for an easy to understand introduction, while experienced traders will find a full suite of powerful tools and lightning fast trade execution speeds. Featured copy-trading allows traders to seamlessly follow the portfolios of others. The XCD token is an ERC20 token used within the Capdax platform.</div></div><div class=\"freebirdFormviewerViewItemsItemItem\" data-required=\"true\" data-input=\"L9xHkb\" data-item-id=\"2128727222\"><div class=\"freebirdFormviewerViewItemsItemItemHeader\"><div class=\"freebirdFormviewerViewItemsItemItemTitleContainer\"></div></div></div>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": null,
+    "Algorithm": null,
+    "ProofType": null,
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "07/02/2018",
+    "TotalCoinsMined": null,
+    "Twitter": "@CapdaxExchange",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": null,
+    "GitHub": null,
+    "OnMarkets": [],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Ongoing",
+    "Description": "<p><span>Capdax is a cryptocurrency exchange for beginner and professional traders alike.<span> It features a simple<span> </span></span><span>interface allows for an easy to understand introduction, while experienced traders will find a full suite of powerful tools and lightning fast trade execution speeds. Featured copy-trading allows traders to seamlessly follow the portfolios of others. The XCD token is an ERC20 token used within the Capdax platform.</span></span></p><p><strong>Team</strong>:</p><ul><li><strong>Aaron Amatus:</strong> Founder &amp; CEO</li><li><strong>Saber Aria:</strong> Founder &amp; CMO</li><li><strong>Gabriel Yang:</strong> Operations Manager</li><li><strong>Manno Notermans:</strong> Public Relations / Performance Marketing Director</li></ul><p>The Capdax Token Generation Event will start on the 7th of February and will end on the 7th of March. The ICO (Change ICO to Token Generation Event or TGE) token allocation represents 51% of the total token supply. The ICO (Change ICO to Token Generation Event or TGE)funding target cap is set at 6500 ETH.</p><p><strong>Token Reserve Split (49%):</strong></p><ul><li><span>33% will be held in a foundation for future growth, </span></li><li><span>12% will be distributed to the Capdax team,</span></li><li><span>4% will be paid to bounty, advisor, and partnership programs.</span></li></ul><p>The XCD Token Generation Event features a bonus campaign</p><p><strong>Bonus Structure:</strong></p><ul><li class=\"sc-dNLxif kTxAhB\"><span>Tier1: 1300 ETH (25% Bonus)</span></li><li class=\"sc-dNLxif kTxAhB\"><span>Tier2: </span><span>1300 ETH (20% Bonus)</span></li><li class=\"sc-dNLxif kTxAhB\"><span>Tier3: </span><span>1300 ETH (15% Bonus)</span></li><li class=\"sc-dNLxif kTxAhB\"><span>Tier4: </span><span>1300 ETH (10% Bonus)</span></li><li class=\"sc-dNLxif kTxAhB\">Tier5: <span>1300 ETH</span></li></ul>",
+    "TokenType": "ETH (ERC20)",
+    "WebsiteLink": "https://capdax.com/",
+    "FundingCap": "6500 ETH",
+    "FundingTarget": "6500 ETH",
+    "Date": 1518825600,
+    "EndDate": 1521244800,
+    "FundsRaisedList": "N/A",
+    "FundsRaisedUSD": "N/A",
+    "StartPrice": "N/A",
+    "StartPriceCurrency": "N/A",
+    "Jurisdiction": "Hong Kong",
+    "BlogLink": "https://medium.com/capdax-exchange",
+    "WhitePaperLink": "https://capdax.com/static/capdax_whitepaper_v1.1.pdf"
+  },
+  "ccId": "726598"
+}

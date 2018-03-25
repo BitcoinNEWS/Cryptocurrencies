@@ -1,0 +1,59 @@
+{
+  "General": {
+    "Symbol": "SUMO",
+    "Name": "Sumokoin",
+    "Description": "<p>Sumokoin is a Proof of Stake cryptocurrency forked from Monero. It is a privacy-driven cryptocurrency in which <span>Ring Confidential Transactions (RingCT) are eliminated and the minimum transaction<span> </span><span>mixins is set</span><span> </span><span>to 12, thus providing a truely fungible<span><span> </span>cryptocurrency.</span></span></span></p><p> </p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "88888888",
+    "Algorithm": "CryptoNight",
+    "ProofType": "PoW",
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "07/05/2017",
+    "TotalCoinsMined": 2827061,
+    "Twitter": "@Sumokoin",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": null,
+    "GitHub": null,
+    "OnMarkets": [
+      "Cryptopia",
+      "LiveCoin"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "N/A",
+    "Description": null,
+    "TokenType": null,
+    "WebsiteLink": null,
+    "FundingCap": null,
+    "FundingTarget": null,
+    "Date": null,
+    "EndDate": null,
+    "FundsRaisedList": null,
+    "FundsRaisedUSD": null,
+    "StartPrice": null,
+    "StartPriceCurrency": null,
+    "Jurisdiction": null,
+    "BlogLink": null,
+    "WhitePaperLink": null
+  },
+  "ccId": "310812"
+}

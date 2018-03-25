@@ -1,0 +1,56 @@
+{
+  "General": {
+    "Symbol": "CABS*",
+    "Name": "CyberTrust",
+    "Description": "<p><span>CyberTrust is a financial services company providing a traditional investment vehicle - Global Crypto Notes - which is titled and auditable. Institutional investors can use these to buy, sell and short cryptocurrencies, as well as create derivative products. CyberTrust provides sales &amp; trading, research and asset management services for institutional investors.</span></p><p><span>The CyberTrust CABS Token will be issued as a standard ERC20 token on the Ethereum blockchain, supported by all ERC20-compliant wallets.</span></p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "600000",
+    "Algorithm": null,
+    "ProofType": null,
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "30/10/2017",
+    "TotalCoinsMined": null,
+    "Twitter": "@CyberTrustBank",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": null,
+    "GitHub": null,
+    "OnMarkets": [],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Ongoing",
+    "Description": "<p>Cybertrust wants to help banks buying Bitcoin without having to update their IT. Banks can not buy Bitcoin because it doesn&#39;t meet legal and regulatory acceptance. Furthermore, banks don&#39;t have the necessary IT infrastructures to manage private key systems. Cybertrust wants to be the bank custodian for Bitcoin.</p><p><span>The CyberTrust CABS Token will be issued as a standard ERC20 token on the Ethereum blockchain, supported by all ERC20-compliant wallets.</span></p><p><strong>Team</strong>:</p><ul><li><strong>Evgeny Xata</strong>: CEO. <a href=\"https://www.linkedin.com/in/evgeny-xata-8b1b9816\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Nick Lustiger</strong>: Managing Director.</li><li><strong>Scott Freeman</strong><span>: Head of Trading. </span><a href=\"https://www.linkedin.com/in/scott-freeman/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Parker Fairfield</strong><span>: Head of Operations. </span><a href=\"https://www.linkedin.com/in/ParkerFairfield\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li></ul><p>CyberTrust will be holding its ICO on the 27th of Novemeber  2017. The ICO funding cap is 600,000 CABS, that will be for sale for 0.6 ETH each. The ICO is expected to end on the 5th of January, 2017 or when the funding cap is reached.</p>",
+    "TokenType": "ETH (ERC20)",
+    "WebsiteLink": "https://tokensale.cybertrust.io/",
+    "FundingCap": "900,000 CABS",
+    "FundingTarget": "600,000 CABS",
+    "Date": 1511740800,
+    "EndDate": 1515110400,
+    "FundsRaisedList": "Private sale: 42,770.81 ETH\r\nPresale: 3,643.96 CABS",
+    "FundsRaisedUSD": "19997492.2155",
+    "StartPrice": "0.6",
+    "StartPriceCurrency": "ETH",
+    "Jurisdiction": "Luxembourg",
+    "BlogLink": "https://medium.com/@cybertrustbank",
+    "WhitePaperLink": "https://www.cybertrust.io/CyberTrust-WhitePaper.pdf"
+  },
+  "ccId": "357413"
+}

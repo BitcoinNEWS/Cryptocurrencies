@@ -1,0 +1,59 @@
+{
+  "General": {
+    "Symbol": "STA",
+    "Name": "Stakers",
+    "Description": "<div><a href=\"https://youtu.be/zeBfZf1N7x4\"></a></div><div>Stakers is a Proof of Stake cryptocurrency that allows users to earn an annual interest of 100% on their holdings. STA provides fast and secure transactions.</div>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": null,
+    "Algorithm": null,
+    "ProofType": null,
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "06/06/2016",
+    "TotalCoinsMined": null,
+    "Twitter": null,
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "-",
+    "GitHub": null,
+    "OnMarkets": [
+      "WavesDEX",
+      "Tidex"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Finished",
+    "Description": "<p>The Starta token is a Waves-based asset that represents a share in the portfolio of the \"Starta Accelerator 16/17\" (and possibly others), allowing holders to profit from the Starta business model. Starting on the 4th of July, the Starta ICO will allow users  to invest in the portfolio of the \"Starta Accelerator 16/17\" by buying Starta tokens. The team intends to gather $1.5 million to buy 33% of the Starta 16/17 portfolio. The ICO is expected to end on August 3, 2017, or when the ICO cap is reached.</p><p>The ICO has a cap of $5 million but if the funds exceed the aforementioned $1.5m, they will be used for future portfolios. On the other hand, if the funds gathered are less than the $1.5, the share of the portfolio will reduce accordingly. Each token will be priced at $1, which means that the total Starta supply will be equal to the USD amount sent. 95% of the tokens will be available for ICO participants.</p><p>Starta will not be mineable.</p><p> </p><p> </p>",
+    "TokenType": "WAVES",
+    "WebsiteLink": "https://startaico.com/",
+    "FundingCap": "5000000 USD",
+    "FundingTarget": "5000000 USD",
+    "Date": 1499126400,
+    "EndDate": 1499198400,
+    "FundsRaisedList": "912 BTC; 5,225 ETH; 5,793 ETC; 4,191 LTC; 203,422 WAVES",
+    "FundsRaisedUSD": "5058033",
+    "StartPrice": "1",
+    "StartPriceCurrency": "USD",
+    "Jurisdiction": "N/A",
+    "BlogLink": "https://medium.com/startaico",
+    "WhitePaperLink": "https://startaico.com/files/whitepaper.pdf"
+  },
+  "ccId": "21981"
+}

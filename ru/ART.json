@@ -1,0 +1,59 @@
+{
+  "General": {
+    "Symbol": "ART",
+    "Name": "Maecenas",
+    "Description": "<p><span>Maecenas wants to democratize access to fine art by creating a decentralized art gallery — a truly open platform where anyone can own a piece of a Picasso. Maecenas is building a global art blockchain market where assets are traded quickly and fairly on a liquid exchange.</span></p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "100000000",
+    "Algorithm": null,
+    "ProofType": null,
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "07/09/2017",
+    "TotalCoinsMined": 100000000,
+    "Twitter": "@maecenasart",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": null,
+    "GitHub": null,
+    "OnMarkets": [
+      "HitBTC",
+      "EtherDelta"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Ongoing",
+    "Description": "<div class=\"row\"><p class=\"std std-b\">Maecenas wants to democratize access to fine art by creating a decentralized art gallery — a truly open platform where anyone can own a piece of a Picasso. Maecenas is building a global art blockchain market where assets are traded quickly and fairly on a liquid exchange.</p></div><p><strong>Team</strong>:</p><ul><li><strong>Marcelo Garcia Casil</strong>: Co-Founder &amp; CEO. <img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></li><li><strong>Jérôme Croisier</strong><span>: Chief Art Officer.</span><span> </span><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></li><li><strong>Miguel Neumann</strong><span>: Founding Partner.</span><span> </span><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></li><li><strong>Federico Cardoso</strong><span>: CTO.</span></li><li><strong>Javier Tamashiro</strong><span>: Compliance.</span></li><li><strong>Federico Videla</strong><span>: Information Security.</span></li><li><strong>Saul Hudson</strong><span>: Communications.</span></li><li><strong>Marc Garriga</strong><span>: Marketing.</span></li></ul><p>Maecenas ICO will be divided into 3 diferent phases:</p><div class=\"row\"><p class=\"std std-b\">Phase 1<span> </span>[Sep 5 @ 3 pm UTC] - Maecenas community and Cofound.it Priority Pass™ members, contributions are limited.</p></div><div class=\"row\"><p class=\"std std-b\">Phase 2<span> </span>[Sep 6 @ <span>3 pm </span><span>UTC</span>] - Maecenas community and Cofound.it Priority Pass™ members, contributions are unlimited.</p></div><div class=\"row\"><p class=\"std std-b\">Phase 3<span> </span>[Sep 7 @ 4<span> pm </span><span>UTC</span>] - Public crowdsale, unlimited contributions.</p></div><p><strong>Token Reserve Split:</strong></p><ul><li>30% Crowdsale;</li><li>30% Reserve Liquidity Fund;</li><li>20% Partners and Clients ;</li><li>2<span>0% Retained by Maecenas;</span></li></ul>",
+    "TokenType": "ETH (ERC20)",
+    "WebsiteLink": "https://cofound.it/en/projects/maecenas/contribute",
+    "FundingCap": "62,500 ETH",
+    "FundingTarget": "9,375 ETH",
+    "Date": 1504796400,
+    "EndDate": 1507215600,
+    "FundsRaisedList": "50,153 ETH",
+    "FundsRaisedUSD": "14470645.1",
+    "StartPrice": "0.66",
+    "StartPriceCurrency": "USD",
+    "Jurisdiction": "N/A",
+    "BlogLink": "https://medium.com/maecenas",
+    "WhitePaperLink": "https://www.maecenas.co/Maecenas-WhitePaper.pdf?utm_source=medium&utm_campaign=white-paper-post"
+  },
+  "ccId": "311558"
+}

@@ -1,0 +1,65 @@
+{
+  "General": {
+    "Symbol": "LUN",
+    "Name": "Lunyr",
+    "Description": "<p>Lunyr - энциклопедия, основанная на Эфириуме, которая вознаграждает пользователей токенами приложений за рецензирование и предоставление информации, обеспечивая тем самым достоверную и точную информацию. Токены LUN будут использоваться для размещения рекламы на платформе. Они функционируют как часть системы стимулирования участия, экспертной оценки и разрешения споров и качества. Эта платформа сама по себе является краудсорсированной децентрализованной базой знаний, в которой вкладчики получают токены LUN.</p><p>Миссия Lunyr заключается в разработке решений, которые коренным образом меняют способ публикации, хранения и обмена информацией. Используя технологию blockchain, мы позволяем людям захватывать мировые знания в среде, которая является вездесущей, цензурой устойчивой и бессмертной.</p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "2703356.0785",
+    "Algorithm": null,
+    "ProofType": null,
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "08/03/2017",
+    "TotalCoinsMined": null,
+    "Twitter": "@LunyrInc",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "https://lunyr.com/",
+    "GitHub": null,
+    "OnMarkets": [
+      "HuobiPro",
+      "Gateio",
+      "BitTrex",
+      "Binance",
+      "Liqui",
+      "HitBTC",
+      "EtherDelta",
+      "Yunbi"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Finished",
+    "Description": "<p>The Lunyr token will be used as a means of payment to reward content creation on their digital knowledge base platform that is built on Ethereum. 15% of the proceeds earned from advertisement will be donated to the Lunyr foundation and the remaining 85% will be given to content creators as a reward.</p><p>Over the month long ICO period 47,923 ETH was raised which had a value of approximately $3,400,000 at the ICO close (26th April, 2017). From the tokens created 78% were allocated to crowdsale investors, 15% to founders, employees and advisers, 5% for marketing and promotion and finally a 2% allocation for a bug bounty. More specifically the team plan to spend the funds raised in the following manner:</p><ul><li>Research and Development = 50.1%</li><li>Sales and marketing = 13.7%</li><li>Operations = 11.9%</li><li>Legal = 8.3$</li><li>Reserves = 8.2%</li><li>Benefits = 6.6%</li><li>Outsourcing = 1.2%</li></ul><p> </p>",
+    "TokenType": "ETH (ERC20)",
+    "WebsiteLink": "https://lunyr.com/",
+    "FundingCap": "250,000 ETH",
+    "FundingTarget": "25,000 ETH",
+    "Date": 1490803200,
+    "EndDate": 1493294400,
+    "FundsRaisedList": "47,923 ETH",
+    "FundsRaisedUSD": "3400000",
+    "StartPrice": "1.61",
+    "StartPriceCurrency": "USD",
+    "Jurisdiction": "N/A",
+    "BlogLink": "https://medium.com/lunyr",
+    "WhitePaperLink": "https://github.com/Lunyr/Lunyr/blob/master/Lunyr_White_Paper_ENG.pdf"
+  },
+  "ccId": "67447"
+}

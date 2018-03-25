@@ -1,0 +1,64 @@
+{
+  "General": {
+    "Symbol": "GUP",
+    "Name": "Guppy",
+    "Description": "<p>Matchpool is a decentralized matchmaking protocol which uses group dynamics to help participants match with each other. Matchpool users are divided into two catagories – Joiners &amp; Hosts. Joiners who wish to enter a pool of their choice, will have to pay the pool&#39;s requisite entry fee, while <span>host will be the one who opens a custom Pool and gets dividends from its revenues.</span></p><p>All payments in Matchpool will be held in an Ether based smart contract and will be processed using Matchpool&#39;s network own token Guppies (GUP). Both the Host of the pool and its matchmakers are entitled to shares of the Pools subscription and monthly fees, paid with GUP.</p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "100000000",
+    "Algorithm": null,
+    "ProofType": null,
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "14/01/2017",
+    "TotalCoinsMined": 98855149.62,
+    "Twitter": "@matchpool",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "https://matchpool.co/",
+    "GitHub": null,
+    "OnMarkets": [
+      "Liqui",
+      "EtherDelta",
+      "Yobit",
+      "HitBTC",
+      "BitTrex",
+      "LiveCoin",
+      "Gatecoin"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Finished",
+    "Description": "<p>The Matchpool ICO raised 125,000 ETH in only 48 hours. ICO investors received 60% of the total 100 Million GUP coins.</p><p>Crowdfund Bonuses:<br />First hour: 33% Bonus<br />First 3 days: 22% Bonus<br />First 2 weeks: 11% Bonus<br />last 2 weeks: 0%</p><p>Distribution:</p><p>60% for ICO investors, 18% Minted for new users over 2 years, 20% Team &amp; Advisors, 2% Reserved for Matchpool Bounty Campaigns</p>",
+    "TokenType": "ETH (ERC20)",
+    "WebsiteLink": "https://matchpool.co/crowdfund/",
+    "FundingCap": "5,000,000 USD",
+    "FundingTarget": "N/A",
+    "Date": 1491138000,
+    "EndDate": 1491307200,
+    "FundsRaisedList": "125,000 ETH",
+    "FundsRaisedUSD": "5000000",
+    "StartPrice": "0.05",
+    "StartPriceCurrency": "USD",
+    "Jurisdiction": "N/A",
+    "BlogLink": "https://blog.matchpool.com/",
+    "WhitePaperLink": "https://matchpool.co/wp-content/uploads/2017/04/mp_wp3.pdf"
+  },
+  "ccId": "67096"
+}

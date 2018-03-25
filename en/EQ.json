@@ -1,0 +1,58 @@
+{
+  "General": {
+    "Symbol": "EQ",
+    "Name": "EQUI",
+    "Description": null,
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "500000000",
+    "Algorithm": "N/A",
+    "ProofType": "N/A",
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "19/07/2017",
+    "TotalCoinsMined": "500000000",
+    "Twitter": "@equiofficial",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "http://equiplatform.io/",
+    "GitHub": null,
+    "OnMarkets": [
+      "WavesDEX"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Ongoing",
+    "Description": "<p><span>EQUI is a network of communication between individuals, where users decide and choose ways of cooperation by means of direct negotiations with each other. The Token (EQUI Token) is the way to pay for EQUI and EQUI Business subscriptions.</span></p><p><span>EQUI&#39;s</span><span> two way search engine is using a network of supercomputers as its database and processing center. The decentralized network is based on Natural Intelligence with several billions of already existing nodes, that are capable of providing feedback on whatever issues arise within the network.</span></p><p><strong>Team</strong>:</p><ul><li><strong>Alexander Siria<span>:</span></strong> CEO, Co-Owner<strong><span>.</span><span> </span><a href=\"https://twitter.com/alxequi\" target=\"_blank\"><img style=\"width: 13px; height: 13px;\" src=\"/media/1383932/twitter_logo_final.png?width=13&amp;height=13\" alt=\"\" data-id=\"202868\"></a></strong></li><li><strong>Vladislav Turiashvili</strong>: Co-Owner.</li></ul><p>EQUI will be holding its ICO on August 15, 2017. The ICO token supply represents 70% of the total token supply, so there will be a total of 350,000,000 tokens available, for 0.10 USD each at the offering. The ICO funding cap is 35,000,000 USD and is expected to end on September 15, 2017 or when the funding cap is reached.</p><p><strong>Token Reserve Split (30%):</strong></p><ul><li>29.7% - Reserved for the team and reserve fund;</li><li>0.3%   - Reserved for bounties;</li></ul><p><span>EQUI ICO campaign will feature a bounty campaing, and the token will not be mineable.</span></p>",
+    "TokenType": "WAVES",
+    "WebsiteLink": "http://equiplatform.io/",
+    "FundingCap": "35,000,000 USD",
+    "FundingTarget": "N/A",
+    "Date": 1502831520,
+    "EndDate": 1505469600,
+    "FundsRaisedList": "1.37125092 BTC",
+    "FundsRaisedUSD": "6000",
+    "StartPrice": "0.10",
+    "StartPriceCurrency": "USD",
+    "Jurisdiction": "N/A",
+    "BlogLink": null,
+    "WhitePaperLink": "https://equiplatform.io/Equi_Whitepaper.pdf"
+  },
+  "ccId": "198698"
+}

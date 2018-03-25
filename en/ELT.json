@@ -1,0 +1,56 @@
+{
+  "General": {
+    "Symbol": "ELT",
+    "Name": "Eloplay",
+    "Description": "<p>Eloplay is a decentralized platform where gamers and brands can organize eSports events of any scale. </p><p>ELT is an ERC 20 utility token that allows holders to advertise on Eloplay, purchase game inventory and other virtual goods at Eloplay Store, and organize and participate in Smart Tournaments. </p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": null,
+    "Algorithm": null,
+    "ProofType": null,
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "22/10/2017",
+    "TotalCoinsMined": null,
+    "Twitter": "@eloplaycom",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": null,
+    "GitHub": null,
+    "OnMarkets": [],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Ongoing",
+    "Description": "<p>Eloplay is a decentralized platform where gamers and brands can organize eSports events of any scale. </p><p>ELT is an ERC 20 utility token that allows holders to advertise on Eloplay, purchase game inventory and other virtual goods at Eloplay Store, and organize and participate in Smart Tournaments. </p><p><strong>Team</strong>:</p><ul><li><strong>Vitaly Balakhonov</strong>: <span>СЕО</span>. <a href=\"https://linkedin.com/in/vitalybalakhonov\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Yuri Vysotskiy</strong>: <span>СТО</span>. <a href=\"https://linkedin.com/in/imyfix\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong><span>Dmytro Salnikov</span></strong>: <span>CIO, Founder</span>. <a href=\"https://linkedin.com/in/dmytro-salnikov-55a051147\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Nir Asaf</strong>: <span>Marketing and Community</span>. <a href=\"https://www.linkedin.com/in/nirasaf/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong><span>Vladymir Popov</span></strong>: <span>Media Advisor</span>. <a href=\"https://www.linkedin.com/in/menaskop/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong><span>Sergey Mushta</span></strong>: <span>Solidity and Fullstack Developer</span>. <a href=\"https://linkedin.com/in/sergeymushta\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong><span>Yaroslav Yakovenko</span></strong>: <span>Fullstack Developer</span>. <a href=\"https://linkedin.com/in/imyyv\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong><span>Sergey Korzhikov</span></strong>: <span>Fullstack Developer</span>. <a href=\"https://linkedin.com/in/sergeykorzhikov\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong><span>Aleksandr Lezhenko</span></strong>: <span>Senior Fullstack Developer</span>. <a href=\"https://linkedin.com/in/larvs\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong><span>Pavel Zakhovalko</span></strong>: <span>Fullstack Developer</span>. <a href=\"https://linkedin.com/in/pavel-zakhovalko-408200139\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong><span>Andrey Pashchenko</span></strong>: <span>Frontend Developer</span>. <a href=\"https://ico.eloplay.com/en.html\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong><span>Victoria Moskalenko</span></strong>: <span>Human Resources</span>. <a href=\"https://linkedin.com/in/viktoriia-moskalenko-b758a014a\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong><span>Dmitriy Makushin</span></strong>: <span>Frontend Developer</span>. <a href=\"https://linkedin.com/in/dmitriy-makushin-9b08a014a\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong><span>Oleksandr Sviridovskiy</span></strong>: <span>Quality Assurance</span>. <a href=\"https://linkedin.com/in/oleksandr-svyrydovskyi-8288a014a\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Valeria Arsjuta</strong>: <span>Legal Advisor</span>. <a href=\"https://linkedin.com/in/valeria-arsjuta-15b8a514a/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Elizabeth Izmailova</strong>: <span>Project Manager</span>. <a href=\"https://www.linkedin.com/in/elizabeth-izmailova/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li></ul><p>Eloplay will be holding its ICO on October 16, 2017. The amount of tokens to be issued will depend on the results of the Token Sale, each token will be offered for 0.0001 ETH. The ICO funding target is 3,000,000, the funding cap is 12,000,000 and is expected to end on November 15, 2017 or when the funding cap is reached.</p><p><strong>Token Reserve Split (30%):</strong></p><ul><li>15% Team;</li><li>5% Advisors;</li><li>2% Long-term Bonus Fund;</li><li>3% Bancor Protocol;</li><li>2% WINGS Community.</li><li>3%Bounty Program</li></ul><p><span>COMPANY_NAME ICO campaign will feature FEATURES, and the token will BE_NOTBE mineable.</span></p><p><strong>Bonus Structure:</strong></p><ul><li>20% 1st hour;</li><li>15% 1st day;</li><li>10% 1st week;</li><li>5% 2nd week</li></ul>",
+    "TokenType": "ETH (ERC20)",
+    "WebsiteLink": "https://ico.eloplay.com/en.html",
+    "FundingCap": "12,000,000",
+    "FundingTarget": "3,000,000",
+    "Date": 1508158800,
+    "EndDate": 1510750800,
+    "FundsRaisedList": "1,010.16 ETH",
+    "FundsRaisedUSD": "341302",
+    "StartPrice": "0.0001",
+    "StartPriceCurrency": "ETH",
+    "Jurisdiction": "N/A",
+    "BlogLink": "https://eloplay.com/en/blog",
+    "WhitePaperLink": "https://eloplay.github.io/docs/en/eloplay_whitepaper_en_1.pdf"
+  },
+  "ccId": "334997"
+}

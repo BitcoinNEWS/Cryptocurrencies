@@ -1,0 +1,56 @@
+{
+  "General": {
+    "Symbol": "MTRC",
+    "Name": "ModulTrade",
+    "Description": "<p>ModulTrade is blockchain ecosystem where small enterprises can meet, commit and execute trade globally easily, trustfully and efficiently. Based on the Ethereum blockchain, MTRC is an ERC20 token used for the transactions in the ModulTrade ecosystem.</p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "100000000",
+    "Algorithm": null,
+    "ProofType": null,
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "28/11/2017",
+    "TotalCoinsMined": null,
+    "Twitter": "@ModulTrade",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": null,
+    "GitHub": null,
+    "OnMarkets": [],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Ongoing",
+    "Description": "<p><span>ModulTrade is </span><span>blockchain ecosystem where small enterprises can meet, commit and execute trade globally easily, trustfully and efficiently. Based on the Ethereum blockchain, MTRC is an ERC20 token used for the transactions in the ModulTrade ecosystem.</span></p><p><strong>Team</strong>:</p><ul><li><strong>Evgeny Kaplin:</strong> Co-founder / CEO <a href=\"https://www.linkedin.com/in/evgeny-kaplin-39922528/\" target=\"_blank\"><img src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Jean Chaanine:</strong> Co-founder / COO <a href=\"https://www.linkedin.com/in/jean-chaanine-8a56361a/\" target=\"_blank\"><img src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Karthikeyan Kaliyaperumal:</strong> Co-founder / CTO <a href=\"https://www.linkedin.com/in/karkal/\" target=\"_blank\"><img src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Fedor Sapronov:</strong> Co-founder / Business development <a href=\"https://www.linkedin.com/in/fedor-sapronov-0652a4/\" target=\"_blank\"><img src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li></ul><p>The ModulTrade ICO began on the 27th November 2017 and will end on the 27th of January 2018. The ICO token allocation represents 30% of the total supply and will be available for a 0.00142857143 ETH starting price. Users can participate with ETH, BTC, LA and fiat currencies. The funding target is set at 5000000 MTRc and the funding cap at 30000000 MTRc.</p><p><strong>Token Reserve Split (XX%):</strong></p><ul><li>Product development 20%;</li><li>Ecosystem creation 32%;</li><li>Team 15% (5% will be distributed within 6 months after the Token sale is finished, 5% will be released after the 1st year, 5%- after the 2nd year);</li><li>Advisory 3%.</li></ul><p>The MTRC ICO feautres a bonus and bounty campaigns.</p><p><strong>Bonus Structure:</strong></p><table border=\"0\" class=\"distribution\"><tbody><tr><td>PRE-SALE</td><td>30%</td><td>10 000 000</td><td>03 OCT - 27 NOV</td></tr><tr><td>TOKEN SALE PHASE 1</td><td>25%</td><td>1 000 000</td><td>28 NOV - 12 DEC</td></tr><tr><td class=\"head\">TOKEN SALE PHASE 2</td><td class=\"head bold\">15%</td><td class=\"head\">3 000 000</td><td class=\"head\">13 DEC - 26 DEC</td></tr><tr><td>TOKEN SALE PHASE 3</td><td class=\"bold green\">10%</td><td>5 000 000</td><td>27 DEC - 09 JAN, 2018</td></tr><tr><td>TOKEN SALE PHASE 4</td><td class=\"bold green\">5%</td><td>11 000 000</td><td>10 JAN - 27 JAN, 2018</td></tr></tbody></table><p> </p>",
+    "TokenType": "ETH (ERC20)",
+    "WebsiteLink": "https://en.modultrade.io",
+    "FundingCap": "30000000 MTRc",
+    "FundingTarget": "5000000 MTRc",
+    "Date": 1511740800,
+    "EndDate": 1517011200,
+    "FundsRaisedList": "9,664 ETH",
+    "FundsRaisedUSD": "10172133.12",
+    "StartPrice": "0.00142857143",
+    "StartPriceCurrency": "ETH",
+    "Jurisdiction": "N/A",
+    "BlogLink": "https://medium.com/@ModulTrade",
+    "WhitePaperLink": "https://en.modultrade.io/Token_Sale_TS.pdf?v2"
+  },
+  "ccId": "484742"
+}

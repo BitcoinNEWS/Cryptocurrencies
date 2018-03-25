@@ -1,0 +1,58 @@
+{
+  "General": {
+    "Symbol": "UET",
+    "Name": "Useless Ethereum Token",
+    "Description": "<p>The Useless Ethereum Token is just that, a completely useless token that serves no purpose whatsoever. The UET ICO describes itself has the 100% honest ICO, one in which the investors were told they were getting nothing but a worthless token. The UET is meant to be taken as a joke, one that makes fun of the current ICO landscape.</p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "3965716.0979",
+    "Algorithm": "N/A",
+    "ProofType": "N/A",
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "21/07/2017",
+    "TotalCoinsMined": "3965716.0979",
+    "Twitter": "@uetoken",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "https://uetoken.com/",
+    "GitHub": null,
+    "OnMarkets": [
+      "HitBTC"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Finished",
+    "Description": "<p><span>The Useless Ethereum Token is just that, a completely useless token that serves no purpose whatsoever. The UET ICO describes itself has the 100% honest ICO, one in which the investors were told they were getting nothing but a worthless token. The UET is meant to be taken as a joke, one that makes fun of the current ICO landscape.</span></p><p><span>The UET ICO gathered roughly 310.445 ETH, worth roughly $70000 and destributed the total UET supply to investors, 3965716.097. The UET ICO featured a bonus campaign:</span><span><br /> </span></p><p>The base token distribution formula is very simple: for every 1 ETH you contribute, you&#39;ll receive 100 UET, and if you contribute at least 0.01 ETH, you&#39;ll also receive an additional 1 UET for every Ether that&#39;s been contributed in total.</p>",
+    "TokenType": "ETH (ERC20)",
+    "WebsiteLink": "https://uetoken.com/",
+    "FundingCap": "N/A",
+    "FundingTarget": "N/A",
+    "Date": 1498478400,
+    "EndDate": 1499428800,
+    "FundsRaisedList": "310.445 ETH",
+    "FundsRaisedUSD": "70005",
+    "StartPrice": "0.01",
+    "StartPriceCurrency": "ETH",
+    "Jurisdiction": "N/A",
+    "BlogLink": null,
+    "WhitePaperLink": null
+  },
+  "ccId": "191037"
+}

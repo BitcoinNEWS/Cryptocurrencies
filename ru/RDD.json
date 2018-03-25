@@ -1,0 +1,66 @@
+{
+  "General": {
+    "Symbol": "RDD",
+    "Name": "ReddCoin",
+    "Description": "<p>ReddCoin is trying to jump on the tipping bandwagon by making itself the social network donation go to default. A Scrypt coin with a 60 second block time and block retargeting using kimoto&#39;s gravity well. The coin also includes a 5% annual inflation after the 27.5 billion have been mined by PoW. Alongside Reddcoin inludes an innovative proof of stake velocity algorithm.</p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "27500000000",
+    "Algorithm": "Scrypt",
+    "ProofType": "PoW/PoS",
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "02/02/2014",
+    "TotalCoinsMined": null,
+    "Twitter": "@reddcoin",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "https://www.reddcoin.com/",
+    "GitHub": null,
+    "OnMarkets": [
+      "Cryptsy",
+      "Novaexchange",
+      "Cryptopia",
+      "Poloniex",
+      "Bleutrade",
+      "Yobit",
+      "TradeSatoshi",
+      "BitSquare",
+      "BitTrex"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "N/A",
+    "Description": null,
+    "TokenType": null,
+    "WebsiteLink": null,
+    "FundingCap": null,
+    "FundingTarget": null,
+    "Date": null,
+    "EndDate": null,
+    "FundsRaisedList": null,
+    "FundsRaisedUSD": null,
+    "StartPrice": null,
+    "StartPriceCurrency": null,
+    "Jurisdiction": null,
+    "BlogLink": null,
+    "WhitePaperLink": null
+  },
+  "ccId": "4592"
+}

@@ -1,0 +1,61 @@
+{
+  "General": {
+    "Symbol": "SCL",
+    "Name": "Sociall",
+    "Description": "<p>Sociall<span> </span>is a social network. All data and uploads will exist on the blockchain instead of centralized servers.<span> </span>Sociall<span> </span>is a platform that allows users to communicate with friends and family while providing security and privacy. By decentralizing and encrypting all data and uploads,<span> </span>Sociall<span> </span>hopes to eliminate all invasion of privacy that large corporations are currently performing. End-to-end message encryption ensures only the user and the person communicating with the user, can read what is sent, and nobody in between, not even Sociall.</p><p>The network will Sociallits very own native cryptocurrency to be used for all purchases, called<span> </span>Sociall. SCL can be used to buy goods and services from other users, purchase ad spaces from the integrated ad platform, donate to crowdfunding campaigns, and much more.</p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "16714019.6643",
+    "Algorithm": null,
+    "ProofType": null,
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "19/08/2017",
+    "TotalCoinsMined": null,
+    "Twitter": "@sociall_io",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": null,
+    "GitHub": null,
+    "OnMarkets": [
+      "Yobit",
+      "Cryptopia",
+      "EtherDelta",
+      "HitBTC"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Finished",
+    "Description": "<p>Sociall is a social network. All data and uploads will exist on the blockchain instead of centralized servers. Sociall is a platform that allows users to communicate with friends and family while providing security and privacy. By decentralizing and encrypting all data and uploads, Sociall hopes to eliminate all invasion of privacy that large corporations are currently performing. End-to-end message encryption ensures only the user and the person communicating with the user, can read what is sent, and nobody in between, not even Sociall.</p><p>The network will contain its very own native cryptocurrency to be used for all purchases, called Sociall. SCL can be used to buy goods and services from other users, purchase ad spaces from the integrated ad platform, donate to crowdfunding campaigns, and much more.</p><p><strong>Team</strong>:</p><ul><li><strong>Jade Mulholland</strong>: Founder &amp; Lead Developer<span>.</span><span> </span><a href=\"https://www.linkedin.com/in/jade-mulholland/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Mo Abbas</strong><span>: Backend &amp; Solidity Developer.</span><span> </span><a href=\"https://www.linkedin.com/in/mohamad-abbas-16086115/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Ryan Dobbs</strong><span>: Senior Developer.</span><span> </span><a href=\"https://www.linkedin.com/in/ryan-d-dobbs/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Gareth Benjamin</strong><span>: Full Stack Developer.</span><span> </span><a href=\"https://www.linkedin.com/in/gareth-benjamin-3307b036/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Frank Bonnet</strong><span>: Advisor.</span><span> </span><a href=\"https://www.linkedin.com/in/frank-bonnet-3b890865/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Hansco Leek</strong><span>: Advisor.</span><span> </span><a href=\"https://www.linkedin.com/in/hansco-leek-5bb86210/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li></ul><p>Sociall Nexus ICO began on August 17, 2017. The ICO token supply represents 95% of the total token supply, and the tokens will be available for 0.002 ETH each. The ICO funding target is 250,000 SCL, the funding cap is 50,000,000 SCL and is expected to end on September 17, 2017 or when the funding cap is reached.</p><p>If the funding target is not met - Refunds will be issued via the smart-contract. The contract will distribute tokens instantly upon receiving ETH.</p><p><strong>Token Reserve Split (5%):</strong></p><ul><li>5% of the total supply of coins will be given to promote the product via multiple forms of digital marketing and development.</li></ul>",
+    "TokenType": "ETH (ERC20)",
+    "WebsiteLink": "https://ico.nexus.social/#contribute",
+    "FundingCap": "50,000,000 SCL",
+    "FundingTarget": "250,000 SCL",
+    "Date": 1502931600,
+    "EndDate": 1505610000,
+    "FundsRaisedList": "22,796.75 ETH",
+    "FundsRaisedUSD": "6646848.81",
+    "StartPrice": "0.002",
+    "StartPriceCurrency": "ETH",
+    "Jurisdiction": "N/A",
+    "BlogLink": "https://medium.com/@sociall.io",
+    "WhitePaperLink": "https://ico.nexus.social/pdfs/legals/Nexus-White-Paper.pdf"
+  },
+  "ccId": "255254"
+}

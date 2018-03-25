@@ -1,0 +1,58 @@
+{
+  "General": {
+    "Symbol": "WRT",
+    "Name": "WRTcoin",
+    "Description": "<p>WRT is a Proof of Work cryptocurrency based on the X11 algorithm. WRT is used on the Weigrate Auction platform making penny auction safer, faster, and more attractive.</p><p> </p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "25000000000",
+    "Algorithm": "X11",
+    "ProofType": "PoW",
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "11/09/2017",
+    "TotalCoinsMined": null,
+    "Twitter": "@WeigRate",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": null,
+    "GitHub": null,
+    "OnMarkets": [
+      "Yobit"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Upcoming",
+    "Description": "<p><span>WRT </span><span>is a Proof of Work cryptocurrency based on the X11 algorithm. WRT is used on the</span><span> Weigrate Auction platform making penny auction safer, faster, and more attractive.</span></p><p><strong>Team</strong>:</p><ul><li><strong>Andrew Peciorin:</strong><span><span> </span>CEO, Founder</span> <a href=\"https://www.linkedin.com/in/andrew-peciorin/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=0&amp;height=0\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Sniegena Perminiene:</strong><span> </span>Accounting, Payrolls &amp; Reposts <a href=\"https://www.linkedin.com/in/sniegena-perminiene-7a712310b/?ppe=1\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=0&amp;height=0\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Ivan Alfred Hodgkinson:</strong><span> </span>International Banking, VISA &amp; Mastercard <a href=\"https://www.facebook.com/secretbankaccounts\" target=\"_blank\"><img style=\"width: 13px; height: 13px;\" src=\"/media/1383930/face_logo_final.png?width=13&amp;height=13\" alt=\"\" data-id=\"202866\"></a></li><li><strong>Mike Gammond:</strong><span> </span>Team Coordinator </li><li><strong>Enrico Madonna:</strong><span> </span>Marketing Officer. </li></ul><p> </p><p>The Weigrate ICO began on the 11th of September and it will last until the 16th of November 12:00 UTC. The ICO token supply represents 48% of the initial 501251850.037 coin supply.  WRT is mineable</p><p><strong>Token Reserve Split (XX%):</strong></p><ul><li><span>Bounty: 3%</span></li><li><span></span>Team And Advisors: 20%</li><li><span></span>Development: 10%</li><li><span></span>Foundation<span>: 10%</span></li><li><span></span>Marketing<span>: 5%</span></li><li><span></span>Future Team<span>: 4%</span></li></ul><p><span>The Weigrate ICO</span> campaign features a bounty and bonus campaign</p><p><strong>Bonus Structure:</strong></p><ul><li>September 11 - 20: 30%</li><li>September 21 - 30: 20%</li><li>October 1 - 10<span>: </span>10%</li><li>October 11 - 20<span>: </span>7.5%</li><li>October 21 - 31<span>: </span>5%</li><li>November 1 - 15<span>: </span>2.5%</li></ul>",
+    "TokenType": "New Blockchain",
+    "WebsiteLink": "https://www.wrtcoin.com/",
+    "FundingCap": "N/A",
+    "FundingTarget": "N/A",
+    "Date": 1511179200,
+    "EndDate": 1512129600,
+    "FundsRaisedList": "N/A",
+    "FundsRaisedUSD": "N/A",
+    "StartPrice": "0.10",
+    "StartPriceCurrency": "USD",
+    "Jurisdiction": "N/A",
+    "BlogLink": null,
+    "WhitePaperLink": "https://www.weigrate.ltd/crypto/"
+  },
+  "ccId": "299811"
+}

@@ -1,0 +1,56 @@
+{
+  "General": {
+    "Symbol": "NVST",
+    "Name": "NVO",
+    "Description": "<p>The NVO project makes use of the Safenetwork, a distributed file storage system and a distributed computing system, to build a fully decentralized exchange in which users can trade crypto assets in a trustless manner. The NVO token is a CounterParty asset issued on the Bitcoin blockchain. 50% of all fees per trade on the exchange will be automatically distributed to addresses with NVO tokens on a weekly basis.</p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "30000000",
+    "Algorithm": "N/A",
+    "ProofType": "N/A",
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "14/05/2017",
+    "TotalCoinsMined": 15000000,
+    "Twitter": "@NVOExchange",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "https://nvo.io/",
+    "GitHub": null,
+    "OnMarkets": [],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Finished",
+    "Description": "<p><span>The NVO project makes use of the Safenetwork<span>,</span><span><span> </span>a distributed file storage system and a distributed computing system, to build a fully decentralized exchange in which users can trade crypto assets in a trustless manner. The NVO token is a CounterParty asset issued on the Bitcoin blockchain. </span><span>50% of all fees per trade on the exchange will be automatically distributed to addresses with NVO<span> </span></span><span>tokens on a weekly basis</span><span>.</span></span></p><p>On the 27th of May, NVO held its Initial Coin Offering camapaign which lasted for a whole month until the 27th of June. During this period, NVO sold 50% of its tokens (15M) in exchange for Bitcoin, Litecoin, Ethereum, Ripple and Maidsafe. No bonuses or caps were used in the ICO which counted with the participation of Escrow agents and Bountie hunters. The NVST is not mineable.</p>",
+    "TokenType": "BTC",
+    "WebsiteLink": "https://nvo.io/",
+    "FundingCap": "N/A",
+    "FundingTarget": "N/A",
+    "Date": 1495850400,
+    "EndDate": 1498528800,
+    "FundsRaisedList": "1497.22667463 BTC; 765482 MAID",
+    "FundsRaisedUSD": "4000000",
+    "StartPrice": "0.272",
+    "StartPriceCurrency": "USD",
+    "Jurisdiction": "N/A",
+    "BlogLink": "https://medium.com/nvo-exchange",
+    "WhitePaperLink": "https://nvo.io/assets/whitepaper.pdf"
+  },
+  "ccId": "178885"
+}

@@ -1,0 +1,59 @@
+{
+  "General": {
+    "Symbol": "RIC",
+    "Name": "Riecoin",
+    "Description": "<p>Riecoin is in homage to Bernhard Riemann who studied the distribution of prime numbers. RieCoin is a POW altcoin with a blocktime of 2.5 mins and difficulty retagetting every 288 blocks or 12 hours. There is a hard cap of 84 million RIC.</p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "84000000",
+    "Algorithm": "Groestl",
+    "ProofType": "PoW",
+    "BlockReward": 25.00000000331137,
+    "Explorer": null,
+    "StartDate": "26/06/2014",
+    "TotalCoinsMined": 42302874.99982303,
+    "Twitter": "@riecoin",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "http://riecoin.org/",
+    "GitHub": null,
+    "OnMarkets": [
+      "Poloniex",
+      "BTC38"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "N/A",
+    "Description": null,
+    "TokenType": null,
+    "WebsiteLink": null,
+    "FundingCap": null,
+    "FundingTarget": null,
+    "Date": null,
+    "EndDate": null,
+    "FundsRaisedList": null,
+    "FundsRaisedUSD": null,
+    "StartPrice": null,
+    "StartPriceCurrency": null,
+    "Jurisdiction": null,
+    "BlogLink": null,
+    "WhitePaperLink": null
+  },
+  "ccId": "4352"
+}

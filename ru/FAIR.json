@@ -1,0 +1,58 @@
+{
+  "General": {
+    "Symbol": "FAIR",
+    "Name": "FairCoin",
+    "Description": "<p>FairCoin is a decentralised virtual currency, distributed through a vast airdrop process during the 6th and 8th of March, 2014 . An approximate 49,750 addresses were logged for the giveaway, each able to claim 1000 FAIR per hour. Automated airdrop claiming methods had no effect, as each IP address could register once per hour, and 2 different captchas had to be solved. These security precautions were hidden till the day of distribution. FairCoin&#39;s vast distribution method allowed a good portion of the cryptocurrency community to claim a little bit of the 50,000,000 FairCoins, each.</p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "0",
+    "Algorithm": "Groestl",
+    "ProofType": "PoW/PoS",
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "06/03/2014",
+    "TotalCoinsMined": 53193831,
+    "Twitter": "@FairCoinTeam",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "http://fair-coin.org/",
+    "GitHub": null,
+    "OnMarkets": [
+      "BitTrex"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "N/A",
+    "Description": null,
+    "TokenType": null,
+    "WebsiteLink": null,
+    "FundingCap": null,
+    "FundingTarget": null,
+    "Date": null,
+    "EndDate": null,
+    "FundsRaisedList": null,
+    "FundsRaisedUSD": null,
+    "StartPrice": null,
+    "StartPriceCurrency": null,
+    "Jurisdiction": null,
+    "BlogLink": null,
+    "WhitePaperLink": null
+  },
+  "ccId": "5313"
+}

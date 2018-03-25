@@ -1,0 +1,58 @@
+{
+  "General": {
+    "Symbol": "TRV",
+    "Name": "Travel Coin",
+    "Description": "<p>Travelcoin will allow travelers, agencies and transportation systems to come together in Travelcoin’s self-sufficient ERC20s standard token ecosystem (TRV) with a global community.</p><p>Thanks to the business model underpinned by these Blockchain based tokens, everyone in possession of Travelcoins will have the opportunity to enjoy benefits such as lower costs, avoidance of double spending while making bookings, no double bookings, and a faster way to secure travel and vacation deals.</p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "200000",
+    "Algorithm": null,
+    "ProofType": null,
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "05/07/2017",
+    "TotalCoinsMined": 200000,
+    "Twitter": "@TravelCoins_",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": null,
+    "GitHub": null,
+    "OnMarkets": [
+      "EtherDelta"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Finished",
+    "Description": "<p>Travelcoin will allow travelers, agencies and transportation systems to come together in Travelcoin’s self-sufficient ERC20s standard token ecosystem (TRV) with a global community.</p><p>Thanks to the business model underpinned by these Blockchain based tokens, everyone in possession of Travelcoins will have the opportunity to enjoy benefits such as lower costs, avoidance of double spending while making bookings, no double bookings, and a faster way to secure travel and vacation deals.</p><p><strong>Team</strong>:</p><ul><li><strong>Emal Safi</strong>: Director, CEO.</li><li><strong>Jason Coles</strong><span>: Director, CFO.</span></li><li><span><strong>Lavi Malik</strong><span>: Development Head, Technology Advisor.</span></span></li><li>Vishal Malik: Development Head, Technology Advisor.</li><li><span><strong>Tariq Habib</strong><span>: Executive Chair &amp; CTO.</span></span></li><li><strong>Sing Tu</strong><span>: Real Time Automation and Security.</span></li><li><span><strong>Peter Nemeth</strong><span>: Technology Sales.</span></span></li><li><strong>Damian Bouwers</strong><span>: Communications Manager.</span></li><li><span><strong>Pearce Nemeth</strong><span>: Strategy Advisory for E-business.</span></span></li></ul><p>Travel Coin held its ICO from July 5, 2017 to August 15, 2017</p>",
+    "TokenType": "ETH (ERC20)",
+    "WebsiteLink": null,
+    "FundingCap": "N/A",
+    "FundingTarget": "N/A",
+    "Date": 1499212800,
+    "EndDate": 1502755200,
+    "FundsRaisedList": "N/A",
+    "FundsRaisedUSD": "N/A",
+    "StartPrice": "N/A",
+    "StartPriceCurrency": "N/A",
+    "Jurisdiction": "N/A",
+    "BlogLink": null,
+    "WhitePaperLink": "https://www.travelcoins.io/wp-content/uploads/2017/07/Travelcoin_ICO_WhitePaper_2017.pdf"
+  },
+  "ccId": "255293"
+}

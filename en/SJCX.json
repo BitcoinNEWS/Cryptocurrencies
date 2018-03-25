@@ -1,0 +1,60 @@
+{
+  "General": {
+    "Symbol": "SJCX",
+    "Name": "StorjCoin",
+    "Description": "<p>Storj – это децентрализованная платформа облачного хранения, основанная на технологии Blockchain от Bitcoin, где каждый может продать свое дополнительное пространство на жестком диске.</p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "500000000",
+    "Algorithm": "Counterparty",
+    "ProofType": "PoS",
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "18/07/2014",
+    "TotalCoinsMined": 51173144,
+    "Twitter": "@storjproject",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "http://storj.io",
+    "GitHub": null,
+    "OnMarkets": [
+      "Zaif",
+      "Poloniex",
+      "BitTrex"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Finished",
+    "Description": "<p><span data-sheets-value=\"{&quot;1&quot;:2,&quot;2&quot;:&quot;Storj aims to become a cloud storage platform that can&#39;t be censored or monitored. It is the first decetralised end-to-end encrypted cloud storage that uses blockchain technology and cryptography to secure your files.&quot;}\" data-sheets-userformat=\"{&quot;2&quot;:14466,&quot;4&quot;:{&quot;1&quot;:2,&quot;2&quot;:16777215},&quot;10&quot;:2,&quot;14&quot;:{&quot;1&quot;:2,&quot;2&quot;:0},&quot;15&quot;:&quot;Inconsolata&quot;,&quot;16&quot;:11}\">Storj aims to become a cloud storage platform that can&#39;t be censored or monitored. It is the first decetralised end-to-end encrypted cloud storage that uses blockchain technology and cryptography to secure your files. Purchasing Storj tokens allows holders to use the network where they can buy and sell computing space. Read more on the official sale terms <a href=\"https://storj.io/sale-terms.pdf\" target=\"_blank\">here  </a></span></p><p><span data-sheets-value=\"{&quot;1&quot;:2,&quot;2&quot;:&quot;Storj aims to become a cloud storage platform that can&#39;t be censored or monitored. It is the first decetralised end-to-end encrypted cloud storage that uses blockchain technology and cryptography to secure your files.&quot;}\" data-sheets-userformat=\"{&quot;2&quot;:14466,&quot;4&quot;:{&quot;1&quot;:2,&quot;2&quot;:16777215},&quot;10&quot;:2,&quot;14&quot;:{&quot;1&quot;:2,&quot;2&quot;:0},&quot;15&quot;:&quot;Inconsolata&quot;,&quot;16&quot;:11}\"><span>Storj offered a bonus rate for larger investors, between $50k-100k: 10% discount, which is $0.45 per token, with a lock-up of 3 months. Over $100k: 20% discount, which is $0.40 per token, with a lock-up of 6 months. </span>Funds were raised in around 6 hours and </span>80% of tokens were withheld from the ICO sale and are being distributed during the months following the ICO. Storj has received approximately $4.8 Million in 4 rounds of funding prior to the ICO.</p>",
+    "TokenType": "ETH (ERC20)",
+    "WebsiteLink": "https://storj.io/tokensale",
+    "FundingCap": "No Cap",
+    "FundingTarget": "N/A",
+    "Date": 1405684800,
+    "EndDate": 1408363200,
+    "FundsRaisedList": "N/A",
+    "FundsRaisedUSD": "461802",
+    "StartPrice": "0.50",
+    "StartPriceCurrency": "USD",
+    "Jurisdiction": "N/A",
+    "BlogLink": "http://blog.storj.io/",
+    "WhitePaperLink": "https://storj.io/storj.pdf"
+  },
+  "ccId": "5288"
+}

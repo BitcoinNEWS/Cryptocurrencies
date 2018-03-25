@@ -1,0 +1,56 @@
+{
+  "General": {
+    "Symbol": "NYX",
+    "Name": "NYXCOIN",
+    "Description": "<p>NYXCOIN was created to become the best digital payment asset for buying/selling goods and services around the world. NYX will also be the starting point around which we will create a complex system of tools and services for ecommerce, trading and crypto world. This way we want to drive value to the coin and make it desirable.</p><p>Another thing that make us unique is that we manage to join crypto with online world and for the development of NYX Projects we created a team of crypto developers, online marketing experts, search engine optimization (SEO) specialists, web developers and designers that work together for a guaranteed success.</p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": null,
+    "Algorithm": "NeoScrypt",
+    "ProofType": "PoW",
+    "BlockReward": 10,
+    "Explorer": null,
+    "StartDate": "01/01/0001",
+    "TotalCoinsMined": 1382090,
+    "Twitter": "@NYXCOIN",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": null,
+    "GitHub": null,
+    "OnMarkets": [],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "N/A",
+    "Description": null,
+    "TokenType": null,
+    "WebsiteLink": null,
+    "FundingCap": null,
+    "FundingTarget": null,
+    "Date": null,
+    "EndDate": null,
+    "FundsRaisedList": null,
+    "FundsRaisedUSD": null,
+    "StartPrice": null,
+    "StartPriceCurrency": null,
+    "Jurisdiction": null,
+    "BlogLink": null,
+    "WhitePaperLink": null
+  },
+  "ccId": "765701"
+}

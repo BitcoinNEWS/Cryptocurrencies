@@ -1,0 +1,56 @@
+{
+  "General": {
+    "Symbol": "MBT",
+    "Name": "Multibot",
+    "Description": "<p>Multibot<span> </span>platform aims to solve the problem of user interaction with cryptocurrency exchanges and continuous monitoring of the market, at the maximum number of trading platforms. Using the advantages of the SaaS model, the platform is designed to lower the threshold of entry into the exchange trade in cryptocurrencies.</p><p>Multibot accumulates a set of tools and services. The platform allows you to start using a few simple steps, regardless of the availability of hardware and other software, since it is available from anywhere in the world, with predefined settings and tools for successfully solving the main tasks.</p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "25000000",
+    "Algorithm": null,
+    "ProofType": null,
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "09/10/2017",
+    "TotalCoinsMined": null,
+    "Twitter": "@multibotio",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": null,
+    "GitHub": null,
+    "OnMarkets": [],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Ongoing",
+    "Description": "<p>Multibot<span> </span>platform aims to solve the problem of user interaction with cryptocurrency exchanges and continuous monitoring of the market, at the maximum number of trading platforms. Using the advantages of the SaaS model, the platform is designed to lower the threshold of entry into the exchange trade in cryptocurrencies.</p><p>Multibot accumulates a set of tools and services. The platform allows you to start using a few simple steps, regardless of the availability of hardware and other software, since it is available from anywhere in the world, with predefined settings and tools for successfully solving the main tasks.</p><p><strong>Team</strong>:</p><ul><li><strong>Evgeny Sudakov</strong>: Development.</li><li><strong>Alexander Svininykh</strong>:<span> </span><span>Development</span>.</li><li><strong>Ksenia Svininykh</strong>: Marketing.</li><li><strong>Roman Bolotov</strong><span>: Exchange trading.</span></li></ul><p><span>Multibot</span><span> </span>will be holding its ICO on October 20, 2017. The ICO token supply represents 95% of the total token supply, so there will be a total of <span>23750000 </span>tokens available, for $1 each at the offering. The ICO funding target is $100,000, the funding cap is $25,000,000 and is expected to end on November 26, 2017 or when the funding cap is reached. Any unsold tokens will be burnt.</p><p><strong>Token Reserve Split (05%):</strong></p><ul><li>03% Founders;</li><li>02% Promotions;</li></ul><p><span>Multibot ICO campaign will feature a bounty campaign and a bonus structure.</span></p><p><strong>Bonus Structure:</strong></p><ul><li>25% Day 1-2;</li><li>20%<span> </span><span>Days 3-7</span>;</li><li>15% 2 Week;</li><li><span>10% 3 Week;</span></li><li><span>05% 4 Week;</span></li><li><span>00% 5 Week;</span></li></ul>",
+    "TokenType": "ETH (ERC20)",
+    "WebsiteLink": "https://click.runcpa.com/getoffer/38228-58f996b9d9f2f8d372b3298ef4e2c58c-916",
+    "FundingCap": "25,000,000 USD",
+    "FundingTarget": "100,000 USD",
+    "Date": 1508476200,
+    "EndDate": 1511673000,
+    "FundsRaisedList": "667 947 MBT Sold",
+    "FundsRaisedUSD": "N/A",
+    "StartPrice": "1",
+    "StartPriceCurrency": "USD",
+    "Jurisdiction": "N/A",
+    "BlogLink": null,
+    "WhitePaperLink": "https://multibot.io/whitepaper.pdf"
+  },
+  "ccId": "330003"
+}

@@ -1,0 +1,56 @@
+{
+  "General": {
+    "Symbol": "MCU",
+    "Name": "MediChain",
+    "Description": "<div class=\"freebirdFormviewerViewItemsItemItem freebirdFormviewerViewItemsTextTextItem\" data-required=\"true\" data-item-id=\"534092066\"><div class=\"freebirdFormviewerViewItemsTextLongText freebirdFormviewerViewItemsTextDisabledText freebirdThemedInput\">MediChain is a blockchain-based ledger for patient’s medical data. It allows patients to store their own data offchain in an appropriate geographic domain, and give access to doctors and specialists anywhere regardless of the payer network or EMR used. The <span>MediChain Utility Token (MCU) is an ERC-20 token based on Ethereum. It represents the value of arbitrary patient data blocks and provides users with multiple benefits in the MediChain ecosystem.</span></div></div><div class=\"freebirdFormviewerViewItemsItemItem\" data-required=\"true\" data-input=\"L9xHkb\" data-item-id=\"2128727222\"><div class=\"freebirdFormviewerViewItemsItemItemHeader\"><div class=\"freebirdFormviewerViewItemsItemItemTitleContainer\"></div></div></div>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": null,
+    "Algorithm": null,
+    "ProofType": null,
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "01/03/2018",
+    "TotalCoinsMined": null,
+    "Twitter": "@MediChainOnline",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": null,
+    "GitHub": null,
+    "OnMarkets": [],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Ongoing",
+    "Description": "<p><span>MediChain is a blockchain-based ledger</span><span> for patient’s medical data. It allows patients to store their own data offchain in an appropriate geographic domain, and give access to doctors and specialists anywhere regardless of the payer network or EMR used. The </span><span>MediChain Utility Token (MCU) is an ERC-20 token based on Ethereum. It represents the value of arbitrary patient data blocks and provides users with multiple benefits in the MediChain ecosystem.</span></p><p><strong>Team</strong>:</p><ul><li><strong>Dr Mark Baker:</strong> CEO and Founder <a href=\"https://www.facebook.com/drmarkrbaker\" target=\"_blank\"><img style=\"width: 13px; height: 13px;\" src=\"/media/1383930/face_logo_final.png?width=13&amp;height=13\" alt=\"\" data-id=\"202866\"></a><span> </span><a href=\"https://twitter.com/medichainonline\" target=\"_blank\"><img style=\"width: 13px; height: 13px;\" src=\"/media/1383932/twitter_logo_final.png?width=13&amp;height=13\" alt=\"\" data-id=\"202868\"></a><span> </span><a href=\"https://www.linkedin.com/in/drmarkrbaker/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Katy Blackwell:</strong> Team Manager <a href=\"https://www.linkedin.com/in/kat-black/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Samuel Dare:</strong> Blockchain Engineer <a href=\"https://www.linkedin.com/in/samuel-dare-52a96424/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Giannis Stathopoulos:</strong> Business Development and Operations <a href=\"https://www.linkedin.com/in/giannisstathopoulos/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li></ul><p>The MediChain ICO will start on the 1st of March and will end on the 1st of May, 2018. The ICO token allocaiton represents 40% of the total token supply and will be available for a $1 base price each. The ICO funding target/cap is set at 40,000,000 USD.</p><p><strong>Token Reserve Split (60%):</strong></p><ul><li>Pre-Sale: 6.5%</li><li>Partner fund: 15%</li><li>Team and founder: 18%</li><li>Advisors: 6.5%</li><li>Medical Data Fund: 10%</li><li>Bounty Campaign: 4%</li></ul><p> </p><p>The MCU ICO features a bonus and bounty campaign.</p><div class=\"freebirdFormviewerViewItemsItemItem freebirdFormviewerViewItemsTextTextItem\" data-item-id=\"1688926117\"><div class=\"freebirdFormviewerViewItemsTextItemWrapper\"></div></div><div class=\"freebirdFormviewerViewItemsItemItem freebirdFormviewerViewItemsTextTextItem\" data-required=\"true\" data-item-id=\"1077776534\"><div class=\"freebirdFormviewerViewItemsItemItemHeader\"><div class=\"freebirdFormviewerViewItemsItemItemTitleContainer\"></div></div></div>",
+    "TokenType": "ETH (ERC20)",
+    "WebsiteLink": "https://medichain.online/?utm_source=cryptocompare&utm_medium=listing",
+    "FundingCap": "40,000,000 USD",
+    "FundingTarget": "40,000,000 USD",
+    "Date": 1519862400,
+    "EndDate": 1525132800,
+    "FundsRaisedList": "13,119,342 MCU tokens sold",
+    "FundsRaisedUSD": "N/A",
+    "StartPrice": "1",
+    "StartPriceCurrency": "USD",
+    "Jurisdiction": "UK",
+    "BlogLink": null,
+    "WhitePaperLink": "https://docs.google.com/document/d/1CcC0TunMv_utiQwXlD9gysj1yc2QAj5jQ8jRAuCla9k/edit"
+  },
+  "ccId": "714167"
+}

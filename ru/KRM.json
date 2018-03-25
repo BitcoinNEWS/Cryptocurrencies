@@ -1,0 +1,56 @@
+{
+  "General": {
+    "Symbol": "KRM",
+    "Name": "Karma",
+    "Description": "<p>The Karma token (KRM) is a PoS cryptocurrency based on the Groestl algorithm. The KRM token will support the P2P loans platform built by the Karma&#39;s team.</p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "3000000000",
+    "Algorithm": "Groestl",
+    "ProofType": "PoS",
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "13/08/2017",
+    "TotalCoinsMined": null,
+    "Twitter": "@KarmaBlockchain",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "-",
+    "GitHub": null,
+    "OnMarkets": [],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Finished",
+    "Description": "<p> <span>The Karma token (KRM) is a PoS cryptocurrency based on the Groestl algorithm. The KRM token will support the P2P loans platform built by the Karma&#39;s team.</span></p><p><strong>Team</strong>:</p><ul><li><strong><span>George Goognin</span></strong>: <span>Founder, Evangelist</span>. <a href=\"https://www.facebook.com/goognin\" target=\"_blank\"><img style=\"width: 13px; height: 13px;\" src=\"/media/1383930/face_logo_final.png?width=13&amp;height=13\" alt=\"\" data-id=\"202866\"></a></li><li><strong><span>Artem Laptev</span></strong>: <span>Founder, Investment director</span>.<span> </span><a href=\"https://www.facebook.com/tema.laptev\" target=\"_blank\"><img style=\"width: 13px; height: 13px;\" src=\"/media/1383930/face_logo_final.png?width=13&amp;height=13\" alt=\"\" data-id=\"202866\"></a></li><li><strong><span>Stephane Konan</span></strong>: <span>Advisor</span>.<span> </span><a href=\"https://www.linkedin.com/in/stephanekonan/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong><span>Michael Shlemov</span></strong>: <span>Mentor</span>.<span> </span></li><li><strong><span>Dan Svinarchuk</span></strong>: <span>Fintech advisor</span>.<span> </span><a href=\"https://www.facebook.com/denn.nevera\" target=\"_blank\"><img style=\"width: 13px; height: 13px;\" src=\"/media/1383930/face_logo_final.png?width=13&amp;height=13\" alt=\"\" data-id=\"202866\"></a></li><li><strong><span>Alex Chinyaev</span></strong><span>: <span> <span>Business partner, UK</span></span></span><span>. <a href=\"https://www.linkedin.com/in/alex-chinyaev-16018010b/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></span></li></ul><p>Karma will be holding its ICO on November 17th, 2017. The ICO token supply represents 42% of the total token supply, so there will be a total of 1,275,000,000 tokens available, for 0.1 USD each at the offering. The ICO funding target is 5,000,000 USD, the funding cap is 10,000,000 USD and is expected to end on December 2nd, 2017 or when the funding cap is reached.</p><p><strong>Token Reserve Split (100%):</strong></p><ul><li>42% Token Sale Buyers;</li><li>24% Reserve;</li><li>17% Pre-sale buyers;</li><li>17% Founders;</li></ul>",
+    "TokenType": "New Blockchain",
+    "WebsiteLink": null,
+    "FundingCap": "10,000,000 USD",
+    "FundingTarget": "5,000,000 USD",
+    "Date": 1510876800,
+    "EndDate": 1513900800,
+    "FundsRaisedList": "N/A",
+    "FundsRaisedUSD": "10000000",
+    "StartPrice": "0.1",
+    "StartPriceCurrency": "USD",
+    "Jurisdiction": "UK",
+    "BlogLink": "https://medium.com/@karma.project",
+    "WhitePaperLink": "https://docs.google.com/document/d/1R8LHlFP4wHEu3gzNWOStId_b3iF-S7CRFcsDmYWEBt4/"
+  },
+  "ccId": "771553"
+}

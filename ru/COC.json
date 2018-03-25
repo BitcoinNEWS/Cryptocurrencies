@@ -1,0 +1,58 @@
+{
+  "General": {
+    "Symbol": "COC",
+    "Name": "Community Coin",
+    "Description": "<p>Community Coin is a Proof of Work coin using the SHA256 algorithm, also used by Bitcoin.</p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "36129032",
+    "Algorithm": "SHA256",
+    "ProofType": "PoW",
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "25/10/2016",
+    "TotalCoinsMined": null,
+    "Twitter": "@communitycoin_",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "-",
+    "GitHub": null,
+    "OnMarkets": [
+      "Yobit"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "N/A",
+    "Description": null,
+    "TokenType": null,
+    "WebsiteLink": null,
+    "FundingCap": null,
+    "FundingTarget": null,
+    "Date": null,
+    "EndDate": null,
+    "FundsRaisedList": null,
+    "FundsRaisedUSD": null,
+    "StartPrice": null,
+    "StartPriceCurrency": null,
+    "Jurisdiction": null,
+    "BlogLink": null,
+    "WhitePaperLink": null
+  },
+  "ccId": "30925"
+}

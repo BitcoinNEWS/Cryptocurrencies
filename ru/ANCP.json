@@ -1,0 +1,56 @@
+{
+  "General": {
+    "Symbol": "ANCP",
+    "Name": "Anacrypt",
+    "Description": "<p><span>ANCP is an Ethereum-based token created for members of the <a href=\"https://www.facebook.com/groups/309991232753171/\" target=\"_blank\">Anarcrypt facebook group</a> to be able learn how ERC20 tokens and wallets work as well as fostering a sense of community. </span></p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "10000",
+    "Algorithm": "N/A",
+    "ProofType": "N/A",
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "01/01/0001",
+    "TotalCoinsMined": 10000,
+    "Twitter": null,
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "https://www.facebook.com/groups/309991232753171/",
+    "GitHub": null,
+    "OnMarkets": [],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "N/A",
+    "Description": null,
+    "TokenType": null,
+    "WebsiteLink": null,
+    "FundingCap": null,
+    "FundingTarget": null,
+    "Date": null,
+    "EndDate": null,
+    "FundsRaisedList": null,
+    "FundsRaisedUSD": null,
+    "StartPrice": null,
+    "StartPriceCurrency": null,
+    "Jurisdiction": null,
+    "BlogLink": null,
+    "WhitePaperLink": null
+  },
+  "ccId": "196572"
+}

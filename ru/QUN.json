@@ -1,0 +1,59 @@
+{
+  "General": {
+    "Symbol": "QUN",
+    "Name": "QunQun",
+    "Description": "<p>QunQun is an Ethereum-based incentive community platform. QUN is an ERC20 token that serves as medium of exchange on <span>QunQun&#39;s platform.</span></p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "1500000000",
+    "Algorithm": null,
+    "ProofType": null,
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "05/01/2018",
+    "TotalCoinsMined": 1500000000,
+    "Twitter": "@qunqun_io",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": null,
+    "GitHub": null,
+    "OnMarkets": [
+      "OKEX",
+      "HuobiPro"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "N/A",
+    "Description": null,
+    "TokenType": null,
+    "WebsiteLink": null,
+    "FundingCap": null,
+    "FundingTarget": null,
+    "Date": null,
+    "EndDate": null,
+    "FundsRaisedList": null,
+    "FundsRaisedUSD": null,
+    "StartPrice": null,
+    "StartPriceCurrency": null,
+    "Jurisdiction": null,
+    "BlogLink": null,
+    "WhitePaperLink": null
+  },
+  "ccId": "716767"
+}

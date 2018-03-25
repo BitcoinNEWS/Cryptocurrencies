@@ -1,0 +1,58 @@
+{
+  "General": {
+    "Symbol": "JDC",
+    "Name": "JustDatingSite",
+    "Description": "<p><span>JustDatingSite.com is a classical free dating site with premium services </span><span>s with a fixed price in fiat currencies. These prices will vary for different countries/regions, and 100% of payments will be used to buy out Just Dating Coins (JDC). </span></p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": null,
+    "Algorithm": null,
+    "ProofType": null,
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "01/01/0001",
+    "TotalCoinsMined": null,
+    "Twitter": "@JDS75738669",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": null,
+    "GitHub": null,
+    "OnMarkets": [
+      "WavesDEX"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Ongoing",
+    "Description": "<p><span>JustDatingSite.com is a classical free dating site with premium services </span><span>s with a fixed price in fiat currencies. These prices will vary for different countries/regions, and 100% of payments will be used to buy out Just Dating Coins (JDC). </span></p><p><strong>Team</strong>:</p><ul><li><strong>Roman Agafonov: </strong>Founder<strong> <a href=\"https://www.linkedin.com/in/roman-agafonov-/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></strong></li><li><strong>Anton Shashok: </strong>Social Researcher<strong> <a href=\"https://www.linkedin.com/in/anton-shashok-098a8538/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></strong></li><li><strong>Aleksei Morozov: </strong>COO<strong> <a href=\"https://www.linkedin.com/in/almorozov/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></strong></li></ul><p>Just Dating Site will hold its ICO on the 15h of August, 2017. During the campaign, 70% of the tokens will be sold at a 1mBTC price each. The minimum target for the ICO is $200k with the cap being $3m. The ICO is expected to end on the 30th of September, 2017.</p><p><strong>Token Reserve Split (30%):</strong></p><ul><li><div class=\"col-xs-12 col-sm-6 col-md-3 col-md-offset-3 f-s-20\">15% JDC were sold by the price 0.25 mBts / 1 JDC.</div></li><li><div class=\"col-xs-12 col-sm-6 col-md-3 col-md-offset-3 f-s-20\">15% JDC will be distributed among key partners and bounty program.</div></li></ul>",
+    "TokenType": "WAVES",
+    "WebsiteLink": "https://ico.justdatingsite.com/",
+    "FundingCap": "5,000,000 USD",
+    "FundingTarget": "200,000 USD",
+    "Date": 1502812586,
+    "EndDate": 1506786992,
+    "FundsRaisedList": "61.18 BTC\r\n70.81 ETH\r\n98.70 LTC\r\n5,571.7 0WAVES\r\n0.40 DASH\r\n5.58 ZCASH",
+    "FundsRaisedUSD": "295524.73",
+    "StartPrice": "0.001",
+    "StartPriceCurrency": "BTC",
+    "Jurisdiction": "N/A",
+    "BlogLink": null,
+    "WhitePaperLink": "https://ico.justdatingsite.com/#white_paper"
+  },
+  "ccId": "232607"
+}

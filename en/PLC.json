@@ -1,0 +1,61 @@
+{
+  "General": {
+    "Symbol": "PLC",
+    "Name": "PlusCoin",
+    "Description": "<p>PlusCoin is an Ethereum-based cashback platform. PLS is an ERC20 token that serves as currency on DS PLUS mobile app.</p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "82500000000",
+    "Algorithm": null,
+    "ProofType": null,
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "05/08/2017",
+    "TotalCoinsMined": 82500000000,
+    "Twitter": "@DsplusF",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": null,
+    "GitHub": null,
+    "OnMarkets": [
+      "Cryptopia",
+      "Tidex",
+      "EtherDelta",
+      "Jubi"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Ongoing",
+    "Description": "<p><span>PlusCoin is an Ethereum-based cashback platform. PLS is an ERC20 token that serves as currency on DS PLUS mobile app.</span></p><p><strong>Team</strong>:</p><ul><li><strong>Mikhail Mikhailov</strong>: <span>CEO</span>. <a href=\"https://www.facebook.com/mihaelbrain\" target=\"_blank\"><img style=\"width: 13px; height: 13px;\" src=\"/media/1383930/face_logo_final.png?width=13&amp;height=13\" alt=\"\" data-id=\"202866\"></a> <a href=\"https://twitter.com/DsplusF\" target=\"_blank\"><img style=\"width: 13px; height: 13px;\" src=\"/media/1383932/twitter_logo_final.png?width=13&amp;height=13\" alt=\"\" data-id=\"202868\"></a> <a href=\"https://www.linkedin.com/in/fronts\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Arkadiy Obolkin</strong>: <span>CTO</span>.<span> </span><a href=\"https://www.facebook.com/profile.php?id=1570522668\" target=\"_blank\"><img style=\"width: 13px; height: 13px;\" src=\"/media/1383930/face_logo_final.png?width=13&amp;height=13\" alt=\"\" data-id=\"202866\"></a><span> </span><a href=\"https://twitter.com/arkadiyo\" target=\"_blank\"><img style=\"width: 13px; height: 13px;\" src=\"/media/1383932/twitter_logo_final.png?width=13&amp;height=13\" alt=\"\" data-id=\"202868\"></a><span> </span><a href=\"https://www.linkedin.com/in/arkadiy-obolkin-05511399\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Yuriy Mamonov</strong>: <span>COO</span>.<span> </span><a href=\"https://www.facebook.com/dsplusirk\" target=\"_blank\"><img style=\"width: 13px; height: 13px;\" src=\"/media/1383930/face_logo_final.png?width=13&amp;height=13\" alt=\"\" data-id=\"202866\"></a><span> </span><a href=\"https://twitter.com/dspluslusIrk\" target=\"_blank\"><img style=\"width: 13px; height: 13px;\" src=\"/media/1383932/twitter_logo_final.png?width=13&amp;height=13\" alt=\"\" data-id=\"202868\"></a><span> </span><a href=\"https://www.linkedin.com/in/yuriy-mamonov-4a9a50148\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><span><strong>Kristina Galkina:</strong> COO<span>.</span><span><span> </span></span><a href=\"https://www.facebook.com/kristina.galkina.395\" target=\"_blank\"><img style=\"width: 13px; height: 13px;\" src=\"/media/1383930/face_logo_final.png?width=13&amp;height=13\" alt=\"\" data-id=\"202866\"></a><span><span> </span></span><a href=\"https://twitter.com/Snejnaya_kv\" target=\"_blank\"><img style=\"width: 13px; height: 13px;\" src=\"/media/1383932/twitter_logo_final.png?width=13&amp;height=13\" alt=\"\" data-id=\"202868\"></a></span></li></ul><p>PlusCoin will be holding its ICO on the 10th of September, 2017 and is expected to end on 31st of December, 2017. The ICO token supply represents 40% of the total token supply, so there will be a total of 10,000,000 tokens available, for $10 each during the offering. Any unsold/remaining tokens will be burned.</p><p><strong>Token Reserve Split (60%):</strong></p><ul><li>36% Build an infrastructure;</li><li>24% Reserve;</li></ul><p><span>PlusCoin ICO will feature a bonus program and a bounty campaign, and the token will not be mineable.</span></p><p><strong>Bonus Structure:</strong></p><ul><li>2% 100-299 tokens;</li><li>4% <span>300 - 499 tokens</span>;</li><li>6% <span>500 - 699 tokens</span>;</li><li>8% <span>700 - 999 tokens;</span></li><li><span>10% 1000 or more tokens;</span></li></ul>",
+    "TokenType": "ETH (ERC20)",
+    "WebsiteLink": null,
+    "FundingCap": "N/A",
+    "FundingTarget": "N/A",
+    "Date": 1505059200,
+    "EndDate": 1514736000,
+    "FundsRaisedList": "406 BTC; 1611 ETH ; 1354 LTC; 89 BCH",
+    "FundsRaisedUSD": "4111915",
+    "StartPrice": "10",
+    "StartPriceCurrency": "USD",
+    "Jurisdiction": "Estonia",
+    "BlogLink": "https://medium.com/@DSPlus.io",
+    "WhitePaperLink": "https://pluscoin.io/images/dsp/pluscoin_wp.pdf"
+  },
+  "ccId": "380571"
+}

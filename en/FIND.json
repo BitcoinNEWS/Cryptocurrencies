@@ -1,0 +1,58 @@
+{
+  "General": {
+    "Symbol": "FIND",
+    "Name": "FindCoin",
+    "Description": "<p>FIND is a PoS cryptocurrency based on the X13 algorithm. It is fully premined. FindCoin<span> was created with a sole purpose of raising a reward for the deanonymization of certain \"developers\" that have scammed people with the creation of worthless altcoins. The intention of the coin is to create a symbol, a banner for everyone in the community that wants those people to be found and brought to legally applicable justice.</span></p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "14524851.4827",
+    "Algorithm": "X13",
+    "ProofType": "PoS",
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "26/12/2014",
+    "TotalCoinsMined": "14524851.4827",
+    "Twitter": null,
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "-",
+    "GitHub": null,
+    "OnMarkets": [
+      "Yobit"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "N/A",
+    "Description": null,
+    "TokenType": null,
+    "WebsiteLink": null,
+    "FundingCap": null,
+    "FundingTarget": null,
+    "Date": null,
+    "EndDate": null,
+    "FundsRaisedList": null,
+    "FundsRaisedUSD": null,
+    "StartPrice": null,
+    "StartPriceCurrency": null,
+    "Jurisdiction": null,
+    "BlogLink": null,
+    "WhitePaperLink": null
+  },
+  "ccId": "48807"
+}

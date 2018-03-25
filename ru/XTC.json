@@ -1,0 +1,59 @@
+{
+  "General": {
+    "Symbol": "XTC",
+    "Name": "TileCoin",
+    "Description": "<p>TileCoin  / Tilepay is a crypto-token which enables access to a Decentralized Bill Payments/Investment Application (ĐApp).</p><p><span>TileCoin`s</span><span> mission is to revolutionize the Internet of Things by easily enabling monetization between people, sensors, and data utilizing micropayment channels via block chain technology.</span></p><p><span><span>The online web marketplace for MAKERS (IoT Owners) and BUYERS (people, corporations, manufacturers, etc.) conduct all transactions with bitcoin and/or multiple currencies. Bitcoin is a cryptocurrency used around the globe as a means of eliminating the need for currency conversions and allowing for many very small transactions (also referred to as “micropayments”).</span></span></p><p>Currently, there is a trend towards decentralized payments using bitcoin, that can help reduce costs associated to transferring a store of value, acquiring assets and increasing monetization of physical assets from Internet of Things (IoT) devices and/or sensors.</p><p>TileCoin / Tilepay  is a free decentralized application that is downloaded to your personal computer, laptop or mobile phone.</p><p>Each IoT device and/or associated sensor is an asset that is created by our decentralized application. Every device has a unique token that can accept payment for data via a marketplace.</p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "100000000",
+    "Algorithm": null,
+    "ProofType": null,
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "29/08/2014",
+    "TotalCoinsMined": null,
+    "Twitter": "@tilecoinx",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "https://www.tilepay.org/",
+    "GitHub": null,
+    "OnMarkets": [
+      "BitTrex",
+      "BTER"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "N/A",
+    "Description": null,
+    "TokenType": null,
+    "WebsiteLink": null,
+    "FundingCap": null,
+    "FundingTarget": null,
+    "Date": null,
+    "EndDate": null,
+    "FundsRaisedList": null,
+    "FundsRaisedUSD": null,
+    "StartPrice": null,
+    "StartPriceCurrency": null,
+    "Jurisdiction": null,
+    "BlogLink": null,
+    "WhitePaperLink": null
+  },
+  "ccId": "5321"
+}

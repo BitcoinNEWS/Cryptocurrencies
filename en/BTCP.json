@@ -1,0 +1,58 @@
+{
+  "General": {
+    "Symbol": "BTCP",
+    "Name": "Bitcoin Private",
+    "Description": "<p><span>Bitcoin Private (BTCP) is a Bitcoin hard fork with the snapshot happening on February 28th, the fork will consist of a mix between BTC and ZCL.</span></p><p><span>BTCP will use ZClassic (zk-snarks). This means payments are published on a public blockchain, but the sender, recipient and other transactional metadata remain unidentifiable.</span></p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "21000000",
+    "Algorithm": "Equihash",
+    "ProofType": "PoW",
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "01/01/2018",
+    "TotalCoinsMined": null,
+    "Twitter": "@bitcoinprivate",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": null,
+    "GitHub": null,
+    "OnMarkets": [
+      "TradeSatoshi"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "N/A",
+    "Description": null,
+    "TokenType": null,
+    "WebsiteLink": null,
+    "FundingCap": null,
+    "FundingTarget": null,
+    "Date": null,
+    "EndDate": null,
+    "FundsRaisedList": null,
+    "FundsRaisedUSD": null,
+    "StartPrice": null,
+    "StartPriceCurrency": null,
+    "Jurisdiction": null,
+    "BlogLink": null,
+    "WhitePaperLink": null
+  },
+  "ccId": "770095"
+}

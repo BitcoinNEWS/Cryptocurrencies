@@ -1,0 +1,61 @@
+{
+  "General": {
+    "Symbol": "CAP",
+    "Name": "BottleCaps",
+    "Description": "<p>Bottle caps are the standard currency in Fallout, Fallout 3, Fallout: New Vegas and Fallout: Brotherhood of Steel. Bottlecaps (CAP) are a 0 premine 0 instamine (0.25 Diff start).</p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "47433600",
+    "Algorithm": "Scrypt",
+    "ProofType": "PoW/PoS",
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "23/06/2013",
+    "TotalCoinsMined": null,
+    "Twitter": null,
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "-",
+    "GitHub": null,
+    "OnMarkets": [
+      "Novaexchange",
+      "TradeSatoshi",
+      "Cryptsy",
+      "Cryptopia"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "N/A",
+    "Description": null,
+    "TokenType": null,
+    "WebsiteLink": null,
+    "FundingCap": null,
+    "FundingTarget": null,
+    "Date": null,
+    "EndDate": null,
+    "FundsRaisedList": null,
+    "FundsRaisedUSD": null,
+    "StartPrice": null,
+    "StartPriceCurrency": null,
+    "Jurisdiction": null,
+    "BlogLink": null,
+    "WhitePaperLink": null
+  },
+  "ccId": "4408"
+}

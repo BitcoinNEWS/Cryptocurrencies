@@ -1,0 +1,58 @@
+{
+  "General": {
+    "Symbol": "GGS",
+    "Name": "Gilgam",
+    "Description": "<p>Gilgam is an eSports platform allowing both players and teams to compete in popular games of the genre like DOTA2, LoL and others. GSS is an ERC20 token on the Ethereum network and it is used within the platform to tranfer funds to other players, to bet on competitive matches and from claiming referral rewards (and more).</p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "700000",
+    "Algorithm": "N/A",
+    "ProofType": "N/A",
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "04/07/2017",
+    "TotalCoinsMined": 30769112.6191563,
+    "Twitter": "@gilgam_es",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "https://www.dimcoin.io/",
+    "GitHub": null,
+    "OnMarkets": [
+      "EtherDelta"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Finished",
+    "Description": "<p><span>Gilgam is an eSports platform allowing both players and teams to compete in popular games of the genre like DOTA2, LoL and others. </span><span>GSS is an ERC20</span><span> token on the Ethereum network and it is used within the platform to tranfer funds to other players, to bet on competitive matches and from claiming referral rewards (and more).</span></p><p><span>Following a successful presale, the Gilgam ICO will take place on the 20th of June lasting for a month or until the hardcap of 90m GGS is reached. Y</span>he first hour of the sale will be a Power Hour. At this time, tokens will be available at a rate of 750 GGS to 1 ETH. Then the rate will change to 650 GGS to 1 ETH. Every week, the rate will decrease linearly until it hits 500 GGS to 1 ETH.</p><p>The token sale will have a hard cap that, when reached, will immediately disable additional sales. The cap will be measured in Ether and set in the token sale smart contract to a value approximately equal to $6 million USD based on the ETH/USD price at the start of the token sale. 60% of the total supply will be available during the ICO, while 20% was retained for the presale, 13.3% for the founders and 6.7% for Esports ecosystem rewards.</p><p> </p>",
+    "TokenType": "ETH (ERC20)",
+    "WebsiteLink": "https://ico.gilgam.es/ico",
+    "FundingCap": "90000000 GGS",
+    "FundingTarget": "N/A",
+    "Date": 1497956400,
+    "EndDate": 1500375600,
+    "FundsRaisedList": "1,104.7872 ETH",
+    "FundsRaisedUSD": "250000",
+    "StartPrice": "0.00133333333",
+    "StartPriceCurrency": "ETH",
+    "Jurisdiction": "N/A",
+    "BlogLink": "https://blog.gilgam.es/",
+    "WhitePaperLink": "https://ico.gilgam.es/whitepaper/Gilgam.es.whitepaper.pdf"
+  },
+  "ccId": "180716"
+}

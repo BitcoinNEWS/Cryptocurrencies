@@ -1,0 +1,56 @@
+{
+  "General": {
+    "Symbol": "TFD",
+    "Name": "TE-FOOD",
+    "Description": "<p><span>TE-FOOD is a food traceability system. It&#39;s a ready product with live operation. Started in 2016, it serves more than 6000 business customers, and handles 400,000 transactions every day.</span></p><p><span>TFOOD is a asset ERC20 token built on the Ethereum network and is used as an utility token on the TE-FOOD platform.</span></p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "1000000000",
+    "Algorithm": null,
+    "ProofType": null,
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "14/09/2017",
+    "TotalCoinsMined": 500000000,
+    "Twitter": "@TE_FOOD",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": null,
+    "GitHub": null,
+    "OnMarkets": [],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Finished",
+    "Description": "<p><strong>Team</strong>:</p><ul><li><strong>Trung Dao Ha</strong>: CEO / Chairman / Co-Founder. <a href=\"https://www.linkedin.com/in/trung-dao-717b0228/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Erik Arokszallasi</strong>: CEO / Chairman / Co-Founder. <a href=\"https://www.linkedin.com/in/%C3%A1roksz%C3%A1ll%C3%A1si-erik-83880635/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Marton Ven</strong>: CMO. <a href=\"https://www.linkedin.com/in/marton-ven-09a9567a/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Gergely Koves</strong>: Project Manager. <a href=\"https://www.linkedin.com/in/gergely-k%C3%B6ves-b1200b150/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Katalin Vereczkey</strong>: Food Industry Expert. <a href=\"https://www.linkedin.com/in/katalin-vereczkey-7260432b/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Gabor Nagymajtenyi</strong>: BDO Leader, Blockchain Team. <a href=\"https://www.linkedin.com/in/gabor-nagymajtenyi/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li></ul><p> </p>",
+    "TokenType": "ETH (ERC20)",
+    "WebsiteLink": "https://ico.tefoodint.com",
+    "FundingCap": "N/A",
+    "FundingTarget": "N/A",
+    "Date": null,
+    "EndDate": null,
+    "FundsRaisedList": "19,100,000 USD",
+    "FundsRaisedUSD": "19100000",
+    "StartPrice": "0.05",
+    "StartPriceCurrency": "ETH",
+    "Jurisdiction": "Switzerland",
+    "BlogLink": "https://medium.com/@te_food",
+    "WhitePaperLink": "https://ico.tefoodint.com/te-food-white-paper.pdf"
+  },
+  "ccId": "784553"
+}

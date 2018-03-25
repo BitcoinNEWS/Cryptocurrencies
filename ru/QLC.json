@@ -1,0 +1,59 @@
+{
+  "General": {
+    "Symbol": "QLC",
+    "Name": "QLINK",
+    "Description": "<p>Qlink will use the blockchain technology to provide a decentralized mobile network, which will extend network coverage and reduce the cost of telecom infrastructures. By leveraging the blockchain technology, Qlink plans to apply digital identities to telecom assets and records the usage footprint of each asset to a distributed ledger. Furthermore, the Qlink team aims to launch applications to allow peer-to-peer sharing of assets, including Wi-Fi, mobile data access, and entreprise-to-peer SMS.</p><p>Qlink token (QLC) is an NEO-based token that will be used as the medium of exchange on the network.</p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "600000000",
+    "Algorithm": null,
+    "ProofType": null,
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "12/11/2017",
+    "TotalCoinsMined": 600000000,
+    "Twitter": "@QlinkMobi",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": null,
+    "GitHub": null,
+    "OnMarkets": [
+      "Kucoin",
+      "Gateio"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "N/A",
+    "Description": null,
+    "TokenType": null,
+    "WebsiteLink": null,
+    "FundingCap": null,
+    "FundingTarget": null,
+    "Date": null,
+    "EndDate": null,
+    "FundsRaisedList": null,
+    "FundsRaisedUSD": null,
+    "StartPrice": null,
+    "StartPriceCurrency": null,
+    "Jurisdiction": null,
+    "BlogLink": null,
+    "WhitePaperLink": null
+  },
+  "ccId": "637681"
+}

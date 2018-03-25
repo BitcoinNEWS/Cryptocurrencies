@@ -1,0 +1,58 @@
+{
+  "General": {
+    "Symbol": "DYN",
+    "Name": "Dynamic",
+    "Description": "<p>Duality Blockchain Solutions is a cryptocurrency project focused on providing enterprise-focused products based on blockchain technology. Duality Blockchain Solutions provides two public blockchains,  Dynamic and Sequence.</p><p>Dynamic is a Proof of Work cryptocurrency based on the Aragon2b algorithm. It uses p2p technology over Tor &amp; Clearnet to operate seecurely and privately.</p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "44738100",
+    "Algorithm": "Argon2",
+    "ProofType": "PoW",
+    "BlockReward": 2.9452499949838966,
+    "Explorer": null,
+    "StartDate": "05/05/2017",
+    "TotalCoinsMined": 13925526.46604116,
+    "Twitter": "@dualitychain",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "https://duality.solutions/",
+    "GitHub": null,
+    "OnMarkets": [
+      "BitTrex"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "N/A",
+    "Description": null,
+    "TokenType": null,
+    "WebsiteLink": null,
+    "FundingCap": null,
+    "FundingTarget": null,
+    "Date": null,
+    "EndDate": null,
+    "FundsRaisedList": null,
+    "FundsRaisedUSD": null,
+    "StartPrice": null,
+    "StartPriceCurrency": null,
+    "Jurisdiction": null,
+    "BlogLink": null,
+    "WhitePaperLink": null
+  },
+  "ccId": "131111"
+}

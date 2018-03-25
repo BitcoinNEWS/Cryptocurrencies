@@ -1,0 +1,61 @@
+{
+  "General": {
+    "Symbol": "IOT",
+    "Name": "IOTA",
+    "Description": "<p><span style=\"font-weight: 400;\">IOTA is an open-source distributed ledger protocol that goes &#39;beyond blockchain&#39; through its core invention of the blockless ‘Tangle’. The IOTA Tangle is a quantum-proof Directed Acyclic Graph, with no fees on transactions &amp; no fixed limit on how many transactions can be confirmed per second in the network. Instead, throughput grows in conjunction with activity in the network; the more activity, the faster the network. Unlike blockchain architecture, IOTA has no separation between users and validators; rather, validation is an intrinsic property of using the ledger, thus avoiding centralization. IOTA is initially focused on serving as the backbone of the emerging Internet-of-Things (IoT). For a more in depth look at the technical design of IOTA read their <span style=\"font-weight: 400;\"><a href=\"https://iota.org/IOTA_Whitepaper.pdf\">https://iota.org/IOTA_Whitepaper.pdf</a>. </span></span></p>",
+    "Features": "<p><strong>Micro transactions </strong></p><p><span style=\"font-weight: 400;\">For the first time ever true micro and even nano-transactions are enabled due to the unique IOTA Tangle architecture, providing developers with a brand new set of tools for their applications in both IoT and Web. This nurtures brand new business opportunities for companies that prohibitive fees has kept in the realm of the impossible until now.</span></p><p><strong>Data transfer</strong></p><p><span style=\"font-weight: 400;\">Core feature of IOTA is the ability to transfer data through the Tangle. IOTA gives you several options to do so, making it possible to establish secure and authenticated communication channels between devices. All data which is transferred through IOTA is fully authenticated and tamper-proof - making attacks impossible.</span></p><p><strong>Voting </strong></p><p><span style=\"font-weight: 400;\">Although IOTA is uniquely suited for the Internet-of-Things, the Tangle enables a variety of different use cases that involve secure data transmission, especially for eGovernance. An important part of this sector is e-Voting. The exploration into this field of use-cases has already begun by several companies and academics.</span></p><p><strong>Masked messaging</strong></p><p><span style=\"font-weight: 400;\">As the first extensible module of the IOTA core, MAM enables nodes to exchange data through the Tangle, fully authenticated and encrypted. This means that your devices can transmit valuable and sensitive data with quantum-proof security through the Tangle, ready to be analyzed later. MAM makes it possible to share data with multiple parties easily, similar to a radio, multiple parties can simply tune in on your frequency and get the broadcast data.</span></p><p><strong> Leasing anything with a Chip</strong></p><p><span style=\"font-weight: 400;\">While the whole world has adopted the ‘Sharing Economy’ in areas like driving and accommodation, IOTA enables a whole new realm where anything with a chip in it can be leased in real time. Most of our belongings stay idle for the vast majority of time that we possess ownership of it, but through IOTA a lot of these things like Appliances, Tools, Drones, eBikes etc. and resources such as computer storage, computational power, WiFi bandwidth etc. can be turned into leasing-services effortlessly.</span></p>",
+    "Technology": null,
+    "TotalCoinSupply": "2779530283",
+    "Algorithm": null,
+    "ProofType": "Tangle",
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "17/07/2016",
+    "TotalCoinsMined": "2779530283",
+    "Twitter": "@iotatoken",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": "http://slack.iota.org/",
+    "Website": "https://iota.org/",
+    "GitHub": null,
+    "OnMarkets": [
+      "OKEX",
+      "Bitfinex",
+      "Binance",
+      "Gateio"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Finished",
+    "Description": "<p>The initial coin offering (ICO) for IOTA crypto token (IOT) was in 2015. The token started being traded June 2017 by Bitfinex. The exchanged admitted to have been following the development of IOTA for the last year and has publicly supported the project.</p><p> </p>",
+    "TokenType": "N/A",
+    "WebsiteLink": null,
+    "FundingCap": "434,511 USD",
+    "FundingTarget": "434,511 USD",
+    "Date": 1448409600,
+    "EndDate": 1448409600,
+    "FundsRaisedList": "N/A",
+    "FundsRaisedUSD": "0.434511",
+    "StartPrice": "N/A",
+    "StartPriceCurrency": "N/A",
+    "Jurisdiction": "N/A",
+    "BlogLink": null,
+    "WhitePaperLink": "https://iota.org/IOTA_Whitepaper.pdf"
+  },
+  "ccId": "127356"
+}

@@ -1,0 +1,60 @@
+{
+  "General": {
+    "Symbol": "TKS",
+    "Name": "Tokes",
+    "Description": "<p>Tokes is a crypto asset issued on the Waves blockchain. The Cannabis Revolution (TM), empowered by the tokes digital currency platform, aspires to be one of the first projects in the world to combine the technological advances of the blockchain and digital tokens with the cultural shift associated with the marijuana legalization movement.</p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "50000000",
+    "Algorithm": null,
+    "ProofType": null,
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "03/12/2016",
+    "TotalCoinsMined": 50000000,
+    "Twitter": "@TokesPlatform",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "http://cannabisrevolution.us/",
+    "GitHub": null,
+    "OnMarkets": [
+      "BitTrex",
+      "Tidex",
+      "WavesDEX"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Finished",
+    "Description": "<p>ICO funds will be allocated to the procurement of the necessary licenses and facilities<br />required to operate a legitimate marijuana cultivation, dispensary, and product development<br />business within Las Vegas, Nevada. Tokes Platform will begin the process of registration and license procurement in the state of Nevada to operate as a fully legal and compliant medical marijuana establishment (MME) business. </p><p>Investments with WAVES received a 5% discount compared to the normal BTC investment method. Investors also received a 1% bonus in INCENT the loyalty program. In total just over $80k was raised.</p>",
+    "TokenType": "WAVES",
+    "WebsiteLink": "http://cannabisrevolution.us/",
+    "FundingCap": "No Cap",
+    "FundingTarget": "5,000,000 USD",
+    "Date": 1481586955,
+    "EndDate": 1484524800,
+    "FundsRaisedList": "79,019.349 WAVES; 70.3026 BTC",
+    "FundsRaisedUSD": "81099.98",
+    "StartPrice": "0.0001333",
+    "StartPriceCurrency": "BTC",
+    "Jurisdiction": "N/A",
+    "BlogLink": null,
+    "WhitePaperLink": "http://cannabisrevolution.us/CannabisRevolution_BusinessPlan_Whitepaper_v4_5.pdf"
+  },
+  "ccId": "35124"
+}

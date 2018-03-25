@@ -1,0 +1,56 @@
+{
+  "General": {
+    "Symbol": "CFT*",
+    "Name": "Credo",
+    "Description": "<p><span>Credo </span><span>is a payment system based on a financial algorithm that involves<span> </span></span><span>the participation of an independent agent in the transactions of purchase and sale of goods or<span> </span></span><span>services. The system acts as an agent between the buyer of goods and the seller, providing the<span> </span></span><span>parties with payment processing for a profitable transaction. The token allows users to participate in the network and benefit from the<span> </span></span><span>Credo<span> </span></span><span>services. The presale raised just over 100 ETH</span><span>, and</span><span><span> </span>was setup to collect development funds, collect feedback and improve the marketing design for the main launch.</span></p><p>The financial system is made on the algorithm of issue of electronic derivative financial instruments (certificates), which are a means of payment and represent the property right to claim of the owner of this certificate (buyer) to the issuer (seller).</p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": null,
+    "Algorithm": null,
+    "ProofType": null,
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "01/01/0001",
+    "TotalCoinsMined": null,
+    "Twitter": "https://twitter.com/CREDO_platform",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": null,
+    "GitHub": null,
+    "OnMarkets": [],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Ongoing",
+    "Description": "<p>Credo is a payment system based on a financial algorithm that involves the participation of an independent agent in the transactions of purchase and sale of goods or services. The system acts as an agent between the buyer of goods and the seller, providing the parties with payment processing for a profitable transaction. The token allows users to participate in the network and benefit from the Credo services. The presale raised just over 100 ETH, and was setup to collect development funds, collect feedback and improve the marketing design for the main launch.</p><p><strong>Bonus Structure:</strong></p><p><strong>Presale:</strong></p><ul><li>40%: Day 1</li><li>35%: Day 2</li><li>30%: Day 3 </li><li>25%: Day 4</li><li>20%: Day 5</li></ul><p><strong>Main ICO:</strong></p><ul><li>15%: Day 1</li><li>10%: Day 2</li><li>5%: Day 3</li><li>3%: Day 4</li><li>0%:Day 5</li></ul><p> </p><p> </p>",
+    "TokenType": "N/A",
+    "WebsiteLink": "http://credo-cf.com/",
+    "FundingCap": "N/A",
+    "FundingTarget": "5,500,000",
+    "Date": 1506902400,
+    "EndDate": 1508025600,
+    "FundsRaisedList": "Presale: 102 ETH",
+    "FundsRaisedUSD": "33000",
+    "StartPrice": "0.25",
+    "StartPriceCurrency": "ETH",
+    "Jurisdiction": "N/A",
+    "BlogLink": null,
+    "WhitePaperLink": "http://credo-cf.com/wp/b2c_eng.pdf"
+  },
+  "ccId": "241536"
+}

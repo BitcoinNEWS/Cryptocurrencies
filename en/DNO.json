@@ -1,0 +1,56 @@
+{
+  "General": {
+    "Symbol": "DNO",
+    "Name": "Denaro",
+    "Description": "<p>The Denaro platform is a multi-currency debit card platform that will leverage the Ethereum blockchain to bridge the gap between the crypto community and the traditional financial structure. The Denaro platform will feature a wallet and debit cards providing the network users with payment methods through IBAN numbers, API/SCI functions, and terminals for merchants.</p><p>The Denaro token (DNO) is an ERC-20 token that will give users several benefits, such as access to exclusive services within the platform, services discounts, reduced transactions fees, just to name a few. On the other hand, the merchants will also be benefited with a free payment terminal for high-volume transactions and reduced risk of volatility.</p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "100000000 ",
+    "Algorithm": null,
+    "ProofType": null,
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "27/01/2018",
+    "TotalCoinsMined": 11422880.1976757,
+    "Twitter": "@Denaro_io",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": null,
+    "GitHub": null,
+    "OnMarkets": [],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Ongoing",
+    "Description": "<p>The Denaro platform is<span> </span>a multi-currency debit card platform that will leverage the Ethereum blockchain to bridge the gap between the crypto community<span> </span>and the<span> </span>traditional financial structure. The Denaro platform will feature a wallet and debit cards providing the network users with payment methods through<span> </span>IBAN numbers, API/SCI functions, and terminals for merchants.</p><p>The Denaro token (DNO) is an ERC-20 token that will give users several benefits, such as access to exclusive services within the platform, services discounts, reduced transactions fees, just to name a few. On the other hand, the merchants will also be benefited with a free payment terminal for high-volume transactions and reduced risk of volatility.</p><p><strong>Team</strong>:</p><ul><li><strong>Ron Ramsey</strong>: CEO, Co-Founder.</li><li><strong>Jeremy Boker</strong>: CFO, Co-Founder.</li><li><strong>Amy Archer</strong>: Head of Legal Department.</li><li><strong>Freya Wilkins</strong>: Financial Analyst.</li><li><strong>Patrick Bradshaw</strong>: Back End Developer.</li><li><strong>Jamie Douglas</strong>: Front-End Developer.</li><li><strong>Daniel Armstrong</strong>: Writer &amp; Editor-in-Chief.</li><li><strong>Daniel Stanciu</strong>: Social Media Specialist.<span> </span></li></ul><p> </p><p>Denaro will be holding its ICO on the 9th of February, 2018. The ICO token supply represents 65% of the total token supply, so there will be a total of 65,000,000 tokens available, for 0.3333 ETH each during the offering. The ICO funding cap is 65,000,000 DNO and is expected to end on the 15th of March, 2018 or when the funding cap is reached.</p><p><strong>Token Reserve Split (35%):</strong></p><ul><li>13% Team and Development;</li><li>7% Marketing;</li><li>3% Board of Advisors;</li><li>4% Bounty;</li><li>3% Referral Commissions;</li><li>5% Reserve;</li></ul><p><span>Denaro ICO will feature a bonus program and a bounty campaign.</span></p><p><strong>Bonus Structure:</strong></p><ul><li>25% First 15 Millions DNO;</li><li>10% 15-35 Millions DNO;</li><li>5% 35-60 Millions DNO;</li></ul>",
+    "TokenType": "ETH (ERC20)",
+    "WebsiteLink": "https://denaro.io/ico/",
+    "FundingCap": "65,000,000 DNO",
+    "FundingTarget": "N/A",
+    "Date": 1518177600,
+    "EndDate": 1521115199,
+    "FundsRaisedList": "48 368 527.0838 DNO Distributed\r\n\r\n10 915 120.96663 USD",
+    "FundsRaisedUSD": "10915120.96663",
+    "StartPrice": "0.0003333",
+    "StartPriceCurrency": "ETH",
+    "Jurisdiction": "N/A",
+    "BlogLink": null,
+    "WhitePaperLink": "https://denaro.io/docs/Denaro_Whitepaper.pdf"
+  },
+  "ccId": "756639"
+}

@@ -1,0 +1,60 @@
+{
+  "General": {
+    "Symbol": "I0C",
+    "Name": "I0coin",
+    "Description": "<p>I0coin has a good combination of transaction speed and security. 90 second confirmations make for quick transactions, so you can get on with your life. Network mining power ranked in the top 5% means your coins are super secure, for your peace of mind. I \"zero\" coin. Zero premine. Zero inflation by 2018. Zero gimmicks. I0coin doesn&#39;t play games with your money.</p><p>Coin added by <a href=\"http://chopcoin.io\" target=\"_blank\">@chopcoin</a> Team</p>",
+    "Features": "<p><strong>Truly Borderless Transactions</strong></p><p>I0coin is an international digital currency available anywhere on the planet. You just need internet access to use it. It&#39;s as easy to send money to the coffee shop next door or a relative in a far away land.</p><p><strong>A Veteran Digital Currency</strong></p><p>First released in August 2011, I0coin came before most other cryptocurrencies. It has a proven track record and is here to stay. Many newer cryptocurrencies are no longer supported.</p><p><strong>Stable Service</strong></p><p>Minimal footprint and reduced memory requirements provide a stable wallet and mining platform. Continuous updates mean you will always have the latest improvements in service and security.</p><p><strong>Fully Decentralized</strong></p><p>Decentralization means there are no single points of failure, so you have minimal hiccups or service disruptions. The I0coin network is always ready for business… or fun, 24/7.</p><p><strong>Ultra Low Inflation</strong></p><p>With over 99% of its 21 million coins already in circulation, I0coin has one of the lowest inflation rates of any digital currency. Inflation will reach zero out to two decimal places by 2018.</p><p><strong>Block Chain Pruning</strong></p><p>Pruning allows users to set the size of the block chain stored locally, which frees up disk space for other uses. Thin clients also allow for minimal web hosting costs for sites using I0coin.</p><p>I0coin&#39;s specifications were chosen to provide the optimal balance across a broad spectrum of users. It&#39;s well balanced whether you&#39;re making a purchase, mining, or investing. The wallet requires only 425 MB of memory (fully synced). Its quick 90 second transaction confirmations make it excellent for making purchases, without being so fast as to sacrifice security. I0coin can be mined essentially for free since it is merge mined with Bitcoin. The maximum number of coins is permanently capped at 21 million, so you never need to worry about inflation devaluing your coins. This makes I0coin a great long term investment. Many other top coins, on the other hand, have unlimited coin supplies</p>",
+    "Technology": null,
+    "TotalCoinSupply": "21000000",
+    "Algorithm": "SHA256",
+    "ProofType": "PoW",
+    "BlockReward": 0.023437496688630845,
+    "Explorer": null,
+    "StartDate": "15/08/2011",
+    "TotalCoinsMined": 20989773.56249997,
+    "Twitter": null,
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "https://izerocoin.org/",
+    "GitHub": null,
+    "OnMarkets": [
+      "Cryptopia",
+      "CCEX",
+      "Novaexchange"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "N/A",
+    "Description": null,
+    "TokenType": null,
+    "WebsiteLink": null,
+    "FundingCap": null,
+    "FundingTarget": null,
+    "Date": null,
+    "EndDate": null,
+    "FundsRaisedList": null,
+    "FundsRaisedUSD": null,
+    "StartPrice": null,
+    "StartPriceCurrency": null,
+    "Jurisdiction": null,
+    "BlogLink": null,
+    "WhitePaperLink": null
+  },
+  "ccId": "16123"
+}

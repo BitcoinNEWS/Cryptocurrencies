@@ -1,0 +1,58 @@
+{
+  "General": {
+    "Symbol": "DT",
+    "Name": "DarkToken",
+    "Description": "<p>DarkToken aims to offer a refreshing new take on what a crypto-currency should be by detailing every aspect of the coin, from start to finish. DarkToken takes the next step in coin development by fixing it from the start. Rigorous, energy intensive mining over long periods of time, or even worse, short PoW flash-mines, are extremely detrimental to not only the environment, but the crypto community as a whole. Networks can be maintained perfectly using Proof of Stake.</p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "0",
+    "Algorithm": "NIST5",
+    "ProofType": "PoW/PoS",
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "16/09/2014",
+    "TotalCoinsMined": null,
+    "Twitter": "@DarkTokenDT",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "-",
+    "GitHub": null,
+    "OnMarkets": [
+      "Cryptsy"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "N/A",
+    "Description": null,
+    "TokenType": null,
+    "WebsiteLink": null,
+    "FundingCap": null,
+    "FundingTarget": null,
+    "Date": null,
+    "EndDate": null,
+    "FundsRaisedList": null,
+    "FundsRaisedUSD": null,
+    "StartPrice": null,
+    "StartPriceCurrency": null,
+    "Jurisdiction": null,
+    "BlogLink": null,
+    "WhitePaperLink": null
+  },
+  "ccId": "3643"
+}

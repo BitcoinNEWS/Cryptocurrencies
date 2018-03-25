@@ -1,0 +1,58 @@
+{
+  "General": {
+    "Symbol": "GAY",
+    "Name": "GayCoin",
+    "Description": "<p>GayCoin is a X11 Proof of Work/Proof of Stake hybrid cryptocurrency created for the <span>Lesbian, Gay, Bisexual, Trans and Queer community. It has a 10 billion coin supply and a 60 second block time.</span></p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "10000000000",
+    "Algorithm": "X11",
+    "ProofType": "PoW/PoS",
+    "BlockReward": 313.29707736968993,
+    "Explorer": null,
+    "StartDate": "14/09/2016",
+    "TotalCoinsMined": 5695203022.910118,
+    "Twitter": "@GayCoin",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "http://www.gaycoin.online/",
+    "GitHub": null,
+    "OnMarkets": [
+      "Cryptopia"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "N/A",
+    "Description": null,
+    "TokenType": null,
+    "WebsiteLink": null,
+    "FundingCap": null,
+    "FundingTarget": null,
+    "Date": null,
+    "EndDate": null,
+    "FundsRaisedList": null,
+    "FundsRaisedUSD": null,
+    "StartPrice": null,
+    "StartPriceCurrency": null,
+    "Jurisdiction": null,
+    "BlogLink": null,
+    "WhitePaperLink": null
+  },
+  "ccId": "28431"
+}

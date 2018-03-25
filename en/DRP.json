@@ -1,0 +1,59 @@
+{
+  "General": {
+    "Symbol": "DRP",
+    "Name": "DCORP",
+    "Description": "<p>DCORP является автономным, децентрализованным и демократическим. Организация, которая существует в блочной цепочке как серия смарт-контрактов. DCORP управляет своим собственным токеном (DRP) и эфиром. </p><p>Акционеры (владельцы токена DRP) являются коллективными владельцами DCORP и принимают решение о финансовых результатах бизнеса. Совет директоров управляет DCORP на ежедневной основе, избирается и публично известен. Все поведение в голосовании хранится на блочной цепочке и, таким образом, публикуется.</p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "8094002",
+    "Algorithm": "N/A",
+    "ProofType": "N/A",
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "22/05/2017",
+    "TotalCoinsMined": null,
+    "Twitter": "@DcorpVC",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "https://www.dcorp.it/",
+    "GitHub": null,
+    "OnMarkets": [
+      "Cryptopia",
+      "EtherDelta"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Finished",
+    "Description": "<p>D<span>CORP is autonomous, decentralized and democratic. An organization that exists on blockchain as a series of smart-contracts. DCORP manages its own token (DRP) and the Ether it holds.</span></p><p><span>The shareholders (owners of DRP token) are the collective owners of DCORP and decide on the business financials. The Board of Directors manage DCORP on a day-to-day basis, are elected and publicly known. All voting behavior is stored on the blockchain and thus made public.</span></p><p>On the first of June, the DRP ICO was launched. During the course of the ICO, 16,907 ETH were gathered. The DCORP ICO featured bonuses for early investors.</p><p><span>Bonuses:</span></p><p><span><img style=\"width: 355px; height: 181px;\" src=\"/media/1383823/drp_bonus.png?width=355&amp;height=181\" alt=\"\" data-id=\"188520\"></span></p><p> </p>",
+    "TokenType": "ETH (ERC20)",
+    "WebsiteLink": "https://www.dcorp.it/crowdsale",
+    "FundingCap": "N/A",
+    "FundingTarget": "500,000 EUR",
+    "Date": 1496318400,
+    "EndDate": 1498737600,
+    "FundsRaisedList": "16,907 ETH",
+    "FundsRaisedUSD": "5048937",
+    "StartPrice": "0.0015",
+    "StartPriceCurrency": "ETH",
+    "Jurisdiction": "N/A",
+    "BlogLink": null,
+    "WhitePaperLink": "https://github.com/frankbonnet/DCORP-Whitepaper/blob/master/whitepaper%20v0.3.2_EN-revised.pdf"
+  },
+  "ccId": "188523"
+}

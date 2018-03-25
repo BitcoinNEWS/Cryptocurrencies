@@ -1,0 +1,62 @@
+{
+  "General": {
+    "Symbol": "MLN",
+    "Name": "Melon",
+    "Description": "<p><span>The Melon protocol is a blockchain protocol for digital asset management on the Ethereum platform. It enables participants to set up, manage and invest in digital asset management strategies in an open, competitive and decentralised manner.</span></p><p><span>The usage token is called Melon token MLN and is a core component of the Melon project. It is designed to enjoy a “usage right” to the Melon protocol. To use the Melon protocol one has to use MLN token. This “usage fee” will most likely be imposed on trading. </span></p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "749400",
+    "Algorithm": null,
+    "ProofType": null,
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "16/02/2017",
+    "TotalCoinsMined": "749400",
+    "Twitter": "@melonport",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": " https://melonport.com/",
+    "GitHub": null,
+    "OnMarkets": [
+      "Kraken",
+      "Liqui",
+      "LiveCoin",
+      "BitTrex",
+      "EtherDelta"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Finished",
+    "Description": "<p><span data-sheets-value=\"{&quot;1&quot;:2,&quot;2&quot;:&quot;https://etherscan.io/address/0xBEB9eF514a379B997e0798FDcC901Ee474B6D9A1&quot;}\" data-sheets-userformat=\"{&quot;2&quot;:293352,&quot;6&quot;:{&quot;1&quot;:[{&quot;1&quot;:2,&quot;2&quot;:0,&quot;5&quot;:{&quot;1&quot;:2,&quot;2&quot;:0}},{&quot;1&quot;:0,&quot;2&quot;:0,&quot;3&quot;:3},{&quot;1&quot;:1,&quot;2&quot;:0,&quot;4&quot;:1}]},&quot;8&quot;:{&quot;1&quot;:[{&quot;1&quot;:2,&quot;2&quot;:0,&quot;5&quot;:{&quot;1&quot;:2,&quot;2&quot;:0}},{&quot;1&quot;:0,&quot;2&quot;:0,&quot;3&quot;:3},{&quot;1&quot;:1,&quot;2&quot;:0,&quot;4&quot;:1}]},&quot;9&quot;:0,&quot;10&quot;:0,&quot;11&quot;:3,&quot;14&quot;:{&quot;1&quot;:2,&quot;2&quot;:1136076},&quot;15&quot;:&quot;Calibri&quot;,&quot;16&quot;:11,&quot;17&quot;:1,&quot;21&quot;:1}\"><span>The MLN token is designed to enjoy a “usage right” to the Melon protocol. To use the Melon protocol one has to use MLN token. </span></span><span>A maximum of 1,250,000 MLN will be created before the final version of the Melon protocol is deployed to the live network. Following the live deployment, a fixed amount of new token will be created periodically and be distributed towards the most widely used Modules of the Melon protocol. This incentivises maintenance and development of the Melon protocol even after its final version is deployed to the live network.</span></p><p>The cap of 227,000 ETH was raised in just 10 minutes, the 500,000 tokens had a lockup period of 4 weeks until they could be traded. 100,000 tradable Melon tokens will be created for Melonport to be used at the company’s discretion. 150,000 non-tradable Melon tokens will be created for Melonport Founders, Advisors &amp; Corporate Partners.</p><p>500,000 tradable Melon tokens will be created at a future date expected to be in Q1-Q2 2018.</p><p><a href=\"https://etherscan.io/token/Melon\" target=\"_blank\" title=\"Ethscan\">Ethscan</a></p><p> </p>",
+    "TokenType": "ETH (ERC20)",
+    "WebsiteLink": "https://melonport.com/",
+    "FundingCap": "227,000 ETH",
+    "FundingTarget": "N/A",
+    "Date": 1487156400,
+    "EndDate": 1487157000,
+    "FundsRaisedList": "227,000 ETH",
+    "FundsRaisedUSD": "2900000",
+    "StartPrice": "6",
+    "StartPriceCurrency": "USD",
+    "Jurisdiction": "Switzerland",
+    "BlogLink": "https://medium.com/melonport-blog",
+    "WhitePaperLink": "https://melonport.com/melonprotocol.pdf"
+  },
+  "ccId": "45253"
+}

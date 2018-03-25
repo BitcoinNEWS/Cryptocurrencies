@@ -1,0 +1,56 @@
+{
+  "General": {
+    "Symbol": "TPAY*",
+    "Name": "TokenPay",
+    "Description": "<p>TokenPay is a blockchain project that incorporates Bitcoin cryptographic technology with advanced security and privacy features. Additionally, TokenPay is building out a platform that combines banking and a closed-end private exchange. This enables wider adoption of the coin via consumer and merchant services. Developing a TokenPay coin and the infrastructure to support its everyday seamless use is a crucial step.</p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "25000000",
+    "Algorithm": "POS 3.0",
+    "ProofType": "PoS",
+    "BlockReward": 1.9361707329796847,
+    "Explorer": null,
+    "StartDate": "14/11/2017",
+    "TotalCoinsMined": 18996791.98382821,
+    "Twitter": "@tokenpay",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": null,
+    "GitHub": null,
+    "OnMarkets": [],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Finished",
+    "Description": "<p>PLATFORM/PROJECT/IDEA_DESCRIPTION</p><p>TOKEN_DESCRIPTION</p><p><strong>Team</strong>:</p><ul><li>Derek Capo: CEO <a href=\"https://www.linkedin.com/in/derekcapo/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li>Carlos Salazar: CTO <a href=\"https://www.linkedin.com/in/carlossalazarv/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li>Joseph Pacetti: CFO <a href=\"https://www.linkedin.com/in/joseph-pacetti-cpa-a038114/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li></ul><p>TokenPay held it&#39;s ICO from December 7th, 2017 to January 17th, 2018. The ICO token supply represents 57% of the total token supply, so there will be a total of 14 250 000 tokens available. The ICO funding cap is 2500 btc and ended on January 17th, 2018.</p><p><strong>Token Reserve Split (43%):</strong></p><ul><li>25% Block rewards;</li><li>10% Founders 1 year lock-up period;</li><li>5% Team &amp; developers 1 year lock-up period;</li><li>3% Marketing, Bounties, advisors</li></ul><p><span>TokenPay&#39;s ICO campaign will feature Bonusses and bounties, and the token will not be mineable.</span></p><p><strong>Bonus Structure:</strong></p><ul><li><img style=\"width: 500px; height: 191.96428571428572px;\" src=\"/media/27010581/bonus-tpay.png?width=500&amp;height=191.96428571428572\" alt=\"\" data-id=\"745867\"></li></ul>",
+    "TokenType": "N/A",
+    "WebsiteLink": "https://www.tokenpay.com/",
+    "FundingCap": "2,500 BTC",
+    "FundingTarget": "N/A",
+    "Date": 1512604800,
+    "EndDate": 1516147200,
+    "FundsRaisedList": "2123.783 BTC",
+    "FundsRaisedUSD": "16119490.2",
+    "StartPrice": "N/A",
+    "StartPriceCurrency": "BTC",
+    "Jurisdiction": "British Virgin Islands",
+    "BlogLink": "http://www.medium.com/tokenpay",
+    "WhitePaperLink": "https://www.tokenpay.com/whitepaper.pdf"
+  },
+  "ccId": "745017"
+}

@@ -1,0 +1,58 @@
+{
+  "General": {
+    "Symbol": "BAN",
+    "Name": "Babes and Nerds",
+    "Description": "<p>Babes &amp; Nerds is a used play as a babe or as a nerd in the BAN platform, and get paid or pay for your personal cam BAN shows. As a babe you can show yourself (like a camgirl), choose your location (only if you want), choose price and lenght of your show, be paid in BAN. As a nerd you can write to girls, watch shows while you&#39;re at your pc or smartphone, pay shows in BAN. Both can be anonymous under request. The BAN cryptocurrency itself is a PoS coin.</p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "150000000",
+    "Algorithm": "PoS",
+    "ProofType": null,
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "27/09/2016",
+    "TotalCoinsMined": null,
+    "Twitter": "@BabesAndNerds",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "-",
+    "GitHub": null,
+    "OnMarkets": [
+      "Yobit"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "N/A",
+    "Description": null,
+    "TokenType": null,
+    "WebsiteLink": null,
+    "FundingCap": null,
+    "FundingTarget": null,
+    "Date": null,
+    "EndDate": null,
+    "FundsRaisedList": null,
+    "FundsRaisedUSD": null,
+    "StartPrice": null,
+    "StartPriceCurrency": null,
+    "Jurisdiction": null,
+    "BlogLink": null,
+    "WhitePaperLink": null
+  },
+  "ccId": "43247"
+}

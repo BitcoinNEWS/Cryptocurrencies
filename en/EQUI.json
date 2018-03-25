@@ -1,0 +1,56 @@
+{
+  "General": {
+    "Symbol": "EQUI",
+    "Name": "EQUI Token",
+    "Description": "<p>EQUI’s vision is to bring venture capital into the modern technological era. It will allow individuals to combine forces and participate in an investment sector that has been traditionally reserved for institutions and ultra high net worth individuals.</p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "250000000",
+    "Algorithm": null,
+    "ProofType": null,
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "01/03/2018",
+    "TotalCoinsMined": null,
+    "Twitter": "@equi_capital",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": null,
+    "GitHub": null,
+    "OnMarkets": [],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Ongoing",
+    "Description": "<div class=\"freebirdFormviewerViewItemsItemItem freebirdFormviewerViewItemsTextTextItem\" data-item-id=\"1688926117\"><div class=\"freebirdFormviewerViewItemsTextItemWrapper\"><div class=\"freebirdFormviewerViewItemsTextShortText freebirdFormviewerViewItemsTextDisabledText freebirdThemedInput\">EQUI’s vision is to bring venture capital into the modern technological era. It will allow individuals to combine forces and participate in an investment sector that has been traditionally reserved for institutions and ultra high net worth individuals.</div><div class=\"freebirdFormviewerViewItemsTextShortText freebirdFormviewerViewItemsTextDisabledText freebirdThemedInput\"></div><div class=\"freebirdFormviewerViewItemsTextShortText freebirdFormviewerViewItemsTextDisabledText freebirdThemedInput\"><strong>Team</strong>:</div></div></div><ul><li><strong>Doug Barrowman</strong><span>: Lead Founder;</span></li><li><span><strong>Baroness Mone Of Mayfair, OBE</strong><span>: Co-Founder;</span></span></li><li><span><span><strong>Tim Eve</strong>: Investment Director;</span></span></li><li><strong>Mark Lyons</strong>: Investment Director;</li><li><strong>Andrei Karpushonak</strong><span>: Head of Development;</span></li><li><span><strong>Nerys Roberts</strong><span>: Marketing Director;</span></span></li><li><strong>Nicholas Graham</strong><span>: Head of Customer Services;</span></li><li><span><strong>Sim Singh-Landa</strong><span>: Project Manager;</span></span></li><li><strong>Anthony Page</strong><span>: Trustee;</span></li><li><span><strong>Mark Pearson</strong>: Advisor;</span></li><li><span><strong>John Caldwell</strong>: Advisor;</span></li><li><span><strong>Jonas Karlberg</strong>: Advisor;</span></li></ul><p>EQUI will be holding its ICO on the 1st of March, 2018. The ICO token supply represents 65% of the total token supply and the tokens will be available for $0.50 each at the offering. The ICO is expected to end on the 31th of March, 2018.</p><p><strong>Token Reserve Split (35%):</strong></p><ul><li>12% Founders;</li><li>15% Team;</li><li>06% Advisory Board;</li><li><span>02</span><span>% Bounty Rewards;</span></li></ul><p>EQUI investors will participate in the EQUIcredits loyalty scheme. EQUIcredits awarded will be converted to EQUItokens at the end of every year. The generation of EQUIcredits derives from a 5% annual increase in the overall EQUItoken supply.&#39;</p>",
+    "TokenType": "ETH (ERC20)",
+    "WebsiteLink": "https://equi.capital",
+    "FundingCap": "N/A",
+    "FundingTarget": "N/A",
+    "Date": 1521072000,
+    "EndDate": 1523491200,
+    "FundsRaisedList": "N/A",
+    "FundsRaisedUSD": "N/A",
+    "StartPrice": "0.5",
+    "StartPriceCurrency": "USD",
+    "Jurisdiction": "UK",
+    "BlogLink": "https://medium.com/equi-capital",
+    "WhitePaperLink": "https://equi.capital/whitepaper/EQUI_Whitepaper_050218.pdf"
+  },
+  "ccId": "753333"
+}

@@ -1,0 +1,61 @@
+{
+  "General": {
+    "Symbol": "XCO",
+    "Name": "XCoin",
+    "Description": "<p>XCO is an ultra hybrid crypto currencies that was compiled from best altcoins, and bitcoin, allowing the ultra fast transactions to anyone anywhere in the world. Allowing you full control over your own balances.<br />X-Coin info:</p><p>Ticker: XCO<br />Release Date: February 27, 2015<br />Release Location: Bitcointalk.org <br />Release Type: Public, Zero Premine, No IPO, No ICO offerings<br />Released as Sha256d POW at block 1<br />Changed to POS on March 15th, 2015 at block 30001<br />New Block Time: Instant, every transaction creates a new block.<br />Minimum transaction fee: 0.01 XCO – TX Fees are paid to staking blocks.<br />Transactions require 10 confirmations to mature<br />P2P port: 14641<br />RPC port: 14642</p><p><br />X-Coin POS Stage Specs:</p><p>Minimum staking amount: 1000 XCO<br />Minimum Time to begin Stake: 8 Hours<br />Maximum Time to end of Stake: 24 Hours<br />Staking Rewards: Amount Range from .01 to 50 XCO based on staked amount<br />Max Mined: 50.00 XCO based on optimal block size of: 12500.01 XCO<br />Staked Blocks Maturity Rate: 110 Confirmations to mature<br />Decreasing Inflation Rate: 90% inflation year one, Then will decrease 12.5% each year (Example 77.5% year two, 65% year three, 52.5 % year four)</p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "0",
+    "Algorithm": "SHA256",
+    "ProofType": "PoW/PoS",
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "26/02/2015",
+    "TotalCoinsMined": 19945576,
+    "Twitter": null,
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "http://x-coin.info/",
+    "GitHub": null,
+    "OnMarkets": [
+      "CCEX",
+      "Yobit",
+      "Cryptopia",
+      "BitTrex"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "N/A",
+    "Description": null,
+    "TokenType": null,
+    "WebsiteLink": null,
+    "FundingCap": null,
+    "FundingTarget": null,
+    "Date": null,
+    "EndDate": null,
+    "FundsRaisedList": null,
+    "FundsRaisedUSD": null,
+    "StartPrice": null,
+    "StartPriceCurrency": null,
+    "Jurisdiction": null,
+    "BlogLink": null,
+    "WhitePaperLink": null
+  },
+  "ccId": "5408"
+}

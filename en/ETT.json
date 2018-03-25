@@ -1,0 +1,61 @@
+{
+  "General": {
+    "Symbol": "ETT",
+    "Name": "EncryptoTel",
+    "Description": "<p><span>EncryptoTel is a blockchain-based telecommunications project that</span><span> focuses on privacy-centric telecommunication services. </span><span>The EncryptoTel Token (ETT) is an asset issued on the Waves blockchain and <span>acts as the payment currency for the services provided by EncryptoTel, awarding customers with additional discounts.</span></span></p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "77663987",
+    "Algorithm": null,
+    "ProofType": null,
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "24/04/2017",
+    "TotalCoinsMined": 77663987,
+    "Twitter": "@encryptotel",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "https://encryptotel.com/",
+    "GitHub": null,
+    "OnMarkets": [
+      "CCEX",
+      "Tidex",
+      "Cryptopia",
+      "WavesDEX"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Finished",
+    "Description": "<p>Encrypto Telecom offers radical new solutions for communication, contributing extensively to the ongoing global debate around privacy and civil liberties. Encrypted communication is the logical future for all traditional telecommunications.</p><p><span style=\"text-decoration: underline;\">ICO token allocation</span></p><ul><li>70% sold to ICO investors</li><li>20% Team and furture employees</li><li>10% Fund for call-mining rewards</li></ul><p><span style=\"text-decoration: underline;\">Team</span></p><ul><li>Roman Nekrasov - CEO and co-founder</li><li>Aleksey Kuznetsov - CTO and co-founder</li><li>Igor Bityutskih - CIO and co-founder</li></ul><p><span style=\"text-decoration: underline;\">Escrow</span></p><ul><li>Sasha Ivanov - CEO and Founder of Waves Platform</li><li>Dmitry Meshkov - PhD, IOHK.io researcher</li></ul>",
+    "TokenType": "WAVES",
+    "WebsiteLink": "http://ico.encryptotel.com/",
+    "FundingCap": "3,000,000 USD",
+    "FundingTarget": "N/A",
+    "Date": 1493035200,
+    "EndDate": 1496232000,
+    "FundsRaisedList": "851.84 BTC; 3,742.16 ETH; 2,071,053.30 WAVES; 5,944.01 ETC",
+    "FundsRaisedUSD": "4426211",
+    "StartPrice": "0.000047",
+    "StartPriceCurrency": "BTC",
+    "Jurisdiction": "N/A",
+    "BlogLink": "https://medium.com/@encryptotel",
+    "WhitePaperLink": "http://ico.encryptotel.com/assets/pdf/EncryptoTel_WP_v1.pdf"
+  },
+  "ccId": "62529"
+}

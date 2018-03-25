@@ -1,0 +1,58 @@
+{
+  "General": {
+    "Symbol": "ROUND",
+    "Name": "RoundCoin",
+    "Description": "<p><span>Round is a project for a decentralized eSports gaming platform. The platform allows its participants or a group of participants to compete between each other for money in such popular online games as League of Legends, Dota 2 or Counter-Strike, etc. Based on Ethereum, the platform completely eliminates the dependence on third parties in determining the winner and paying the award in cybersports.  </span><span>RoundCoin is used to bet on eSports matches.</span></p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "1000000000",
+    "Algorithm": null,
+    "ProofType": null,
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "21/10/2016",
+    "TotalCoinsMined": 850000000,
+    "Twitter": "http://roundcoin.org/",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "-",
+    "GitHub": null,
+    "OnMarkets": [
+      "Liqui"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "N/A",
+    "Description": null,
+    "TokenType": null,
+    "WebsiteLink": null,
+    "FundingCap": null,
+    "FundingTarget": null,
+    "Date": null,
+    "EndDate": null,
+    "FundsRaisedList": null,
+    "FundsRaisedUSD": null,
+    "StartPrice": null,
+    "StartPriceCurrency": null,
+    "Jurisdiction": null,
+    "BlogLink": null,
+    "WhitePaperLink": null
+  },
+  "ccId": "43604"
+}

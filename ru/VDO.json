@@ -1,0 +1,59 @@
+{
+  "General": {
+    "Symbol": "VDO",
+    "Name": "VidioCoin",
+    "Description": "<p>VDO is a new video sharing website based on the founding principle of Bitcoin, a new decentralized monetization protocol and video sharing website. One of the most prominent points surrounding the project is the sharing of rewards with video creators and users. Vidio is designed to give users an alternative platform to upload and distribute content across the Internet. Vidio specializes in video platforms and video usability. Vidio will also be built around the Vidio crypto currency. One of the most important features of the service however is that it is completely advertisement free. Instead of gaining outside advertisement revenue intrinsic revenue is provided to all users through decentralized monetization protocol for videos creators and users.</p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "0",
+    "Algorithm": "X11",
+    "ProofType": "PoW/PoS",
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "12/09/2014",
+    "TotalCoinsMined": null,
+    "Twitter": "@vidioshare",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "http://www.vidioshare.me/",
+    "GitHub": null,
+    "OnMarkets": [
+      "BitTrex",
+      "Cryptsy"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "N/A",
+    "Description": null,
+    "TokenType": null,
+    "WebsiteLink": null,
+    "FundingCap": null,
+    "FundingTarget": null,
+    "Date": null,
+    "EndDate": null,
+    "FundsRaisedList": null,
+    "FundsRaisedUSD": null,
+    "StartPrice": null,
+    "StartPriceCurrency": null,
+    "Jurisdiction": null,
+    "BlogLink": null,
+    "WhitePaperLink": null
+  },
+  "ccId": "5014"
+}

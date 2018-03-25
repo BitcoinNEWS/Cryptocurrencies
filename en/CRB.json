@@ -1,0 +1,60 @@
+{
+  "General": {
+    "Symbol": "CRB",
+    "Name": "Creditbit ",
+    "Description": "<p>Creditbit is an ERC20 token.</p>",
+    "Features": "<p><strong>Open Source</strong></p><p>Creditbit is an open source software project released under the MIT/X11 license which gives you the power to run, modify, and copy the software and to distribute, at your option, modified copies of the software. The software is released in a transparent process that allows for independent verification of binaries and their corresponding source code.</p><p><strong>Decentralized</strong></p><p>There are no borders, no conversion fees, no delays, no centralized control. Every machine that mines creditbit and processes transactions makes up a part of the network, and the machines work together. That means that one central authority can’t tinker with monetary policy and cause a meltdown – or simply decide to take people’s creditbits away from them.</p><p><strong>Easy</strong></p><p>Conventional banking is not available to 5 billion person, and it is a hassle for the other 2 billions, they make you jump through hoops simply to open a bank account. Setting up merchant accounts for payment is another Kafkaesque task, beset by bureaucracy. However, you can set up a creditbit address in seconds, no questions asked, and with no fees payable.</p><p><strong>Free &amp; Private</strong></p><p>There are no clearing company or any organization behind creditbit this means no fees. Sending transactions is free.</p><p>Your personal informations are safe. No need to expose your information when generating addresses or when sending/receiving transactions.</p><p><strong>Community</strong></p><p>Creditbit has an open community, anyone can join and participate and build on the technology without the need of any permission, you also can join the developer team or pull requests directly on the main repos on Github.</p><p><strong>Staking</strong></p><p>Creditbit use something called staking, if you own coins you can earn up to 8% annaully extra by participating in the staking process which is just leaving your wallet open to process transactions.</p><p><strong>Fast &amp; Scalable</strong></p><p>Creditbit is 10 times faster and can handle 10 times more transactions than Bitcoin, Creditbit is enviremont friendly, it doesn&#39;t waste as much resources as bitcoin does, and it is ready for scaling if rapid growth happens.</p><p><strong>Development &amp; Innovation</strong></p><p>Developers are always working on ways to improve Creditbit, projects that boost adoption and give users an easy and excellent experience are being ported and updated all the time, but most importantly they are open-source and available for public for review.</p>",
+    "Technology": null,
+    "TotalCoinSupply": "16504333",
+    "Algorithm": null,
+    "ProofType": null,
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "04/11/2015",
+    "TotalCoinsMined": null,
+    "Twitter": "@credit_2",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": null,
+    "GitHub": null,
+    "OnMarkets": [
+      "TradeSatoshi",
+      "LiveCoin",
+      "BitTrex"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "N/A",
+    "Description": null,
+    "TokenType": null,
+    "WebsiteLink": null,
+    "FundingCap": null,
+    "FundingTarget": null,
+    "Date": null,
+    "EndDate": null,
+    "FundsRaisedList": null,
+    "FundsRaisedUSD": null,
+    "StartPrice": null,
+    "StartPriceCurrency": null,
+    "Jurisdiction": null,
+    "BlogLink": null,
+    "WhitePaperLink": null
+  },
+  "ccId": "17547"
+}

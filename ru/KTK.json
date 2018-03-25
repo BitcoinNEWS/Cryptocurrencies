@@ -1,0 +1,60 @@
+{
+  "General": {
+    "Symbol": "KTK",
+    "Name": "KryptCoin",
+    "Description": "<p>KryptKoin (KTK) is a scrypt based PoW PoS hybird altcoin with an initial distribution of 17 million coins. The transaction fee is 0.01 KTK, block time is 30 seconds and the PoS rate is 7% annually.</p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "17000000",
+    "Algorithm": "Scrypt",
+    "ProofType": "PoS",
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "21/05/2014",
+    "TotalCoinsMined": null,
+    "Twitter": "@KryptKoin",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "http://kryptkoin.com/",
+    "GitHub": null,
+    "OnMarkets": [
+      "Yobit",
+      "CCEX",
+      "BitTrex"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "N/A",
+    "Description": null,
+    "TokenType": null,
+    "WebsiteLink": null,
+    "FundingCap": null,
+    "FundingTarget": null,
+    "Date": null,
+    "EndDate": null,
+    "FundsRaisedList": null,
+    "FundsRaisedUSD": null,
+    "StartPrice": null,
+    "StartPriceCurrency": null,
+    "Jurisdiction": null,
+    "BlogLink": null,
+    "WhitePaperLink": null
+  },
+  "ccId": "5311"
+}

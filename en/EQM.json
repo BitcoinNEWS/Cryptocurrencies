@@ -1,0 +1,60 @@
+{
+  "General": {
+    "Symbol": "EQM",
+    "Name": "Equilibrium Coin",
+    "Description": "<p>Equilibrium COIN - EQM - is an innovaticve crypto currency using SHA-256d. The main idea behind EQM is to balance the Proof of Work and the Proof of Stake to obtain network security and reduce hoarding. This is done dynaimcally on a block time of 80 seconds.</p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "0",
+    "Algorithm": "SHA256",
+    "ProofType": "PoW/PoS",
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "18/05/2015",
+    "TotalCoinsMined": null,
+    "Twitter": "@EquibriumCoin",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "https://bitcointalk.org/index.php?topic=1064310",
+    "GitHub": null,
+    "OnMarkets": [
+      "Yobit",
+      "CCEX",
+      "BitTrex"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "N/A",
+    "Description": null,
+    "TokenType": null,
+    "WebsiteLink": null,
+    "FundingCap": null,
+    "FundingTarget": null,
+    "Date": null,
+    "EndDate": null,
+    "FundsRaisedList": null,
+    "FundsRaisedUSD": null,
+    "StartPrice": null,
+    "StartPriceCurrency": null,
+    "Jurisdiction": null,
+    "BlogLink": null,
+    "WhitePaperLink": null
+  },
+  "ccId": "6093"
+}

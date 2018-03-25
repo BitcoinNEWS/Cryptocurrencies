@@ -1,0 +1,60 @@
+{
+  "General": {
+    "Symbol": "BYC",
+    "Name": "ByteCent",
+    "Description": "<p><span class=\"byline\">There have been hundreds of digital currencies that have launched worldwide, and more than ninety-eight percent of the digital currencies launched have failed for one reason or another. The Bytecent project was conceived to bring sanity back to an industry that has drifted away from the core principles set forth with the original Bitcoin project.</span></p><p>Bytecent is not just another digital currency in a sea of many; it is a philosophy born out of necessity. The goal of this project is to reinvent digital currencies from the manner that wallets are distributed and installed, to the method that coins are earned and spent. Bytecent is the first user-friendly digital currency designed from the ground up to be as easy as sending an email. If you can point and click a mouse, you can use Bytecent.</p><p><span><span>Bytecent is the first user-friendly digital currency designed from the ground up to be as easy as sending an email. If you can point and click a mouse, you can use Bytecent. Unlike with other digital currencies, Bytecent does not require any special hardware or configurations to mine. Simply download the software, install it, and begin mining today! \"Mining\" is lingo for discovering new Bytecent, similar to panning for gold. In actuality, mining is simply the process used to verify Bytecent transactions on the network.There are approximately 1440 coins generated per day, so finding new Bytecent can take a few hours or a few days depending on the speed of your computer. Mining Bytecent is fun and allows anyone with no mining experience or technical knowhow to begin mining immediately! Similar to conventional currencies, Bytecent is a currency that can be used to buy goods and services. You can offer your goods or services in return for payment in Bytecent.</span></span></p>",
+    "Features": "<p><strong>No Personal Information Required</strong> Unlike with credit cards and other forms of electronic payments, Bytecent does not require you to input personal information. Risk of privacy intrusion and ID theft is completely eliminated with Bytecent. Furthermore, compared to bank transactions, all you need to complete a transaction is the free Bytecent wallet and a unique Bytecent address.</p><p><strong>No Credit Checks</strong> Bytecent eliminates the need for credit checks and lengthy credit applications. Whether the end-user has excellent credit, bad credit or no credit, anyone can use Bytecent. You will never be denied or restricted from using Bytecent.</p><p>I<strong>mmediate Transactions</strong> Money transfer services and bank wire transfers can be costly, and transaction times can vary from a few minutes to a few days. Bytecent solves this problem by allowing anyone to send funds quickly to any person worldwide, without the hassle of dealing with banks or money transfer services. The average Bytecent transaction is completed within 60 seconds or less!</p><p><strong>No Transaction Limitations</strong> Whether you are sending 1 Bytecent or 100000 Bytecent, the amount you are sending does not matter. There are no limitations on the amount of Bytecent you can send at one time, nor are there any daily or monthly transaction limits. You have the freedom to conduct as many transactions as you desire.</p><p><strong>Unauthorized Transaction Prevention</strong> With Bytecent, you do not need to be concerned with criminals gaining access to your Bytecent address, and going on a shopping spree at your expense. The \"sender\" initiates all transactions, and transactions cannot be performed remotely by a 3rd party. Someone will need to gain access to your computer or mobile device to access your Bytecent, and even then it will be virtually impossible if you password protect your wallet.</p>",
+    "Technology": "<p><strong>Proof of Bytecent</strong> is an innovative earning system that employs captcha technology to limit network abuses while keeping the earning process tangible. POB requires workers to enter a human readable captcha code every sixty minutes to maintain the earning process without interruption. POB time can be extended without entering the captcha code by storing x amount of coins in the local wallet. For example, If 25 Bytecent are required to extend POB time for one hour, a worker will need a total of 575 Bytecent stored in his/her local wallet to extend POB time for a total of 24 hours. Bytecent utilized for POB can be used anytime and are not locked from being spent like with Proof of Stake coins. The number of coins required to extend POB time is based on numerous factors including current price, total volume, and demand.</p><p>1.POB renders botnets ineffective, while dramatically reducing the effectiveness of mining farms.</p><p>2.POB generates demand for Bytecent while keeping the available Bytecent in circulation low.</p><p>3.Workers are rewarded by storing more Bytecent in their local wallets.</p><p>4.Sell pressure from workers and merchant dumping is significantly reduced.</p><p>5.Fewer Bytecent are stored on exchanges and other centralized platforms.</p>",
+    "TotalCoinSupply": "33000000",
+    "Algorithm": null,
+    "ProofType": "PoW",
+    "BlockReward": 1,
+    "Explorer": null,
+    "StartDate": "01/11/2014",
+    "TotalCoinsMined": 2052911.33213393,
+    "Twitter": "@Bytecent_BYC",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "http://bytecent.com/",
+    "GitHub": null,
+    "OnMarkets": [
+      "BitTrex",
+      "CCEX",
+      "Cryptsy"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "N/A",
+    "Description": null,
+    "TokenType": null,
+    "WebsiteLink": null,
+    "FundingCap": null,
+    "FundingTarget": null,
+    "Date": null,
+    "EndDate": null,
+    "FundsRaisedList": null,
+    "FundsRaisedUSD": null,
+    "StartPrice": null,
+    "StartPriceCurrency": null,
+    "Jurisdiction": null,
+    "BlogLink": null,
+    "WhitePaperLink": null
+  },
+  "ccId": "5308"
+}

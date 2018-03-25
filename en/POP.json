@@ -1,0 +1,61 @@
+{
+  "General": {
+    "Symbol": "POP",
+    "Name": "PopularCoin",
+    "Description": "<p>PopularCoin is a PoW cryptocurrency based on the Scrypt algorithm.</p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "4999999999",
+    "Algorithm": "Scrypt",
+    "ProofType": "PoW",
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "02/02/2014",
+    "TotalCoinsMined": 3429785591.050075,
+    "Twitter": "@PopularCoin",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": null,
+    "GitHub": null,
+    "OnMarkets": [
+      "Novaexchange",
+      "Cryptopia",
+      "TradeSatoshi",
+      "Cryptsy"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "N/A",
+    "Description": null,
+    "TokenType": null,
+    "WebsiteLink": null,
+    "FundingCap": null,
+    "FundingTarget": null,
+    "Date": null,
+    "EndDate": null,
+    "FundsRaisedList": null,
+    "FundsRaisedUSD": null,
+    "StartPrice": null,
+    "StartPriceCurrency": null,
+    "Jurisdiction": null,
+    "BlogLink": null,
+    "WhitePaperLink": null
+  },
+  "ccId": "586409"
+}

@@ -1,0 +1,58 @@
+{
+  "General": {
+    "Symbol": "EBC",
+    "Name": "EBCoin",
+    "Description": "<p>EBCoin is a wallet application that focuses on <span>eliminating the hassle and high fees associated with tax refunds for international travelers and merchants alike.  EBCoin allows instant tax refunds, without having to wait in long lines at the airport or needing to hold on to paper receipts. Travelers will get 100% of their refund in EBC token, en ERC20 token based on the Ethereum blockchain, which will be instantly redeemable for additional duty-free purchases, or can be exchanged for their preffered currency at numerous ATMs in all major airports.</span></p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "1500000000",
+    "Algorithm": null,
+    "ProofType": null,
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "16/01/2018",
+    "TotalCoinsMined": null,
+    "Twitter": "@EBCoinGlobal",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": null,
+    "GitHub": null,
+    "OnMarkets": [
+      "Novaexchange"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Ongoing",
+    "Description": "<p><span>EBCoin is a wallet application that focuses on </span><span>eliminating the hassle and high fees associated with tax refunds for international travelers and merchants alike.  EBCoin allows instant tax refunds, without having to wait in long lines at the airport or needing to hold on to paper receipts. Travelers will get 100% of their refund in EBC token, en ERC20 token based on the Ethereum blockchain, which will be instantly redeemable for additional duty-free purchases, or can be exchanged for their preffered currency at numerous ATMs in all major airports.</span></p><p> <strong>Team</strong>:</p><ul><li><strong>Jason J. Kim:</strong> CEO <a href=\"https://www.linkedin.com/in/jason-j-kim-aa677359\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Julius S. Han:</strong> COO <a href=\"https://www.linkedin.com/in/julius-seogkyeong-han-93bb9172/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Dustin H. Kim:</strong> CTO <a href=\"https://www.linkedin.com/in/dustin-kim-161984153\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Peter King:</strong> CMO <a href=\"https://www.linkedin.com/in/peter-king-464b02151/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li></ul><p>The EBCoin ICO started on the 16th of January and will last until the 13th of February, 2018. The ICO token allocation represents 50% of the total supply and will be available at a 0.00004123711 ETH starting price. The ICO funding cap is set at 750,000,000 EBC.</p><p><strong>Token Reserve Split (50%):</strong></p><ul><li>18% for Team,</li><li>10% for Reserve,</li><li>7% for Partners &amp; Community,</li><li>15% for Foundation</li></ul><p>The EBC ICO features a bonus and bounty campaign.</p><p><strong>Bonus Structure:</strong></p><ul><li>1 ETH = 24,250 EBC (Phase I)</li><li><span>1 ETH = </span>20,000 EBC (Phase II)</li></ul><div class=\"freebirdFormviewerViewItemsItemItem freebirdFormviewerViewItemsTextTextItem\" data-required=\"true\" data-item-id=\"444119553\"><div class=\"freebirdFormviewerViewItemsItemItemHeader\"><div class=\"freebirdFormviewerViewItemsItemItemTitleContainer\"></div></div></div>",
+    "TokenType": "ETH (ERC20)",
+    "WebsiteLink": "https://www.ebcoin.io/mem/login.do",
+    "FundingCap": "750,000,000 EBC",
+    "FundingTarget": "N/A",
+    "Date": 1516060800,
+    "EndDate": 1518480000,
+    "FundsRaisedList": "9,717.40 ETH",
+    "FundsRaisedUSD": "8257554.998",
+    "StartPrice": "0.00004123711",
+    "StartPriceCurrency": "ETH",
+    "Jurisdiction": "Singapore",
+    "BlogLink": "https://medium.com/@ebcoin",
+    "WhitePaperLink": "https://www.ebcoin.io/docs/EBCoin_Whitepaper_EN.pdf"
+  },
+  "ccId": "692707"
+}

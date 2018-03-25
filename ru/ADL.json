@@ -1,0 +1,58 @@
+{
+  "General": {
+    "Symbol": "ADL",
+    "Name": "Adelphoi",
+    "Description": "<p><span>Adelphoi</span> is a cryptocurrency community with its own economic ecosystem which can be interacted with through the use of the ADL token. The Adephoil community focuses on creating, developing and implementing usecases that involve blockchain technology in multiple industries. Projects are chosen by the community and successful ventures and either re-invested for further growth or issued as rewards to stakeholders.</p><p>The ADL token is an asset issued on the NXT blockchain. Asset ID: https://mynxt.info/asset/17477397104276156702</p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "100000000",
+    "Algorithm": null,
+    "ProofType": null,
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "06/12/2016",
+    "TotalCoinsMined": 23472224,
+    "Twitter": "@adelphoi_io",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "adelphoi.io",
+    "GitHub": null,
+    "OnMarkets": [
+      "CCEX"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Finished",
+    "Description": "<p>Adel is a cryptocurrency system and global community that is selfsustaining and operates within its own macroeconomic ecosystem. This ecosystem will maintain its fiat independence through the use of<br />Adelphoi. It will also have the ability to trade with other economies. </p><p>The Adel ecosystem will consist of three phases. Phase one will build the community portion of the ecosystem by creating the Account Module of the community portal and includes the first initial coin offering (ICO) round. Phase two will begin after the first ICO round and will focus on developing the community portal: Forum, Voting, Project Dashboard, and Trading Modules. Phase three will focus on operating and managing the projects and converting them into successful solutions that will benefit the entire community.</p><p>There will be a total of 100 million non-mineable Adelphoi (ADL) coins<br />available in the Adel ecosystem:</p><ul><li>85 million ADL will be distributed through 3 rounds of an Initial Coin<br />Offering (ICO).</li><li>15 million ADL will be distributed amongst Adel Ecosystem Ltd.<br />From this amount, 5 million Adelphoi will be released at each round<br />of the ICO. </li></ul><p>The first ICO will offer 33,333,333 coins with a discount system that starts at 20% on May 1st.</p>",
+    "TokenType": "NXT",
+    "WebsiteLink": "https://www.adelphoi.io/",
+    "FundingCap": "N/A",
+    "FundingTarget": "N/A",
+    "Date": 1493654400,
+    "EndDate": 1495670400,
+    "FundsRaisedList": "430.9 BTC",
+    "FundsRaisedUSD": "1045308",
+    "StartPrice": "0.029514579",
+    "StartPriceCurrency": "USD",
+    "Jurisdiction": "N/A",
+    "BlogLink": "https://www.adelphoi.io/",
+    "WhitePaperLink": "https://www.adelphoi.io/content/pdf/wp_1.pdf"
+  },
+  "ccId": "127738"
+}

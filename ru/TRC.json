@@ -1,0 +1,63 @@
+{
+  "General": {
+    "Symbol": "TRC",
+    "Name": "TerraCoin",
+    "Description": "<p>Terracoin (abbreviated TRC) is a peer to peer decentralized currency based on Bitcoin. Terracoin was launched on the 26th of October 2012 and is an SHA-256 coin with a hard cap of 42 million coins. The block time is 2 minutes and the block reward is initially set to 20 TRC. The block reward halves every four years and difficulty retargets every thirty blocks or every hour. There was no premine.</p><p>It is similar to Bitcoin, but with faster transactions, and improved security by having merged mining and Dark Gravity Wave difficulty recalculation. The Terracoin Foundation was formed to provide stable development, improved security and better community involvement for Terracoin.</p><p>The TRC Dev Team is currently implementing DASH’s decentralized governance, masternodes, and instant sent.</p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "42000000",
+    "Algorithm": "SHA256",
+    "ProofType": "PoW",
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "26/10/2012",
+    "TotalCoinsMined": 22495203,
+    "Twitter": "@terracoin_TRC",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "http://www.terracoin.info/",
+    "GitHub": null,
+    "OnMarkets": [
+      "TradeSatoshi",
+      "Novaexchange",
+      "CCEX",
+      "Cryptsy",
+      "Coinse",
+      "Cryptopia"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "N/A",
+    "Description": null,
+    "TokenType": null,
+    "WebsiteLink": null,
+    "FundingCap": null,
+    "FundingTarget": null,
+    "Date": null,
+    "EndDate": null,
+    "FundsRaisedList": null,
+    "FundsRaisedUSD": null,
+    "StartPrice": null,
+    "StartPriceCurrency": null,
+    "Jurisdiction": null,
+    "BlogLink": null,
+    "WhitePaperLink": null
+  },
+  "ccId": "4626"
+}

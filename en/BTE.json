@@ -1,0 +1,59 @@
+{
+  "General": {
+    "Symbol": "BTE",
+    "Name": "ByteCoin",
+    "Description": "<p>Bytecoin (BTE) is an open source P2P digital currency and a mimic of Bitcoin. An SHA-256 coin with a retarget every 2016 blocks - 21 millions total coins and 6 block confimations. There are 50 coins per block.</p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "21000000 ",
+    "Algorithm": "SHA256",
+    "ProofType": "PoW",
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "01/03/2013",
+    "TotalCoinsMined": null,
+    "Twitter": "@Bytecoin_BCN",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "http://bytecoin.org/",
+    "GitHub": null,
+    "OnMarkets": [
+      "EtherDelta",
+      "Cryptsy"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "N/A",
+    "Description": null,
+    "TokenType": null,
+    "WebsiteLink": null,
+    "FundingCap": null,
+    "FundingTarget": null,
+    "Date": null,
+    "EndDate": null,
+    "FundsRaisedList": null,
+    "FundsRaisedUSD": null,
+    "StartPrice": null,
+    "StartPriceCurrency": null,
+    "Jurisdiction": null,
+    "BlogLink": null,
+    "WhitePaperLink": null
+  },
+  "ccId": "4401"
+}

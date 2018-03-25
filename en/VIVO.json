@@ -1,0 +1,59 @@
+{
+  "General": {
+    "Symbol": "VIVO",
+    "Name": "VIVO Coin",
+    "Description": "<p>VIVO is a decentralized cryptocurrency, featuring a Masternode network that provides near-instant payments and anonymous transactions. VIVO uses the NeoScrypt Proof of Work algorithm.</p><p><span>Click <a href=\"https://masternodes.online/currencies/VIVO/\" target=\"_blank\">here</a> for Masternode stats from masternodes<span>.online</span>.</span></p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "27000000",
+    "Algorithm": "NeoScrypt",
+    "ProofType": "PoW",
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "22/08/2017",
+    "TotalCoinsMined": 2352236.20117731,
+    "Twitter": "@vivocrypto",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": null,
+    "GitHub": null,
+    "OnMarkets": [
+      "Cryptopia",
+      "Novaexchange"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "N/A",
+    "Description": null,
+    "TokenType": null,
+    "WebsiteLink": null,
+    "FundingCap": null,
+    "FundingTarget": null,
+    "Date": null,
+    "EndDate": null,
+    "FundsRaisedList": null,
+    "FundsRaisedUSD": null,
+    "StartPrice": null,
+    "StartPriceCurrency": null,
+    "Jurisdiction": null,
+    "BlogLink": null,
+    "WhitePaperLink": null
+  },
+  "ccId": "341205"
+}

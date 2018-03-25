@@ -1,0 +1,59 @@
+{
+  "General": {
+    "Symbol": "FLVR",
+    "Name": "FlavorCoin",
+    "Description": "<div><p>FLVR is a PoW/PoS hybrid cryptocurrency and it&#39;s a music driven project. 2FLAV is the second version of FlavorCoin, the previous version was swaped for the 9% premine.</p></div>",
+    "Features": null,
+    "Technology": "<p><strong>PoW Block Rewards</strong><br /><br /><span>Block 1 = 675.000(swap)</span><br /><span>Block 2 - Block 100 = 0 (anti instamine)</span><br /><span>Block 101 - Block 1 100 = 1000(~1.000.000)</span><br /><span>Block 1 101 - Block 3 100 = 750(~1.500.000)</span><br /><span>Block 3 101 - Block 6 100 = 500(~1.500.000)</span><br /><span>Block 6 101 - Block 10 100 = 250(~1.000.000)</span><br /><span>Block 10 101 - Block 15 100 = 125(~625.000)</span><br /><span>Block 15 101 - Block 21 100 = 62.5(~375.000)</span><br /><span>Block 21 101 - Block 28 100 = 31.25(~218.750)</span><br /><span>Block 28 101 - Block 36 100 = 15.625(~125.000)</span><br /><span>Block 36 101 - Block 45 100 = 7.813(~70.317)</span><br /><span>Block 45 101 - Block 55 100 = 3.9(~39.000)</span><br /><span>Block 55 101 - Block 66 100 = 1(~11.000)</span><br /><br /><strong>PoS Block Rewards</strong><br /><br /><span>Block 1 - Block 1 100 = 1(~11.000)</span><br /><span>Block 1 101 - Block 3 100 = 3.9(~39.000)</span><br /><span>Block 3 101 - Block 6 100 = 7.813(~70.317)</span><br /><span>Block 6 101 - Block 10 100 = 15.625(~125.000)</span><br /><span>Block 10 101 - Block 15 100 = 31.25(~218.750)</span><br /><span>Block 15 101 - Block 21 100 = 62.5(~375.000)</span><br /><span>Block 21 101 - Block 28 100 = 125(~625.000)</span><br /><span>Block 28 101 - Block 36 100 = 250(~1.000.000)</span><br /><span>Block 36 101 - Block 45 100 = 500(~1.500.000)</span><br /><span>Block 45 101 - Block 55 100 = 750(~1.500.000)</span><br /><span>Block 55 101 - Block 66 100 = 1000(~1.000.000)</span><br /><span>Block 66.101 ++ = 5 FLAV</span><br /><br /></p>",
+    "TotalCoinSupply": null,
+    "Algorithm": "SHA256",
+    "ProofType": "PoW/PoS",
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "01/06/2016",
+    "TotalCoinsMined": 20898106,
+    "Twitter": "@flavorcoin",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "https://soundcloud.com/flavorcoin",
+    "GitHub": null,
+    "OnMarkets": [
+      "Yobit",
+      "Novaexchange"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "N/A",
+    "Description": null,
+    "TokenType": null,
+    "WebsiteLink": null,
+    "FundingCap": null,
+    "FundingTarget": null,
+    "Date": null,
+    "EndDate": null,
+    "FundsRaisedList": null,
+    "FundsRaisedUSD": null,
+    "StartPrice": null,
+    "StartPriceCurrency": null,
+    "Jurisdiction": null,
+    "BlogLink": null,
+    "WhitePaperLink": null
+  },
+  "ccId": "21878"
+}

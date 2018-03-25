@@ -1,0 +1,60 @@
+{
+  "General": {
+    "Symbol": "GOLOS",
+    "Name": "Golos",
+    "Description": "<p>Социальная сеть на основе блокчейна для русскоязычных людей. Это спин-офф из системы Steemit. Steem владеет 10% GOLOS.</p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": null,
+    "Algorithm": null,
+    "ProofType": "PoW",
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "22/09/2016",
+    "TotalCoinsMined": 124518891,
+    "Twitter": null,
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "https://golos.io/",
+    "GitHub": null,
+    "OnMarkets": [
+      "BitTrex",
+      "LiveCoin",
+      "Liqui"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Finished",
+    "Description": "<p>1000 BTC was raised with the largest investor contributing 3.5%. <a href=\"http://www.steeme.ru/gf.html\" target=\"_blank\">ICO transactions</a>.</p><ul><li>70% of the development and application protocol</li><li>10% payment license Inc. stim. in accordance with the agreement litsenzinnym</li><li>10% of the founders of the team fee</li><li>10% compensation cyber Fund for the financing of start-up</li></ul><p>Bonus Structure:</p><ul><li>25% in the first 15 days</li><li>20% from 16 days to 18 days</li><li>15% from 19 days to 21 days</li><li>10% from 22 days to 24 days</li><li>5% from 25 days to 27 days</li><li>0% from 28 days to 30 days</li></ul><p><span style=\"text-decoration: underline;\">Token reserve split</span></p><p>10% to cyber team, 10% to initial participants, 10% for development, 10% for team</p>",
+    "TokenType": "N/A",
+    "WebsiteLink": "https://golos.io/about",
+    "FundingCap": "N/A",
+    "FundingTarget": "N/A",
+    "Date": 1479816000,
+    "EndDate": 1482408000,
+    "FundsRaisedList": "1000 BTC",
+    "FundsRaisedUSD": "462000",
+    "StartPrice": "0.01",
+    "StartPriceCurrency": "USD",
+    "Jurisdiction": "N/A",
+    "BlogLink": null,
+    "WhitePaperLink": "https://wiki.golos.io/1-introduction/golos_whitepaper.html"
+  },
+  "ccId": "40806"
+}

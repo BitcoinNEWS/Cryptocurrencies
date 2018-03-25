@@ -1,0 +1,56 @@
+{
+  "General": {
+    "Symbol": "PTR",
+    "Name": "Petro",
+    "Description": "<p>Petro (PTR) has its origin in the idea of president Hugo Chavez of a strong currency backed by raw materials. Petro will be a sovereign crypto asset backed by oil assets and issued by the Venezuelan State as a spearhead for the development of an independent, transparent and open digital economy open to<span> </span>direct<span> </span>participation of citizens. It will also serve as a platform for the growth of a fairer financial system that contributes to development, autonomy and trade between emerging economies. Venezuelan oil assets will be used to promote the adoption of crypto assets and technologies based on the country´s block-chain. The State shall promote and encourage the use of Petro with a view to consolidating it as an investment option, savings mechanism and means of exchange with State services, industry, commerce, and citizens in general.</p><p>The Venezuelan population will have at their reach a technology that will allow them having a valuable reserve and robust means of payment to stimulate savings and contribute to the country’s development. Petro will be an instrument for Venezuela’s economic stability and financial independence, coupled with an ambitious and global vision for the creation of a freer, more balanced and fairer international financial system.</p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "100000000",
+    "Algorithm": null,
+    "ProofType": null,
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "20/02/2018",
+    "TotalCoinsMined": null,
+    "Twitter": null,
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": null,
+    "GitHub": null,
+    "OnMarkets": [],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Upcoming",
+    "Description": "<p>Petro (PTR) has its origin in the idea of president Hugo Chavez of a strong currency backed by raw materials. Petro will be a sovereign crypto asset backed by oil assets and issued by the Venezuelan State as a spearhead for the development of an independent, transparent and open digital economy open to direct participation of citizens. It will also serve as a platform for the growth of a fairer financial system that contributes to development, autonomy and trade between emerging economies. Venezuelan oil assets will be used to promote the adoption of crypto assets and technologies based on the country´s block-chain. The State shall promote and encourage the use of Petro with a view to consolidating it as an investment option, savings mechanism and means of exchange with State services, industry, commerce, and citizens in general.</p><p>The Venezuelan population will have at their reach a technology that will allow them having a valuable reserve and robust means of payment to stimulate savings and contribute to the country’s development. Petro will be an instrument for Venezuela’s economic stability and financial independence, coupled with an ambitious and global vision for the creation of a freer, more balanced and fairer international financial system.</p><p>The Petro launch will be divided into two stages: a Pre-sale and an Initial Coin Offer (ICO). Presale The Pre-sale will start on February 20, 2018, and will consist of the creation and sale of smart-asset on the NEM blockchain platform. This process will promote and guarantee demand for Petro’s Initial offering, which will be carried out later. The tokens that meet the requirements of the mosaic on NEM blockchain standard are non-minable digital cards that are issued in their entirety through an intelligent contract on this platform. The presale token will not be part of the Petro network until Petro distribution during the Initial Offer process. The token may be exchanged for Petro at any time between the launch date and the closing of the Initial Offer. Initial offer Petro’s Initial Offer will be made later until the eighty-two million four hundred thousand (82,400,000) units available for sale are exhausted. Petro’s on sale during the Initial Offer will be created and sold through an auditable mechanism in the blockchain. The Venezuelan State will not be able to make new emissions Petro. The ICO will start on the 20th of March, 2018 and will last until all the tokens are sold.</p><p><img style=\"width: 500px; height: 349.41763727121463px;\" src=\"/media/27010891/dist.png?width=500&amp;height=349.41763727121463\" alt=\"\" data-id=\"783311\"><img style=\"width: 500px; height: 311.53846153846155px;\" src=\"/media/27010892/funds-dist.png?width=500&amp;height=311.53846153846155\" alt=\"\" data-id=\"783312\"></p>",
+    "TokenType": "N/A",
+    "WebsiteLink": "http://www.elpetro.gob.ve",
+    "FundingCap": "N/A",
+    "FundingTarget": "N/A",
+    "Date": 1521549000,
+    "EndDate": null,
+    "FundsRaisedList": "735,000,000 USD",
+    "FundsRaisedUSD": "735000000",
+    "StartPrice": "60",
+    "StartPriceCurrency": "USD",
+    "Jurisdiction": "N/A",
+    "BlogLink": null,
+    "WhitePaperLink": "http://www.elpetro.gob.ve/Whitepaper_Petro_en.pdf"
+  },
+  "ccId": "783293"
+}

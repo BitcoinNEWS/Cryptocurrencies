@@ -1,0 +1,59 @@
+{
+  "General": {
+    "Symbol": "LYB",
+    "Name": "LyraBar",
+    "Description": "<p>LyraBar is a new cryptocurrency based on its own algorithm Lyra2RE. The coin has been mined since january 2015.</p><p>- 2.5 minute block targets<br />- 1971000 total LYB<br />- 5 coins per block<br />- Block reward will half at blocks 210240, 420480, 630720 (one year between each)<br />- Last PoW block is 840960<br />- Difficulty retargeting with Kimoto&#39;s Gravity Well<br />- Stealth addresses (experimental, use at own risk)</p>",
+    "Features": null,
+    "Technology": "<p>New algorithm Lyra2RE white paper<a href=\"https://vertcoin.org/downloads/Vertcoin_Lyra2RE_Paper_11292014.pdf\"><br /></a></p>",
+    "TotalCoinSupply": "0",
+    "Algorithm": "Lyra2RE",
+    "ProofType": "PoW/PoS",
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "21/01/2015",
+    "TotalCoinsMined": null,
+    "Twitter": "@LyraBar",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "-",
+    "GitHub": null,
+    "OnMarkets": [
+      "CCEX",
+      "BitTrex"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "N/A",
+    "Description": null,
+    "TokenType": null,
+    "WebsiteLink": null,
+    "FundingCap": null,
+    "FundingTarget": null,
+    "Date": null,
+    "EndDate": null,
+    "FundsRaisedList": null,
+    "FundsRaisedUSD": null,
+    "StartPrice": null,
+    "StartPriceCurrency": null,
+    "Jurisdiction": null,
+    "BlogLink": null,
+    "WhitePaperLink": null
+  },
+  "ccId": "13281"
+}

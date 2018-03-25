@@ -1,0 +1,62 @@
+{
+  "General": {
+    "Symbol": "MSP",
+    "Name": "Mothership",
+    "Description": "<p>Mothership is aims to be a blockchain financial services focused around the Estonian e-Residence government programme. The core of these services are:</p><ul><li>Token amrket for the EU</li><li>Wallet connected to your e-Resident digital ID</li><li>Secure crypto exchange </li><li>Hosting platform for blockchain applications</li></ul>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "200000000",
+    "Algorithm": "N/A",
+    "ProofType": "N/A",
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "05/07/2017",
+    "TotalCoinsMined": 196767206,
+    "Twitter": "@MothershipCX",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "https://mothership.cx/",
+    "GitHub": null,
+    "OnMarkets": [
+      "Tidex",
+      "Novaexchange",
+      "Cryptopia",
+      "HitBTC",
+      "EtherDelta"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Finished",
+    "Description": "<p>MSP will be built on the Ethereum platform as an ERC20 token. There will be a total supply of 200,000,000 MSP. MSP serves as a core part of Mothership, and is required for: Access to Premium and Platinum account tiers, the Mothership app platform layer, Community curation and insight rewards, Access to Mothership beta products, Mothership reputation management</p><p>Mothership says they will repurchase MSP on the free market using 20% of fees from Mothership products. The repurchased MSP will be permanently destroyed until 50% of the supply is destroyed.</p><p>70% of MSP tokens will be available for purchase in this fundraising round. 20% of MSP tokens are reserved for purchase by our Strategic Investors. 5% of MSP tokens will be earned through the Mothership Referral program in this fundraising round. 5% of MSP tokens will be reserved for the team and advisers.</p><p><span>1,436 unique addresses purchased MSP and 1,224 of these addresses participated in the referral program. Approximately $5.1 Million was raised in Ethereum.</span></p>",
+    "TokenType": "ETH (ERC20)",
+    "WebsiteLink": "https://mothership.cx/",
+    "FundingCap": "9,000,000 USD",
+    "FundingTarget": "2,250,000 USD",
+    "Date": 1499256000,
+    "EndDate": 1501070400,
+    "FundsRaisedList": "24,137.4 ETH",
+    "FundsRaisedUSD": "5100000",
+    "StartPrice": "0.00017241",
+    "StartPriceCurrency": "ETH",
+    "Jurisdiction": "N/A",
+    "BlogLink": "https://medium.com/mothership-logbook",
+    "WhitePaperLink": "https://mothership.cx/documents/whitepaper.pdf"
+  },
+  "ccId": "198408"
+}

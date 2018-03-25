@@ -1,0 +1,56 @@
+{
+  "General": {
+    "Symbol": "BAX",
+    "Name": "BABB",
+    "Description": "<p><span>BABB is an acronym for Bank Account Based on Blockchain. BABB</span> will be a platform to a connected world of crowdsourced financial services. BABB account holders are nodes in a peer-to-peer network managed by smart contracts.</p><p>BAX is a asset ERC20 token built on the Ethereum network and is used as an utility token in BABB.</p><p> </p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "50000000000",
+    "Algorithm": null,
+    "ProofType": null,
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "02/11/2017",
+    "TotalCoinsMined": 49999999999.99999,
+    "Twitter": "@getbabb",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": null,
+    "GitHub": null,
+    "OnMarkets": [],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Finished",
+    "Description": "<p><span>BABB is an acronym for Bank Account Based on Blockchain. BABB</span> will be a platform to a connected world of crowdsourced financial services. BABB account holders are nodes in a peer-to-peer network managed by smart contracts.</p><p>BAX is a asset ERC20 token built on the Ethereum network and is used as an utility token in BABB.</p><p><strong>Team</strong>:</p><ul><li><strong>Rushd Averroes</strong>: Founder / CEO. <a href=\"https://www.linkedin.com/in/rushd-averro%C3%ABs/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Jorge Pereira</strong>: CTO. <a href=\"https://www.linkedin.com/in/jorgerpereira/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Adam Haeems</strong>: COO. <a href=\"https://www.linkedin.com/in/adam-haeems-8a457813/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Dean Refaat</strong>: Head of Research. <a href=\"https://www.linkedin.com/in/nour-el-dean-refaat-a58944136/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Leonard Seelig</strong>: NE Director.</li><li><strong>Ani Alexander</strong>: https://www.linkedin.com/in/anialexander/. <a href=\"https://www.linkedin.com/in/annie-mellor-26104ab1/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Annabel Mellor</strong>: Head of Communications. <a href=\"https://www.linkedin.com/in/annie-mellor-26104ab1/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Jingwei Li</strong>: Researcher. <a href=\"https://www.linkedin.com/in/jingweili93/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Mai Abdel-Aziz</strong>: Mai Abdel-Aziz. <a href=\"https://www.linkedin.com/in/mai-abdelaziz-637283126/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>David Devia</strong>: Video Content Creator. <a href=\"https://www.linkedin.com/in/dvddevia/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Paul Johnson</strong>: CIO. <a href=\"https://www.linkedin.com/in/paul-johnson-719a0b6\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Luís Fraga</strong>: Lead Product Manager. <a href=\"https://www.linkedin.com/in/lu%C3%ADs-fraga-543728b3/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Luís Oliveira</strong>: Creative Director. <a href=\"https://www.linkedin.com/in/luisoliveira/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Nuno Rocha</strong>: Head of Engineering. <a href=\"https://www.linkedin.com/in/nunorafaelrocha\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>João Gonçalves</strong>: Senior Software Engineer. <a href=\"https://www.linkedin.com/in/joao-feio-goncalves/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li></ul><p>BABB will be holding its ICO on February 6th, 2018. The ICO token supply represents 60% of the total token supply, so there will be a total of 30000000000 tokens available at the offering and is expected to end on March 6th, 2018 or when the funding cap is reached. Any unsold/remaining tokens will be burned.</p>",
+    "TokenType": "ETH (ERC20)",
+    "WebsiteLink": "https://getbabb.com/token-sale",
+    "FundingCap": "N/A",
+    "FundingTarget": "N/A",
+    "Date": 1517875200,
+    "EndDate": 1519689600,
+    "FundsRaisedList": "N/A",
+    "FundsRaisedUSD": "20000000",
+    "StartPrice": "0.0012",
+    "StartPriceCurrency": "ETH",
+    "Jurisdiction": "UK",
+    "BlogLink": "https://medium.com/@BABB",
+    "WhitePaperLink": "https://getbabb.com/whitepaper"
+  },
+  "ccId": "784595"
+}

@@ -1,0 +1,73 @@
+{
+  "General": {
+    "Symbol": "PAY",
+    "Name": "ePay",
+    "Description": "<p><span>When we as the co-founders of TenX is a blockchain-based service that focuses on providing</span><span> user access to an as large as possible range of blockchain assets at a maximum degree of convenience, while adhering to the highest security standards in the ecosystem. </span><span>TenX offers a debit card and accompanying mobile wallet that can be funded not only with any blockchain asset. A TenX wallet can be used in almost 200 countries at over 36 million points of acceptance.</span></p><p>TenX <span>leverages the COMIT Standard (</span><a href=\"http://www.comit.network/\">www.comit.network</a><span>), which works in a completely trustless, instant and free manner.</span></p><p>The TenX token, PAY, allows users to \"own\" part of the TenX system, as for every transaction made with the wallet, the token holder receives rewards in Ether.<br /> <br /><br /></p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "205218255.9485",
+    "Algorithm": null,
+    "ProofType": null,
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "06/06/2016",
+    "TotalCoinsMined": null,
+    "Twitter": "@tenxwallet",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "https://www.tenx.tech/",
+    "GitHub": null,
+    "OnMarkets": [
+      "BTER",
+      "HuobiPro",
+      "OKEX",
+      "Gateio",
+      "LiveCoin",
+      "Cryptopia",
+      "Kucoin",
+      "HitBTC",
+      "Gatecoin",
+      "BitTrex",
+      "Liqui",
+      "LAToken",
+      "BitZ",
+      "Novaexchange",
+      "Yunbi",
+      "EtherDelta"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "N/A",
+    "Description": null,
+    "TokenType": null,
+    "WebsiteLink": null,
+    "FundingCap": null,
+    "FundingTarget": null,
+    "Date": null,
+    "EndDate": null,
+    "FundsRaisedList": null,
+    "FundsRaisedUSD": null,
+    "StartPrice": null,
+    "StartPriceCurrency": null,
+    "Jurisdiction": null,
+    "BlogLink": null,
+    "WhitePaperLink": "https://www.tenx.tech/whitepaper/tenx_whitepaper_final.pdf"
+  },
+  "ccId": "45260"
+}

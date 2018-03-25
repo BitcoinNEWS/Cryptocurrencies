@@ -1,0 +1,56 @@
+{
+  "General": {
+    "Symbol": "MNT",
+    "Name": "GoldMint",
+    "Description": "<p>The GoldMint platform is built on a private blockchain, based on the Graphene technology. The advantages of Graphene which has determined the company’s choice is that it is open-source. GoldMint wants to build a safe architecture with a high bandwidth and the ability to use custom Proof-of-Stake consensus. Vending Gold Storage A safe storage that gives the ability to quickly and safely take out loans using gold or gold jewelry as security.</p><p>Goldmint App creates and proceeds blocks within the private GoldMint blockchain and recieves a commission for the processed transactions. The Goldmint API allows any financial institution to use GOLD cryptoassets as a means of payment.</p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "10000000",
+    "Algorithm": null,
+    "ProofType": null,
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "15/08/2017",
+    "TotalCoinsMined": null,
+    "Twitter": "@goldmint_io",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": null,
+    "GitHub": null,
+    "OnMarkets": [],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Ongoing",
+    "Description": "<p>The GoldMint platform is built on a private blockchain, based on the Graphene technology. The advantages of Graphene which has determined the company’s choice is that it is open-source. GoldMint wants to build a safe architecture with a high bandwidth and the ability to use custom Proof-of-Stake consensus. Vending Gold Storage A safe storage that gives the ability to quickly and safely take out loans using gold or gold jewelry as security.</p><p>Goldmint App creates and proceeds blocks within the private GoldMint blockchain and recieves a commission for the processed transactions. The Goldmint API allows any financial institution to use GOLD cryptoassets as a means of payment.</p><p><strong>Team</strong>:</p><ul><li><strong>Dmitry Pluschevsky</strong><span>: CEO, Co-Founder.</span><span> </span><a href=\"https://www.linkedin.com/in/pluschevskiy/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Anton Akentiev</strong><span>: Lead Blockchain Developer.</span><span> </span><a href=\"https://www.linkedin.com/in/anthonyakentiev/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Konstantin Pichugin</strong><span>: CTO.</span><span> </span><a href=\"https://www.linkedin.com/in/konstantin-pichugin-53542890/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Evgeniy Volfman</strong><span>: CBDO, Co-Founder.</span><span> </span><a href=\"https://www.linkedin.com/in/evolfman/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Alexander Pavlov</strong><span>: Product Director.</span><span> </span><a href=\"https://www.linkedin.com/in/alexander-pavlov-3a3171b7/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Maxim Uperyaka</strong><span>: Marketing Manager.</span><span> </span><a href=\"https://www.linkedin.com/in/uperyaka/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li></ul><p><span>GoldMint will be holding its ICO on September 20, 2017. The ICO token supply represents 70% of the total token supply, so there will be a total of 7,000,000 tokens available at the offering. The ICO funding cap is 49,000,000 USD and is expected to end on October 20, 2017 or when the funding cap is reached.</span></p>",
+    "TokenType": "ETH (ERC20)",
+    "WebsiteLink": "http://goldmint.io/?utm_source= cryptocompare.com&utm_medium=tracker",
+    "FundingCap": "49,000,000 USD",
+    "FundingTarget": "N/A",
+    "Date": 1505898000,
+    "EndDate": 1510308000,
+    "FundsRaisedList": "4756.40 ETH\r\n837.53 BTC",
+    "FundsRaisedUSD": "7676333",
+    "StartPrice": "N/A",
+    "StartPriceCurrency": "N/A",
+    "Jurisdiction": "N/A",
+    "BlogLink": "https://blog.goldmint.io",
+    "WhitePaperLink": "https://goldmint.io/white-paper"
+  },
+  "ccId": "240322"
+}

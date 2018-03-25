@@ -1,0 +1,59 @@
+{
+  "General": {
+    "Symbol": "ADST",
+    "Name": "Adshares",
+    "Description": "<p>Adshares is a decentralized market for <span>programmatic advertising, providing transparency, less fraud, and reduced costs for all market participants. Adshares runs on ESC Blockchain and uses Adshares Tokens (ADST) for ad payments. Fees collected from processing payments are distributed among token holders.</span></p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "N/A",
+    "Algorithm": "N/A",
+    "ProofType": "N/A",
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "07/07/2017",
+    "TotalCoinsMined": null,
+    "Twitter": "@adsharesNet",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "https://adshares.net/",
+    "GitHub": null,
+    "OnMarkets": [
+      "Cryptopia",
+      "EtherDelta"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Ongoing",
+    "Description": "<p>Adshares is a decentralized market for programmatic advertising, providing transparency, less fraud, and reduced costs for all market participants. Adshares runs on ESC Blockchain and uses Adshares Tokens (ADST) for ad payments. Fees collected from processing payments are distributed among token holders.</p><p>Team<span style=\"font-weight: 400;\">:</span></p><ul><li style=\"font-weight: 400;\">Jaek Zemlo: Founder;</li><li style=\"font-weight: 400;\">Dr. Leszek Rychlewski: Founder;</li><li style=\"font-weight: 400;\">Maciej Kazmierczyk: Business Development</li></ul><p>The Adshares ICO started on the 7th of August and will l be phased out once custom blockchain for Adshares is ready. The ICO contract will then enter the allocation phase. Users will have 1 month to decide whether they are happy with development results and want to be allocated with custom blockchain tokens. If not – they can always resell their tokens to the ICO contract. The minimum goal for the crowdsale is $1 million and the starting price is $0.10</p><p> </p><p>The ADST ICO counted with a bonus campaign and will not be minable.</p><p>Bonus Structure:</p><p>1 – 10M tokens: 0.1 USD Constant price until minimum financing level has been reached</p><p>Over 10M tokens: 0.1 USD * ( (token no) / 10 M) After this, token price rises linearly with token supply</p><p> </p>",
+    "TokenType": "New Blockchain",
+    "WebsiteLink": "https://ico.adshares.net/",
+    "FundingCap": "N/A",
+    "FundingTarget": "4000 ETH",
+    "Date": 1499417100,
+    "EndDate": 1514764800,
+    "FundsRaisedList": "5,438.245264965389624 ETH",
+    "FundsRaisedUSD": "3796928.46",
+    "StartPrice": "0.10",
+    "StartPriceCurrency": "USD",
+    "Jurisdiction": "N/A",
+    "BlogLink": "https://medium.com/adshares",
+    "WhitePaperLink": "https://adshares.net/assets/docs/Adshares.Network.whitepaper.pdf"
+  },
+  "ccId": "194530"
+}

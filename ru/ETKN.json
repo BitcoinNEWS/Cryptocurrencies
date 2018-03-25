@@ -1,0 +1,56 @@
+{
+  "General": {
+    "Symbol": "ETKN",
+    "Name": "EasyToken",
+    "Description": "<p>BeEasy is a multi-purpose blockchain ecosystem designed for mining, trading, and managing cryptocurrency investments. It features an all-in-one personal account that enables users to use the wide spectrum of their tools which include an interface for mining and receiving products and services, a multicurrency pool, an exchange with advanced features and a donation solution.</p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "250000",
+    "Algorithm": null,
+    "ProofType": null,
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "01/02/2018",
+    "TotalCoinsMined": null,
+    "Twitter": "@BeEasy_ICO",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": null,
+    "GitHub": null,
+    "OnMarkets": [],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Ongoing",
+    "Description": "<p><span>BeEasy is a multi-purpose </span><span>blockchain ecosystem designed for mining, trading, and managing cryptocurrency investments.<span> </span></span><span>It features an all-in-one personal account that enables users to use the wide spectrum of their tools which include an interface for mining and receiving products and services, a multicurrency pool, an exchange with advanced features and a donation solution.</span></p><p> </p><p><strong>Team</strong>:</p><ul><li>Aleksandr Bespalov: CEO <a href=\"https://www.linkedin.com/in/alexander-bespalov-70741b11/\" target=\"_blank\"><img src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li>Ilya Surodeykin: COO <a href=\"https://www.linkedin.com/in/%D0%B8%D0%BB%D1%8C%D1%8F-%D1%81%D1%83%D1%80%D0%BE%D0%B4%D0%B5%D0%B9%D0%BA%D0%B8%D0%BD-a028b046/\" target=\"_blank\"><img src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li>Nikita Polikarpov: CTO <a href=\"https://www.linkedin.com/in/nikitapolikarpov/\" target=\"_blank\"><img src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li>Elena Ryabukha: Head of EasyTrade </li></ul><p>The BeEasy ICO has started on the first of February and will last until the 30th of April, 2018. The ICO token allocation represents 80% of the total token supply and will be available for a 0.02 BTC base price. The ICO funding target is set at 3200 BTC. </p><p><strong>Token Reserve Split (20%):</strong></p><ul><li>17.6% geared to the project itself (supporting the advisory board, the team, working on bonuses, etc.)</li><li>2.4% Bounties</li></ul><p>The ETKN ICO features bonus and bounties.</p><p><strong>Bonus Structure:<br></strong><br>Pre-ICO stage:</p><ul><li>First fay: 1 ETKN = 0.01 BTC</li><li>From the second day throughout the first week: 1ETKN = 0.011 BTC</li><li>Second week: 1ETKN = 0.012 BTC</li><li>Third week: 1ETKN = 0.013 BTC</li><li>Fourth week: 1ETKN = 0.014 BTC</li><li>Fifth &amp; Sixth weeks: 1ETKN = 0.015 BTC</li></ul><p>ICO stage:</p><ul><li>Equal throughout the ICO stage: 1ETKN = 0.02 BTC</li></ul><p> </p><p>20% geared to the project itself (supporting the advisory board, the team, working on bonuses, etc.)</p>",
+    "TokenType": "ETH (ERC20)",
+    "WebsiteLink": "https://beeasy.io/#ico",
+    "FundingCap": "3200 BTC",
+    "FundingTarget": "N/A",
+    "Date": 1517443200,
+    "EndDate": 1525046400,
+    "FundsRaisedList": "176.86 BTC",
+    "FundsRaisedUSD": "N/A",
+    "StartPrice": "0.02",
+    "StartPriceCurrency": "BTC",
+    "Jurisdiction": "N/A",
+    "BlogLink": null,
+    "WhitePaperLink": "https://beeasy.io/whitepaper_en.pdf"
+  },
+  "ccId": "832079"
+}

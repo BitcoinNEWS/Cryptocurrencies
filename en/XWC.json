@@ -1,0 +1,60 @@
+{
+  "General": {
+    "Symbol": "XWC",
+    "Name": "WhiteCoin",
+    "Description": "<p>Whitecoin (XWC) - это трехлетний децентрализованный глобальный блокчейн с акцентом на кибербезопасность, платежи и безопасную связь. Будучи доступным для всех, WhiteCoin управляется специализированным сообществом сторонников, но не контролируется ни одним человеком. Эта привлекательная комбинация поможет обеспечить стабильность, рост и непревзойденные технологические разработки.</p>",
+    "Features": "<p><span>Unique design</span><br /><span>Easy to use interface</span><br /><span>Create XWC accounts</span><br /><span>Multilanguage</span><br /><span>Built in block-explorer</span><br /><span>Network statistics</span><br /><span>Manage your contacts</span><br /><span>Windows / Mac / Linux</span></p>",
+    "Technology": "<p><span>Bootstrap: bootstrap.dat allows a new Whitecoin client (not synced) to rapidly import the initial blocks from a local file instead of slowly downloading blocks from random peers. This significantly reduces the time it takes to get a client synced with the current blockchain.</span></p><p>WhiteOS: WhiteOS is a <span>custom, optimized and hardened Ubuntu environment. It can be installed in any computer and it provides bulit in anonymity.</span></p><p>POS starts after Block: 10000</p>",
+    "TotalCoinSupply": "300000000",
+    "Algorithm": "Scrypt",
+    "ProofType": "PoW/PoS",
+    "BlockReward": 2,
+    "Explorer": null,
+    "StartDate": "13/04/2014",
+    "TotalCoinsMined": 248817243.19257,
+    "Twitter": "@whitecoiner",
+    "Telegram": null,
+    "Youtube": "r-VKKXgIKjg",
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "http://www.whitecoin.info/",
+    "GitHub": null,
+    "OnMarkets": [
+      "Cryptopia",
+      "TradeSatoshi",
+      "BitTrex"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "N/A",
+    "Description": null,
+    "TokenType": null,
+    "WebsiteLink": null,
+    "FundingCap": null,
+    "FundingTarget": null,
+    "Date": null,
+    "EndDate": null,
+    "FundsRaisedList": null,
+    "FundsRaisedUSD": null,
+    "StartPrice": null,
+    "StartPriceCurrency": null,
+    "Jurisdiction": null,
+    "BlogLink": null,
+    "WhitePaperLink": null
+  },
+  "ccId": "20338"
+}

@@ -1,0 +1,56 @@
+{
+  "General": {
+    "Symbol": "ESC*",
+    "Name": "Ethersportcoin",
+    "Description": "<p>EtherSport is an online gambling platform based on Ethereum contracts to guarantee fair and transparent results, avoiding any risks and corruption. EtherSport has also provides higher security, simple user registration process, anonymity, the open and clear process of all currency transactions, prompt prize payout without any hidden fees. Ethersportcoin (ESC) is an ERC20 token built on the Ethereum platform. ESC tokens can be used as platform currency for buying lottery tickets. Token holders also receive 15% of the funds raised from each lottery according to the tokens held.</p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "100000000",
+    "Algorithm": null,
+    "ProofType": null,
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "13/11/2017",
+    "TotalCoinsMined": null,
+    "Twitter": "@ethersport_esc ",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": null,
+    "GitHub": null,
+    "OnMarkets": [],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Ongoing",
+    "Description": "<p><span>EtherSport is an online gambling platform</span><span> based on<span> </span></span><span>Ethereum contracts </span><span>to</span><span><span> </span>guarantee fair and transparent results, avoiding any risks and corruption. EtherSport has a</span><span>lso provides higher<span> </span></span><span>security, simple user registration process, anonymity, the open and clear process of all currency transactions, prompt prize payout without any hidden fees. </span><span>Ethersportcoin (ESC) is an ERC20 token built on the Ethereum platform. ESC tokens can be used as platform currency for buying lottery tickets. Token holders also receive 15% of the funds raised from each lottery according to the tokens held.</span></p><p><strong>Team</strong>:</p><ul><li>Timofei Bezruk: Co-founder</li><li>Alex Tsymbal: Co-founder and CEO <a href=\"https://www.linkedin.com/in/alex-tsymbal-a1a51513a/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li>Leon Astrakhanskyi: Co-founder and Investor</li><li>Julia Polonska: CMO <a href=\"https://www.linkedin.com/in/juliia-polonska-047b09146/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li></ul><p>The EtherSport ICO started on the 13th of November and will last until the 20th of December 2017. The ICO token allocation represents 70% of the total token supply and will be available for a 0.001 ETH. The ICO funding target is 1500 ETH and the cap is set at 100,000 ETH. Users can participate with Ether exclusively.</p><p><strong>Token Reserve Split (30%):</strong></p><ul><li>3% (13’000’000 ESC) will remain at EtherSport for supporting the game process;</li><li>1% (1’000’000 ESC) will be left in the system for building the first jackpot;</li><li>5% (5’000’000 ESC) will be allocated for the bounty campaign;</li><li>1% (1’000’000 ESC) will be distributed among advisors; • 5% (5’000’000 ESC) will be paid to the project founders and the team;</li><li>5% (5’000’000 ESC) will be paid to the Angel investors.</li></ul><p>The EtherSport ICO will feature a bonus and bounty campaigns.</p><p><strong>Bonus Structure:</strong></p><table border=\"0\" class=\"table table-striped\"><tbody><tr><th>ICO periods</th><th>Duration</th><th>Start date</th><th>End date</th><th>Amount of tokens<span> </span><br>for sale</th><th>Price per token<span> </span><br>in ETH</th><th>Amount of tokens<span> </span><br>per 1 ETH</th></tr><tr><td>Pre-sale</td><td>1w</td><td>13.11.2017</td><td>19.11.2017</td><td>10,000,000</td><td>0.0005</td><td>2,000.00</td></tr><tr><td>I part</td><td>1h</td><td>21.11.2017<br>12:00 UTC</td><td>21.11.2017<br>13:00 UTC</td><td>10,000,000</td><td>0.001</td><td>1,000.00</td></tr><tr><td>II part</td><td>1d</td><td>21.11.2017<br>13:00 UTC</td><td>22.11.2017<br>13:00 UTC</td><td>15,000,000</td><td>0.0013</td><td>769.23</td></tr><tr><td>III part</td><td>1w</td><td>22.11.2017<br>13:00 UTC</td><td>29.11.2017<br>13:00 UTC</td><td>15,000,000</td><td>0.0017</td><td>588.24</td></tr><tr><td>IV part</td><td>3w</td><td>29.11.2017<br>13:00 UTC</td><td>20.12.2017<br>13:00 UTC</td><td>20,000,000</td><td>0.002</td><td>500.00</td></tr></tbody></table>",
+    "TokenType": "ETH (ERC20)",
+    "WebsiteLink": "https://ethersport.io",
+    "FundingCap": "100,000 ETH",
+    "FundingTarget": "1500 ETH",
+    "Date": 1510531200,
+    "EndDate": 1513728000,
+    "FundsRaisedList": "50,000,000 ESC sold",
+    "FundsRaisedUSD": "N/A",
+    "StartPrice": "0.001",
+    "StartPriceCurrency": "ETH",
+    "Jurisdiction": "UK",
+    "BlogLink": "https://medium.com/@ethersport",
+    "WhitePaperLink": "https://ethersport.io/whitepaper.pdf"
+  },
+  "ccId": "383878"
+}

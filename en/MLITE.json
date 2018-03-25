@@ -1,0 +1,59 @@
+{
+  "General": {
+    "Symbol": "MLITE",
+    "Name": "MeLite",
+    "Description": "<p>Melite Coin is a Proof of Work/Proof of Stake cryptocurrency using the SHA256D algorithm. It will be part of the development of the team&#39;s Pharmacy and Sexual health Label and the start of the actual payment option to purchase these products with Melite Coins.</p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "1.000.000",
+    "Algorithm": "SHA256D",
+    "ProofType": "PoW/PoS",
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "27/02/2017",
+    "TotalCoinsMined": null,
+    "Twitter": "@MeliteCoin",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "https://www.melitecoin.com/",
+    "GitHub": null,
+    "OnMarkets": [
+      "Yobit",
+      "Cryptopia"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "N/A",
+    "Description": null,
+    "TokenType": null,
+    "WebsiteLink": null,
+    "FundingCap": null,
+    "FundingTarget": null,
+    "Date": null,
+    "EndDate": null,
+    "FundsRaisedList": null,
+    "FundsRaisedUSD": null,
+    "StartPrice": null,
+    "StartPriceCurrency": null,
+    "Jurisdiction": null,
+    "BlogLink": null,
+    "WhitePaperLink": null
+  },
+  "ccId": "49600"
+}

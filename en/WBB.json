@@ -1,0 +1,62 @@
+{
+  "General": {
+    "Symbol": "WBB",
+    "Name": "Wild Beast Coin",
+    "Description": "<p>Wild Beast Bitcoin (WBB) is a pure scypt proof of work altcoin released in February 2015. The coin supply is limited to just over 2.5 million WBB currency units.</p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "2628000",
+    "Algorithm": "Scrypt",
+    "ProofType": "PoW",
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "11/02/2015",
+    "TotalCoinsMined": 181919.2435974,
+    "Twitter": "@WildBeastBTC",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "http://www.wildbeastbitcoin.com/",
+    "GitHub": null,
+    "OnMarkets": [
+      "BitTrex",
+      "Cryptopia",
+      "Novaexchange",
+      "Cryptsy",
+      "Yobit"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "N/A",
+    "Description": null,
+    "TokenType": null,
+    "WebsiteLink": null,
+    "FundingCap": null,
+    "FundingTarget": null,
+    "Date": null,
+    "EndDate": null,
+    "FundsRaisedList": null,
+    "FundsRaisedUSD": null,
+    "StartPrice": null,
+    "StartPriceCurrency": null,
+    "Jurisdiction": null,
+    "BlogLink": null,
+    "WhitePaperLink": null
+  },
+  "ccId": "5319"
+}

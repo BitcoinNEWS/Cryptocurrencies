@@ -1,0 +1,58 @@
+{
+  "General": {
+    "Symbol": "BANCA",
+    "Name": "BANCA",
+    "Description": "<p><span>Banca is a new type of an investment bank community built on blockchain technology. It’s based on AI and expert system to achieve the dynamics of Banca&#39;s eco-chain and the automatic management. Big data analysis is utilized to deliver accurate services to various participants with specific needs. Banca tracks the performance of all primary market and secondary market projects running on the platform, maintain the data on Blockchain and generate automatic reports, which are also incorruptible.</span></p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "20000000000",
+    "Algorithm": null,
+    "ProofType": null,
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "10/02/2018",
+    "TotalCoinsMined": 20000000000,
+    "Twitter": "@Banca_Official",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": null,
+    "GitHub": null,
+    "OnMarkets": [
+      "HitBTC"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Upcoming",
+    "Description": "<p>Banca is a new type of an investment bank community built on blockchain technology. It’s based on AI and expert system to achieve the dynamics of Banca&#39;s eco-chain and the automatic management. Big data analysis is utilized to deliver accurate services to various participants with specific needs. Banca tracks the performance of all primary market and secondary market projects running on the platform, maintain the data on Blockchain and generate automatic reports, which are also incorruptible.</p>",
+    "TokenType": "ETH (ERC20)",
+    "WebsiteLink": "https://www.banca.world/",
+    "FundingCap": "N/A",
+    "FundingTarget": "N/A",
+    "Date": 1519084800,
+    "EndDate": 1519820057,
+    "FundsRaisedList": "15,000,000 USD",
+    "FundsRaisedUSD": "15000000",
+    "StartPrice": "0.002",
+    "StartPriceCurrency": "USD",
+    "Jurisdiction": "Singapore",
+    "BlogLink": null,
+    "WhitePaperLink": "https://www.banca.world/A_UpLoad/upload_file/20180203/20180203164603_0312.pdf"
+  },
+  "ccId": "757568"
+}

@@ -1,0 +1,62 @@
+{
+  "General": {
+    "Symbol": "ATOM",
+    "Name": "Atomic Coin",
+    "Description": "<p><span>Atomic Coin is an hybrid PoW/PoS using the Scrypt algorithm. 100% PoS interest will be reduced after 3 months after launch.</span></p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "12000000",
+    "Algorithm": "Scrypt",
+    "ProofType": "PoW/PoS",
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "23/09/2016",
+    "TotalCoinsMined": null,
+    "Twitter": "@AtomcoinProject",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "https://www.atomicproject.org/",
+    "GitHub": null,
+    "OnMarkets": [
+      "TradeSatoshi",
+      "Cryptopia",
+      "Yobit",
+      "WavesDEX",
+      "Novaexchange"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "N/A",
+    "Description": null,
+    "TokenType": null,
+    "WebsiteLink": null,
+    "FundingCap": null,
+    "FundingTarget": null,
+    "Date": null,
+    "EndDate": null,
+    "FundsRaisedList": null,
+    "FundsRaisedUSD": null,
+    "StartPrice": null,
+    "StartPriceCurrency": null,
+    "Jurisdiction": null,
+    "BlogLink": null,
+    "WhitePaperLink": null
+  },
+  "ccId": "29721"
+}

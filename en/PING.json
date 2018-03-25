@@ -1,0 +1,62 @@
+{
+  "General": {
+    "Symbol": "PING",
+    "Name": "CryptoPing",
+    "Description": "<p>CryptoPing is an IM assistant bot that provides users with useful info and buy signals. The information provided by the bot is based on volume, change to coin rate to BTC, a number of signals on the coin and coin market capitalization. The CryptoPing bot does not tell users what they should buy, but rather compiles information in a descriptive and meaningful way, facilitating your decision making process. The PING token is used as payment for subscriptions to the CryptoPing product.</p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "10000000",
+    "Algorithm": "N/A",
+    "ProofType": "N/A",
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "16/05/2017",
+    "TotalCoinsMined": 10000000,
+    "Twitter": "@cryptoping",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "https://cryptoping.tech/",
+    "GitHub": null,
+    "OnMarkets": [
+      "Yobit",
+      "HitBTC",
+      "WavesDEX",
+      "Cryptopia",
+      "Tidex"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Finished",
+    "Description": "<p><span>CryptoPing is </span><span>an IM assistant bot that provides users with useful info and buy signals. The<span> </span></span><span>information provided by the bot is based on volume, change to coin rate to BTC, a number of signals on the coin and coin market capitalization. </span><span>The PING token is used</span><span> as payment for subscriptions to the CryptoPing product.</span></p><p>The CryptoPing ICO was started on the 25th of March 2017 at 00:00 UTC and lasted for a month. 10% bonus was available for referrals and 15% for investments of over 100 BTC. The ICO reached its cap of 1000 BTC which came from 4727 investors, during the last hours of the established time period. Druing the ICO 9M tokens (90% of the total supply) were sold to investors who could contribute with BTC, LTC, WAVES, DASH, ETH and ETC. The remaining 1M tokens were reserved for referral program payouts.</p><p><span data-sheets-value=\"{&quot;1&quot;:2,&quot;2&quot;:&quot;4727 investors have invested 1000.02 BTC. Afer ICO ends we will burn all the unclaimed tokens (they will be sent to an address without private key, rendering them unusable). We will work towards adding the token to several exchanges and introduce subscription-based access to CryptoPing afer the token is added to any of the exchanges. &quot;}\" data-sheets-userformat=\"{&quot;2&quot;:513,&quot;3&quot;:[null,0],&quot;12&quot;:0}\">Cryptoping planned to burn any surplus tokens by sending them to an address without a private key. <span>Developers want to ensure that token price remains high, and there are plans to burn 75% of subscription fees paid in tokens. Moreover, if subscription is paid in Bitcoin/altcoins, 50% of subscription fees will be directed to buy tokens back off exchanges and burn them too for the first 6 months after token is added to any exchange, and 10% of fees to do that for a year after that.</span></span></p><p> </p><p> </p>",
+    "TokenType": "WAVES",
+    "WebsiteLink": "https://cryptoping.tech/ico",
+    "FundingCap": "1000 BTC",
+    "FundingTarget": "1000 BTC",
+    "Date": 1495670400,
+    "EndDate": 1498348800,
+    "FundsRaisedList": "1000 BTC",
+    "FundsRaisedUSD": "2500000",
+    "StartPrice": "0.000111111111",
+    "StartPriceCurrency": "BTC",
+    "Jurisdiction": "N/A",
+    "BlogLink": null,
+    "WhitePaperLink": "https://cryptoping.tech/cp_whitepaper_en.pdf"
+  },
+  "ccId": "177503"
+}

@@ -1,0 +1,56 @@
+{
+  "General": {
+    "Symbol": "CSTL",
+    "Name": "Castle",
+    "Description": "<p>Castle is a PoW/PoS cryptocurrency based on the X11 algorithm. Castle is a decentralized crypto-platform where users automatically receive airdrops from Castle partners - simply for holding Castle coins.</p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": " 200000000",
+    "Algorithm": "X11",
+    "ProofType": "PoW/PoS",
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "09/11/2017",
+    "TotalCoinsMined": 5319287.4,
+    "Twitter": "@Castle_CSTL",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": null,
+    "GitHub": null,
+    "OnMarkets": [],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "N/A",
+    "Description": null,
+    "TokenType": null,
+    "WebsiteLink": null,
+    "FundingCap": null,
+    "FundingTarget": null,
+    "Date": null,
+    "EndDate": null,
+    "FundsRaisedList": null,
+    "FundsRaisedUSD": null,
+    "StartPrice": null,
+    "StartPriceCurrency": null,
+    "Jurisdiction": null,
+    "BlogLink": null,
+    "WhitePaperLink": null
+  },
+  "ccId": "400432"
+}

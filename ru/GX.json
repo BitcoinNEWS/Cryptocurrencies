@@ -1,0 +1,56 @@
+{
+  "General": {
+    "Symbol": "GX",
+    "Name": "GameX",
+    "Description": "<p>GameX is a Waves-based token that will be used on GameX&#39;s<span> three major projects – GameX Marketplace, GameX In-die Club and GameX GPU Mining Hub. Users can use the tokens to buy, sell and trade in-game items, key codes, game cards or even gaming hardware, they can earn GameX with each trade as well. The token also allows users to present their gaming project to the GameX community in order to get it funded. Lastly, the token can be used in the GameX GPU Mining Hub.</span></p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "10000000000",
+    "Algorithm": null,
+    "ProofType": null,
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "09/01/2018",
+    "TotalCoinsMined": null,
+    "Twitter": "@gamex_co_in",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": null,
+    "GitHub": null,
+    "OnMarkets": [],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Ongoing",
+    "Description": "<p><span>GameX is a Waves-based token that will be used on GameX&#39;s<span> three major projects – GameX Marketplace, GameX In-die Club and GameX GPU Mining Hub. Users can use the tokens to buy, sell and trade in-game items, key codes, game cards or even gaming hardware, they can earn GameX with each trade as well. The token also allows users to present their gaming project to the GameX community in order to get it funded. Lastly, the token can be used in the GameX GPU Mining Hub.</span></span></p><p>The GameX ICO started on the 9th of January and will last until the 27th. The ICO token allocation represents a 90% portion of the total token supply which will be available for a $0.15 starting price. The ICO funding target is set at $250,000 and the cap is set at $1,000,000. </p><p><strong>Token Reserve Split (10%):</strong></p><ul><li>5% GameX Reserve,</li><li>3% GameX Team,</li><li>2% Bounty Program</li></ul><p>The GameX ICO feautres a bonus and bounty campaign, as well as an escrow agent.</p>",
+    "TokenType": "WAVES",
+    "WebsiteLink": "http://gamex.co.in/index.php/invest-in-ico/",
+    "FundingCap": "$1,000,000",
+    "FundingTarget": "$250,000",
+    "Date": 1515456000,
+    "EndDate": 1517011200,
+    "FundsRaisedList": "N/A",
+    "FundsRaisedUSD": "N/A",
+    "StartPrice": "0.15",
+    "StartPriceCurrency": "USD",
+    "Jurisdiction": "N/A",
+    "BlogLink": null,
+    "WhitePaperLink": "http://gamex.co.in/#qna"
+  },
+  "ccId": "679646"
+}

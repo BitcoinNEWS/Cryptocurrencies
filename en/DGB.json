@@ -1,0 +1,71 @@
+{
+  "General": {
+    "Symbol": "DGB",
+    "Name": "DigiByte",
+    "Description": "<p>Монета, которая приняла биткойновскую цифру «21», но увеличила предложение до 21 миллиарда - с более чем 5 алгоритмами для моего (Scryt, Sha-256, Qubit, Skein, Groestl) - для того, чтобы держать добычу локально и в руках из многих. 60-секундная цель блока, 0,5% -ная премия и блокировка блока каждые 2,4 часа или 244 блока.</p><p><strong>DigiByte</strong>: Относится ко всей сети DigiByte или к единой денежной единице в платежной сети. 21 миллиард DigiBytes будет создано за 21 год.</p><p><strong>Блок</strong>: Группировка всех транзакций, отправленных по сети DigiByte в течение 30 секунд. Подумайте о блоке в виде таблицы Excel, в которой перечислены адреса всех DigiBytes в данный момент времени в истории. Новые DigiBytes приводятся в обращение, поскольку каждый блок обнаружен в сети посредством процесса под названием.</p><p><strong>Майнинг</strong>: Майнинг - это то, как транзакции обрабатываются в сети. Любой может стать шахтером, пожертвовав и используя свои вычислительные мощности для настольных компьютеров, ноутбуков или мобильных телефонов, чтобы помочь обрабатывать транзакции в сети DigiByte. DigiByte упростил этот процесс с помощью нашего программного обеспечения для интеллектуального поиска 3 кликов для начинающих.</p><p><strong>Блокчейн</strong>: Блокчейн DigiByte это вся история всех блоков, обнаруженных в сети и поэтому все транзакции совершаются в сети. Каждый блок ссылается на блок обработки вплоть до начала сети до так называемого блока генезиса. Связывая блоки (электронные таблицы) вместе, точный, надежный учет всех современных владельцев DigiByte осуществляется путем децентрализованного консенсуса.</p>",
+    "Features": "<p><strong>Absolute Security</strong>: Our number one priority will now and forever be network and user security.</p><p><strong>Speedy Transactions</strong>: We strive to create the fastest possible decentralized transactions.</p><p><strong>Worldwide Decentralization</strong>: Keep the network open, transparent and accessible at all times.</p><p><strong>Ease of Use</strong>: Allow anyone to use and benefit from DigiByte in an easy to understand manner.</p><p><strong>Flexible Innovation</strong>: Quickly improve, adapt and innovate as new technology and threats arise.</p>",
+    "Technology": "<p><strong>Security</strong>: DigiByte uses five highly advanced cryptographic algorithms.</p><p><strong>Speed</strong>: DigiByte transaction notifications occur in 1-3 seconds, blocks are discovered every thirty seconds and transactions are fully confirmed every 3 minutes. Future planned upgrades will make these times even faster.</p><p><strong>Fees</strong>: Most DigiByte to DigiByte transactions are free or carry a very small network-mining fee to incentivize people to mine.</p><p><strong>Worldwide</strong>: DigiBytes are already stored, traded and transacted in over 89 countries.</p><p><strong>Decentralization</strong>: There is no need for a middleman or third party or central server.</p><p><strong>Re-Spend</strong>: Send DigiBytes you received to someone else in as little as three minutes.</p><p><strong>Finite Production</strong>: New DigiBytes are added to the network every thirty seconds through a process called mining as each new block (or grouping of transactions in a spreadsheet like format) is discovered by the network.</p><p><strong>Scarcity</strong>: 21 Billion DigiBytes will be created in 21 years.</p><p><strong>1% Monthly New Minting Reduction</strong>: New DigiByte production decreases 1% every month.</p><p><strong>Mining</strong>: DigiByte mining is decentralized with five independent, highly secure mining algorithms.</p><p><strong>Adaptable, innovative &amp; flexible</strong>: DigiByte is constantly adding new features &amp; services to remain on the cutting edge of digital currency technology.</p><p><strong>Committed Development</strong>: DigiByte has been under constant, progressive development for over one year now with core development team members from all over the world.</p><p><strong>Millennial Acquisition Potential</strong>: DigiByte provides merchants, banks &amp; other legacy institutions with a new means of acquiring &amp; connecting with tech savvy millennial users.</p><p><strong>A Bright Future</strong>: DigiByte has many new &amp; exciting projects underway to be released throughout 2015 to increase DigiByte utility and new user adoption across the globe.</p>",
+    "TotalCoinSupply": "21000000000",
+    "Algorithm": "Multiple",
+    "ProofType": "PoW",
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "12/01/2014",
+    "TotalCoinsMined": 10021289737,
+    "Twitter": "@DigiByteCoin",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "http://www.digibyte.co/",
+    "GitHub": null,
+    "OnMarkets": [
+      "Poloniex",
+      "CCEX",
+      "HitBTC",
+      "Yobit",
+      "Cryptsy",
+      "Novaexchange",
+      "TradeSatoshi",
+      "Cryptopia",
+      "Cexio",
+      "OKEX",
+      "BitTrex",
+      "Kucoin",
+      "BitZ",
+      "LiveCoin"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "N/A",
+    "Description": null,
+    "TokenType": null,
+    "WebsiteLink": null,
+    "FundingCap": null,
+    "FundingTarget": null,
+    "Date": null,
+    "EndDate": null,
+    "FundsRaisedList": null,
+    "FundsRaisedUSD": null,
+    "StartPrice": null,
+    "StartPriceCurrency": null,
+    "Jurisdiction": null,
+    "BlogLink": null,
+    "WhitePaperLink": null
+  },
+  "ccId": "4430"
+}

@@ -1,0 +1,56 @@
+{
+  "General": {
+    "Symbol": "RKT",
+    "Name": "Rock Token",
+    "Description": "<div class=\"ico-row\"><div class=\"ico-main-info\"><div class=\"ico-description\">The Rock Token (RKT) is an ERC-20 compliant token which empowers the Gibraltar Blockchain ecosystem. The Gibraltar Blockchain team created the Gibraltar Blockchain Exchange (GBX) with the objective of providing a world-leading institutional-grade token sale platform and cryptocurrency exchange. It&#39;s built upon principles of decentralisation and community consensus.</div><div class=\"ico-description\"></div><div class=\"ico-description\">The Rock Token (RKT) will serve as the medium of exchange and the utility coin within the Gibraltar Blockchain ecosystem.</div></div></div>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "900000000",
+    "Algorithm": null,
+    "ProofType": null,
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "15/01/2018",
+    "TotalCoinsMined": 900000000,
+    "Twitter": "@GibBlockEx",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": null,
+    "GitHub": null,
+    "OnMarkets": [],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Finished",
+    "Description": "<div class=\"ico-description\"><div class=\"ico-description\">The Rock Token (RKT) is an ERC-20 compliant token which empowers the Gibraltar Blockchain ecosystem. The Gibraltar Blockchain team created the Gibraltar Blockchain Exchange (GBX) with the<span> </span>objective of providing a world-leading institutional-grade token sale platform and cryptocurrency exchange. It&#39;s built upon principles of decentralisation and community consensus.</div><div class=\"ico-description\"></div><div class=\"ico-description\">The Rock Token (RKT) will serve as the medium of exchange and the utility coin within the Gibraltar Blockchain ecosystem.</div></div><p><strong>Team</strong>:</p><ul><li><strong>Nick Cowan</strong>: Group Chief Executive Officer. <a href=\"https://www.linkedin.com/in/nick-cowan-00a1a439/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Adrian Hogg</strong>: Group Chief Financial Officer. </li><li><strong>Philip Young</strong>: Group Chief Marketing Officer. <a href=\"https://www.linkedin.com/in/philip-young-189312a4/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>William Rawley</strong>: Group General Counsel. <a href=\"https://www.linkedin.com/in/william-rawley-b83b1958/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li></ul><p>Gibraltar Blockchain Exchange held its ICO on February 7th, 2018. The ICO token supply represents 35% of the total token supply, so there was a total of 60,000,000 RKT tokens available, for 0.10 USD each at the offering. The ICO funding cap is 27,000,000 USD and ended on February 14th, 2018 or when the funding cap is reached. </p><p><span>The token will not be mineable.</span></p>",
+    "TokenType": "ETH (ERC20)",
+    "WebsiteLink": "https://gbx.gi/token-sales/",
+    "FundingCap": "27,000,000 USD",
+    "FundingTarget": "N/A",
+    "Date": 1517961600,
+    "EndDate": 1518566400,
+    "FundsRaisedList": "34825.23 ETH;\r\n27,000,000 USD;",
+    "FundsRaisedUSD": "27000000",
+    "StartPrice": "0.10",
+    "StartPriceCurrency": "USD",
+    "Jurisdiction": "N/A",
+    "BlogLink": "https://medium.com/@Gibraltar.Blockchain.Exchange",
+    "WhitePaperLink": "https://gbx.gi/token-sales/GBX-Whitepaper.pdf"
+  },
+  "ccId": "801429"
+}

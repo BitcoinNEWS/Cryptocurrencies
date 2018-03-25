@@ -1,0 +1,58 @@
+{
+  "General": {
+    "Symbol": "TBCX",
+    "Name": "TrashBurn",
+    "Description": "<p><span>Trash&amp;Burn (TBC/TXB) is a digital currency which uses encryption to regulate the generation of coins</span><span> and verify the transfer of funds, operating independently of a central bank. </span><span>Trash&amp;Burn (TBC/TXB) is a coin made for people that want to innovate with people that want to innovate.</span></p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "9000000",
+    "Algorithm": "SHA256D",
+    "ProofType": "PoS",
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "11/03/2016",
+    "TotalCoinsMined": null,
+    "Twitter": null,
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "-",
+    "GitHub": null,
+    "OnMarkets": [
+      "Yobit"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "N/A",
+    "Description": null,
+    "TokenType": null,
+    "WebsiteLink": null,
+    "FundingCap": null,
+    "FundingTarget": null,
+    "Date": null,
+    "EndDate": null,
+    "FundsRaisedList": null,
+    "FundsRaisedUSD": null,
+    "StartPrice": null,
+    "StartPriceCurrency": null,
+    "Jurisdiction": null,
+    "BlogLink": null,
+    "WhitePaperLink": null
+  },
+  "ccId": "45609"
+}

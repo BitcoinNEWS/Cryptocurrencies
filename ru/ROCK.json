@@ -1,0 +1,56 @@
+{
+  "General": {
+    "Symbol": "ROCK",
+    "Name": "Ice Rock Mining",
+    "Description": "<p>The ROCK token is an Ethereum-based token that allows users to buy mining power in the Ice Rock Mining operation.</p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "16500000",
+    "Algorithm": null,
+    "ProofType": null,
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "09/10/2017",
+    "TotalCoinsMined": null,
+    "Twitter": "@icerockmining",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": null,
+    "GitHub": null,
+    "OnMarkets": [],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Ongoing",
+    "Description": "<p><span>The ROCK token is an Ethereum-based token that allows users to buy mining power in the Ice Rock Mining operation.</span></p><p><strong>Team</strong>:</p><ul><li><strong>Malik Murzashev:</strong> CEO <a href=\"https://www.facebook.com/malik.murzashev\" target=\"_blank\"><img style=\"width: 13px; height: 13px;\" src=\"/media/1383930/face_logo_final.png?width=13&amp;height=13\" alt=\"\" data-id=\"202866\"></a><span> </span><a href=\"https://www.linkedin.com/in/malik-murzashev-43570480/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Mikhail Pluzhnikov:T</strong>echnical Director <a href=\"https://www.linkedin.com/in/mikhail-pluzhnikov-a9aa15148\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Dias Kurmanov:</strong> ICO Manager, Marketer <a href=\"https://www.facebook.com/IceRockMiningICO\" target=\"_blank\"><img style=\"width: 13px; height: 13px;\" src=\"/media/1383930/face_logo_final.png?width=13&amp;height=13\" alt=\"\" data-id=\"202866\"></a> <a href=\"https://www.linkedin.com/in/dias-kurmanov-b038b5149/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li></ul><p>The Ice Rock Mining ICO will start on the 9th of October and will last until the 8th of November, 2017. The ICO token allocation represents 88% of the total ROCK supply. Each token will be available for a $0.8 starting price. The minimum funding goal is 5000000 USD and the maximum cap is 15000000 USD. Any unsold tokens will be destroyed.</p><p><strong>Token Reserve Split (12%):</strong></p><ul><li><span>10 % founders, </span></li><li><span>2 % bounty</span></li></ul><p>The Ice Rock Mining ICO features a bonus and bounty campaigns.</p><p><strong>Bonus Structure:</strong></p><ul><li>9-15 Oct.<span> - </span>1 ROCK = 0.8 $</li><li>16 - 29 Oct.<span> - </span>1 ROCK = 1 $</li><li>30 Oct. - 7 Nov.<span> - </span>1 ROCK = 1.2 $</li></ul>",
+    "TokenType": "ETH (ERC20)",
+    "WebsiteLink": "https://icerockmining.io",
+    "FundingCap": "15000000 USD ",
+    "FundingTarget": "5000000 USD ",
+    "Date": 1507586400,
+    "EndDate": 1510178400,
+    "FundsRaisedList": "22.5 BTC, 241.9 LTC, 388 ETH, 3.2 BCH",
+    "FundsRaisedUSD": "297368",
+    "StartPrice": "0.8",
+    "StartPriceCurrency": "USD",
+    "Jurisdiction": "UK",
+    "BlogLink": null,
+    "WhitePaperLink": "https://icerockmining.io/whitePaper.pdf"
+  },
+  "ccId": "323817"
+}

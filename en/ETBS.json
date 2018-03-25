@@ -1,0 +1,59 @@
+{
+  "General": {
+    "Symbol": "ETBS",
+    "Name": "EthBits",
+    "Description": "<p><span>The ETHBIT token is a type of currency used to pay fees on the ETHBITS Local platform (for example buy/sell Bitcoin, Ether and other cryptocurrencies). ETHBIT tokens can also be used to distribute dividends to investors. If you hold ETHBITS tokens, you hold a portion of our platform, and by holding a portion of our platform you are entitled to your share of a distribution of 40% of the platform&#39;s profit. The dividends will be paid on a quarterly basis.</span></p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "1634690.762741201212",
+    "Algorithm": null,
+    "ProofType": null,
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "15/04/2017",
+    "TotalCoinsMined": null,
+    "Twitter": "@ethbits",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": null,
+    "GitHub": null,
+    "OnMarkets": [
+      "HitBTC",
+      "EtherDelta"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Finished",
+    "Description": "<p>801 participants raised a total 13,644.99 ETH which at the sale close date was worth approximately $1,200,000. </p><p class=\"text-faded\">As well as having the opportunity to share profits from a leading exchange users will also be able to participate in a new concept in crypto which is copy trading. This means users can follow the top crypto traders automatically copying each trade they execute. One of the most exciting features is CTF which will track the top 5 traders on the platform which will be a safe haven for new investors and a care free one for experienced investors. The more followers a trader has the more profit they make by executing a successful trade.</p><p><span style=\"text-decoration: underline;\"><strong>Team</strong></span></p><ul><li><span style=\"text-decoration: underline;\"></span>Pedro J Rodrigues - Founder/Advisor</li><li>Monty Singh - CEO</li><li>Dmitry Sergeev - Lead Developer</li></ul>",
+    "TokenType": "ETH (ERC20)",
+    "WebsiteLink": "https://ico.ethbits.com/",
+    "FundingCap": "N/A",
+    "FundingTarget": "7,500 ETH",
+    "Date": 1492275600,
+    "EndDate": 1494694800,
+    "FundsRaisedList": "13644.99 ETH",
+    "FundsRaisedUSD": "1200759",
+    "StartPrice": "0.88",
+    "StartPriceCurrency": "USD",
+    "Jurisdiction": "UK",
+    "BlogLink": null,
+    "WhitePaperLink": "https://ico.ethbits.com/white_paper.pdf"
+  },
+  "ccId": "188394"
+}

@@ -1,0 +1,58 @@
+{
+  "General": {
+    "Symbol": "FND",
+    "Name": "FundRequest",
+    "Description": "<p><span>FundRequest</span> <span>is an integrated platform to</span> <span>fund open source projects, thus financially incentivizing the open source community. The platform allows developers to fix bugs or to program additional features for an existing application.</span> </p><p><span>FundRequest will be developed on the Ethereum Blockchain, and aims to leverage upon a decentralized ecosystem as it<span> </span><span>reduces both operational and regulatory burdens and protects against organisational corruption such as fraud and embezzlement. </span><span>FundRequest creates smart contracts</span><span> </span><span>to incentivize developers to solve a problem in the open source community.</span></span></p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "N/A",
+    "Algorithm": "N/A",
+    "ProofType": "N/A",
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "28/11/2016",
+    "TotalCoinsMined": null,
+    "Twitter": "@fundrequest_io",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "https://fundrequest.io/#/en/home",
+    "GitHub": null,
+    "OnMarkets": [
+      "EtherDelta"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Finished",
+    "Description": "<p><span>FundRequest</span><span> </span><span>is an integrated platform to</span><span> </span><span>fund open source projects, thus financially<span> </span>incentivizing the open source community. The platform allows developers to fix bugs or to program additional features for an existing application.</span><span> </span></p><p><span>FundRequest</span><span> </span> will be holding its ICO on July 1, 2017, and its expected to last for a maximum of 2 weeks (The ICO will be closed 24h after the soft cap has been reached).</p><p><strong>Minimum funding:</strong><span> </span>2,000,000 USD</p><p><strong>Soft cap:</strong><span> </span>15,000,000 USD</p><p><strong>Price:</strong><span> </span>5 FND / 1 USD invested (in ETH equivalent)</p><p><strong>Bonuses:</strong></p><p>During the first day of the ICO our backers will receive a bonus of 20%: 6 FND / USD</p>",
+    "TokenType": "ETH (ERC20)",
+    "WebsiteLink": null,
+    "FundingCap": "15,000,000 USD",
+    "FundingTarget": "2,000,000 USD",
+    "Date": 1511136000,
+    "EndDate": 1512129600,
+    "FundsRaisedList": "N/A",
+    "FundsRaisedUSD": "N/A",
+    "StartPrice": "0.2",
+    "StartPriceCurrency": "USD",
+    "Jurisdiction": "N/A",
+    "BlogLink": "https://blog.fundrequest.io/",
+    "WhitePaperLink": "https://docs.fundrequest.io/display/PUB/Whitepaper"
+  },
+  "ccId": "180840"
+}

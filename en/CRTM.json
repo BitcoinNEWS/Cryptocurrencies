@@ -1,0 +1,58 @@
+{
+  "General": {
+    "Symbol": "CRTM",
+    "Name": "Cryptum",
+    "Description": "<p><span>Cryptum is a network of projects funding high-end board games publishing, starting with the first cryptocurrency mining strategy game named \"Blockchain\". One of the paramount goals of Cryptum is creating a profitable investment for all token owners even outside the exchange trade. </span><span>This is achieved by offering free access to all published games based on token ownership tiers, and optional profit shares from all Cryptum projects.</span></p><p><span>Currently, there are two main projects that will generate revenues - a long term board games design and publishing business offering between 20 and 40% of its profits, with 4 games and 5 expansions already under development, and a failsafe mining project funded by 30% of the initial sale, which will contribute with up to 50% shared profits for the first 2 years of operation.</span></p><p><span>In addition, all token owners are entitled to receive initial amounts from the upcoming mineable Cryptumcoin, which will be used in some of the Cryptum services.</span></p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "1100000",
+    "Algorithm": null,
+    "ProofType": "Proof of Ownership",
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "17/11/2017",
+    "TotalCoinsMined": null,
+    "Twitter": "https://twitter.com/CryptumTokens",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": null,
+    "GitHub": null,
+    "OnMarkets": [
+      "EtherDelta"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Ongoing",
+    "Description": "<p><span>Cryptum is a network of projects funding high-end board games publishing, starting with the first cryptocurrency mining strategy game named \"Blockchain\". One of the paramount goals of Cryptum is creating a profitable investment for all token owners even outside the exchange trade. </span><span>This is achieved by offering free access to all published games based on token ownership tiers, and optional profit shares from all Cryptum projects.</span></p><p><span>Currently, there are two main projects that will generate revenues - a long term board games design and publishing business offering between 20 and 40% of its profits, with 4 games and 5 expansions already under development, and a failsafe mining project funded by 30% of the initial sale, which will contribute with up to 50% shared profits for the first 2 years of operation.</span></p><p><span>In addition, all token owners are entitled to receive initial amounts from the upcoming mineable Cryptumcoin, which will be used in some of the Cryptum services.</span></p><ul><li><strong>Nikolair Tsekov: </strong>Project Manager <a href=\"https://www.linkedin.com/in/nikolai-tsekov/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Anton Belev: </strong>Core lead developer <a href=\"https://www.linkedin.com/in/antonbelev/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Kiril Venev: </strong>Core CTO <a href=\"https://www.linkedin.com/in/kirilvenev/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Grigor Stoichkov: </strong>Technical advisor <a href=\"https://www.linkedin.com/in/grigor-stoichkov-b525a290/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Tihomir Terziev: </strong>Board games Co-designer</li><li><strong>Zahary Dimitrov: </strong>Games 2D Design</li><li><strong>Alexandra Pashova: </strong>Board Game Design &amp; Testing</li></ul><p><span>Cryptum&#39;s ICO will be divided into two stages. The project</span><span> </span>will be holding its Stage-1 ICO on September 16, 2017. The first stage will accept ETH and BTC as a payment method and is expected to end on October 16, 2017.</p><p>The second stage will be held on October 17, 2017, and will have the duration of one month. ETH, BTC and many alt coins will be accepted as a payment method for the second stage.</p><p> </p><p><strong>Distribution of Funds:</strong></p><ul><li>65% Games</li><li>30% Mining</li><li>5% Coin</li></ul>",
+    "TokenType": "ETH (ERC20)",
+    "WebsiteLink": "https://cryptum.co/buy-cryptum-tokens/",
+    "FundingCap": "22000 ETH",
+    "FundingTarget": "2000 ETH",
+    "Date": 1505520000,
+    "EndDate": 1510876800,
+    "FundsRaisedList": "20.45497956 BTC, 178.96 ETH, 19.57 ZEC, 7.99 BCH",
+    "FundsRaisedUSD": "190685",
+    "StartPrice": "0.02",
+    "StartPriceCurrency": "ETH",
+    "Jurisdiction": "N/A",
+    "BlogLink": "https://cryptum.co/blog/",
+    "WhitePaperLink": "https://cryptum.co/wp-content/uploads/2017/08/CryptumWhitepaperV2.pdf?x24915"
+  },
+  "ccId": "255489"
+}

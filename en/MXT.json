@@ -1,0 +1,58 @@
+{
+  "General": {
+    "Symbol": "MXT",
+    "Name": "MartexCoin",
+    "Description": "<p>MartexCoin is a Proof of Work/Proof of Stake cryptocurrency created by members of the Brasilian community. It&#39;s based on the X13 algorithm.</p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "5000000",
+    "Algorithm": "X13",
+    "ProofType": " PoW/PoS",
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "01/01/0001",
+    "TotalCoinsMined": null,
+    "Twitter": "@martexcoin",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "https://martexcoin.org/",
+    "GitHub": null,
+    "OnMarkets": [
+      "Bleutrade"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "N/A",
+    "Description": null,
+    "TokenType": null,
+    "WebsiteLink": null,
+    "FundingCap": null,
+    "FundingTarget": null,
+    "Date": null,
+    "EndDate": null,
+    "FundsRaisedList": null,
+    "FundsRaisedUSD": null,
+    "StartPrice": null,
+    "StartPriceCurrency": null,
+    "Jurisdiction": null,
+    "BlogLink": null,
+    "WhitePaperLink": null
+  },
+  "ccId": "53944"
+}

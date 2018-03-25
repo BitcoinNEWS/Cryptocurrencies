@@ -1,0 +1,65 @@
+{
+  "General": {
+    "Symbol": "EVX",
+    "Name": "Everex",
+    "Description": "<p>Everex is a blockchain-based capital transfer system that aims to enable and ease the financial inclusion of unbanked, or underbanked people around the world.</p><p>Everex proposes the Cryptocash, a cryptocurrency, where each unit has its value pegged to, and a name based on, the fiat currency it represents. Users convert local fiat currencies to Cryptocash using a currency exchange and transfer the coins to their Everex wallet.</p><p>Cryptocash balances are<span> </span>provably<span> </span>underwritten by actual balances held in accounts of licensed financial institutions. The Everex system provides its users access to financial services using Cryptocash, without the volatility issues of existing,<span> </span>non-stablecoin<span> </span>cryptocurrencies.</p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "25000000",
+    "Algorithm": null,
+    "ProofType": null,
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "24/07/2017",
+    "TotalCoinsMined": 25000000,
+    "Twitter": "@everexio",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": null,
+    "GitHub": null,
+    "OnMarkets": [
+      "Kucoin",
+      "HitBTC",
+      "EtherDelta",
+      "Binance",
+      "Tidex",
+      "BXinth",
+      "OKEX",
+      "HuobiPro"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Ongoing",
+    "Description": "<p>Everex is a blockchain-based capital transfer system that aims to enable and ease the financial inclusion of unbanked, or underbanked people around the world.</p><p>Everex proposes the Cryptocash, a cryptocurrency, where each unit has its value pegged to, and a name based on, the fiat currency it represents. Users convert local fiat currencies to Cryptocash using a currency exchange and transfer the coins to their Everex wallet.</p><p>Cryptocash balances are provably underwritten by actual balances held in accounts of licensed financial institutions. The Everex system provides its users access to financial services using Cryptocash, without the volatility issues of existing,<span> </span>non-stablecoin<span> </span>cryptocurrencies.</p><p><strong>Team</strong>:</p><ul><li><strong>Alexi Lane</strong>: CEO, Founder. <a href=\"https://twitter.com/ineedidea\" target=\"_blank\"><img style=\"width: 13px; height: 13px;\" src=\"/media/1383932/twitter_logo_final.png?width=13&amp;height=13\" alt=\"\" data-id=\"202868\"></a></li><li><strong>Alexander Kakunov</strong>: CTO, Co-Founder. <a href=\"https://th.linkedin.com/in/alexnsk/en\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Jean-Baptiste Decorzent</strong>: Inclusive Finance Director. <a href=\"https://ch.linkedin.com/in/jean-baptiste-decorzent-60a1517\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><span><strong>Artem Kolesnikov</strong><span>: Lead Engineer.</span></span></li></ul><p><span>Everex </span>ICO began on July 24, 2017. The ICO funding cap is 70,000 ETH and is expected to end on August 30, 2017 or when the funding cap is reached. The token price will vary throughout the ICO, you can see it <a href=\"https://www.everex.io/\" target=\"_blank\">here</a>.</p>",
+    "TokenType": "ETH (ERC20)",
+    "WebsiteLink": "https://tks.everex.io/#",
+    "FundingCap": "70,000 ETH",
+    "FundingTarget": "N/A",
+    "Date": 1500854400,
+    "EndDate": 1504051200,
+    "FundsRaisedList": "45,375 ETH; 1328 BTC",
+    "FundsRaisedUSD": "22631940",
+    "StartPrice": "0.00555555555",
+    "StartPriceCurrency": "ETH",
+    "Jurisdiction": "N/A",
+    "BlogLink": "https://blog.everex.io/",
+    "WhitePaperLink": "https://daks2k3a4ib2z.cloudfront.net/59157962bdb4300afa8771a9/5963c09d077a520b5a965208_20170710_EVX_WP.pdf"
+  },
+  "ccId": "194883"
+}

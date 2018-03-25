@@ -1,0 +1,59 @@
+{
+  "General": {
+    "Symbol": "BSC",
+    "Name": "BowsCoin",
+    "Description": "<p>BowsCoin (BSC) is an X11 Proof of Work alternative crypto currency. The total number of coins is 21 million. The block time target is two and a half minutes.</p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "21000000",
+    "Algorithm": "X11",
+    "ProofType": "PoW",
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "27/04/2015",
+    "TotalCoinsMined": null,
+    "Twitter": "@NastaGm",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "http://thebows.ru/",
+    "GitHub": null,
+    "OnMarkets": [
+      "Yobit",
+      "CCEX"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "N/A",
+    "Description": null,
+    "TokenType": null,
+    "WebsiteLink": null,
+    "FundingCap": null,
+    "FundingTarget": null,
+    "Date": null,
+    "EndDate": null,
+    "FundsRaisedList": null,
+    "FundsRaisedUSD": null,
+    "StartPrice": null,
+    "StartPriceCurrency": null,
+    "Jurisdiction": null,
+    "BlogLink": null,
+    "WhitePaperLink": null
+  },
+  "ccId": "7482"
+}

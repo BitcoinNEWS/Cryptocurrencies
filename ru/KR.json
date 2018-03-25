@@ -1,0 +1,60 @@
+{
+  "General": {
+    "Symbol": "KR",
+    "Name": "Krypton",
+    "Description": "<div class=\"4u 12u$(medium)\"><p>Krypton was developed from Ethereum&#39;s previous technology, Dagger-Hashimoto consensus algorithm. It enables developers to create and deploy Dapps and smart contract with fewer initial coins and in a shorter period of time.</p></div><div class=\"4u$ 12u$(medium)\"></div>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": null,
+    "Algorithm": "Dagger-Hashimoto",
+    "ProofType": "PoW",
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "15/02/2016",
+    "TotalCoinsMined": 2910710,
+    "Twitter": "@covertress",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "http://krypton.rocks",
+    "GitHub": null,
+    "OnMarkets": [
+      "Yobit",
+      "Novaexchange",
+      "BitTrex"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "N/A",
+    "Description": null,
+    "TokenType": null,
+    "WebsiteLink": null,
+    "FundingCap": null,
+    "FundingTarget": null,
+    "Date": null,
+    "EndDate": null,
+    "FundsRaisedList": null,
+    "FundsRaisedUSD": null,
+    "StartPrice": null,
+    "StartPriceCurrency": null,
+    "Jurisdiction": null,
+    "BlogLink": null,
+    "WhitePaperLink": null
+  },
+  "ccId": "20822"
+}

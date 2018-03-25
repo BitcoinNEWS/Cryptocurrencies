@@ -1,0 +1,58 @@
+{
+  "General": {
+    "Symbol": "IML",
+    "Name": "IMMLA",
+    "Description": "<p>IMMLA stands for <span>International MultiModal Logistic Application and its a decentralized multimodal logistics service with a p2p system for transportation, document workflow<span> and payments. The mission of IMMLA project is a simple, clear and convenient interaction between the owner of cargo and the transporter on all stages of the freight transport.</span></span></p><p>Through the use of smart contracts, IMMLA is able to ensure <span>payment to the carrier regardless of its financial condition providing confidence and reliability. The terms of shipment, the current position of the cargo, its condition at the time of transfer of responsibility between carriers are recorded through the blockchain making the records 100% immutable.</span></p><p><span>IML are ERC20 Ethereum-based tokens and they represent ownership of the IMMLA platform. Tokens will also be used in the platform as a payment method. IMMLA also redeems &amp; burns tokens at the expense of 36% of transportation revenue.</span></p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "226736000",
+    "Algorithm": "N/A",
+    "ProofType": "N/A",
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "15/07/2017",
+    "TotalCoinsMined": null,
+    "Twitter": "@IMMLA_io",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "http://bit.ly/2vF7IUp",
+    "GitHub": null,
+    "OnMarkets": [
+      "HitBTC"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Upcoming",
+    "Description": "<p>IMMLA stands for <span>International MultiModal Logistic Application and its a decentralized multimodal logistics service with a p2p system for transportation, document workflow and payments.</span></p><p><span>IML<span> </span>are<span> </span>ERC20 Ethereum-based tokens and they represent ownership of the IMMLA platform. Tokens will also be used in the platform as a payment method. IMMLA also redeems &amp; burns tokens at the expense of 36% of transportation revenue.</span></p><p>Following its presale, IMMLA will launch its ICO, which will start on the 15th of October and will last for a month or until 75% of the total 226736000 IML supply is sold. During the ICO, IMMLA hopes to gather 46718 ЕТН. IMMLA features escrow, a bounty campaign and ICO bonuses.</p>",
+    "TokenType": "ETH (ERC20)",
+    "WebsiteLink": "http://bit.ly/2vF7IUp",
+    "FundingCap": "46718 ЕТН",
+    "FundingTarget": "N/A",
+    "Date": 1505433600,
+    "EndDate": 1505433600,
+    "FundsRaisedList": "N/A",
+    "FundsRaisedUSD": "N/A",
+    "StartPrice": "0.000275",
+    "StartPriceCurrency": "ETH",
+    "Jurisdiction": "N/A",
+    "BlogLink": "https://medium.com/@IMMLA",
+    "WhitePaperLink": "http://immla.io/IMMLA_WP.pdf"
+  },
+  "ccId": "184187"
+}

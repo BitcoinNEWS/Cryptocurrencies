@@ -1,0 +1,60 @@
+{
+  "General": {
+    "Symbol": "SCRT",
+    "Name": "SecretCoin",
+    "Description": "<p>SecretCoin is PoW/PoS hybrid cryptocurrency ment to be used in online game exchanges where it can be exchnaged for points/levels/weapons/vehicles/etc. the SCRT team created the coin as a way to develop games for the SecretCoin community.</p>",
+    "Features": null,
+    "Technology": "<p><strong>Block Rewards</strong><br /><span>500 coins per block until block 2000</span><br /><span>250 coins per block until block 4000</span><br /><span>125 coins per block until block 8000</span><br /><span>62.5 coins per block until block 16000</span><br /><span>31.25 coins per block until block 224000</span></p>",
+    "TotalCoinSupply": "21000000",
+    "Algorithm": "X11",
+    "ProofType": "PoW/PoS",
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "26/08/2015",
+    "TotalCoinsMined": null,
+    "Twitter": "@SecretCoinDevs",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "https://secretcoin.club/",
+    "GitHub": null,
+    "OnMarkets": [
+      "CCEX",
+      "Yobit",
+      "BitTrex"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "N/A",
+    "Description": null,
+    "TokenType": null,
+    "WebsiteLink": null,
+    "FundingCap": null,
+    "FundingTarget": null,
+    "Date": null,
+    "EndDate": null,
+    "FundsRaisedList": null,
+    "FundsRaisedUSD": null,
+    "StartPrice": null,
+    "StartPriceCurrency": null,
+    "Jurisdiction": null,
+    "BlogLink": null,
+    "WhitePaperLink": null
+  },
+  "ccId": "21760"
+}

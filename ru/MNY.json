@@ -1,0 +1,58 @@
+{
+  "General": {
+    "Symbol": "MNY",
+    "Name": "Monkey",
+    "Description": "<p>Monkey Capital is a Value CoEval, a collective non-incorporated entity which is represented by two or more independent parties which agree to sell a minority stake in their respective incorporated entities to the management company of the projects they undertake to invest in together and which is managed exclusively for the purpose of generating their own private capital returns. MNY is a Waves-based token that offers holders a Proof-of-Membership stake in the Monkey Capital Value Coeval.</p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "1000000000",
+    "Algorithm": "N/A",
+    "ProofType": "N/A",
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "08/08/2017",
+    "TotalCoinsMined": 1000000000,
+    "Twitter": "@monkeycapitaico",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "https://www.monkey.capital/",
+    "GitHub": null,
+    "OnMarkets": [
+      "WavesDEX"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Ongoing",
+    "Description": "<p>Monkey Capital is a Value CoEval, a collective non-incorporated entity which is represented by two or more independent parties which agree to sell a minority stake in their respective incorporated entities to the management company of the projects they undertake to invest in together and which is managed exclusively for the purpose of generating their own private capital returns. MNY is a Waves-based token that offers holders a Proof-of-Membership stake in the Monkey Capital Value Coeval.</p><p> </p><p><strong>Team</strong>:</p><ul><li><strong>Daniel M. Harrison:</strong> Founder and CEO. <a href=\"https://twitter.com/dmhco\" target=\"_blank\"><img style=\"width: 13px; height: 13px;\" src=\"/media/1383932/twitter_logo_final.png?width=13&amp;height=13\" alt=\"\" data-id=\"202868\"></a> <a href=\"https://www.linkedin.com/in/dmhco/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Josua Hawley:</strong> COO.<span> </span><a href=\"https://th.linkedin.com/in/joshua-paul-hawley-7b222063\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Stefan Hickmott:</strong> Group Financial Director.<span> </span><a href=\"https://www.linkedin.com/in/stefan-hickmott-404b2b1b/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li></ul><p>Monkey Capital will hold its ICO from the 8th of August, 2017 until the 8th of September, 2017. During this time, users will be able to purchase MNY with BTC, WAVES, ETH, LTC ,XRP and COEVAL.</p><p> </p>",
+    "TokenType": "WAVES",
+    "WebsiteLink": "https://www.monkey.capital",
+    "FundingCap": "N/A",
+    "FundingTarget": "N/A",
+    "Date": 1502193600,
+    "EndDate": 1504958400,
+    "FundsRaisedList": "N/A",
+    "FundsRaisedUSD": "N/A",
+    "StartPrice": "N/A",
+    "StartPriceCurrency": "N/A",
+    "Jurisdiction": "N/A",
+    "BlogLink": "https://medium.com/@monkeycapital",
+    "WhitePaperLink": "https://www.monkey.capital/docs/MC_Whitepaper.pdf"
+  },
+  "ccId": "208001"
+}

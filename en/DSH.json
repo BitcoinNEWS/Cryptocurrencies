@@ -1,0 +1,59 @@
+{
+  "General": {
+    "Symbol": "DSH",
+    "Name": "Dashcoin",
+    "Description": "<p>Dashcoin стремится создать идеальное зеркальное отражение Bytecoin. Dashcoin предлагает настоящую анонимность и защиту данных через систему кольцевой подписи.</p><p>ASIC-устойчивы, Dashcoin обеспечивает истинную децентрализованную добычу.</p><p><strong>ВНИМАНИЕ! Не cпутайте данный альткойн с <a href=\"https://bitcoinnews.blog/cryptocurrencies/DASH\" target=\"_blank\"> DASH - DigitalCash </a>. Помимо похожего имени звучания, эта монета не имеет ничего общего с DASH. Bitfinex перечисляет DASH как DSH по какой-то глупой причине</strong></p>",
+    "Features": "<p><strong>Untraceable payments</strong></p><p><strong>Unlinkable transactions</strong></p><p><strong>Double-spending proof</strong></p><p><strong>Blockchain analysis resistance</strong></p><p><strong>Egalitarian proof of work</strong></p><p><strong>Adaptive limits</strong></p>",
+    "Technology": null,
+    "TotalCoinSupply": "18446744",
+    "Algorithm": "CryptoNight",
+    "ProofType": "PoW",
+    "BlockReward": 1.748334359236,
+    "Explorer": null,
+    "StartDate": "05/07/2014",
+    "TotalCoinsMined": 17988692.602776002,
+    "Twitter": null,
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "https://dashcoin.info/",
+    "GitHub": null,
+    "OnMarkets": [
+      "HitBTC",
+      "Poloniex"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "N/A",
+    "Description": null,
+    "TokenType": null,
+    "WebsiteLink": null,
+    "FundingCap": null,
+    "FundingTarget": null,
+    "Date": null,
+    "EndDate": null,
+    "FundsRaisedList": null,
+    "FundsRaisedUSD": null,
+    "StartPrice": null,
+    "StartPriceCurrency": null,
+    "Jurisdiction": null,
+    "BlogLink": null,
+    "WhitePaperLink": null
+  },
+  "ccId": "20196"
+}

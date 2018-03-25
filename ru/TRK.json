@@ -1,0 +1,62 @@
+{
+  "General": {
+    "Symbol": "TRK",
+    "Name": "TruckCoin",
+    "Description": "<p>Truck Coin is a Proof or Work and a Proof of Stake crypto currency with a very high PoS rate at 200% The block time is 90 seconds and the team are looking to develop an android wallet in the near future.</p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "1000000",
+    "Algorithm": "X11",
+    "ProofType": "PoW/PoS",
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "29/07/2014",
+    "TotalCoinsMined": null,
+    "Twitter": "@truckcoin_v2",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "http://truckcoin.net/",
+    "GitHub": null,
+    "OnMarkets": [
+      "TradeSatoshi",
+      "Novaexchange",
+      "Cryptopia",
+      "BitTrex",
+      "Cryptsy"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "N/A",
+    "Description": null,
+    "TokenType": null,
+    "WebsiteLink": null,
+    "FundingCap": null,
+    "FundingTarget": null,
+    "Date": null,
+    "EndDate": null,
+    "FundsRaisedList": null,
+    "FundsRaisedUSD": null,
+    "StartPrice": null,
+    "StartPriceCurrency": null,
+    "Jurisdiction": null,
+    "BlogLink": null,
+    "WhitePaperLink": null
+  },
+  "ccId": "5351"
+}

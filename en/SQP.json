@@ -1,0 +1,56 @@
+{
+  "General": {
+    "Symbol": "SQP",
+    "Name": "SqPay",
+    "Description": "<p>SqPay is a cryptocurrency-based real-estate investment project that employs a DAT (<span> Decentralized Autonomous Trust) from which an ecosystem is created, allowing token holders to vote on several aspects such as Distribution of profit; - Selection of real estate items; - New investment directions proposed by the committee. SqPay tokens represent ownership in the DAT and can earn dividends.</span></p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "1000000",
+    "Algorithm": null,
+    "ProofType": null,
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "30/08/2017",
+    "TotalCoinsMined": null,
+    "Twitter": null,
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "-",
+    "GitHub": null,
+    "OnMarkets": [],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Ongoing",
+    "Description": "<p><span>SqPay is a cryptocurrency-based real-estate investment project that employs a DAT (</span><span> Decentralized Autonomous Trust) from which an ecosystem is created, allowing token holders to vote on several aspects such as Distribution of profit; - Selection of real estate items; - New investment directions proposed by the committee. SqPay tokens represent ownership in the DAT and can earn dividends.</span></p><p><strong>Team</strong>:</p><ul><li>Vasily Mashkov</li><li>Oleg Pletnev</li><li>Sharabin Denis</li><li>Dmitrii Koshelev</li><li>Kiril Andreev</li><li>Vladislav Yushev</li></ul><p>The SqPay ICO will start on the 30th of August, 2017. The ICO token supply represents 90% of the total 1M SQP supply. Each token is valued at $100 during the ICO and participants can purchase them with ETH. The ICO funding cap is $90M. <span>In the event that fewer tokens are sold, the number of tokens for the team will be reduced based on 9% of the total number of tokens sold, and the rest are burnt.</span></p><p><strong>Token Reserve Split (10%):</strong></p><ul><li>1,000 – 3,000 (0.1 – 0.3%) – $50 per 1 token, and the minimum purchase is 2 tokens.</li><li>ITO (4 weeks) 900,000 (90%) – $100 per token, and the minimum purchase is 1 token.</li><li>97,000 – 99,000 (9.7 – 9.9%) – will be distributed among the team</li></ul>",
+    "TokenType": "ETH (ERC20)",
+    "WebsiteLink": "https://sqpay.io/",
+    "FundingCap": "90000000",
+    "FundingTarget": "N/A",
+    "Date": 1504051200,
+    "EndDate": 1505347200,
+    "FundsRaisedList": "N/A",
+    "FundsRaisedUSD": "N/A",
+    "StartPrice": "100",
+    "StartPriceCurrency": "USD",
+    "Jurisdiction": "N/A",
+    "BlogLink": null,
+    "WhitePaperLink": "https://sqpay.io/SqPay_White_Paper_eng.PDF"
+  },
+  "ccId": "237448"
+}

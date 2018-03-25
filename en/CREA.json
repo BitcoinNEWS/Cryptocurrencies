@@ -1,0 +1,59 @@
+{
+  "General": {
+    "Symbol": "CREA",
+    "Name": "CreativeChain",
+    "Description": "<p>Creativechain is a decentralized blockchain-based platform for the registration and distribution of content that certifies the authorship and license of any work or creation making them indelible. The platform applies the power of attorney of Blockchain technology in the process of registering content to create incorruptible time stamps that certify the intellectual property of any digital work. CREA is the native value token in the CreativeChain system. It&#39;s a Proof of Work token based on the Scrypt algorithm.</p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "115000000",
+    "Algorithm": "Keccak",
+    "ProofType": "PoW",
+    "BlockReward": 20.999999984167516,
+    "Explorer": null,
+    "StartDate": "15/03/2017",
+    "TotalCoinsMined": 13871096.42596927,
+    "Twitter": "@Creative_Chain",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "http://creativechain.org",
+    "GitHub": null,
+    "OnMarkets": [
+      "Novaexchange",
+      "Cryptopia"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Finished",
+    "Description": "<p>Over the month and a half ICO period 209 BTC was raised from 302 participants, the largest investment was around 17BTC and an average investment size of 0.69BTC. The token acts as the sole means of payment on the creative network. 65% of the initial pre-mine has been awarded to the ICO investors. However this  is 10.6% of the total supply of Creative coin which be reached in 92 years via a fibonacci sequence mining emission. The following bonus scheme was implemented:</p><p><span>Bonus 21% (March 15th)</span><br /><span>Bonus 13% (March 16th)</span><br /><span>Bonus 8% (March 17th &amp; 18th)</span><br /><span>Bonus 5% (March 19th- 21st)</span><br /><span>Bonus 3% (March 22nd- 26th)</span><br /><span>Bonus 2% (March 27th- April 3rd)</span><br /><span>Bonus 1% (April 4th- 16th)</span><br /><span>0% (From April 17 to May 1)</span></p><p><span>The other 35% of coins available from the pre-mine will be used in the following distribution.</span></p><p><strong>Bounties for Collaborations: 12% CREA<br /></strong>Rewards for all those who support the project in terms of advice, development, dissemination or translation of content into other languages.</p><p><strong>Rewards to copyleft content: 10% CREA<br /></strong><span>To promote the use of free licenses will be spread over 4 years small rewards in the form of donation or sponsorship to copyleft projects registered in the platform that have gained greater interaction or assessment by the user community.<br /></span></p><p><span><strong>Developers Team: 10% CREA<br /></strong>Incentives and rewards for the team that develos the Core and the platform Creativechain.<br />These funds are distributed in two annual payments. First payment May 2 and second payment November 2.<br /></span></p><p><strong>Public domain content: 3% CREA</strong><br />Reserve fund to register and index public domain content on the platform.</p><p><a href=\"https://www.creativechain.org/terms-of-participation-ico/\" target=\"_blank\" title=\"Sale terms\">Sale terms</a></p>",
+    "TokenType": "N/A",
+    "WebsiteLink": "https://www.creativechain.org/ico/",
+    "FundingCap": "N/A",
+    "FundingTarget": "N/A",
+    "Date": 1489564800,
+    "EndDate": 1493640000,
+    "FundsRaisedList": "209 BTC",
+    "FundsRaisedUSD": "300000",
+    "StartPrice": "0.0246",
+    "StartPriceCurrency": "USD",
+    "Jurisdiction": "N/A",
+    "BlogLink": "https://www.creativechain.org/blog/  ",
+    "WhitePaperLink": "https://creativechain.org/wp-content/uploads/2017/03/Whitepaper-Creativechain-1.2.pdf"
+  },
+  "ccId": "48787"
+}

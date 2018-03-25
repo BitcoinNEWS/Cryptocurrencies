@@ -1,0 +1,59 @@
+{
+  "General": {
+    "Symbol": "XCE",
+    "Name": "Cerium",
+    "Description": "<p><span>Like the rare earth element it is named after, the Cerium crypto currency is small in supply and aims to be a something the world depends on. Cerium hopes to introduce an efficient payment method which will eventually be adopted by the masses.</span></p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "2307925",
+    "Algorithm": "SHA256",
+    "ProofType": "PoW/PoS",
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "06/07/2015",
+    "TotalCoinsMined": null,
+    "Twitter": "@CeriumDev",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "-",
+    "GitHub": null,
+    "OnMarkets": [
+      "Yobit",
+      "CCEX"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "N/A",
+    "Description": null,
+    "TokenType": null,
+    "WebsiteLink": null,
+    "FundingCap": null,
+    "FundingTarget": null,
+    "Date": null,
+    "EndDate": null,
+    "FundsRaisedList": null,
+    "FundsRaisedUSD": null,
+    "StartPrice": null,
+    "StartPriceCurrency": null,
+    "Jurisdiction": null,
+    "BlogLink": null,
+    "WhitePaperLink": null
+  },
+  "ccId": "6455"
+}

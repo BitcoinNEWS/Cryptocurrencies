@@ -1,0 +1,62 @@
+{
+  "General": {
+    "Symbol": "ACOIN",
+    "Name": "ACoin",
+    "Description": "<p>Acoin is an SHA-256 Bitcoin clone. The block reward varies with a block reward of 2-10x normal roughly every 1 in ten blocks. The block reward initially starts at 1 and reduces by 50% every 6 months. </p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "1600000",
+    "Algorithm": "SHA256",
+    "ProofType": "PoW",
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "01/01/0001",
+    "TotalCoinsMined": null,
+    "Twitter": "@acointeam",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "http://acoinproject.org/",
+    "GitHub": null,
+    "OnMarkets": [
+      "Cryptopia",
+      "Yobit",
+      "Novaexchange",
+      "Cryptsy",
+      "Coinse"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "N/A",
+    "Description": null,
+    "TokenType": null,
+    "WebsiteLink": null,
+    "FundingCap": null,
+    "FundingTarget": null,
+    "Date": null,
+    "EndDate": null,
+    "FundsRaisedList": null,
+    "FundsRaisedUSD": null,
+    "StartPrice": null,
+    "StartPriceCurrency": null,
+    "Jurisdiction": null,
+    "BlogLink": null,
+    "WhitePaperLink": null
+  },
+  "ccId": "4323"
+}

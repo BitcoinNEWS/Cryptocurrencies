@@ -1,0 +1,61 @@
+{
+  "General": {
+    "Symbol": "ACP",
+    "Name": "Anarchists Prime",
+    "Description": "<p>AnarchistsPrime ACP is a crypto currency for those who know the anarchy symbolism and what it stands for, this is to help aid those protestors who need ways of receiving funding. Despite the specific use named for this particular crypto by its creators the crypto is an SHA-256 Proof of Work based coin with block time of 3 minutes and difficulty retargetting each block.</p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "53760000",
+    "Algorithm": "SHA256",
+    "ProofType": "PoW",
+    "BlockReward": 32.00001249485649,
+    "Explorer": null,
+    "StartDate": "24/03/2015",
+    "TotalCoinsMined": 10360893.78669346,
+    "Twitter": "@AnarchistsPrime",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "http://www.anarchistsprime.info/",
+    "GitHub": null,
+    "OnMarkets": [
+      "Novaexchange",
+      "CCEX",
+      "Yobit",
+      "Cryptopia"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "N/A",
+    "Description": null,
+    "TokenType": null,
+    "WebsiteLink": null,
+    "FundingCap": null,
+    "FundingTarget": null,
+    "Date": null,
+    "EndDate": null,
+    "FundsRaisedList": null,
+    "FundsRaisedUSD": null,
+    "StartPrice": null,
+    "StartPriceCurrency": null,
+    "Jurisdiction": null,
+    "BlogLink": null,
+    "WhitePaperLink": null
+  },
+  "ccId": "6476"
+}

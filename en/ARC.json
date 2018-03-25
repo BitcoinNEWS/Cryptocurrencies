@@ -1,0 +1,61 @@
+{
+  "General": {
+    "Symbol": "ARC",
+    "Name": "Arcade City",
+    "Description": "<p>Arcade City is a decentralized global community of peer-to-peer service providers and consumers. The core technical offering is an Ethereum-based dapp for web, Android and iOS. The initial service offerings focus on the ridesharing industry, with plans in motion for peer-to-peer deliveries and short-term home rentals.</p><p>To facilitate peer-to-peer transactions in the Arcade City network, Arcade City issued an Arcade token (ARC) on the Ethereum blockchain. The ARC token is intended to be the primary means of paying for services in the Arcade City ecosystem.</p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "100000000",
+    "Algorithm": "N/A",
+    "ProofType": "N/A",
+    "BlockReward": 1.5000000049670537,
+    "Explorer": null,
+    "StartDate": "28/11/2016",
+    "TotalCoinsMined": 24669068.10960387,
+    "Twitter": "@ArcadeCityHall",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "https://arcade.city/",
+    "GitHub": null,
+    "OnMarkets": [
+      "LiveCoin",
+      "Cryptopia",
+      "CCEX",
+      "EtherDelta"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "N/A",
+    "Description": null,
+    "TokenType": null,
+    "WebsiteLink": null,
+    "FundingCap": null,
+    "FundingTarget": null,
+    "Date": null,
+    "EndDate": null,
+    "FundsRaisedList": null,
+    "FundsRaisedUSD": null,
+    "StartPrice": null,
+    "StartPriceCurrency": null,
+    "Jurisdiction": null,
+    "BlogLink": null,
+    "WhitePaperLink": null
+  },
+  "ccId": "33021"
+}

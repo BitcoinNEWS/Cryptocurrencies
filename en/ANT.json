@@ -1,0 +1,64 @@
+{
+  "General": {
+    "Symbol": "ANT",
+    "Name": "Aragon",
+    "Description": "<p>Aragon is a decentralized platform built on the Ethereum network. It allows users to manage entire organizations on the blockchain offering several tools that allow users to managed these decentralized organizations with efficiency. <span>The ANT will enable its holders to govern the Aragon Network.</span></p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "39609524",
+    "Algorithm": null,
+    "ProofType": null,
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "05/05/2017",
+    "TotalCoinsMined": 39609523.809523806,
+    "Twitter": "@AragonProject",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "https://aragon.one",
+    "GitHub": null,
+    "OnMarkets": [
+      "Liqui",
+      "LiveCoin",
+      "BitTrex",
+      "Tidex",
+      "Novaexchange",
+      "EtherDelta",
+      "HitBTC"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Finished",
+    "Description": "<p><span data-sheets-value=\"{&quot;1&quot;:2,&quot;2&quot;:&quot;Aragon is everything you need to run your company on Ethereum. Cap table, governance, fundraising, payroll, accounting, bylaws\\u2026 Aragon companies are extremely customizable, and you get everything in a unified, beautiful interface.&quot;}\" data-sheets-userformat=\"{&quot;2&quot;:25180291,&quot;3&quot;:[null,0],&quot;4&quot;:{&quot;1&quot;:2,&quot;2&quot;:16777215},&quot;10&quot;:2,&quot;14&quot;:{&quot;1&quot;:2,&quot;2&quot;:0},&quot;15&quot;:&quot;Maison Neue&quot;,&quot;16&quot;:13,&quot;26&quot;:300,&quot;27&quot;:0}\">&#39;<span data-sheets-value=\"{&quot;1&quot;:2,&quot;2&quot;:&quot;Create value without borders or intermediaries&quot;}\" data-sheets-userformat=\"{&quot;2&quot;:12457,&quot;3&quot;:[null,0],&quot;6&quot;:{&quot;1&quot;:[{&quot;1&quot;:2,&quot;2&quot;:0,&quot;5&quot;:{&quot;1&quot;:2,&quot;2&quot;:0}},{&quot;1&quot;:0,&quot;2&quot;:0,&quot;3&quot;:3},{&quot;1&quot;:1,&quot;2&quot;:0,&quot;4&quot;:1}]},&quot;8&quot;:{&quot;1&quot;:[{&quot;1&quot;:2,&quot;2&quot;:0,&quot;5&quot;:{&quot;1&quot;:2,&quot;2&quot;:0}},{&quot;1&quot;:0,&quot;2&quot;:0,&quot;3&quot;:3},{&quot;1&quot;:1,&quot;2&quot;:0,&quot;4&quot;:1}]},&quot;10&quot;:2,&quot;15&quot;:&quot;Calibri&quot;,&quot;16&quot;:11}\">Create value without borders or intermediaries&#39;. </span>Aragon is everything you need to run your company on Ethereum. Cap table, governance, fundraising, payroll, accounting, bylaws… Aragon companies are extremely customizable, and you get everything in a unified, beautiful interface. The ANT token acts as a governance system whereby the token holders can vote on which services their organisation provides, costs and many other parameters.</span></p><p><span data-sheets-value=\"{&quot;1&quot;:2,&quot;2&quot;:&quot;Aragon is everything you need to run your company on Ethereum. Cap table, governance, fundraising, payroll, accounting, bylaws\\u2026 Aragon companies are extremely customizable, and you get everything in a unified, beautiful interface.&quot;}\" data-sheets-userformat=\"{&quot;2&quot;:25180291,&quot;3&quot;:[null,0],&quot;4&quot;:{&quot;1&quot;:2,&quot;2&quot;:16777215},&quot;10&quot;:2,&quot;14&quot;:{&quot;1&quot;:2,&quot;2&quot;:0},&quot;15&quot;:&quot;Maison Neue&quot;,&quot;16&quot;:13,&quot;26&quot;:300,&quot;27&quot;:0}\">Aragon&#39;s distribution plan is </span><span data-sheets-value=\"{&quot;1&quot;:2,&quot;2&quot;:&quot;Aragon is everything you need to run your company on Ethereum. Cap table, governance, fundraising, payroll, accounting, bylaws\\u2026 Aragon companies are extremely customizable, and you get everything in a unified, beautiful interface.&quot;}\" data-sheets-userformat=\"{&quot;2&quot;:25180291,&quot;3&quot;:[null,0],&quot;4&quot;:{&quot;1&quot;:2,&quot;2&quot;:16777215},&quot;10&quot;:2,&quot;14&quot;:{&quot;1&quot;:2,&quot;2&quot;:0},&quot;15&quot;:&quot;Maison Neue&quot;,&quot;16&quot;:13,&quot;26&quot;:300,&quot;27&quot;:0}\"><span data-sheets-value=\"{&quot;1&quot;:2,&quot;2&quot;:&quot;70/15/15 distribution: 70% will go to purchasers, 15% to the Foundation, and 15% to the founders and early contributors who have worked on the project. The founder and early contributors will all have vesting.&quot;}\" data-sheets-userformat=\"{&quot;2&quot;:14466,&quot;4&quot;:{&quot;1&quot;:2,&quot;2&quot;:16777215},&quot;10&quot;:2,&quot;14&quot;:{&quot;1&quot;:2,&quot;2&quot;:0},&quot;15&quot;:&quot;Inconsolata&quot;,&quot;16&quot;:11}\">70/15/15: 70% will go to purchasers, 15% to the Foundation, and 15% to the founders and early contributors who have worked on the project. The founder and early contributors will all have vesting. From the Ethscan contract address it is shown that there were </span></span><span data-sheets-value=\"{&quot;1&quot;:2,&quot;2&quot;:&quot;Aragon is everything you need to run your company on Ethereum. Cap table, governance, fundraising, payroll, accounting, bylaws\\u2026 Aragon companies are extremely customizable, and you get everything in a unified, beautiful interface.&quot;}\" data-sheets-userformat=\"{&quot;2&quot;:25180291,&quot;3&quot;:[null,0],&quot;4&quot;:{&quot;1&quot;:2,&quot;2&quot;:16777215},&quot;10&quot;:2,&quot;14&quot;:{&quot;1&quot;:2,&quot;2&quot;:0},&quot;15&quot;:&quot;Maison Neue&quot;,&quot;16&quot;:13,&quot;26&quot;:300,&quot;27&quot;:0}\"><span data-sheets-value=\"{&quot;1&quot;:2,&quot;2&quot;:&quot;70/15/15 distribution: 70% will go to purchasers, 15% to the Foundation, and 15% to the founders and early contributors who have worked on the project. The founder and early contributors will all have vesting.&quot;}\" data-sheets-userformat=\"{&quot;2&quot;:14466,&quot;4&quot;:{&quot;1&quot;:2,&quot;2&quot;:16777215},&quot;10&quot;:2,&quot;14&quot;:{&quot;1&quot;:2,&quot;2&quot;:0},&quot;15&quot;:&quot;Inconsolata&quot;,&quot;16&quot;:11}\"><span data-sheets-value=\"{&quot;1&quot;:2,&quot;2&quot;:&quot;2403 buyers&quot;}\" data-sheets-userformat=\"{&quot;2&quot;:14466,&quot;4&quot;:{&quot;1&quot;:2,&quot;2&quot;:16777215},&quot;10&quot;:2,&quot;14&quot;:{&quot;1&quot;:2,&quot;2&quot;:0},&quot;15&quot;:&quot;medium-content-serif-font&quot;,&quot;16&quot;:16}\">2403 buyers with an average investment of $10,402. The hidden cap of 275,000 ETH was hit in only 26 minutes at the rate of 100 ANT/ETH.</span></span></span></p><p><a href=\"https://etherscan.io/address/0x960b236A07cf122663c4303350609A66A7B288C0\" target=\"_blank\">Contract address</a></p><p> </p>",
+    "TokenType": "ETH (ERC20)",
+    "WebsiteLink": "https://blog.aragon.one/the-aragon-token-sale-the-numbers-12d03c8b97d3",
+    "FundingCap": "25,000,000 USD",
+    "FundingTarget": "N/A",
+    "Date": 1495026000,
+    "EndDate": 1495036800,
+    "FundsRaisedList": "275,000 ETH",
+    "FundsRaisedUSD": "24997500",
+    "StartPrice": "0.909",
+    "StartPriceCurrency": "USD",
+    "Jurisdiction": "N/A",
+    "BlogLink": "https://blog.aragon.one/",
+    "WhitePaperLink": "https://aragon.one/network/"
+  },
+  "ccId": "78152"
+}

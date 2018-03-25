@@ -1,0 +1,60 @@
+{
+  "General": {
+    "Symbol": "XDN",
+    "Name": "DigitalNote",
+    "Description": "<p><span>Anonymous decentralized cryptocurrency with encrypted untraceable messages and blockchain deposits, secure ASIC-resistant PoW. PoA soon. not Bitcoin. Crypto 2.0</span></p><p>DigitalNote is a cryptonight algorithm based alternative crypto currency. 80% of the 8.5 billion coin supply will be mined in the first year. Difficulty adjusts each block.</p><p>Decentralized and private blockchain banking. Secure proof-of-work, truly anonymous digital payment system with crypto messages, multi-signatures and bank alike deposits. Based on CryptoNote. Ahead of Bitcoin.</p>",
+    "Features": null,
+    "Technology": "<p><strong>Maximum XDN number: 8 589 869 056 XDN </strong>Ready for mass adoption, accurate digital money, the 6th perfect number</p><p><strong>Libertarian XDN supply with ASIC resistant mining</strong> Unique model of market economy combined with blockchain technology</p><p><strong>Block reward: 150 XDN</strong> Constant DigitalNote base mining reward makes it predictable for miners</p><p><strong>Deposit interest rate: 0.4 to 1.094% annual</strong> The only cryptocurrency with blockchain deposits</p><p><strong>Block target time: 4 minute</strong> DigitalNote network is 2.5x faster than Bitcoin</p><p><strong>Mining algorithm: Proof-of-work, CryptoNight</strong> CPU-efficient mining process for average PC or laptop.</p><p><strong> Minimum transaction fee: 0.001 XDN</strong> Micropayments made easy with DigitalNote</p>",
+    "TotalCoinSupply": "8589869056",
+    "Algorithm": "CryptoNight",
+    "ProofType": "PoW",
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "30/05/2014",
+    "TotalCoinsMined": 6895808788.02835,
+    "Twitter": "@DigitalNote_XDN",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "http://digitalnote.org/",
+    "GitHub": null,
+    "OnMarkets": [
+      "HitBTC",
+      "Poloniex",
+      "BitTrex"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "N/A",
+    "Description": null,
+    "TokenType": null,
+    "WebsiteLink": null,
+    "FundingCap": null,
+    "FundingTarget": null,
+    "Date": null,
+    "EndDate": null,
+    "FundsRaisedList": null,
+    "FundsRaisedUSD": null,
+    "StartPrice": null,
+    "StartPriceCurrency": null,
+    "Jurisdiction": null,
+    "BlogLink": null,
+    "WhitePaperLink": null
+  },
+  "ccId": "5282"
+}

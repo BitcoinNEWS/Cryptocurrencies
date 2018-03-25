@@ -1,0 +1,58 @@
+{
+  "General": {
+    "Symbol": "LAB",
+    "Name": "CoinWorksCoin",
+    "Description": "<p>CoinWorksCoin was an experimental coin running off multiple algorithms like Quarkcoin. With both the twitter feed and the website down there isn&#39;t much information on this particular crypto currency.</p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "430000000",
+    "Algorithm": null,
+    "ProofType": null,
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "06/06/2014",
+    "TotalCoinsMined": null,
+    "Twitter": null,
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "-",
+    "GitHub": null,
+    "OnMarkets": [
+      "Cryptsy"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Upcoming",
+    "Description": "<p><span>Bringing Bonds to Blockchain. Labrys are developing the technology needed to effectively issue bonds as tokenised assets directly on the blockchain. By utilising the latest technology available, inefficiencies in the issuance process are able to be eliminated, creating a much more efficient and cost effective bond ecosystem.</span> LAB tokens allow the user to gain ownership of a bond and provides interest payments.</p><p><strong>Team</strong>:</p><ul><li><strong>Taber Silver:</strong> Managing Director and Founder <a href=\"https://www.linkedin.com/in/taber-silver-65402a98/\" target=\"_blank\"><img src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"> </a></li><li><strong>Lachilan Feeney:</strong> Chief Technology Officer and Cofounder <a href=\"https://www.linkedin.com/in/lachlan-feeney\" target=\"_blank\"><img src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Dr. Greg Timbrel:</strong> Infromation Systems Consultant <a href=\"https://www.linkedin.com/in/dtimbrell/\" target=\"_blank\"><img src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Lucas Cullen:</strong> Information Systems Consultant <a href=\"https://www.linkedin.com/in/lucascullen\" target=\"_blank\"><img src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Yasmine Everstets: </strong>PR and Marketing Director <a href=\"https://www.linkedin.com/in/yasmineeverstets/\" target=\"_blank\"><img src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>James Blinco:</strong><strong> </strong>Digital Strategist <a href=\"https://www.linkedin.com/in/james-blinco-976410109/\" target=\"_blank\"><img src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Katrina Donaghy: </strong>Blockchain Strategy Lead <a href=\"https://www.linkedin.com/in/katrina-donaghy-49989629/\" target=\"_blank\"><img src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li></ul><p>The Labrys ICO has been delayed to a TBA date.. The ICO token allocation represents 75% of the total supply and will be available for a 0.10 USD price. Users will be able to participate with ETH.</p><p><strong>Token Reserve Split (25%):</strong></p><ul><li>15%: Labrys founding team allocation<br>10%: Company reserve</li></ul><p>The Labrys ICO features a bounty campaign.</p>",
+    "TokenType": "ETH (ERC20)",
+    "WebsiteLink": "https://www.labrys.io/",
+    "FundingCap": "TBA",
+    "FundingTarget": "TBA",
+    "Date": null,
+    "EndDate": null,
+    "FundsRaisedList": "N/A",
+    "FundsRaisedUSD": "N/A",
+    "StartPrice": "0.10",
+    "StartPriceCurrency": "USD",
+    "Jurisdiction": "Australia",
+    "BlogLink": "https://medium.com/labrys",
+    "WhitePaperLink": "https://www.labrys.io/files/labrys_whitepaper_v1.pdf"
+  },
+  "ccId": "4548"
+}

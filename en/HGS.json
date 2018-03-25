@@ -1,0 +1,56 @@
+{
+  "General": {
+    "Symbol": "HGS",
+    "Name": "HashGains",
+    "Description": "<p>Hashgains is a large-scale mining operation project deriving its energy source from renewable energy. The company offers a wide range of cryptocurrency cloud mining facilities, including Bitcoin mining, Ethereum mining, Monero mining, Dash mining, Zcash mining, and the like.</p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "50000000",
+    "Algorithm": null,
+    "ProofType": null,
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "26/01/2018",
+    "TotalCoinsMined": null,
+    "Twitter": "@hashgains",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": null,
+    "GitHub": null,
+    "OnMarkets": [],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Ongoing",
+    "Description": "<p>Hashgains is a large-scale mining operation project deriving its energy source from renewable energy. The company offers a wide range of cryptocurrency cloud mining facilities, including Bitcoin mining, Ethereum mining, Monero mining, Dash mining, Zcash mining, and the like.</p><p><strong>Team</strong>:</p><ul><li><strong>Mr. Anuj Bairathi:</strong> CEO &amp; Founder <a href=\"https://www.linkedin.com/in/abairathi\" target=\"_blank\"><img src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Gary Barlow:<span> </span></strong><span>Director <a href=\"https://www.hashgains.com/ico/\" target=\"_blank\"><img src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></span></li><li><strong>Mr. Ravish Sharma:</strong> Chief Operation Officer<span> </span><a href=\"https://www.linkedin.com/in/ravishsharma83/\" target=\"_blank\"><img src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Dr. Ravi Sharma:</strong> VP – Sales &amp; Marketing<span> </span><a href=\"https://www.linkedin.com/in/ravi-sharma-347b4821/\" target=\"_blank\"><img src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li></ul><p>The Hashgains ICO started on the 26th of January and will end on the 25th of March, 2018. Tokens will be available for a $1 base price. Pre-sale and ICO dates:</p><p style=\"font-weight: 400;\"><strong>Presale</strong></p><p style=\"font-weight: 400;\">26th Jan 2018 (<span data-term=\"goog_1203937763\"><span>00:00 EST</span></span>)<br>to<span> </span><span data-term=\"goog_1203937764\"><span>28th Feb ,2018</span></span><span> </span>(<span data-term=\"goog_1203937765\"><span>23:59 EST</span></span>)</p><p style=\"font-weight: 400;\"><strong>Main Sale Tier 1</strong></p><p style=\"font-weight: 400;\"><span data-term=\"goog_1203937766\"><span>1st Mar 2018</span></span><span> </span>(<span data-term=\"goog_1203937767\"><span>00:00 EST</span></span>)<br>to<span> </span><span data-term=\"goog_1203937768\"><span>31st Mar ,2018</span></span><span> </span>(<span data-term=\"goog_1203937769\"><span>23:59 EST</span></span>)</p><p style=\"font-weight: 400;\"><strong>Main Sale Tier 2</strong></p><p style=\"font-weight: 400;\"><span data-term=\"goog_1203937770\"><span>1st April 2018</span></span><span> </span>(<span data-term=\"goog_1203937771\"><span>00:00 EST</span></span>)<br>to<span> </span><span data-term=\"goog_1203937772\"><span>30th April, 2018</span></span><span> </span>(<span data-term=\"goog_1203937773\"><span>23:59 EST</span></span>)</p>",
+    "TokenType": "ETH (ERC20)",
+    "WebsiteLink": "https://www.hashgains.com/ico",
+    "FundingCap": "N/A",
+    "FundingTarget": "N/A",
+    "Date": 1516942800,
+    "EndDate": 1525064400,
+    "FundsRaisedList": "Presale: 35,000,000 HGS tokens sold\r\nMain sale: 7,500,000 HGS tokens sold",
+    "FundsRaisedUSD": "N/A",
+    "StartPrice": "1",
+    "StartPriceCurrency": "USD",
+    "Jurisdiction": "U.S.A",
+    "BlogLink": "https://medium.com/@hashgains",
+    "WhitePaperLink": " https://www.hashgains.com/ico/documents/hashgain-token-whitepaper.pdf"
+  },
+  "ccId": "746316"
+}

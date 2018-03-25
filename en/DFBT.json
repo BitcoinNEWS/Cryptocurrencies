@@ -1,0 +1,56 @@
+{
+  "General": {
+    "Symbol": "DFBT",
+    "Name": "DentalFix",
+    "Description": "<p><span>DENTALFIX is a platform for Dental clinics and the supply chain. </span><span>The DENTALFIX token (DFBT) is the fuel for driving the blockchain infrastructure. The primary usage of the token is to regulate network storage allocation, health care quality measures, and revenue payment cycles. Patients are given an allotted amount of space to store information for free on the DENTALFIX network. DFBT allows them to purchase extra storage space from nodes set up in hospitals systems. DFBT can be purchased via the platform or an exchange.</span></p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "100000000",
+    "Algorithm": "N/A",
+    "ProofType": "N/A",
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "01/01/0001",
+    "TotalCoinsMined": null,
+    "Twitter": "@DentalfixK",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "http://www.che-ss.com/",
+    "GitHub": null,
+    "OnMarkets": [],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Ongoing",
+    "Description": "<p><span>DENTALFIX is a platform for Dental clinics and the supply chain. </span>The DENTALFIX token (DFBT) is the fuel for driving the blockchain infrastructure. The primary usage of the token is to regulate network storage allocation, health care quality measures, and revenue payment cycles. Patients are given an allotted amount of space to store information for free on the DENTALFIX network. DFBT allows them to purchase extra storage space from nodes set up in hospitals systems. DFBT can be purchased via the platform or an exchange.</p><p><strong>Team</strong>:</p><ul><li><strong>Sergey Safronov</strong>: Founder and CEO, CHESS-DENT LLC. <a href=\"https://www.facebook.com/sekasovich\" target=\"_blank\"><img style=\"width: 13px; height: 13px;\" src=\"/media/1383930/face_logo_final.png?width=13&amp;height=13\" alt=\"\" data-id=\"202866\"></a> <a href=\"https://www.linkedin.com/in/dblss/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Polina Fadeeva</strong>: Sales Manager<span>, CHESS-DENT LLC</span>.</li><li><strong>Alex Chernyshev</strong><span>: Production and Logistics, CHESS-DENT LLC.</span></li><li><strong>Anton Borisov</strong><span>:<span> </span></span><span>Founder and CEO, iStom Dental Software.</span><span> <a href=\"https://www.linkedin.com/in/anton-borisov-17b80211b/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></span></li><li><strong>Alexey Borisov</strong><span>: Co-Founder, iStorm Dental Software.</span></li><li><strong>Denis Satyukov</strong>: Head of Development<span>, iStorm Dental Software</span><span>.</span></li></ul><p>DentalFix will be holding its ICO on August 13, 2017. The ICO token supply represents 70% of the total token supply, so there will be a total of 70,000,000 tokens available, for 0.001111 ETH each at the offering. The ICO funding target is 1,530 ETH, the funding cap is 136,363 ETH and is expected to end on September 13, 2017 or when the funding cap is reached. Any unsold tokens will be burned.</p><p><strong>Token Reserve Split (30%):</strong></p><ul><li>30% Pre-Allocated to the Foundation;</li></ul><p><strong>Use of Proceeds:</strong></p><p>The Ether that Foundation receives for DFBT sold to purchasers during the Sale Period, up to 136,363 ETH, will be used to compensate engineers, staff, and contractors, cover operating costs and marketing expenses, and to address other administrative and unforeseen costs.</p><p><strong>Price Structure:</strong></p><ul><li>For the first ten days, 1 ETH will purchase 900 DFBT;</li><li>For the next ten days, 1 ETH will purchase 825 DFBT;</li><li>For the remainder of the token sale, 1 ETH will purchase 750 DFBT;</li></ul>",
+    "TokenType": "WAVES",
+    "WebsiteLink": "http://www.che-ss.com/dentalfix-ico/",
+    "FundingCap": "136,363 ETH",
+    "FundingTarget": "1,530 ETH",
+    "Date": 1502640000,
+    "EndDate": 1505372399,
+    "FundsRaisedList": "321.46860533 WAVES",
+    "FundsRaisedUSD": "1697.35",
+    "StartPrice": "0.001111",
+    "StartPriceCurrency": "ETH",
+    "Jurisdiction": "N/A",
+    "BlogLink": "https://medium.com/@DentalFixICO",
+    "WhitePaperLink": "https://drive.google.com/file/d/0B2-rqxQ4OfPEV3FkYjNON3lYX3M/view"
+  },
+  "ccId": "198693"
+}

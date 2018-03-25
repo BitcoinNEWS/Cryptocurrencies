@@ -1,0 +1,60 @@
+{
+  "General": {
+    "Symbol": "CCC",
+    "Name": "CCCoin",
+    "Description": "<p>CCCoin is a charitable cryptocurrency that raises capital through currency exchanges and donates the proceeds to notable trusted charities chosen through a democratic voting process using secure transparent blockchain technology.</p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "2500000",
+    "Algorithm": "N/A",
+    "ProofType": "N/A",
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "21/08/2017",
+    "TotalCoinsMined": null,
+    "Twitter": "https://www.cccoin.io/",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "https://www.cccoin.io/",
+    "GitHub": null,
+    "OnMarkets": [
+      "Novaexchange",
+      "Yobit",
+      "CCEX"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Ongoing",
+    "Description": "<p><span>CCCoin is a charitable crypto</span><span>c</span><span>urrency that raises capital through currency exchanges and donates the proceeds to notable trusted charities chosen through a democratic voting process using secure transparent blockchain technology.</span></p><p><strong>Team</strong>:</p><ul><li><strong>Lucas Coffey</strong>: CEO, Founder. <a href=\"https://www.linkedin.com/in/lucascoffey/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li></ul><p><span>CCCoin </span>will be holding its ICO on August 21, 2017. The ICO token supply represents 11.9% of the total token supply, so there will be a total of 2500000 tokens available at the offering. The ICO funding target is 50,000 ETH and is expected to end on September 21, 2017.</p>",
+    "TokenType": "ETH (ERC20)",
+    "WebsiteLink": "https://www.cccoin.io/ICO.html",
+    "FundingCap": "N/A",
+    "FundingTarget": "50,000 ETH",
+    "Date": 1503352800,
+    "EndDate": 1506031200,
+    "FundsRaisedList": "2,500,000 CCC",
+    "FundsRaisedUSD": "N/A",
+    "StartPrice": "N/A",
+    "StartPriceCurrency": "N/A",
+    "Jurisdiction": "N/A",
+    "BlogLink": "https://www.cccoin.io/CCCoin-Blog.html",
+    "WhitePaperLink": "https://www.cccoin.io/White-Paper.html#"
+  },
+  "ccId": "210595"
+}

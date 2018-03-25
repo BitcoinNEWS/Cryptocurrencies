@@ -1,0 +1,60 @@
+{
+  "General": {
+    "Symbol": "XRL",
+    "Name": "Rialto.AI",
+    "Description": "<p>RIALTO.AI is an arbitrage and market maker in the landscape of cryptocurrencies, digital assets, and blockchain transactions. By providing liquidity and matching orders, <span>RIALTO.AI</span> wants to increase the efficiency of crypto markets, while earning a fraction on every transaction for their supporters.</p><p>The utility of RIALTO.AI is carved into the proprietary nature of algorithms and software tools. They help identify trade opportunities, interpret the historical database, find data patterns, and adjust the parameters in real-time.</p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "N/A",
+    "Algorithm": "N/A",
+    "ProofType": "N/A",
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "01/01/0001",
+    "TotalCoinsMined": 100000000,
+    "Twitter": "@RialtoAI",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "https://www.rialto.ai/",
+    "GitHub": null,
+    "OnMarkets": [
+      "EtherDelta",
+      "Yobit",
+      "LiveCoin"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Finished",
+    "Description": "<p>RIALTO.AI is an arbitrage and market maker in the landscape of cryptocurrencies, digital assets, and blockchain transactions. By providing liquidity and matching orders, <span>RIALTO.AI</span> wants to increase the efficiency of crypto markets, while earning a fraction on every transaction for their supporters.</p><p>The utility of RIALTO.AI is carved into the proprietary nature of algorithms and software tools. They help identify trade opportunities, interpret the historical database, find data patterns, and adjust the parameters in real-time.</p><p>Rialto.AI held its Pre-ICO on June 26, 2017. A total of $10,000,000 were raised in the Pre-ICO, reaching the maximum cap of $10 million, ten days before the ICO even started.</p><p> </p><p> </p><p> </p>",
+    "TokenType": "ETH (ERC20)",
+    "WebsiteLink": "https://www.rialto.ai/",
+    "FundingCap": "10000000 USD",
+    "FundingTarget": "1000000 USD",
+    "Date": 1498435200,
+    "EndDate": 1499126400,
+    "FundsRaisedList": "5,936,958 XRP; 25,387.58 ETH; 565.6 BTC",
+    "FundsRaisedUSD": "10000000",
+    "StartPrice": "N/A",
+    "StartPriceCurrency": "N/A",
+    "Jurisdiction": "N/A",
+    "BlogLink": "https://medium.com/@RialtoAI",
+    "WhitePaperLink": "https://www.rialto.ai/wp-content/uploads/2017/06/RIALTO.AI_Whitepaper.pdf"
+  },
+  "ccId": "179990"
+}

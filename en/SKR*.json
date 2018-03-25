@@ -1,0 +1,56 @@
+{
+  "General": {
+    "Symbol": "SKR*",
+    "Name": "Skrilla Token",
+    "Description": "<div>Skrilla is a licensed, fully regulated, global esports wagering brand. Their skill-based Daily Fantasy eSports (DFS) platform is currently live (<a href=\"http://www.skrilla.com/\" target=\"_blank\" data-saferedirecturl=\"https://www.google.com/url?hl=en&amp;q=http://www.skrilla.com&amp;source=gmail&amp;ust=1506341123484000&amp;usg=AFQjCNHlGgqdKnCSeXACWcbN72VsSgxtcQ\">www.skrilla.com</a>) and they have created a token, Skrilla (SKR), to address issues inherent in existing centralised betting products.  The benefits include; improved trust and transparency, enhanced liquidity through global player pools, reduced fees, and incentivised behaviours (participation, referrals, and social sharing) that grow the network effects for the benefit of all members. </div><div></div><div>SKR, an ERC20 token built on the Ethereum blockchain, will be the core unit of exchange within the network, allowing players to enter contests, place bets, and collect winnings.</div>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "405545345",
+    "Algorithm": null,
+    "ProofType": null,
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "14/09/2017",
+    "TotalCoinsMined": 405545344.576203,
+    "Twitter": "@playskrilla",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": null,
+    "GitHub": null,
+    "OnMarkets": [],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Upcoming",
+    "Description": "<div>Skrilla is a licensed, fully regulated, global esports wagering brand. Their skill-based Daily Fantasy eSports (DFS) platform is currently live (<a href=\"http://www.skrilla.com/\" target=\"_blank\" data-saferedirecturl=\"https://www.google.com/url?hl=en&amp;q=http://www.skrilla.com&amp;source=gmail&amp;ust=1506341123484000&amp;usg=AFQjCNHlGgqdKnCSeXACWcbN72VsSgxtcQ\">www.skrilla.com</a>) and they have created a token, Skrilla (SKR), to address issues inherent in existing<span> </span>centralised<span> </span>betting products.  The benefits include; improved trust and transparency, enhanced liquidity through global player pools, reduced fees, and<span> </span>incentivised<span> </span>behaviours<span> </span>(participation, referrals, and social sharing) that grow the network effects for the benefit of all members. </div><div></div><div>SKR, an ERC20 token built on the Ethereum blockchain, will be the core unit of exchange within the network, allowing players to enter contests, place bets, and collect winnings.</div><p><strong>Team</strong>:</p><ul><li><strong>Nick Heaney:</strong> CEO and Co-founder <a href=\"https://www.linkedin.com/in/nicholas-heaney-24508123/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><span><strong>Damon Oudejans:</strong> </span>COO and Co-founder <a href=\"https://www.linkedin.com/in/damon-oudejans-5aa54044/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Jeremy Hare::</strong> CTO <a href=\"https://www.linkedin.com/in/jeremy-hare-32125b3/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Ash Guy: </strong>Head of User Technology <a href=\"https://www.linkedin.com/in/ashguy/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li>Riad Chikhani: Co-founder <a href=\"https://www.linkedin.com/in/riadc/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li></ul><p>The Skrilla ICO will begin on the 20th of October, 2017 and will last until the 20th of November 2017. The ICO tokens represent 60% of the total 1000000000 SKR supply which will be available at a starting price of 0.0004 ETH. Ether is the only payment method available. The funding target is set at 50000 ETH with a 240000 ETH hard cap.</p><p><strong>Token Reserve Split:</strong></p><ul><li><span>30% growth tokens</span></li><li><span>10% team and advisors</span></li></ul><p><strong>Bonus Structure:</strong></p><div class=\"ico-table-cell ico-table-content\"><table border=\"0\"><tbody><tr><th>Presale</th><td>2500SKR : 1ETH</td></tr><tr><th>Round 1 (Day 1)</th><td>2400SKR : 1ETH</td></tr><tr><th>Round 2 (Days 2-7)</th><td>2200SKR : 1ETH</td></tr><tr><th>Round 3 (Days 8-14)</th><td>2000SKR : 1ETH</td></tr></tbody></table></div><p> </p>",
+    "TokenType": "ETH (ERC20)",
+    "WebsiteLink": "https://tokensale.skrilla.com",
+    "FundingCap": "240000 ETH",
+    "FundingTarget": "50000 ETH",
+    "Date": 1510002000,
+    "EndDate": 1511211600,
+    "FundsRaisedList": "N/A",
+    "FundsRaisedUSD": "N/A",
+    "StartPrice": "0.0004",
+    "StartPriceCurrency": "ETH",
+    "Jurisdiction": "Australia",
+    "BlogLink": "https://medium.com/@Skrilla",
+    "WhitePaperLink": "https://tokensale.skrilla.com/skr-token-whitepaper-v0.5.pdf"
+  },
+  "ccId": "304605"
+}

@@ -1,0 +1,58 @@
+{
+  "General": {
+    "Symbol": "UTN",
+    "Name": "Universa",
+    "Description": "<p><span>Universa is a </span>blockchain cryptoprotocol with an emphasis on tokenization and contractual agreements. It uses a contract execution machine and a distributed state ledger.</p><p><span>The Universa Nodes primary function is to execute contracts and verify state. In Universa, permission to create new blocks comes from participation as a licensed node. Therefore, rather than waiting for a new block to be mined, a state change can occur at any time, verified by a trusted player, and approved by consensus. Each separate contract maintains its own chain of state (Smart Contract Chain - C-chain), so a contract can perform actions asynchronously without blocking or affecting other contracts, and the combined changes of state collectively form a directed acyclical graph (“DAG”) that makes up the blockchain itself.</span></p><p><span>UTN is the token powering Universa&#39;s ecosystem. </span>Execution of Smart Contract actions requires transaction fees paid in UTN to reward participating nodes. Universa holds the right to “burn” up to 1% of the fees retained by the platform daily.</p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": null,
+    "Algorithm": null,
+    "ProofType": null,
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "31/08/2017",
+    "TotalCoinsMined": null,
+    "Twitter": "@Universa_News",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": null,
+    "GitHub": null,
+    "OnMarkets": [
+      "HitBTC"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "N/A",
+    "Description": null,
+    "TokenType": null,
+    "WebsiteLink": null,
+    "FundingCap": null,
+    "FundingTarget": null,
+    "Date": null,
+    "EndDate": null,
+    "FundsRaisedList": null,
+    "FundsRaisedUSD": null,
+    "StartPrice": null,
+    "StartPriceCurrency": null,
+    "Jurisdiction": null,
+    "BlogLink": null,
+    "WhitePaperLink": null
+  },
+  "ccId": "466492"
+}

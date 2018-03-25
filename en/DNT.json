@@ -1,0 +1,65 @@
+{
+  "General": {
+    "Symbol": "DNT",
+    "Name": "district0x",
+    "Description": "<p>District0x Network is a collective of decentralized marketplaces and communities, hereafter referred to as districts.</p><p>Districts exist as decentralized autonomous organizations on the district0x Network, built upon a standard open source framework comprised of Ethereum smart contracts and front-end libraries, hereafter referred to as d0xINFRA. d0xINFRA provides districts with the core functionalities required to operate an online market or community.</p><p>The district0x Network Token can be used to signal what districts should be built and deployed by the district0x Project team and can be staked to gain access to voting rights in any district on the district0x Network.</p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "1000000000",
+    "Algorithm": "N/A",
+    "ProofType": "N/A",
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "01/01/0001",
+    "TotalCoinsMined": 1000000000,
+    "Twitter": "@district0x",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "https://district0x.io/",
+    "GitHub": null,
+    "OnMarkets": [
+      "BitTrex",
+      "HitBTC",
+      "BTER",
+      "EtherDelta",
+      "OKEX",
+      "Binance",
+      "Liqui",
+      "Gateio"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Finished",
+    "Description": "<p>District0x Network is a collective of decentralized marketplaces and communities, hereafter referred to as districts.</p><p>Districts exist as decentralized autonomous organizations on the District0x Network, built upon a standard open source framework comprised of Ethereum smart contracts and front-end libraries, hereafter referred to as d0xINFRA. d0xINFRA provides districts with the core functionalities required to operate an online market or community.</p><p>The District0x Network Token can be used to signal what districts should be built and deployed by the District0x Project team and can be staked to gain access to voting rights in any district on the District0x Network.</p><p><span>District0x will be holding its ICO on July 18, 2017. There will be a total of 600,000,000 coins available at the offering. The ICO is expected to end on </span><span>31, Jul 2017. The District0x Network Token can be bought using ETH at the crowdsale.</span></p><p>14% <span>Reserved for potential Contribution Period v0.2</span>, 4% Reserved for potential Contribution Period v0.3, 20% Reserved for Founders, 1.5% Advisors</p>",
+    "TokenType": "ETH (ERC20)",
+    "WebsiteLink": "https://contribution.district0x.io/",
+    "FundingCap": "292750 ETH",
+    "FundingTarget": "58550 ETH",
+    "Date": 1500390000,
+    "EndDate": 1501603200,
+    "FundsRaisedList": "43170 ETH",
+    "FundsRaisedUSD": "9411060",
+    "StartPrice": "N/A",
+    "StartPriceCurrency": "ETH",
+    "Jurisdiction": "N/A",
+    "BlogLink": "https://blog.district0x.io/",
+    "WhitePaperLink": "https://district0x.io/docs/district0x-whitepaper.pdf"
+  },
+  "ccId": "177175"
+}

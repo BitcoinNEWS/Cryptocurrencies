@@ -1,0 +1,56 @@
+{
+  "General": {
+    "Symbol": "AXT",
+    "Name": "AIX",
+    "Description": "<p><span>AiX is a unique AI software product that allows users to trade safely and effortlessly across all wallets, assets, platforms and currencies via an AI execution chatbot - with optional Alexa-style voice recognition system - that aggregates pricing data from all sources; P2P, exchange, dark pools and the rest. It will provide pricing and execution via voice or any Instant Messenger platform. To take part in the unique opportunity presented by AiX’s collaboration with Rainbird, traders will need to pass through our on-boarding KYC process which requires holding at least one AXT token, an ERC20 token based on the Ethereum blockchain.</span></p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "20000000",
+    "Algorithm": null,
+    "ProofType": null,
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "01/01/0001",
+    "TotalCoinsMined": null,
+    "Twitter": "@Ai_XChange",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": null,
+    "GitHub": null,
+    "OnMarkets": [],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Upcoming",
+    "Description": "<p><span>AiX is a unique AI software product that allows </span><span>users</span><span><span> </span>to trade safely and effortlessly across all wallets, assets, platforms and currencies via an AI execution chatbot - with optional Alexa-style voice recognition system - that aggregates pricing data from all sources; P2P, exchange, dark pools and the rest. It will provide pricing and execution via voice or any Instant Messenger platform. </span><span>To take part in the unique opportunity presented by AiX’s collaboration with Rainbird, traders will need to pass through our on-boarding KYC process which requires holding at least one AXT token, an ERC20 token based on the Ethereum blockchain.</span></p><p><strong>Team</strong>:</p><ul><li><strong>Jos Evans:</strong> Founder &amp; CEO <a href=\"https://www.linkedin.com/in/jos-evans-12584b14/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Nehat Krasniqi:</strong> Managing Director <a href=\"https://www.linkedin.com/in/nehat-krasniqi-2926851b/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Oliver Cooper:</strong> Director <a href=\"https://www.linkedin.com/in/oliver-cooper-93b14b/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>James Duez:</strong> Head of AI <a href=\"https://www.linkedin.com/in/jamesduez/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Peter Duggal:</strong> CTO. <a href=\"https://www.linkedin.com/in/peter-duggal-05b91866/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li></ul><p>The AiX ICO will start on a TBA date during 2017. The ICO token allocation represents 75% of the total token supply and will be available for ETH. The ICO funding target/cap is set at 130,000 ETH.</p><p><strong>Token Reserve Split (25%):</strong></p><ul><li>7.5% Founders,</li><li>12.5% Advisors,</li><li>5% Reserve</li></ul>",
+    "TokenType": "ETH (ERC20)",
+    "WebsiteLink": "https://ai-x.ai",
+    "FundingCap": "130,000 ETH",
+    "FundingTarget": "N/A",
+    "Date": null,
+    "EndDate": null,
+    "FundsRaisedList": "N/A",
+    "FundsRaisedUSD": "N/A",
+    "StartPrice": "N/A",
+    "StartPriceCurrency": "ETH",
+    "Jurisdiction": "Cayman Islands",
+    "BlogLink": "https://ai-x.ai/category/blog/",
+    "WhitePaperLink": "https://ai-x.ai/ai-x_whitepaper.pdf"
+  },
+  "ccId": "372029"
+}

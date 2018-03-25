@@ -1,0 +1,60 @@
+{
+  "General": {
+    "Symbol": "HIRE",
+    "Name": "BitHIRE",
+    "Description": "<p>Bithire is a global online market place for offering services and acquiring services. Bithire uses Bitcoin and the blockchain for providing a secure and decentralised payment solution. In addition, members can utilize our in-site currency HIRE token for micro-tipping, redeeming rewards, and more!</p><p>Coin added by <a href=\"http://chopcoin.io\" target=\"_blank\">@chopcoin</a> Team</p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": null,
+    "Algorithm": null,
+    "ProofType": null,
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "06/10/2015",
+    "TotalCoinsMined": null,
+    "Twitter": "@Bithire",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "http://www.bithire.info",
+    "GitHub": null,
+    "OnMarkets": [
+      "BitTrex",
+      "CCEX",
+      "Yobit"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Upcoming",
+    "Description": null,
+    "TokenType": "ETH (ERC20)",
+    "WebsiteLink": null,
+    "FundingCap": "N/A",
+    "FundingTarget": "N/A",
+    "Date": 1506883465,
+    "EndDate": null,
+    "FundsRaisedList": "N/A",
+    "FundsRaisedUSD": "N/A",
+    "StartPrice": "N/A",
+    "StartPriceCurrency": "N/A",
+    "Jurisdiction": "N/A",
+    "BlogLink": null,
+    "WhitePaperLink": "http://www.hirematch.io/docs/hirematch-whitepaper.pdf"
+  },
+  "ccId": "15882"
+}

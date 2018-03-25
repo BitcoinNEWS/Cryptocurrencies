@@ -1,0 +1,82 @@
+{
+  "General": {
+    "Symbol": "ZEC",
+    "Name": "ZCash",
+    "Description": "<p>ZCash is a privacy driven cryptocurrency. It uses the <strong>Equihash</strong><span> as an algorithm, which is an asymmetric memory-hard Proof of Work algorithm based on the generalized birthday problem. It relies on high RAM requirements to bottleneck the generation of proofs and making ASIC development unfeasible. </span></p><p><span>ZCash uses  zero-knowledge Succinct Non-interactive Arguments of Knowledge (zk-SNARKs) to ensure that all information (sender, reciever, ammount) is encrypted, without the possibility of double-spending. The only information that is revealed regarding transactions is the time in which they take place.</span></p><p><span>Block explorer data from <a href=\"https://explorer.zcha.in/\" target=\"_blank\">https://explorer.zcha.in/</a></span></p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "21000000",
+    "Algorithm": "Equihash",
+    "ProofType": "PoW",
+    "BlockReward": 10,
+    "Explorer": null,
+    "StartDate": "28/10/2016",
+    "TotalCoinsMined": 3555256.25,
+    "Twitter": "@zcashco",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "https://z.cash/",
+    "GitHub": null,
+    "OnMarkets": [
+      "HuobiPro",
+      "Bitfinex",
+      "Binance",
+      "Gateio",
+      "WavesDEX",
+      "Bithumb",
+      "BitTrex",
+      "Kraken",
+      "OKEX",
+      "Yobit",
+      "TradeSatoshi",
+      "Exmo",
+      "HitBTC",
+      "Cryptopia",
+      "CCEX",
+      "Poloniex",
+      "Cexio",
+      "BTER",
+      "TheRockTrading",
+      "Abucoins",
+      "BitZ",
+      "TuxExchange",
+      "BXinth",
+      "Yunbi",
+      "BitSquare"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "N/A",
+    "Description": null,
+    "TokenType": null,
+    "WebsiteLink": null,
+    "FundingCap": null,
+    "FundingTarget": null,
+    "Date": null,
+    "EndDate": null,
+    "FundsRaisedList": null,
+    "FundsRaisedUSD": null,
+    "StartPrice": null,
+    "StartPriceCurrency": null,
+    "Jurisdiction": null,
+    "BlogLink": null,
+    "WhitePaperLink": null
+  },
+  "ccId": "24854"
+}

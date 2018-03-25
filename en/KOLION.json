@@ -1,0 +1,58 @@
+{
+  "General": {
+    "Symbol": "KOLION",
+    "Name": "Kolion",
+    "Description": "<p>The Kolionovo Ecosystem <span>project is aimed at creation and a large-scale testing of the model of the local economy and raising funds for the development of real production of agricultural goods and services. The KOLION token is based on the Waves blockchain and is used as the main currency in the ecosystem.</span></p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "1000000",
+    "Algorithm": null,
+    "ProofType": null,
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "22/01/2017",
+    "TotalCoinsMined": 1000000,
+    "Twitter": null,
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": null,
+    "GitHub": null,
+    "OnMarkets": [
+      "Tidex"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "N/A",
+    "Description": null,
+    "TokenType": null,
+    "WebsiteLink": null,
+    "FundingCap": null,
+    "FundingTarget": null,
+    "Date": null,
+    "EndDate": null,
+    "FundsRaisedList": null,
+    "FundsRaisedUSD": null,
+    "StartPrice": null,
+    "StartPriceCurrency": null,
+    "Jurisdiction": null,
+    "BlogLink": null,
+    "WhitePaperLink": null
+  },
+  "ccId": "339431"
+}

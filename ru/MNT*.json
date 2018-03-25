@@ -1,0 +1,56 @@
+{
+  "General": {
+    "Symbol": "MNT*",
+    "Name": "Media Network Coin",
+    "Description": "<div class=\"freebirdFormviewerViewItemsItemItem freebirdFormviewerViewItemsTextTextItem\" data-required=\"true\" data-item-id=\"534092066\"><div class=\"freebirdFormviewerViewItemsTextLongText freebirdFormviewerViewItemsTextDisabledText freebirdThemedInput\">Based on an existing alpha product, CoinJoker, the <span>Media Network Token aims to solve some of the most serious issues in the existing quality of <span>content on the market. The Media Network Token</span></span></div><div class=\"freebirdFormviewerViewItemsTextLongText freebirdFormviewerViewItemsTextDisabledText freebirdThemedInput\"><span><span><span>(MNT)<span> is an ERC20 token based on the Ethereum blockchain. These tokens will enable writers to build content of superior quality and receive tokens for their contributions.</span></span></span></span></div></div><div class=\"freebirdFormviewerViewItemsItemItem\" data-required=\"true\" data-input=\"L9xHkb\" data-item-id=\"2128727222\"><div class=\"freebirdFormviewerViewItemsItemItemHeader\"><div class=\"freebirdFormviewerViewItemsItemItemTitleContainer\"></div></div></div>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "125000000",
+    "Algorithm": null,
+    "ProofType": null,
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "01/01/0001",
+    "TotalCoinsMined": null,
+    "Twitter": "@CoinJoker",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": null,
+    "GitHub": null,
+    "OnMarkets": [],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Ongoing",
+    "Description": "<div class=\"freebirdFormviewerViewItemsItemItem freebirdFormviewerViewItemsTextTextItem\" data-item-id=\"1688926117\"><div class=\"freebirdFormviewerViewItemsTextItemWrapper\"><div class=\"freebirdFormviewerViewItemsTextShortText freebirdFormviewerViewItemsTextDisabledText freebirdThemedInput\"><div class=\"freebirdFormviewerViewItemsTextLongText freebirdFormviewerViewItemsTextDisabledText freebirdThemedInput\">Based on an existing alpha product, CoinJoker, the <span>Media Network Token aims to solve some of the most serious issues in the existing quality of content on the market. The Media Network Token</span></div><div class=\"freebirdFormviewerViewItemsTextLongText freebirdFormviewerViewItemsTextDisabledText freebirdThemedInput\"><span><span><span>(MNT)<span> is an ERC20 token based on the Ethereum blockchain. These tokens will enable writers to build content of superior quality and receive tokens for their contributions.</span></span></span></span></div></div></div></div><p>The <span>Media Network Token ICO started on the 15th of December 2017 and will end on the 15th of February 2018. The ICO token allocation represents 60% of the total token supply and will be available for a 0.0001 ETH price. The ICO funding target is set at 7500 ETH and users can participate with Ether only.</span></p><p><strong>Token Reserve Split (40%):</strong></p><ul><li>40% team</li></ul>",
+    "TokenType": "ETH (ERC20)",
+    "WebsiteLink": "http://mnt.coinjoker.com/",
+    "FundingCap": "7500 ETH",
+    "FundingTarget": "N/A",
+    "Date": 1513296000,
+    "EndDate": 1518652800,
+    "FundsRaisedList": "3075 ETH",
+    "FundsRaisedUSD": "2927861.25",
+    "StartPrice": "0.0001",
+    "StartPriceCurrency": "ETH",
+    "Jurisdiction": "N/A",
+    "BlogLink": null,
+    "WhitePaperLink": "http://mnt.coinjoker.com/MNT_whitepaper.pdf"
+  },
+  "ccId": "521417"
+}

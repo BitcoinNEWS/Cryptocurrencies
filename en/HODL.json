@@ -1,0 +1,59 @@
+{
+  "General": {
+    "Symbol": "HODL",
+    "Name": "HOdlcoin",
+    "Description": "<p>HOdlcoin is just like Bitcoin, but it pays interest on every balance. This is to recognize the importance of HODLers and properly reward HODLing.</p><p>Very high interest rates (4000%+ APR) are paid in the first few months to attract early adopters to the project.</p><p><strong>Proof of Work</strong></p><p><span>1GB AES Pattern Search POW. Pattern Search involves filling up RAM with pseudo-random data, and then conducting a search for the start location of an AES encrypted data pattern in that data. Pattern Search is an evolution of the ProtoShares Momentum PoW, first used in MemoryCoin and later modified for use in CryptoNight(Monero,Bytecoin), Ethash(Ethereum).  CPU/GPU friendly.</span></p><p><strong>Pools</strong></p><ul><li><a href=\"https://hodl.suprnova.cc/\" target=\"_blank\">https://hodl.suprnova.cc/</a></li><li><a href=\"https://hodl.maxminers.net/\" target=\"_blank\">https://hodl.maxminers.net/</a></li><li><a href=\"https://hodl.blockquarry.com/\" target=\"_blank\">https://hodl.blockquarry.com/</a></li></ul><p><strong>Paper Wallet</strong></p><ul><li><a href=\"http://hodlpaperwallets.tk/\" target=\"_blank\">http://hodlpaperwallets.tk/</a></li></ul><p><strong>Block Explorers</strong></p><ul><li><a href=\"http://hodl.presstab.pw/\" target=\"_blank\">http://hodl.presstab.pw</a></li><li><a href=\"http://www.tekyexplorer.xyz/hodl/\" target=\"_blank\">http://www.tekyexplorer.xyz/hodl/</a></li><li><a href=\"http://coinofview.com/coin/HOdlcoin.html\" target=\"_blank\">http://coinofview.com/coin/HOdlcoin.html</a></li></ul>",
+    "Features": "<p><strong>Q: What is the official animal of HOdlcoin?</strong></p><p><span>The squirrel is the official animal of HOdlcoin. The squirrel is the animal kingdom&#39;s natural HOdler.</span></p><p><strong>Q: What is the official song of HOdlcoin?</strong></p><p>\"HODL California\" is the official song of HOdlcoin. You can check-out any time you like, but you can never leave.</p><p><strong>Q: How do I correctly capitalize HOdlcoin?</strong></p><p><span>HOdlcoin. </span></p><p><strong>Q: How do I correctly say HODL?</strong></p><p><span>HODL. It rhymes with Yodel. Yodeling is also the official musical style of HOdlcoin.</span></p><p><strong>Q: What is the smallest unit of HODL?</strong></p><p><span>The nut. There are 100,000,000 nuts in one HODL.</span></p><p><strong>Q: Why do you HODL?</strong></p><p><span>Because we suck at trading and we know we suck at trading </span><span>if you can pit pat piffy wing wong wang make a milino bucks no problem bro then you don&#39;t need to hodl</span></p>",
+    "Technology": "<p><strong>Specifications</strong>:</p><ul><li><span>Subsidy: 50 HODL subsidy per block</span></li><li><span>Interest Supply: Between 150,000,000 and 500,000,000 HODL will be paid in interest to HODLers</span></li><li><span><span>Fair launch: No Premine/Instamine/Ninja/100 initial 1 HODL blocks </span></span></li><li><span><span>Port: 1989</span></span></li><li><span><span>RPC Port: 11989</span></span></li><li><span><span>Testnet Port: 8989</span></span></li><li><span><span>Proof of Work: 1GB AES Pattern Search POW</span></span></li><li><span><span>Codebase: Bitcoin 0.11.2</span></span></li></ul><p><strong>Interest</strong></p><p><span>*NEW* Current Interest Rates and Page - </span><a href=\"http://hodlcoin.github.io/\" target=\"_blank\">http://hodlcoin.github.io/</a></p><p><strong>1. The Standard Interest Rate</strong></p><p><span>Interest is paid on regular balances (outputs), on every block, for a period of up to 30 days (561x30 blocks). The rate is  0.0000002384185791015625% (1/2^22). It&#39;s compounded every block, so the rate is </span><span>approximately 5% APR. However, remember there is a maximum of 30 days, so to get that APR, you&#39;d need to log in each month and shuffle the HODL to a new address.</span></p><p><strong>2. Bonus Interest Rates</strong></p><p><span>To encourage early adoption, astronomical rates of interest are paid in the early months. The max rate is 0.0000152587890625 (1/2^16). Compounded, the rate is 2174%. It&#39;s reduced every block by a multiplier - calculated like this =((409530-X)/409530)^4 (X is the block where the balance is recorded as an output).</span></p><p><span>To calculate your bonus rate, you can use this formula.</span></p><p><span>Principal + (Standard Interest + (Bonus Interest * Bonus Multiplier)</span></p><p><span>Bonus rates</span></p><ul><li><span>Day  0 ~ 2174%</span></li><li><span>Day 30 ~ 1881%</span></li><li><span>Day 60 ~ 1543%</span></li><li><span>Day 90 ~ 1317%</span></li><li><span>Day 660 ~ 0.230% APR</span></li><li><span>Day 690 ~ 0.029% APR</span></li><li><span>Day 730 ~ no bonus</span></li></ul><p><strong>3. Term Deposit Bonus</strong></p><p><span>If you lock an amount of HODL as a term deposit, you can also get a bonus on the interest. The longer the deposit, the bigger bonus. The bonus is just a multiplier of the interest, so if you locked up 100 HODL for 1 year, you&#39;d expect a return of 5 HODL. The term deposit bonus for 1 year is about 100% - so at the end of the term you&#39;d have 110 HODL (Capital 100 + Interest 5 + Term Deposit Bonus 5). See the chart for the multipliers, or use this formula - =(1-((409530-X)/409530)^6)*100  (X is the number of blocks to lock for, min 2 days, max 1 year)</span></p><p><span>So to calculate your full bonus return on a term deposit . . . it&#39;s</span><br /><span>Principal + ((Standard Interest + (Bonus Interest * Bonus Multiplier))*Term Deposit Multiplier)</span><br /></p><p><span>Term deposit Rates</span></p><ul><li><span>1 week term deposit ~ 5.6% bonus on interest</span></li><li><span>1 month term deposit ~ 22% bonus on interest</span></li><li><span>3 month term deposit ~ 55% bonus on interest</span></li><li><span>6 month term deposit ~ 82% bonus on interest</span></li><li><span>1 year term deposit ~ 98% bonus on interest</span></li></ul><p><span>n.b. When a Term Deposit matures, it stops earning interest - you must move it to start earning interest again.</span></p><p><span>n.b. Bonus rates are paid on regular balances too</span></p><p><span>n.b. The bonus rate is locked at the time of the transaction, the rate you can achieve reduces over time due to the multiplier, but once you&#39;re earning that bonus rate, it doesn&#39;t reduce.</span></p>",
+    "TotalCoinSupply": "81962100",
+    "Algorithm": "1GB AES Pattern Search",
+    "ProofType": "PoW",
+    "BlockReward": 50,
+    "Explorer": null,
+    "StartDate": "07/01/2016",
+    "TotalCoinsMined": 11448949,
+    "Twitter": "@hodlcoin",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "http://www.hodlcoin.com/",
+    "GitHub": null,
+    "OnMarkets": [
+      "Yobit",
+      "CCEX"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "N/A",
+    "Description": null,
+    "TokenType": null,
+    "WebsiteLink": null,
+    "FundingCap": null,
+    "FundingTarget": null,
+    "Date": null,
+    "EndDate": null,
+    "FundsRaisedList": null,
+    "FundsRaisedUSD": null,
+    "StartPrice": null,
+    "StartPriceCurrency": null,
+    "Jurisdiction": null,
+    "BlogLink": null,
+    "WhitePaperLink": null
+  },
+  "ccId": "18670"
+}

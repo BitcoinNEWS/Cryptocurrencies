@@ -1,0 +1,62 @@
+{
+  "General": {
+    "Symbol": "FLO",
+    "Name": "FlorinCoin",
+    "Description": "<p>Florincoin (FLO) is a scrypt based coin with quick transaction processing. It also introduces a useful new feature - transaction comments. Block time is low at 40 seconds. The reward halves from a start of 100 FLO each year, and difficulty retargets every block. There was no premine.</p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "160000000",
+    "Algorithm": "Scrypt",
+    "ProofType": "PoW",
+    "BlockReward": 12.173966339544245,
+    "Explorer": null,
+    "StartDate": "17/07/2013",
+    "TotalCoinsMined": 142981109.29175895,
+    "Twitter": "@Official_Florin",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "http://florincoin.org/",
+    "GitHub": null,
+    "OnMarkets": [
+      "Poloniex",
+      "Novaexchange",
+      "Cryptsy",
+      "TradeSatoshi",
+      "BitTrex"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "N/A",
+    "Description": null,
+    "TokenType": null,
+    "WebsiteLink": null,
+    "FundingCap": null,
+    "FundingTarget": null,
+    "Date": null,
+    "EndDate": null,
+    "FundsRaisedList": null,
+    "FundsRaisedUSD": null,
+    "StartPrice": null,
+    "StartPriceCurrency": null,
+    "Jurisdiction": null,
+    "BlogLink": null,
+    "WhitePaperLink": null
+  },
+  "ccId": "5325"
+}

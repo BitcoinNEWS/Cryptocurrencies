@@ -1,0 +1,58 @@
+{
+  "General": {
+    "Symbol": "SKC",
+    "Name": "Skeincoin",
+    "Description": "<p>Skeincoin SKC is a Proof of Work cryptocurrency which uses a 2 factor encryption. First using the Skein algorithm and then using a second encryption using SHA256. The Skein <span>is an crypto hash algorithm developed by Niels Ferguson, Stefan Lucks, Bruce Schneier, Doug Whiting, Mihir Bellare, Tadayoshi Kohno, Jon Callas and Jesse Walker. </span></p><p>The currency is mineable using <span>CPU, GPU, FPGA and ASIC.</span></p><p> </p><p> </p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "17000000",
+    "Algorithm": "Skein",
+    "ProofType": "PoW",
+    "BlockReward": 1.0039409882228938,
+    "Explorer": null,
+    "StartDate": "01/11/2013",
+    "TotalCoinsMined": 16317598.59923077,
+    "Twitter": "@Skeincoin",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": null,
+    "GitHub": null,
+    "OnMarkets": [
+      "Cryptopia"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "N/A",
+    "Description": null,
+    "TokenType": null,
+    "WebsiteLink": null,
+    "FundingCap": null,
+    "FundingTarget": null,
+    "Date": null,
+    "EndDate": null,
+    "FundsRaisedList": null,
+    "FundsRaisedUSD": null,
+    "StartPrice": null,
+    "StartPriceCurrency": null,
+    "Jurisdiction": null,
+    "BlogLink": null,
+    "WhitePaperLink": null
+  },
+  "ccId": "770118"
+}

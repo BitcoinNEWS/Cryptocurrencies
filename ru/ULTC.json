@@ -1,0 +1,60 @@
+{
+  "General": {
+    "Symbol": "ULTC",
+    "Name": "Umbrella",
+    "Description": "<p>Umbrella coins and its alternatives are an attempt at insuring against exchange loss or wallet key loss. Otherwise the coin is made as a pair to the major crypto currency of each algorithm type. This is the SHA-256 version. </p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "2625000",
+    "Algorithm": "SHA256",
+    "ProofType": "PoW",
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "12/07/2014",
+    "TotalCoinsMined": null,
+    "Twitter": null,
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "http://www.umbrella.holdings/",
+    "GitHub": null,
+    "OnMarkets": [
+      "Poloniex",
+      "Cryptsy",
+      "BitTrex"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "N/A",
+    "Description": null,
+    "TokenType": null,
+    "WebsiteLink": null,
+    "FundingCap": null,
+    "FundingTarget": null,
+    "Date": null,
+    "EndDate": null,
+    "FundsRaisedList": null,
+    "FundsRaisedUSD": null,
+    "StartPrice": null,
+    "StartPriceCurrency": null,
+    "Jurisdiction": null,
+    "BlogLink": null,
+    "WhitePaperLink": null
+  },
+  "ccId": "4628"
+}

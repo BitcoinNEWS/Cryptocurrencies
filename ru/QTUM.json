@@ -1,0 +1,77 @@
+{
+  "General": {
+    "Symbol": "QTUM",
+    "Name": "QTUM",
+    "Description": "<p>Qtum is a decentralized blockchain platform with dApp and <span>turing-coplete</span> smart contract functionalities while still mantaining a <span>an Unspent Transaction Output (UTXO) transaction model. Qtum employs a Proof of Stake consensus mechanism. QTUM is the underlying value token in the Qtum blockchain.</span></p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "100000000",
+    "Algorithm": "POS 3.0",
+    "ProofType": "PoS",
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "19/12/2016",
+    "TotalCoinsMined": 100000000,
+    "Twitter": "https://qtum.org",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "@QtumOfficial",
+    "GitHub": null,
+    "OnMarkets": [
+      "HitBTC",
+      "LiveCoin",
+      "Bleutrade",
+      "Kucoin",
+      "Binance",
+      "EXX",
+      "OKEX",
+      "BitTrex",
+      "Quoine",
+      "Cryptopia",
+      "Bitfinex",
+      "Novaexchange",
+      "EtherDelta",
+      "Liqui",
+      "HuobiPro",
+      "Gateio",
+      "Coinone",
+      "BitZ",
+      "Yunbi",
+      "BTER"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Finished",
+    "Description": "<p><span data-sheets-value=\"{&quot;1&quot;:2,&quot;2&quot;:&quot;Qtum is a decentralized blockchain platform with dApp and turing-coplete smart contract functionalities while still mantaining a an Unspent Transaction Output (UTXO) transaction model. Qtum employs a Proof of Stake consensus mechanism. QTUM is the underlying value token in the Qtum blockchain.&quot;}\" data-sheets-userformat=\"{&quot;2&quot;:12456,&quot;6&quot;:{&quot;1&quot;:[{&quot;1&quot;:2,&quot;2&quot;:0,&quot;5&quot;:[null,2,0]},{&quot;1&quot;:0,&quot;2&quot;:0,&quot;3&quot;:3},{&quot;1&quot;:1,&quot;2&quot;:0,&quot;4&quot;:1}]},&quot;8&quot;:{&quot;1&quot;:[{&quot;1&quot;:2,&quot;2&quot;:0,&quot;5&quot;:[null,2,0]},{&quot;1&quot;:0,&quot;2&quot;:0,&quot;3&quot;:3},{&quot;1&quot;:1,&quot;2&quot;:0,&quot;4&quot;:1}]},&quot;10&quot;:2,&quot;15&quot;:&quot;Calibri&quot;,&quot;16&quot;:11}\">Qtum is a decentralized blockchain platform with dApp and turing-coplete smart contract functionalities while still mantaining a an Unspent Transaction Output (UTXO) transaction model. Qtum employs a Proof of Stake consensus mechanism. QTUM is the underlying value token in the Qtum blockchain.</span></p><p>The ICO hit its funding cap of $15,000,000 in 5 days raising 11,000 BTC and 75,000 ETH. Of the 100,000,000 tokens 51% have been awarded to investors, with 20% going to founders and 29% reserved for community initiatives. </p><p>Qtum raised $1 million prior to the ICO from various well know investors in the blockchain space including Chen Weixing (founder of Kuaidi), Star Xu (CEO of OkCoin), Anthony Di Iorio (founder of Ethereum and Jaxx Blockchain Interface), Jeremy Gardner (co-founder of Augur), Bo Shen (Fenbushi Capital’s Managing Partner), Roger Ver (aka Bitcoin Jesus), and Xiaolai Li (blockchain angel investor).</p><p><a href=\"https://forum.qtum.org/topic/146/qtum-foundation-financial-reports-governance-plan\" target=\"_blank\" class=\"in-cell-link\"></a><span data-sheets-value=\"{&quot;1&quot;:2,&quot;2&quot;:&quot;51% to investors, 20% to founders and early backers, 29% to community initiatives&quot;}\" data-sheets-userformat=\"{&quot;2&quot;:12456,&quot;6&quot;:{&quot;1&quot;:[{&quot;1&quot;:2,&quot;2&quot;:0,&quot;5&quot;:[null,2,0]},{&quot;1&quot;:0,&quot;2&quot;:0,&quot;3&quot;:3},{&quot;1&quot;:1,&quot;2&quot;:0,&quot;4&quot;:1}]},&quot;8&quot;:{&quot;1&quot;:[{&quot;1&quot;:2,&quot;2&quot;:0,&quot;5&quot;:[null,2,0]},{&quot;1&quot;:0,&quot;2&quot;:0,&quot;3&quot;:3},{&quot;1&quot;:1,&quot;2&quot;:0,&quot;4&quot;:1}]},&quot;10&quot;:2,&quot;15&quot;:&quot;Calibri&quot;,&quot;16&quot;:11}\"><span data-sheets-value=\"{&quot;1&quot;:2,&quot;2&quot;:&quot;https://forum.qtum.org/topic/146/qtum-foundation-financial-reports-governance-plan&quot;}\" data-sheets-userformat=\"{&quot;2&quot;:268416,&quot;10&quot;:2,&quot;14&quot;:[null,2,1136076],&quot;15&quot;:&quot;arial,sans,sans-serif&quot;,&quot;21&quot;:1}\"><a href=\"https://qtum.org/uploads/tmp/e0488eca3c7256ea97ce00003cc874a9.pdf\" target=\"_blank\">Crowdsale prospectus</a></span></span></p><p> </p><p> </p>",
+    "TokenType": "ETH (ERC20)",
+    "WebsiteLink": "https://qtum.org/en/crowdsale",
+    "FundingCap": "15,000,000 USD",
+    "FundingTarget": "N/A",
+    "Date": 1489672800,
+    "EndDate": 1490094000,
+    "FundsRaisedList": "11,000 BTC; 75,000 ETH",
+    "FundsRaisedUSD": "15000000",
+    "StartPrice": "0.15",
+    "StartPriceCurrency": "USD",
+    "Jurisdiction": "N/A",
+    "BlogLink": "https://qtum.org/en/blog",
+    "WhitePaperLink": "https://qtum.org/en/white-papers"
+  },
+  "ccId": "112392"
+}

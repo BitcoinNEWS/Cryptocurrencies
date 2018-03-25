@@ -1,0 +1,59 @@
+{
+  "General": {
+    "Symbol": "RISE",
+    "Name": "Rise",
+    "Description": "<p>RISE is a Dapp and Smart Contract creation and deployment user-friendly platform based on Lisk, and created to reinforce programming langueage diversity and security. Rise allows developers to use any programming language to create dapps as well as the creation of sidechains for specific decentralized applications, so that users don&#39;t have to download the whole Blockchain to use an app built on RISE.<br /><br /></p>",
+    "Features": null,
+    "Technology": "<p><br /><br /></p>",
+    "TotalCoinSupply": null,
+    "Algorithm": "DPoS",
+    "ProofType": "PoS",
+    "BlockReward": 15,
+    "Explorer": null,
+    "StartDate": "24/06/2016",
+    "TotalCoinsMined": 122296715.41,
+    "Twitter": "@RiseVisionTeam",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "https://rise.vision/",
+    "GitHub": null,
+    "OnMarkets": [
+      "Yobit",
+      "BitTrex"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "N/A",
+    "Description": null,
+    "TokenType": null,
+    "WebsiteLink": null,
+    "FundingCap": null,
+    "FundingTarget": null,
+    "Date": null,
+    "EndDate": null,
+    "FundsRaisedList": null,
+    "FundsRaisedUSD": null,
+    "StartPrice": null,
+    "StartPriceCurrency": null,
+    "Jurisdiction": null,
+    "BlogLink": null,
+    "WhitePaperLink": null
+  },
+  "ccId": "22015"
+}

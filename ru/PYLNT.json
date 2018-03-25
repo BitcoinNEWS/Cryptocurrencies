@@ -1,0 +1,58 @@
+{
+  "General": {
+    "Symbol": "PYLNT",
+    "Name": "Pylon Network",
+    "Description": "<p>Pylon Network aims to build an open, renewable energy exchange community, which will provide the energy markets with the signals and financial incentives that current energy policies and governance systems, are failing, or delaying to provide. The Pylon Network will use the blockchain technology and smart contracts to allow the network users to exchange green energy, bought directly from the RES (R<span>enewable Energy Source)</span> producer and without need for intervention of intermediaries throughout the process.</p><p>Pylon Network token (PYLNT) is an ERC-20 will be used as the medium of exchange within the platform.</p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "633858.311346493889668246",
+    "Algorithm": null,
+    "ProofType": null,
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "30/07/2017",
+    "TotalCoinsMined": null,
+    "Twitter": "@KlenergyTech",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": null,
+    "GitHub": null,
+    "OnMarkets": [
+      "BitZ"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "N/A",
+    "Description": null,
+    "TokenType": null,
+    "WebsiteLink": null,
+    "FundingCap": null,
+    "FundingTarget": null,
+    "Date": null,
+    "EndDate": null,
+    "FundsRaisedList": null,
+    "FundsRaisedUSD": null,
+    "StartPrice": null,
+    "StartPriceCurrency": null,
+    "Jurisdiction": null,
+    "BlogLink": null,
+    "WhitePaperLink": null
+  },
+  "ccId": "718673"
+}

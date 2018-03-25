@@ -1,0 +1,58 @@
+{
+  "General": {
+    "Symbol": "GUESS",
+    "Name": "Peerguess",
+    "Description": "<p>Peerguess is a cryptocurrency price ticker app designed to predict price movements in Bitcoin in the next 24h. It allows users to guess<span> future prices to earn gems, learn about community tendencies and have access to the sophisticated data to improve their intuition. The aforementioned Gems can be converted to GUESS, an Ethereum-based token that acts the main currency in the platform allowing users to access aditional features.</span></p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "200000000",
+    "Algorithm": null,
+    "ProofType": null,
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "28/10/2017",
+    "TotalCoinsMined": null,
+    "Twitter": "@peerguess",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": null,
+    "GitHub": null,
+    "OnMarkets": [
+      "Yobit"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Ongoing",
+    "Description": "<p><span>Peerguess is a cryptocurrency price ticker app designed to predict price movements in Bitcoin in the next 24h. It allows users to guess</span><span> future prices to earn gems, learn about community tendencies and have access to the sophisticated data to improve their intuition. The aforementioned Gems can be converted to GUESS, an Ethereum-based token that acts the main currency in the platform allowing users to access aditional features.</span></p><p><strong>Team</strong>:</p><ul><li><strong>Seyit Özgür:</strong> Co-Founder <a href=\"https://www.linkedin.com/in/seyitozgur\" target=\"_blank\"><img src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Levent Levent Kurt: </strong>Co-Founder <a href=\"https://www.linkedin.com/in/leventkurt\" target=\"_blank\"><img src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Mert Mert Çavdar:</strong> Community Manager <a href=\"https://www.linkedin.com/in/mertcavdar\" target=\"_blank\"><img src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Senol Nebi Senol Yılmaz:</strong> Information Security <a href=\"https://www.linkedin.com/in/nsyilmaz\" target=\"_blank\"><img src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li></ul><p> </p><p>The Peerguess ICO will start on the 28th of October and last until the 24th of November, 2017. The ICO allocation represents 60% of the total GUESS supply which will be available for a 0.0004 ETH starting price. The ICO funding target is 1000BTC and the cap is 3000BTC. </p><p><strong>Token Reserve Split (XX%):</strong></p><ul><li><span>10% advisor team, </span></li><li><span>1% bounties, </span></li><li><span>4% Marketing, </span></li><li><span>5% Maintaince, </span></li><li><span>20% Liquidation Reserves</span></li></ul><p>The Peerguess ICO features a bonus and bounty campaigns</p><p><strong>Bonus Structure:</strong></p><ul><li><span>ICO Week 1st 2,500 GUESS Token / 1 ETH (with 100% bonus) </span></li><li><span>ICO Week 2nd 2,000 GUESS Token / 1 ETH (with 60% bonus) </span></li><li><span>ICO Week 3rd 1,500 GUESS Token / 1 ETH (with 20% bonus) </span></li><li><span>ICO Week 4th 1,250 GUESS Token / 1 ETH</span></li></ul>",
+    "TokenType": "ETH (ERC20)",
+    "WebsiteLink": "https://peerguess.com/pisale.html?p=iePkIS",
+    "FundingCap": "3000 BTC",
+    "FundingTarget": "1000 BTC",
+    "Date": 1509199200,
+    "EndDate": 1511532000,
+    "FundsRaisedList": "Presale: 872 ETH\r\nMain sale: 1782 ETH",
+    "FundsRaisedUSD": "1023966.28",
+    "StartPrice": "0.0004",
+    "StartPriceCurrency": "ETH",
+    "Jurisdiction": "N/A",
+    "BlogLink": "https://medium.com/@peerguess",
+    "WhitePaperLink": "https://peerguess.com/files/White%20Paper.pdf"
+  },
+  "ccId": "327608"
+}

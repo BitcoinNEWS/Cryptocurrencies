@@ -1,0 +1,58 @@
+{
+  "General": {
+    "Symbol": "OPC",
+    "Name": "OP Coin",
+    "Description": "<p>OP Coin (OPC) is an PoW/PoS hybrid cryptocurrency based on the Scrypt algorithm.</p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "2000000000",
+    "Algorithm": "Scrypt",
+    "ProofType": "PoW/PoS",
+    "BlockReward": 12377.30313622622,
+    "Explorer": null,
+    "StartDate": "14/11/2017",
+    "TotalCoinsMined": 427839319.0112669,
+    "Twitter": "@OPCoin.official",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": null,
+    "GitHub": null,
+    "OnMarkets": [
+      "Cryptopia"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "N/A",
+    "Description": null,
+    "TokenType": null,
+    "WebsiteLink": null,
+    "FundingCap": null,
+    "FundingTarget": null,
+    "Date": null,
+    "EndDate": null,
+    "FundsRaisedList": null,
+    "FundsRaisedUSD": null,
+    "StartPrice": null,
+    "StartPriceCurrency": null,
+    "Jurisdiction": null,
+    "BlogLink": null,
+    "WhitePaperLink": null
+  },
+  "ccId": "718435"
+}

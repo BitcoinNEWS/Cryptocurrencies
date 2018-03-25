@@ -1,0 +1,58 @@
+{
+  "General": {
+    "Symbol": "HT",
+    "Name": "Huobi Token",
+    "Description": "<p>The Huobi token is an ERC-20 token that allows users to receive a discount for any fees on the Huobi exchange. The HT tokens will be issued by an airdrop in which 60% of the tokens will be credit to the users&#39; accounts, 20% will be used to support the platform operations and the last 20% will be used as an incentive to Huobi&#39;s team, with a freezing period of 4 years. In the future, the team plans to announce more benefits for the HT token holders.</p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "500000000",
+    "Algorithm": null,
+    "ProofType": null,
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "22/01/2018",
+    "TotalCoinsMined": 500000000,
+    "Twitter": "HUOBI_Pro",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": null,
+    "GitHub": null,
+    "OnMarkets": [
+      "HuobiPro"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "N/A",
+    "Description": null,
+    "TokenType": null,
+    "WebsiteLink": null,
+    "FundingCap": null,
+    "FundingTarget": null,
+    "Date": null,
+    "EndDate": null,
+    "FundsRaisedList": null,
+    "FundsRaisedUSD": null,
+    "StartPrice": null,
+    "StartPriceCurrency": null,
+    "Jurisdiction": null,
+    "BlogLink": null,
+    "WhitePaperLink": null
+  },
+  "ccId": "771595"
+}

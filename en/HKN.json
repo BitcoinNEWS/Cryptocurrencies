@@ -1,0 +1,60 @@
+{
+  "General": {
+    "Symbol": "HKN",
+    "Name": "Hacken",
+    "Description": "<p><span>Hacken is a tokenized bug bounty marketplace for cybersecurity communities. The services will be provided by a community of white hat hackers centred around HackIT.</span></p><div class=\"u-flex1\"><p class=\"ui-body hero-description\">HKN is an ERC20 token that serves as a currency on Hacken&#39;s marketplace.</p></div>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "5600000",
+    "Algorithm": null,
+    "ProofType": null,
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "30/08/2017",
+    "TotalCoinsMined": 5600000,
+    "Twitter": "@Hacken_io",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": null,
+    "GitHub": null,
+    "OnMarkets": [
+      "Kucoin",
+      "Yobit",
+      "EtherDelta"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "N/A",
+    "Description": null,
+    "TokenType": null,
+    "WebsiteLink": null,
+    "FundingCap": null,
+    "FundingTarget": null,
+    "Date": null,
+    "EndDate": null,
+    "FundsRaisedList": null,
+    "FundsRaisedUSD": null,
+    "StartPrice": null,
+    "StartPriceCurrency": null,
+    "Jurisdiction": null,
+    "BlogLink": null,
+    "WhitePaperLink": null
+  },
+  "ccId": "517775"
+}

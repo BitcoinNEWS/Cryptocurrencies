@@ -1,0 +1,62 @@
+{
+  "General": {
+    "Symbol": "TIX",
+    "Name": "Blocktix",
+    "Description": "<p>Blocktix is a decentralized platform built for ticket sales and event promotion, a decentralized ticket distribution network facilitating the process for event organizers and fans alike. The system is built on Ethereum smart contracts, allowing users  to verify the validity tickets for a given event, putting an end to the growing counterfeit grey economy.</p><p>Blocktix provides a user-friendly interface for the execution of smart contracts, bringing its advanced capabilities to the masses with an intuitive application. This approach reduces the complexity of the interaction with smart contracts and provides an additional layer of security minimizing the possibility of fraud or malicious third party interference with the application due to the standardization of contracts.</p><p>TIX is an Ethereum-based token that grants several benefits to its holders within the Blocktix system. By participating in the event verification process, the token holder will receive a reward. The initial reward will be the TIX that is used to back the event. Users will also be able to purchase advertising rights for an event. These funds will be distributed to all tokens holders who took part in the event verification process, proportional to the amount of tokens they own.</p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "62500000",
+    "Algorithm": "N/A",
+    "ProofType": "N/A",
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "07/07/2017",
+    "TotalCoinsMined": 62500000,
+    "Twitter": "@blocktix",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "https://blocktix.io/",
+    "GitHub": null,
+    "OnMarkets": [
+      "Cryptsy",
+      "Cryptopia",
+      "HitBTC",
+      "BitTrex",
+      "EtherDelta"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Finished",
+    "Description": "<p>Blocktix is a decentralized platform built for ticket sales and event promotion, a decentralized ticket distribution network facilitating the process for event organizers and fans alike. TIX is an Ethereum-based token that grants several benefits to its holders within the Blocktix system. By participating in the event verification process, the token holder will receive a reward. The initial reward will be the TIX that is used to back the event. Users will also be able to purchase advertising rights for an event. These funds will be distributed to all tokens holders who took part in the event verification process, proportional to the<span> </span>amount of tokens they own.</p><p>The Blocktix ICO started on the 7th of June and will end on the 6th of August, lasting for a full month. During this time, users will be able to purchase the TIX token by contributing with Ether or Bitcoin to the crowdsale. TIX will be coupled to a set USD rate, with 4 tiers available: 0,12$, 0,16$, 0,20$ and 0,24$ per TIX. Each tier will have a total of 10M TIX available out of the 40M that have been reserved for the ICO (64% of the total supply).</p><p>The minimum funding goalfor Blocktix will be $2.5M. The maximum cap is $7.5M. If the desired capital is sourced then the tokens will be issued. These will remain locked for two weeks after the end of the crowdsale. If the target is not met, then all the Ethereum and Bitcoin that was previously raised will return to their respective owners, minus transaction fees. The TIX token is an Ethereum-based token and will not be mineable.</p>",
+    "TokenType": "ETH (ERC20)",
+    "WebsiteLink": "https://blocktix.io/",
+    "FundingCap": "7500000 USD",
+    "FundingTarget": "2500000 USD",
+    "Date": 1499457600,
+    "EndDate": 1500969135,
+    "FundsRaisedList": "N/A",
+    "FundsRaisedUSD": "6981328",
+    "StartPrice": "0.12",
+    "StartPriceCurrency": "USD",
+    "Jurisdiction": "N/A",
+    "BlogLink": "http://blog.blocktix.io/",
+    "WhitePaperLink": "https://blocktix.io/public/doc/blocktix-wp-draft.pdf"
+  },
+  "ccId": "175671"
+}

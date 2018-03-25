@@ -1,0 +1,68 @@
+{
+  "General": {
+    "Symbol": "XZC",
+    "Name": "ZCoin",
+    "Description": "<p><span>ZCoin is a Proof of Work cryptocurrency using the Lyra2 hashing algorithm. It</span><span> is an implementation of the Zerocoin protocol (</span><a href=\"http://zerocoin.org/\">http://zerocoin.org</a><span>) guaranteeing true financial anonymity using ZK-Snarks. Zero-Knowledge proofs allows one to show ownership of a Zcoin coin without having to reveal which coin one owns.</span></p><p><span>Recently, the Zcoin protocol was found to have a typographic bug that costed the network roughly $400k. This bug, however, did not compromise the anonimity features of Zcoin.</span></p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "21000000",
+    "Algorithm": "Lyra2RE",
+    "ProofType": "PoW",
+    "BlockReward": 50,
+    "Explorer": null,
+    "StartDate": "01/01/0001",
+    "TotalCoinsMined": 3994521.33024756,
+    "Twitter": "@zcoinofficial",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "https://zcoin.io",
+    "GitHub": null,
+    "OnMarkets": [
+      "TradeSatoshi",
+      "CCEX",
+      "Cryptopia",
+      "BXinth",
+      "Coinroom",
+      "BTC38",
+      "Binance",
+      "Novaexchange",
+      "BitTrex",
+      "Liqui",
+      "BitSquare"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "N/A",
+    "Description": null,
+    "TokenType": null,
+    "WebsiteLink": null,
+    "FundingCap": null,
+    "FundingTarget": null,
+    "Date": null,
+    "EndDate": null,
+    "FundsRaisedList": null,
+    "FundsRaisedUSD": null,
+    "StartPrice": null,
+    "StartPriceCurrency": null,
+    "Jurisdiction": null,
+    "BlogLink": null,
+    "WhitePaperLink": null
+  },
+  "ccId": "30022"
+}

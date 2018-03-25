@@ -1,0 +1,58 @@
+{
+  "General": {
+    "Symbol": "MOBI",
+    "Name": "Mobius",
+    "Description": "<p>Mobius (MOBI) is a protocol token whose blockchain runs simple protocols which introduce new standards for cross-blockchain login, payment, governance, and oracles such as the novel Universal Proof of Stake Oracle.</p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "888000000",
+    "Algorithm": "N/A",
+    "ProofType": "N/A",
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "02/08/2017",
+    "TotalCoinsMined": 887404314.6,
+    "Twitter": "@mobius_network",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "https://mobius.network",
+    "GitHub": null,
+    "OnMarkets": [
+      "Gateio"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Finished",
+    "Description": "<p><span>Mobius (MOBI) is a protocol token whose blockchain runs simple protocols which introduce new standards for cross-blockchain login, payment, governance, and oracles such as the novel Universal Proof of Stake Oracle.</span></p><p><strong>Team</strong>:</p><ul><li><strong>David Gobaud</strong>: Founder. <a href=\"https://twitter.com/davidgobaud\" target=\"_blank\"><img style=\"width: 13px; height: 13px;\" src=\"/media/1383932/twitter_logo_final.png?width=13&amp;height=13\" alt=\"\" data-id=\"202868\"></a> <a href=\"https://www.linkedin.com/in/davidgobaud/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Kurosh S. Khajvandi</strong>: Founder.</li><li><strong>Jackson Palmer</strong>: <span>Advisor</span>.<span> </span><a href=\"https://twitter.com/ummjackson\" target=\"_blank\"><img style=\"width: 13px; height: 13px;\" src=\"/media/1383932/twitter_logo_final.png?width=13&amp;height=13\" alt=\"\" data-id=\"202868\"></a><span> </span><a href=\"https://www.linkedin.com/in/jacksonpalmer/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Jed McCaleb</strong><span>: Advisor.</span><span> </span><a href=\"https://twitter.com/jedmccaleb\" target=\"_blank\"><img style=\"width: 13px; height: 13px;\" src=\"/media/1383932/twitter_logo_final.png?width=13&amp;height=13\" alt=\"\" data-id=\"202868\"></a><span> </span><a href=\"https://www.linkedin.com/in/jed-mccaleb-4052a4/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li></ul><p>Mobius&#39;s ICO will take place later in the year tentatively in November, 2017. The ICO token supply represents 30% of the total token supply, so there will be a total of 266,400,000 tokens available at the offering. The ICO funding target is 25,000,000 USD and the funding cap is 100,000,000 USD. The token sale will run for at most 14 days. If the funding cap is reached the token sale will last for at most an additional 48 hours after which it will close.</p><p><strong>Token Reserve Split (70%):</strong></p><ul><li>5.0% of MOBI will be sold in a pre-sale at a discounted rate to the token sale.</li><li>32.5% of MOBI will be reserved for the community to grow the network and reward contributors.</li><li>32.5% of MOBI will be reserved by the company for growth and employee incentivization.</li></ul>",
+    "TokenType": "ETH (ERC20)",
+    "WebsiteLink": "https://mobius.network/token_sale",
+    "FundingCap": "100,000,000 USD",
+    "FundingTarget": "25,000,000 USD",
+    "Date": 1511308800,
+    "EndDate": null,
+    "FundsRaisedList": "N/A",
+    "FundsRaisedUSD": "N/A",
+    "StartPrice": "N/A",
+    "StartPriceCurrency": "N/A",
+    "Jurisdiction": "N/A",
+    "BlogLink": "https://medium.com/mobius-network",
+    "WhitePaperLink": "https://mobius.network/mobius_white_paper.pdf"
+  },
+  "ccId": "202706"
+}

@@ -1,0 +1,58 @@
+{
+  "General": {
+    "Symbol": "TAGR",
+    "Name": "Think And Get Rich Coin",
+    "Description": "<p>TAGR plans to set itself apart from other cryptocurrencies through it&#39;s unique image and social media features. The name Think and Get Rich is a tribute to Napoleon Hill, author of \"Think and Grow Rich\".</p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "30700000",
+    "Algorithm": "X15",
+    "ProofType": "PoW/PoS",
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "16/06/2015",
+    "TotalCoinsMined": null,
+    "Twitter": "@tagrcoin",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "http://www.tagrcoin.com/",
+    "GitHub": null,
+    "OnMarkets": [
+      "Yobit"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "N/A",
+    "Description": null,
+    "TokenType": null,
+    "WebsiteLink": null,
+    "FundingCap": null,
+    "FundingTarget": null,
+    "Date": null,
+    "EndDate": null,
+    "FundsRaisedList": null,
+    "FundsRaisedUSD": null,
+    "StartPrice": null,
+    "StartPriceCurrency": null,
+    "Jurisdiction": null,
+    "BlogLink": null,
+    "WhitePaperLink": null
+  },
+  "ccId": "20652"
+}

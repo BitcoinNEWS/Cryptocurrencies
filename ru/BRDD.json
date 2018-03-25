@@ -1,0 +1,58 @@
+{
+  "General": {
+    "Symbol": "BRDD",
+    "Name": "BeardDollars",
+    "Description": "<p><span>BeardDollars is a Proof of Work/Proof of Stake cryptocurrency created in association with </span><a href=\"http://www.crossedpistols.com/\">www.crossedpistols.com</a>, a website that <span>provides apparel and home made beard products worldwide at affordable prices. </span><span>All purchases made with BRDD with result in an additional 5% discount on top of any other offers currently going.</span></p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "21212121",
+    "Algorithm": "Scrypt",
+    "ProofType": "PoW/PoS",
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "07/02/2016",
+    "TotalCoinsMined": null,
+    "Twitter": null,
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "www.crossedpistols.com",
+    "GitHub": null,
+    "OnMarkets": [
+      "Yobit"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "N/A",
+    "Description": null,
+    "TokenType": null,
+    "WebsiteLink": null,
+    "FundingCap": null,
+    "FundingTarget": null,
+    "Date": null,
+    "EndDate": null,
+    "FundsRaisedList": null,
+    "FundsRaisedUSD": null,
+    "StartPrice": null,
+    "StartPriceCurrency": null,
+    "Jurisdiction": null,
+    "BlogLink": null,
+    "WhitePaperLink": null
+  },
+  "ccId": "33875"
+}

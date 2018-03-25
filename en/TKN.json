@@ -1,0 +1,63 @@
+{
+  "General": {
+    "Symbol": "TKN",
+    "Name": "TokenCard",
+    "Description": "<p>The TokenCard is a project that focuses on providing an easy method for users to interact and secure their tokens. It allows users to keep their Ethereum-based tokens secure and under user-set spending and security parameters through the Token Contract Wallet. Thee tokens can be spend through the physical TokenCard, <span>nabling online payments, PoS transactions and ATM withdrawals.</span></p><p><span>The TokenCard token is also an Ethereum-based asset</span>, holding a pro-rata claim on the TKN Asset Contract. This Asset Contract accrues a 1% licensing fee (enforced by smart contracts) on all TokenCard transactions. At any time, TKN holders can redeem their share of the underlying assets by &#39;cashing and burning&#39; the TKN tokens.</p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "39406760",
+    "Algorithm": null,
+    "ProofType": null,
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "25/04/2017",
+    "TotalCoinsMined": 39406759.92832044,
+    "Twitter": "@monolith_web3",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "http://tokencard.io",
+    "GitHub": null,
+    "OnMarkets": [
+      "CCEX",
+      "LiveCoin",
+      "EtherDelta",
+      "BitTrex",
+      "Liqui",
+      "HitBTC"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Finished",
+    "Description": "<p>Monolith Studio’s TokenCard is a platform to hold your ERC20 tokens, as well as spend them using a visa debit card. The ICO raised $12.7 Million using a variety of Ethereum based tokens as funding. The initial rate was 150 TKN per ETH which dropped by 10 TKN for every $750,000 that was raised. To a minimum rate of 100 TKN/ETH. The token reserve is as follows, 20% goes to 18 month smart contract split evenly between founders and Monolith Studio, 15% available to Monolith which can be sold, 5% for advisors.</p><p>The funding from the ICO will be spent with the following distribution:</p><ul><li>Core Development 30%</li><li>Operational 25%</li><li>Marketing 40%</li><li>Legal and compliance 5%</li></ul><p> </p>",
+    "TokenType": "ETH (ERC20)",
+    "WebsiteLink": "http://tokencard.io/#creation",
+    "FundingCap": "4,500,000 USD",
+    "FundingTarget": "500,000 USD",
+    "Date": 1493740800,
+    "EndDate": 1493742600,
+    "FundsRaisedList": "166,700 ETH; 462.2 REP; 374.2 DGD; 6,600 GNT; 1,600,000 SNGLS; 4,000 SWT; 7.6 MLN",
+    "FundsRaisedUSD": "12700000",
+    "StartPrice": "0.54",
+    "StartPriceCurrency": "USD",
+    "Jurisdiction": "N/A",
+    "BlogLink": "https://medium.com/@MonolithStudio",
+    "WhitePaperLink": "http://tokencard.io/tokencard_whitepaper.pdf"
+  },
+  "ccId": "71077"
+}

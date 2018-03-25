@@ -1,0 +1,59 @@
+{
+  "General": {
+    "Symbol": "BIT",
+    "Name": "BitRewards",
+    "Description": "<p><span>BitRewards is a blockchain loyalty platform and ecosystem that enables retailers to reward their customers&#39; purchases, friends&#39; invited and other configurable actions with crypto-currency. BIT is the ERC20 token used for rewards within the BitRewards platform.</span></p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": null,
+    "Algorithm": null,
+    "ProofType": null,
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "01/04/2018",
+    "TotalCoinsMined": null,
+    "Twitter": "@bitrewards",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": null,
+    "GitHub": null,
+    "OnMarkets": [
+      "CCEX",
+      "LiveCoin"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Upcoming",
+    "Description": "<p>BitRewards is a blockchain loyalty platform and ecosystem that enables retailers to reward their customers&#39; purchases, friends&#39; invited and other configurable actions with crypto-currency. BIT is the ERC20 token used for rewards within the BitRewards platform.</p><p><strong>Team</strong>:</p><ul><li><strong>Alexey Gritsyna:</strong> USA BD, e-commerce <a href=\"https://www.linkedin.com/in/alexeygritsyna\" target=\"_blank\"><img src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Nick Avramov:</strong> Head of PR <a href=\"https://www.linkedin.com/in/nikolai-avramov\" target=\"_blank\"><img src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"> </a></li><li><strong>Rument Slavchov:</strong> PR, IR, Marketing and Stucturing <a href=\"https://www.linkedin.com/in/rumen-slavchov-b058a554\" target=\"_blank\"><img src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"> </a></li><li><strong>Maxim Litkevich:</strong> Technical support engineer <a href=\"https://www.linkedin.com/in/maksim-litkevich-131227151/\" target=\"_blank\"><img src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li></ul><p>The BitReward ICO will start on the 1st of April 2018 and will last until the 30th of April 2018. The ICO token allocation represents 64% of the total token supply and will be available for a 0.00003472 ETH base price. The ICO funding target is set at $3M and the cap at $19M.</p><p><strong>Token Reserve Split (36%):</strong></p><ul><li><span>12.00% - Reserve for liquidity </span></li><li><span>14.00% - Management </span></li><li><span>3.50% - Advisers </span></li><li><span>2.00% - Bounty</span></li><li><span> 2.50% - Marketing </span></li><li><span>2.00% - Contingency</span></li></ul><p>The BIT ICO features a bonus and bounty campaign.</p><p><strong>Bonus Structure:</strong></p><ul><li>Private Pre-sale: up to 42% bonus</li><li>Pre-sale: <span>up to 39% bonus</span></li><li>Crowd sale: <span>up to 10% bonus</span></li></ul>",
+    "TokenType": "ETH (ERC20)",
+    "WebsiteLink": "https://goo.gl/tNQZkW",
+    "FundingCap": "$15,000,000",
+    "FundingTarget": "$3,000,000",
+    "Date": 1522540800,
+    "EndDate": 1556582400,
+    "FundsRaisedList": "N/A",
+    "FundsRaisedUSD": "N/A",
+    "StartPrice": "0.00003472",
+    "StartPriceCurrency": "ETH",
+    "Jurisdiction": "Singapore",
+    "BlogLink": "https://goo.gl/Wf6WQD",
+    "WhitePaperLink": "http://goo.gl/8jPtVg"
+  },
+  "ccId": "813335"
+}

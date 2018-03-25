@@ -1,0 +1,56 @@
+{
+  "General": {
+    "Symbol": "KNW",
+    "Name": "Knowledge ",
+    "Description": "<p>Knowledge.io is a multifaceted platform that rewards knowledge sharing through a blockchain-based incentive layer, powered by the KNW, an ERC20 token based on the Ethereum blockchain. Blockchain technology is also used to store information of value to advertisers, educators, enterprises and other users in a transparent manner that gives confidence to all parties involved. </p><p> </p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "150000000",
+    "Algorithm": null,
+    "ProofType": null,
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "15/01/2018",
+    "TotalCoinsMined": 150000000,
+    "Twitter": "@KNWtoken",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": null,
+    "GitHub": null,
+    "OnMarkets": [],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Ongoing",
+    "Description": "<p><span>Knowledge.io is a multifaceted platform that rewards knowledge sharing through a blockchain-based incentive layer, powered by the </span><span>KNW</span><span>,<span> </span></span><span>an ERC20 token based on the Ethereum blockchain. Blockchain technology is also used to store information of value to advertisers, educators, enterprises and other users in a transparent manner that gives confidence to all parties involved. </span></p><p><strong>Team</strong>:</p><ul><li><strong>Anas Adhami:</strong> Chief Executive Officer <a href=\"https://www.linkedin.com/in/anas-adhami-b402781/\" target=\"_blank\"><img src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Steven Englander:</strong> Co-Founder &amp; Chief Product Officer <a href=\"https://www.linkedin.com/in/recsci/\" target=\"_blank\"><img src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Marcia Hales:</strong> Chief Operations Officer <a href=\"https://www.linkedin.com/in/marciahales/\" target=\"_blank\"><img src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Christian Gartner:</strong> Chief Financial Officer <a href=\"https://www.linkedin.com/in/christian-gartner-93592028/\" target=\"_blank\"><img src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li></ul><p>The Knowledge.io ICO began on the 15th of January and will last until the 8th of April. The ICO token allocation represents 70% of the total token supply and will be available for a $1 base price. The ICO funding cap is set at $19000000. </p><p><strong>Token Reserve Split (30%):</strong></p><ul><li><span>17% </span>Meta Mining Service<span> </span></li><li><span>6%</span> Team Reserve</li><li>6% Bounty</li></ul><p>The KNW ICO features a bonus and bounty campaign.</p><p><strong>Bonus Structure:</strong></p><ul><li><span>February 12th 12pm US EST – April 8th 11:59am US EST → 25%</span></li></ul>",
+    "TokenType": "ETH (ERC20)",
+    "WebsiteLink": "http://knowledge.io",
+    "FundingCap": "19,000,000 USD",
+    "FundingTarget": "N/A",
+    "Date": 1515974400,
+    "EndDate": 1523145600,
+    "FundsRaisedList": "7,152,752.05 Tokens sold",
+    "FundsRaisedUSD": "7152752.05",
+    "StartPrice": "1",
+    "StartPriceCurrency": "USD",
+    "Jurisdiction": "U.S.A",
+    "BlogLink": "https://goo.gl/Bn3ryU",
+    "WhitePaperLink": "https://knowledge.io/wp-content/uploads/2017/12/white_paper_english_22122017-1.pdf"
+  },
+  "ccId": "812669"
+}

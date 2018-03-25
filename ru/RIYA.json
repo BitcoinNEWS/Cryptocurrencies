@@ -1,0 +1,60 @@
+{
+  "General": {
+    "Symbol": "RIYA",
+    "Name": "Etheriya",
+    "Description": "<p>Etheriya is aiming to provide a decentralized digital marketplace for auctioning of both digital and physical goods and services for everyone around the world.</p><p>All products and services will be traded on Etheriya Auction platform, except those considered to be illegal, destructive or harmful to the planet.</p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "1861532",
+    "Algorithm": null,
+    "ProofType": null,
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "20/06/2017",
+    "TotalCoinsMined": 1861531.786134,
+    "Twitter": "@RealEtheriya",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": null,
+    "GitHub": null,
+    "OnMarkets": [
+      "CCEX",
+      "EtherDelta",
+      "Cryptopia"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Finished",
+    "Description": "<p>Etheriya is aiming to provide a decentralized digital marketplace for auctioning of both digital and physical goods and services for everyone around the world.</p><p>All products and services will be traded on Etheriya Auction platform, except those considered to be illegal, destructive or harmful to the planet.</p><p><strong>Team</strong>:</p><ul><li><strong>Sama Lama</strong>: Coordinator &amp; Marketing Manager.</li><li><strong>Peter Coin</strong>: Core Developer.</li><li><strong>Sri Shet</strong>: Graphic Designer.</li><li><strong>Jasmin Supnet</strong><span>: Web Programmer and Designer.</span></li></ul><p>Etheriya held its ICO on June 21, 2017. The ICO token supply represents 85% of the total token supply, so there was a total of <span>1,581,531 </span>tokens available at the offering. The ICO funding target was 1000 ETH and raised a total of $300,000. The ICO ended on August 10, 2017.</p><p><strong>Token Reserve Split (15%):</strong></p><ul><li>5% Development Team;</li><li>5% Etheriya Foundation;</li><li>5<span>% Bounties;</span></li></ul>",
+    "TokenType": "ETH (ERC20)",
+    "WebsiteLink": "http://www.etheriya.net/join-ICO/",
+    "FundingCap": "N/A",
+    "FundingTarget": "1000 ETH",
+    "Date": 1498035600,
+    "EndDate": 1502355600,
+    "FundsRaisedList": "300,000 USD",
+    "FundsRaisedUSD": "300000",
+    "StartPrice": "N/A",
+    "StartPriceCurrency": "N/A",
+    "Jurisdiction": "N/A",
+    "BlogLink": null,
+    "WhitePaperLink": "https://drive.google.com/file/d/0B9nA1PpRUjmuTG4ySFUzQXhwUkU/view"
+  },
+  "ccId": "238571"
+}

@@ -1,0 +1,58 @@
+{
+  "General": {
+    "Symbol": "EVN",
+    "Name": "Envion",
+    "Description": "<p>Envion builds <span>fully automatized mobile mining units inside standardized intermodal shipping containers that can be shipped to any location in the world within days or weeks. Envion mining units use low-priced green energy directly at the source — near the shore, in the desert or in other remote locations. The EVN token is an ERC-20 Ethereum-based token that grants their holders the right to receive 100% of the earnings from Envion&#39;s proprietary mining operation, 35% of Envion’s earnings with third-party operations and voting rights.</span></p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "150000000",
+    "Algorithm": null,
+    "ProofType": null,
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "01/12/2017",
+    "TotalCoinsMined": null,
+    "Twitter": "@Envion_org",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": null,
+    "GitHub": null,
+    "OnMarkets": [
+      "HitBTC"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Ongoing",
+    "Description": "<p><span>Envion builds </span><span>fully automatized mobile mining units inside standardized intermodal shipping containers that can be shipped to any location in the world within days or weeks. Envion mining units use low-priced green energy directly at the source — near the shore, in the desert or in other remote locations. The EVN token is an ERC-20 Ethereum-based token that grants their holders the right to receive 100% of the earnings from Envion&#39;s<span> </span>proprietary mining operation,<span> </span>35% of<span> </span>Envion’s earnings with third-party operations and voting rights.</span></p><p><strong>Team</strong>:</p><ul><li><strong>Matthias Woestmann:</strong> CEO <a href=\"https://www.linkedin.com/in/matthias-woestmann-b87922119/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Felix Krusenbaum:</strong> Finance <a href=\"https://www.linkedin.com/in/krusenbaum/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Jonathan Koch:</strong> Technology <a href=\"https://www.linkedin.com/in/kochjonathan/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Jasper Hellmann:</strong> Marketing <a href=\"https://www.linkedin.com/in/jasperhellmann/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li></ul><p>The Envion ICO will begin on the 15th of December 12:00 GMT and will last until the 14th of January 2018. The ICO token allocation represents 83% of the total supply and will be available for a 0.7 USD starting price. The ICO funding target is 100M USD and the funding cap is 150M USD. </p><p><strong>Token Reserve Split (17%):</strong></p><ul><li>83% Community,</li><li>10% Founding Team,</li><li>5% envion AG as Reserve,</li><li>2% Bounty Program</li></ul><p>The Envion ICO will feature a bonus and bounty campaign.</p><p><strong>Bonus Structure:</strong></p><ul><li><span>15.12 (</span><span class=\"aBn\" data-term=\"goog_1613151425\"><span class=\"aQJ\">12PM GMT</span></span><span>) - 17.12 (</span><span class=\"aBn\" data-term=\"goog_1613151426\"><span class=\"aQJ\">11:59:59AM GMT</span></span><span>) $0.70</span><br><span></span></li><li><span>17.12 (</span><span class=\"aBn\" data-term=\"goog_1613151427\"><span class=\"aQJ\">12PM GMT</span></span><span>) - 21.12 (</span><span class=\"aBn\" data-term=\"goog_1613151428\"><span class=\"aQJ\">11:59:59AM GMT</span></span><span>) $0.80</span><br><span></span></li><li><span>21.12 (</span><span class=\"aBn\" data-term=\"goog_1613151429\"><span class=\"aQJ\">12PM GMT</span></span><span>) - 28.12 (</span><span class=\"aBn\" data-term=\"goog_1613151430\"><span class=\"aQJ\">11:59:59AM GMT</span></span><span>) $0.90</span><br><span></span></li><li><span>28.12 (</span><span class=\"aBn\" data-term=\"goog_1613151431\"><span class=\"aQJ\">12PM GMT</span></span><span>) - 14.01 (</span><span class=\"aBn\" data-term=\"goog_1613151432\"><span class=\"aQJ\">11:59:59PM GMT</span></span><span>) $1.00</span></li></ul><p><span><strong>Token Issuance Date:</strong> <span class=\"aBn\" data-term=\"goog_1613151433\"><span class=\"aQJ\">January 15, 2018, 12 PM GMT</span></span></span></p>",
+    "TokenType": "ETH (ERC20)",
+    "WebsiteLink": "https://www.envion.org/en/ico",
+    "FundingCap": "150000000 USD",
+    "FundingTarget": "100000000 USD",
+    "Date": 1513339200,
+    "EndDate": 1515931200,
+    "FundsRaisedList": "63,699,919.71 USD",
+    "FundsRaisedUSD": "63699919.71",
+    "StartPrice": "0.7",
+    "StartPriceCurrency": "USD",
+    "Jurisdiction": "N/A",
+    "BlogLink": "https://medium.com/@envion",
+    "WhitePaperLink": "https://www.envion.org/en/download/envion_whitepaper.pdf"
+  },
+  "ccId": "383953"
+}

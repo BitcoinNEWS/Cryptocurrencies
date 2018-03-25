@@ -1,0 +1,59 @@
+{
+  "General": {
+    "Symbol": "CWXT",
+    "Name": "CryptoWorldXToken",
+    "Description": "<p>CryptoWorldX<span> Token is a PoW/PoS cryptocurrency. CryptoWorldX<span> Token is exclusively designed towards communication to all bitcoin and alt-coin enthusiasts.</span></span></p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "100000000",
+    "Algorithm": null,
+    "ProofType": "PoW/PoS",
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "24/12/2014",
+    "TotalCoinsMined": null,
+    "Twitter": "@Crypto_World_X",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "https://www.cryptoworldx.com",
+    "GitHub": null,
+    "OnMarkets": [
+      "Novaexchange",
+      "Yobit"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "N/A",
+    "Description": null,
+    "TokenType": null,
+    "WebsiteLink": null,
+    "FundingCap": null,
+    "FundingTarget": null,
+    "Date": null,
+    "EndDate": null,
+    "FundsRaisedList": null,
+    "FundsRaisedUSD": null,
+    "StartPrice": null,
+    "StartPriceCurrency": null,
+    "Jurisdiction": null,
+    "BlogLink": null,
+    "WhitePaperLink": null
+  },
+  "ccId": "43265"
+}

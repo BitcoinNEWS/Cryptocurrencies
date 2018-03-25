@@ -1,0 +1,56 @@
+{
+  "General": {
+    "Symbol": "XTRA",
+    "Name": "ExtraCredit",
+    "Description": "<p>Extra Credit is a platform where students can get knowledge on Bitcoin and other blockchain technologies. The platform incentivizes learning by offering students XTRA tokens, an Ethereum-based token.</p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "600000000",
+    "Algorithm": null,
+    "ProofType": null,
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "23/12/2017",
+    "TotalCoinsMined": null,
+    "Twitter": "@BitcoinHomework",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": null,
+    "GitHub": null,
+    "OnMarkets": [],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Ongoing",
+    "Description": "<p><span>Extra Credit is </span><span>a platform where students can get knowledge on Bitcoin and other blockchain technologies. The platform incentivizes learning by offering students XTRA tokens, an Ethereum-based token.</span></p><p><strong>Team</strong>:</p><ul><li><strong>Curtis Smith:</strong> Co-Founder / CEO</li><li><strong>Jennifer W:</strong> Social Media Manager</li><li><strong>Zayaan I:</strong> SEO Manager</li><li><strong>Morris G:</strong> Head Of Marketing</li></ul><p>The Extra Credit ICO started on the 4th of January and will last until the 4th of February. The ICO token allocation represents 50% of the total token supply and will be available for a base price of 0.10$ each. The ICO funding cap is set at 60M USD and several cryptocurrencies will be accepted, including BTC, BCH, ETH, LTC, XRP, and more.</p><p><strong>Token Reserve Split (50%):</strong></p><ul><li>Bug Bounty &amp; Promotions 0.8%</li><li>ICO Referral Program 4.2%</li><li>Extra Credit Team 25%</li><li>Pre Sale 16.7%</li><li>Pre Sale Bonus 3.3%</li></ul><p>The Extra Credit ICO features a bonus and bounty campaigns.</p><p> </p>",
+    "TokenType": "ETH (ERC20)",
+    "WebsiteLink": "https://extracredit.io/",
+    "FundingCap": "60000000 USD",
+    "FundingTarget": "N/A",
+    "Date": 1515024000,
+    "EndDate": 1517702400,
+    "FundsRaisedList": "68,942.71 USD",
+    "FundsRaisedUSD": "68942.71",
+    "StartPrice": "0.10",
+    "StartPriceCurrency": "USD",
+    "Jurisdiction": "N/A",
+    "BlogLink": "https://medium.com/@BitcoinHomework/",
+    "WhitePaperLink": "https://extracredit.io/PDF-Files/Extra-Credit-WP.pdf"
+  },
+  "ccId": "608756"
+}

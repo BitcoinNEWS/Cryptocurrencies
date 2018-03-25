@@ -1,0 +1,58 @@
+{
+  "General": {
+    "Symbol": "SDP",
+    "Name": "SydPakCoin",
+    "Description": "<p>SydPakCoin is a PoW/PoS cryptocurrency using the X13 algorithm. SDP plans to build many applications for the coin to be used on, like Strip Dice, an Auction Site, Mining Rig Rentals, and a PayPerClick (PCC) Site.</p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": null,
+    "Algorithm": "X13",
+    "ProofType": "PoW/PoS",
+    "BlockReward": 0.07118558997171931,
+    "Explorer": null,
+    "StartDate": "09/08/2016",
+    "TotalCoinsMined": 160473.11275586,
+    "Twitter": "@SydpakCoin",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "http://www.sydpak.com/",
+    "GitHub": null,
+    "OnMarkets": [
+      "Yobit"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "N/A",
+    "Description": null,
+    "TokenType": null,
+    "WebsiteLink": null,
+    "FundingCap": null,
+    "FundingTarget": null,
+    "Date": null,
+    "EndDate": null,
+    "FundsRaisedList": null,
+    "FundsRaisedUSD": null,
+    "StartPrice": null,
+    "StartPriceCurrency": null,
+    "Jurisdiction": null,
+    "BlogLink": null,
+    "WhitePaperLink": null
+  },
+  "ccId": "30019"
+}

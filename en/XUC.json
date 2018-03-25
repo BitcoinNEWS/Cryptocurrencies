@@ -1,0 +1,60 @@
+{
+  "General": {
+    "Symbol": "XUC",
+    "Name": "Exchange Union",
+    "Description": "<p><span>Exchange Union makes strategic investments in digital currency exchanges. Shortly after launch, Exchange Union will build a union chain. XUC is an ERC20 Ethereum-based token.</span></p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "3000000000",
+    "Algorithm": "N/A",
+    "ProofType": "N/A",
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "01/01/0001",
+    "TotalCoinsMined": 3000000000,
+    "Twitter": "@exchange_union",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "http://www.exchangeunion.net/",
+    "GitHub": null,
+    "OnMarkets": [
+      "OKEX",
+      "HitBTC",
+      "EtherDelta"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Finished",
+    "Description": "<p><span>The Exchange Union makes strategic investments in digital currency exchanges. Shortly after launch, Exchange Union will build a union chain.</span><span> XUC is an ERC20 Ethereum-based token.</span></p><p><span>Exchange Union will have a total supply of 3,000,000,000 XUC in which 2,935,000,000 are stored in 3 private address:</span></p><p><span>0xA4314242453AA1E8FEEd49240D5F<span>e52B8319d52B - 900,000,000 XUC<span> </span></span><br /><span>0x7302d50dB53eBb11921320fa7c95</span><span>De3c8719Db09 - 900,000,000 XUC</span><br /><span>0x13AC065131Bc2462a1Bf4a58994D</span><span>1FdfcB08678D - 1,135,000,000 XUC</span></span></p><p><span><span> A month’s notice will be given if any funds (5,000,000 XUC maximum limit) is to be released from the addresses above, stating each usage.</span></span></p><p>The Exchange Union Team canceled their ICO on August 5, 2017 and announced it on their <a href=\"https://www.exchangeunion.net/\" target=\"_blank\">site</a> saying:</p><p><span>\"(...) </span><span>In other words, the bitcoins and ethereums we have raised have been sufficient for the construction and operation of the Exchange Union. (...) Therefore we are sorry to announce the cancellation of the ICO initiative, which was due to launch on 7 August, 2017.\"</span></p><p><span>Token Destribution:</span></p><p><span>Presale&amp; Private Placement: 60,000,000</span><br /><span>Exchanges Rewards*: 990,000,000</span><br /><span>R&amp;D: 450,000,000</span><br /><span>Team Members: 300,000,000</span><br /><span>Promotion &amp; Bug Bounties: 90,000,000</span><br /><span>Special Contributors: 60,000,000</span><br /><span>Incentive Reserve: 150,000,000</span><br /><span>Excess supply to be burned*: 900,000,000</span></p><p><span>*63% of XUC tokens will be burned or reserved for Exchanges</span></p>",
+    "TokenType": "ETH (ERC20)",
+    "WebsiteLink": "http://www.exchangeunion.net/",
+    "FundingCap": "600000000 XUC",
+    "FundingTarget": "100000000 XUC",
+    "Date": 1500076800,
+    "EndDate": 1501891200,
+    "FundsRaisedList": "N/A",
+    "FundsRaisedUSD": "N/A",
+    "StartPrice": "0.000217391304",
+    "StartPriceCurrency": "BTC",
+    "Jurisdiction": "N/A",
+    "BlogLink": null,
+    "WhitePaperLink": "http://www.exchangeunion.net/white-paper.pdf"
+  },
+  "ccId": "184221"
+}

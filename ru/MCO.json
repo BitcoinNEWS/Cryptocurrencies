@@ -1,0 +1,72 @@
+{
+  "General": {
+    "Symbol": "MCO",
+    "Name": "Monaco",
+    "Description": "<p><span>Функциональность карты Monaco VISA® делает ее обязательным элементом не только для каждого держателя Ether или Bitcoin, но и для всех, кто тратит деньги в иностранной валюте. </span></p><p><span>Основные особенности:</span></p><p><span>- Используйте свой эфир или биткойн с помощью физической карты Monaco VISA®, где принимаются карты VISA®, как онлайн, так и офлайн</span></p><p><span>- Только точная сумма, которую вы тратите с картой Monaco VISA®, будет поэтапно обмениваться с ETH/BTC в режиме реального времени, когда вы проведете операцию, а остальная часть будет надежно сохранена в вашем кошельке, к которому только вы имеете доступ</span></p><p><span>- Обменяйте деньги на лучшие межбанковские обменные курсы с помощью приложения Monaco</span></p><p><span>- Наслаждайтесь лучшими межбанковскими ставками, когда вы тратите с помощью карты VISA® Monaco </span></p><p><span>- Отправляйте деньги из приложения Monaco в 23 валютах в 120 стран мира бесплатно</span></p><p><span>- Отправка денег между пользователями Monaco App бесплатна и в режиме реального времени, когда деньги мгновенно доступны для получателя на их карточке Monaco VISA®. Клиент может выполнять все через мобильное приложение - процесс занимает менее 3 минут</span></p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "31587682.3632061",
+    "Algorithm": null,
+    "ProofType": null,
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "18/05/2017",
+    "TotalCoinsMined": null,
+    "Twitter": "@monaco_card",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "https://mona.co/",
+    "GitHub": null,
+    "OnMarkets": [
+      "Binance",
+      "CCEX",
+      "Yobit",
+      "EtherDelta",
+      "HuobiPro",
+      "Gateio",
+      "BitTrex",
+      "OKEX",
+      "LiveCoin",
+      "BitZ",
+      "Liqui",
+      "LAToken",
+      "Tidex",
+      "HitBTC",
+      "Gatecoin"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Finished",
+    "Description": "<p><span>The functionality of Monaco Card makes it a must-have item not only for every Ether or Bitcoin holder, but also for everyone who spends money in foreign currency. </span></p><p><span>Monaco Card will be holding its ICO on May 18, 2017, and only Ether can be contributed and turned into MCO. The ICO is expected to end on 17</span><span>, June 2017.</span></p><p><span>If the soft-cap (150,000 ETH) is reached before the end of the 30 days, additional contributions will be accepted for 7 days.</span></p><p><a href=\"https://mona.co/mco-creation-terms.pdf\" target=\"_blank\" title=\"Sale Terms\">Sale terms</a></p><p><span style=\"text-decoration: underline;\">Bonus Structure</span>:</p><ul><li>ETH 0 - 10,000 = 150 MCO / 1 ETH</li><li>E<span>TH 10,001 - 30,000 = 140 MCO / 1 ETH</span></li><li>E<span>TH 30,001 - 50,000 = 130 MCO / 1 ETH</span></li><li>E<span>TH 50,001 - 75,000 = 120 MCO / 1 ETH</span></li><li>E<span>TH 75,001 - 100,000 = 110 MCO / 1 ETH</span></li><li>E<span>TH 100,001 - 150,000 = 100 MCO / 1 ETH</span></li></ul><p>The top 500 contributors receive a special edition &#39;Black Card&#39;</p><p><span style=\"text-decoration: underline;\">Use of Funds</span></p><ul><li>35% - R&amp;D and Product Development Includes opening of an R&amp;D centre in Shenzhen with approximately 20-30 engineers.</li><li>20% - <span>Marketing and Customer Acquisition The marketing budget is not significant compared to the target number of customers we intend to acquire. The key source of new customers is going to be word-of-mouth, as the product gives users a very strong commercial incentive to download the App and get the Monaco Card. There are natural network effects built into the product around the P2P money sending function, which will lower the average customer acquisition cost (CAC) substantially.</span></li><li>15% - <span>Initial Capex, including costs of e-Money licenses, compliance and architecture setup Some of our key partners are listed in section 4 of the document. There is a substantial cost associated with integrating all those partners, acquiring all the necessary licenses across multiple jurisdictions, building out compliance teams, legal fees and general technical architecture setup.</span></li><li>30% - <span>Working Capital Our product – the first and only Universal Money App - is bridging the gap between the worlds of crypto and fiat currencies. In order to offer our users real-time access to funds and perfect exchange rates without mark-up, we will have to bridge funding gaps between multiple parties using our own balance sheet.</span></li></ul><p> <span style=\"text-decoration: underline;\">Escrow holders</span></p><ul><li>Kris Marszalek – Founder @ Foris</li><li>Mikko Ohtamaa – CTO @ TokenMarket</li><li>Timothy Hitchens – Head of Solution Architects, Worldwide Public Sector - APJ at Amazon Web Service</li></ul>",
+    "TokenType": "ETH (ERC20)",
+    "WebsiteLink": "https://mona.co/",
+    "FundingCap": "888,888 ETH",
+    "FundingTarget": "5,000 ETH",
+    "Date": 1495099800,
+    "EndDate": 1497778200,
+    "FundsRaisedList": "71,392 ETH",
+    "FundsRaisedUSD": "25000000",
+    "StartPrice": "2.88",
+    "StartPriceCurrency": "USD",
+    "Jurisdiction": "Switzerland",
+    "BlogLink": null,
+    "WhitePaperLink": "https://mona.co/monaco-whitepaper.pdf"
+  },
+  "ccId": "166548"
+}

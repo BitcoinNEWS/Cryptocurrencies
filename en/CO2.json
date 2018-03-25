@@ -1,0 +1,58 @@
+{
+  "General": {
+    "Symbol": "CO2",
+    "Name": "CO2 Token",
+    "Description": "<p>ClimateCoin aims to create a decentralized carbon credits portal. Carbon credits is a mechanism that will work as compensation system balancing between new GHGs emissions and corresponding quantities of certified mitigations. Any entity can purchase this carbon credits to offset their duties regarding the<span> </span>GHGs<span> </span>emissions.</p><p>ClimateCoin is an ERC-20 compliant token and will be used as the medium of exchange within the platform.</p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "290742.137465643879088234",
+    "Algorithm": null,
+    "ProofType": null,
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "07/03/2018",
+    "TotalCoinsMined": null,
+    "Twitter": "@InfoClimatecoin",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": null,
+    "GitHub": null,
+    "OnMarkets": [
+      "EtherDelta"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Finished",
+    "Description": "<p> </p><p>ClimateCoin aims to create a decentralized carbon credits portal. Carbon credits is a mechanism that will work as compensation system balancing between new GHGs emissions and corresponding quantities of certified mitigations. Any entity can purchase this carbon credits to offset their duties regarding the GHGs emissions.</p><p> </p><p>ClimateCoin is an ERC-20 compliant token and will be used as the medium of exchange within the platform.</p><p><strong>Team</strong>:</p><ul><li><strong>José Lindo</strong>: CEO. <a href=\"https://www.linkedin.com/in/joselindosolis/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>James Haft</strong>: Chairman.<span> </span><a href=\"https://www.linkedin.com/in/jameshaft/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Juan Boluda Soler</strong>: COO &amp; CFO.<span> </span><a href=\"https://www.linkedin.com/in/juanbautistaboluda/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Michele Stua</strong>: Carbon Markets Manager.<span> </span><a href=\"https://www.linkedin.com/in/michele-stua-a05a48b4/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>David Ortega Berdun</strong>: CTO.<span> </span><a href=\"https://www.linkedin.com/in/dortega/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Ana Karen ZS</strong>: CMO.<span> </span><a href=\"https://www.linkedin.com/in/ana-karen-zs-67ba7697/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Andrey Khomutov</strong>: Investor Relation.<span> </span><a href=\"https://www.linkedin.com/in/andrey-khomutov-58983914a/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li></ul><p>ClimateCoin held its ICO on the 1st December, 2017 and ended on the 1st of January,2018. The ICO token supply represents 51% of the total token supply, and was sold for 0.004621 ETH each at the offering.</p><p><strong>Token Reserve Split (49%):</strong></p><p> </p><ul><li>20% Team;</li><li>29% Reserve;</li></ul><p><span>ClimateCoin ICO will feature a bonus program, and the token will not be mineable.</span></p><p><strong>Bonus Structure:</strong></p><p><strong><img style=\"width: 500px; height:208.6677367576244px;\" src=\"/media/30001626/co2.png?width=500&amp;height=208.6677367576244\" alt=\"\" data-id=\"802903\"></strong></p>",
+    "TokenType": "ETH (ERC20)",
+    "WebsiteLink": "https://climatecoin.io/",
+    "FundingCap": "N/A",
+    "FundingTarget": "N/A",
+    "Date": 1512086400,
+    "EndDate": 1514764800,
+    "FundsRaisedList": "175,000 USD",
+    "FundsRaisedUSD": "175000",
+    "StartPrice": "0.004761",
+    "StartPriceCurrency": "ETH",
+    "Jurisdiction": "N/A",
+    "BlogLink": "https://climatecoin.io/latest/",
+    "WhitePaperLink": "https://climatecoin.io/uploads/CLIMATECOIN-WHITEPAPER-1.pdf"
+  },
+  "ccId": "802875"
+}

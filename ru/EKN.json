@@ -1,0 +1,60 @@
+{
+  "General": {
+    "Symbol": "EKN",
+    "Name": "Elektron",
+    "Description": "<p>Elektron is a dentralised payments system based on the x13 algorithm - the coin mines 3 million in the proof of work phase where 2 million will be sold via an IPO - the proof of stake phase carries a 1.5% rate.</p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "3000000",
+    "Algorithm": "X13",
+    "ProofType": "PoW/PoS",
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "10/04/2014",
+    "TotalCoinsMined": null,
+    "Twitter": "@ElektronCoin",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "https://www.elektronfoundation.com/",
+    "GitHub": null,
+    "OnMarkets": [
+      "CCEX",
+      "Cryptsy",
+      "BitTrex"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "N/A",
+    "Description": null,
+    "TokenType": null,
+    "WebsiteLink": null,
+    "FundingCap": null,
+    "FundingTarget": null,
+    "Date": null,
+    "EndDate": null,
+    "FundsRaisedList": null,
+    "FundsRaisedUSD": null,
+    "StartPrice": null,
+    "StartPriceCurrency": null,
+    "Jurisdiction": null,
+    "BlogLink": null,
+    "WhitePaperLink": null
+  },
+  "ccId": "5281"
+}

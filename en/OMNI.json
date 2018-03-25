@@ -1,0 +1,60 @@
+{
+  "General": {
+    "Symbol": "OMNI",
+    "Name": "Omni",
+    "Description": "<p><span>Omni is an asset and currency creation platform re branded from MasterCoin. Based on bitcoin, OMNI provides all the same features as bitcoin and advanced Omni Layer features, such as blockchain-based crowdfunding and asset creation, management and exchange.</span></p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "616448",
+    "Algorithm": "Scrypt",
+    "ProofType": "PoW",
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "31/07/2013",
+    "TotalCoinsMined": "619478",
+    "Twitter": "@Omni_layer",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "http://www.omnilayer.org/",
+    "GitHub": null,
+    "OnMarkets": [
+      "Poloniex",
+      "CCEX",
+      "BitTrex"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Finished",
+    "Description": "<p><span>The first ICO is typically attributed to Mastercoin. Mastercoin’s ICO in August 2013 raised 4740 Bitcoins, worth around $500,000 at the time.</span></p><p><a href=\"https://docs.google.com/spreadsheets/d/1nF_TEUgQsK3q7FR8Ebmov9cWCYpeaJmO8FLfW9t6a_w/edit#gid=0\" target=\"_blank\">Mastercoin fund</a> outlines how they have spent the 4740BTC that was raised. MSC was sold a<span>t the rate of 100 MSC per BTC.</span></p>",
+    "TokenType": "N/A",
+    "WebsiteLink": "http://www.omnilayer.org/",
+    "FundingCap": "N/A",
+    "FundingTarget": "N/A",
+    "Date": 1406808000,
+    "EndDate": 1409486400,
+    "FundsRaisedList": "4740 BTC",
+    "FundsRaisedUSD": "500000",
+    "StartPrice": "1.054",
+    "StartPriceCurrency": "USD",
+    "Jurisdiction": "N/A",
+    "BlogLink": "http://blog.omni.foundation/",
+    "WhitePaperLink": "https://github.com/OmniLayer/spec"
+  },
+  "ccId": "22441"
+}

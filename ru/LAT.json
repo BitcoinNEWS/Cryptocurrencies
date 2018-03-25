@@ -1,0 +1,58 @@
+{
+  "General": {
+    "Symbol": "LAT",
+    "Name": "Latium",
+    "Description": "<p>Latium is a decentralized microtasking platform for projects and community initiatives, improving efficiency and transparency for freelance workers and project participants. The ecosystem is comprised of task doers and makers, those who complete tasks and those who pay for them to be completed (respecitvely).  Additional features include a reputation system, profile management, referral programs and LAT transfer system. LAT is an ERC20 token that acts as the main form of payment on the platform</p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "30000000",
+    "Algorithm": null,
+    "ProofType": null,
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "23/08/2017",
+    "TotalCoinsMined": null,
+    "Twitter": "@latiumcoin",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": null,
+    "GitHub": null,
+    "OnMarkets": [
+      "HitBTC"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Ongoing",
+    "Description": "<p><span>Latium is a decentralized microtasking platform for projects and community initiatives, improving efficiency and transparency for freelance workers and project participants. The ecosystem is comprised of task doers and makers, those who complete tasks and those who pay for them to be completed (respecitvely).  Additional features include a reputation system, profile management, referral programs and LAT transfer system. LAT is an</span><span> ERC20 token that acts as the main form of payment on the platform</span></p><p><strong>Team</strong>:</p><ul><li><strong>David Johnson:</strong> CEO/Founder <a href=\"https://www.linkedin.com/in/david-johnson-382b9457\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Matt Carden:</strong> COO/Co-Founder <a href=\"https://www.linkedin.com/in/matthew-carden-b25b4759\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Ben Myers:</strong> Design/Development Coordinator <a href=\"https://www.linkedin.com/in/ben-myers-21856b26/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li></ul><p>The Latium ICO began on the 15th of August and will last for a month or until the total ICO supply is sold. The ICO supply is 10M (33% of 30M supply). The starting price for LAT is 0.01 ETH although users can also participate with BTC and LATC, the project&#39;s previous cryptocurrency. </p><p>Latium Classic will be given priority in the token sale. All Latium Classic holders can transfer at a rate of 1:1 for the duration of the sale. Latium classic holders will get access to the Phase 1 period of 7 days or up to 2.5 million LAT tokens issued before the tokens are available for purchase with Ether. Total Ether raised if max cap is hit, including Latium Classic pre-sales, is 67,500 ETH. This does not include the roughly 1 million Latium Classic currently in circulation.</p><p><strong>Token Reserve Split:</strong></p><ul><li>7.5M tokens for phase 1</li><li>2.5M tokens for phase 2</li></ul>",
+    "TokenType": "ETH (ERC20)",
+    "WebsiteLink": "https://latium.org/#get-coins",
+    "FundingCap": "67,500 ETH",
+    "FundingTarget": "N/A",
+    "Date": 1502820000,
+    "EndDate": 1505498400,
+    "FundsRaisedList": "1703.7357 ETH",
+    "FundsRaisedUSD": "2264270",
+    "StartPrice": "0.01",
+    "StartPriceCurrency": "ETH",
+    "Jurisdiction": "N/A",
+    "BlogLink": null,
+    "WhitePaperLink": "https://latium.org/whitepaper.pdf"
+  },
+  "ccId": "237269"
+}

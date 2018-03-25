@@ -1,0 +1,56 @@
+{
+  "General": {
+    "Symbol": "HBZ",
+    "Name": "Helbiz",
+    "Description": "<p><span>Helbiz is a peer-to-peer market- place that makes renting a car, motorcycle or bicycle convenient, affordable and rewarding. Helbiz combines the familiar carsharing approach in the trans- portation sector with Blockchain technology. </span><span>Their<span> </span></span><span>mobility ecosystem will soon provide access to individual vehicles as well as fleets and other transportation services.</span></p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "1000000000",
+    "Algorithm": null,
+    "ProofType": null,
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "15/02/2018",
+    "TotalCoinsMined": null,
+    "Twitter": "@helbizofficial",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": null,
+    "GitHub": null,
+    "OnMarkets": [],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Finished",
+    "Description": "<div class=\"freebirdFormviewerViewItemsItemItem freebirdFormviewerViewItemsTextTextItem\" data-item-id=\"1688926117\"><div class=\"freebirdFormviewerViewItemsTextItemWrapper\"><div class=\"freebirdFormviewerViewItemsTextShortText freebirdFormviewerViewItemsTextDisabledText freebirdThemedInput\">Helbiz is a peer-to-peer market- place that makes renting a car, motorcycle or bicycle convenient, affordable and rewarding. Helbiz combines the familiar carsharing approach in the trans- portation sector with Blockchain technology. Their mobility ecosystem will soon provide access to individual vehicles as well as fleets and other transportation services.</div></div></div><div class=\"freebirdFormviewerViewItemsItemItem freebirdFormviewerViewItemsTextTextItem\" data-required=\"true\" data-item-id=\"1233791071\"><div class=\"freebirdFormviewerViewItemsItemItemHeader\"><div class=\"freebirdFormviewerViewItemsItemItemTitleContainer\"></div></div></div><p><strong>Team</strong>:</p><ul><li><strong>Salvatore Palella</strong><span>: Founder.</span><span> </span><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></li><li><strong>Saeed Darmaki</strong><span>: Investor &amp; Advisor.</span><span> </span><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></li><li><strong>Armando Calvosa</strong><span>: Co-Founder.</span><span> </span><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></li><li><strong>Michele De Buono</strong><span>: General Advisor.</span><span> </span><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></li><li><strong>Milos Citakovic</strong><span>: Co-Founder.</span><span> </span><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></li><li><strong>Michael Coppola</strong><span>: Investor &amp; Advisor.</span><span> </span><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></li><li><strong>Justin Giuliano</strong><span>: President Blockchain Operations.</span><span> </span><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></li><li><strong>Jonathan Hannestad</strong><span>: Strategic &amp; Creative Director.</span><span> </span><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></li><li><strong>Stefano Ciravegna</strong><span>: Crypto Advisor.</span><span> </span><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></li><li><strong>Giulio Profumo</strong><span>: Investor &amp; Advisor.</span><span> </span><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></li><li><strong>Elia Fedorovski</strong><span>: Head of Growth.</span><span> </span><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></li><li><strong>Jelena Stojanac</strong><span>: Community Manager.</span><span> </span><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></li><li><strong>Nemanja Stancic</strong><span>: Head of Engineering.</span><span> </span><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></li></ul><p>Helbiz will be holding its ICO on 15th of February, 2018. The ICO token supply represents 52% of the total token supply and the tokens will be available, for $0.15  each at the offering. The ICO funding target is 5,000 ETH, the funding cap is 62,500 ETH and is expected to end on the 9th of March, 2018 or when the funding cap is reached.</p><p><strong>Token Reserve Split (48%):</strong></p><ul><li>25% Reserve by Helbiz to fund future user growth fund and expansion;</li><li>10% Advisors and Early Backers;</li><li>10% Team;</li><li>3% Bounty Program;</li></ul>",
+    "TokenType": "ETH (ERC20)",
+    "WebsiteLink": "https://www.helbizcoin.io",
+    "FundingCap": "62,500 ETH",
+    "FundingTarget": "5,000 ETH",
+    "Date": 1518652800,
+    "EndDate": 1520467200,
+    "FundsRaisedList": "5,500,000 USD\r\nMain Sale: 472,000,000 HBZ sold.",
+    "FundsRaisedUSD": "5500000",
+    "StartPrice": "0.15",
+    "StartPriceCurrency": "USD",
+    "Jurisdiction": "Singapore",
+    "BlogLink": null,
+    "WhitePaperLink": "https://drive.google.com/file/d/1UudcsnOrVwe0DeG4p7k7R3m4l28bAzQ0/view"
+  },
+  "ccId": "758066"
+}

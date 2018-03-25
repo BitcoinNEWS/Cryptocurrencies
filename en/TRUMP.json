@@ -1,0 +1,63 @@
+{
+  "General": {
+    "Symbol": "TRUMP",
+    "Name": "TrumpCoin",
+    "Description": "<p>TrumpCoin was named after the political candidate, Donald Trump and it promotes some of the same ideals they see in said candidate, such as: Free Speech and Fair Trade Capitalism. <br /> <br />Since TrumpCoin relies heavily on the election for publicity, the Dev team have come up with a solution to assure TRUMP holders will not suffer from this decrease in demand: TRUMP will be exchangeable 1-1 for Teth tokens (TrumpTech) that will be built on the the Ethereum network in order to support smart contracts and Dapp</p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "12000000",
+    "Algorithm": "Blake",
+    "ProofType": "PoS",
+    "BlockReward": 0.004931501733760039,
+    "Explorer": null,
+    "StartDate": "11/04/2016",
+    "TotalCoinsMined": 6598613.56320463,
+    "Twitter": null,
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "http://trumpcoin.rocks/",
+    "GitHub": null,
+    "OnMarkets": [
+      "Yobit",
+      "TradeSatoshi",
+      "Cryptopia",
+      "CCEX",
+      "Novaexchange",
+      "LiveCoin"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "N/A",
+    "Description": null,
+    "TokenType": null,
+    "WebsiteLink": null,
+    "FundingCap": null,
+    "FundingTarget": null,
+    "Date": null,
+    "EndDate": null,
+    "FundsRaisedList": null,
+    "FundsRaisedUSD": null,
+    "StartPrice": null,
+    "StartPriceCurrency": null,
+    "Jurisdiction": null,
+    "BlogLink": null,
+    "WhitePaperLink": null
+  },
+  "ccId": "20270"
+}

@@ -1,0 +1,61 @@
+{
+  "General": {
+    "Symbol": "GPU",
+    "Name": "GPU Coin",
+    "Description": "<p><span>GPU Coin will be used in the used GPU global market, where users can buy and sell used GPUs (Graphic Processing unit) safely through their escrow service.</span></p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "221052632",
+    "Algorithm": "Scrypt",
+    "ProofType": "PoS",
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "16/04/2016",
+    "TotalCoinsMined": 40477042,
+    "Twitter": "@GPU_coin",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "http://www.usedgpus.com/",
+    "GitHub": null,
+    "OnMarkets": [
+      "Cryptopia",
+      "Yobit",
+      "CCEX",
+      "Novaexchange"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "N/A",
+    "Description": null,
+    "TokenType": null,
+    "WebsiteLink": null,
+    "FundingCap": null,
+    "FundingTarget": null,
+    "Date": null,
+    "EndDate": null,
+    "FundsRaisedList": null,
+    "FundsRaisedUSD": null,
+    "StartPrice": null,
+    "StartPriceCurrency": null,
+    "Jurisdiction": null,
+    "BlogLink": null,
+    "WhitePaperLink": null
+  },
+  "ccId": "20650"
+}

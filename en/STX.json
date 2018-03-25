@@ -1,0 +1,65 @@
+{
+  "General": {
+    "Symbol": "STX",
+    "Name": "Stox",
+    "Description": "<p>Stox is an open source, Ethereum based prediction market platform that leverages the concept of the wisdom of the crowd. It allows users to trade the outcome of upcoming events in multiple categories, including <span>finance, sports, politics and more. </span></p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "29600000",
+    "Algorithm": "N/A",
+    "ProofType": "N/A",
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "02/08/2017",
+    "TotalCoinsMined": 57605912.42033773,
+    "Twitter": "@stx_coin",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "https://www.stox.com",
+    "GitHub": null,
+    "OnMarkets": [
+      "Liqui",
+      "Cryptopia",
+      "HitBTC",
+      "Kucoin",
+      "CCEX",
+      "Novaexchange",
+      "EtherDelta",
+      "Gateio"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Finished",
+    "Description": "<p><span>Stox is an open source, Ethereum based prediction market platform that leverages the concept of the wisdom of the crowd. It allows users to trade the outcome of upcoming events in multiple categories, including </span><span>finance, sports, politics and more. </span></p><p><strong>Team</strong>:</p><ul><li><div class=\"name\"><strong>Ophir Gertner:</strong> Founder. <a href=\"https://www.linkedin.com/in/gertnerophir/?ppe=1\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></div></li><li><strong>Yossi Peret:</strong> COO.<span> </span><a href=\"https://www.linkedin.com/in/yossi-peretz/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Marek Lorinc: </strong>Executive Director.<span> </span><a href=\"https://www.linkedin.com/in/marek-lorinc-7b6322b/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li></ul><p>The Stox ICO began on the2nd of April 2017. The ICO token supply represents 50% of the total token supply for 0.005 ETH each. The ICO funding cap is 148000 ETH and the campaign is expected to last until 16th of July or until the aforementioned cap is reached.</p><p><strong>Token Reserve Split:</strong></p><ul><li>invest.com Ltd. - 12.5%;</li><li>Stox team - 10%;</li><li>Stox Ltd. - 27.5%;</li></ul><p> </p>",
+    "TokenType": "ETH (ERC20)",
+    "WebsiteLink": "https://www.stox.com/en/stox-token-sale",
+    "FundingCap": "148,000 ETH",
+    "FundingTarget": "N/A",
+    "Date": 1501682400,
+    "EndDate": 1501797600,
+    "FundsRaisedList": "148,000 ETH",
+    "FundsRaisedUSD": "27476646",
+    "StartPrice": "0.005",
+    "StartPriceCurrency": "ETH",
+    "Jurisdiction": "Switzerland",
+    "BlogLink": "https://steemit.com/@stx",
+    "WhitePaperLink": "https://www.stox.com/assets/stox-whitepaper.pdf"
+  },
+  "ccId": "204716"
+}

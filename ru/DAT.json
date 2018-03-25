@@ -1,0 +1,61 @@
+{
+  "General": {
+    "Symbol": "DAT",
+    "Name": "Datum",
+    "Description": "<p>The Datum network will provide a way to monetize data, enabling anyone to buy or sell stored information while enforcing data usage rules set by the owner of the data at hand. The Datum network allows anyone to store structured data in a decentralized manner, through the use of smart contract technology.</p><p>Datum (DAT) is an Ethereum-based utility token that will allow users to buy and sell data. The Datum token can also be exchanged for certain privileges on the Datum network, like the ability to participate in the data market and register as the storage node.</p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "2653841597.973271663912484125",
+    "Algorithm": null,
+    "ProofType": null,
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "27/07/2017",
+    "TotalCoinsMined": null,
+    "Twitter": "@datumnetwork",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": null,
+    "GitHub": null,
+    "OnMarkets": [
+      "Kucoin",
+      "OKEX",
+      "EtherDelta",
+      "HuobiPro"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Finished",
+    "Description": "<p>The Datum network will provide a way to monetize data, enabling anyone to buy or sell stored information while enforcing data usage rules set by the owner of the data at hand. The Datum network allows anyone to store structured data in a decentralized manner, through the use of smart contract technology.</p><p>Datum (DAT) is an Ethereum-based utility token that will allow users to buy and sell data. The Datum token can also be exchanged for certain privileges on the Datum network, like the ability to participate in the data market and register as the storage node.</p><p><strong>Team</strong>:</p><ul><li><strong>Roger Haenni</strong>: <span>CEO, </span><span>Co-Founder</span>. <a href=\"https://www.linkedin.com/in/roger-haenni/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Gebhard Scherrer</strong>: <span>Operations, </span><span>Co-Founder</span>.<span> </span><a href=\"https://www.linkedin.com/in/gebhard-scherrer-795399/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=0&amp;height=0\" alt=\"\" data-id=\"202867\"></a></li><li><strong>VC Tran</strong>: <span>Marketing, </span><span>Co-Founder</span>.<span> </span><a href=\"https://www.linkedin.com/in/vc-tran-035563/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Theo Valich</strong>: <span>Head of Growth</span>.<span> </span><a href=\"https://www.linkedin.com/in/theovalich/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Florian Honegger</strong>: <span>Smart Contract Expert</span>.</li><li><strong>Vitaly Krinitsin</strong>: <span>Community Manager</span>.<span> </span><a href=\"https://www.linkedin.com/in/vitakrin/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Matt Kimball</strong>: <span>Programmer / Designer</span>.</li><li><strong>Tevon Strand-Brown</strong>: <span>Software Engineer</span>.<span> </span><a href=\"https://www.linkedin.com/in/tevon-strand-brown-77237a58\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Luis Fernando Varela</strong>: <span>Software Engineer</span>.<span> </span><a href=\"https://www.linkedin.com/in/luisfvarela/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=0&amp;height=0\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Christiana Kuo-chen Chien</strong>: Community Management.<span> </span><a href=\"https://www.linkedin.com/in/christianachien/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Alex Yedomski</strong>: <span>Programmer / Web-developer</span>.</li><li><strong>Eugene Kyselov</strong>: <span>Programmer / Front-end developer</span>.<span> </span><a href=\"https://www.linkedin.com/in/kyseleveugene/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li></ul><p><span>Datum held its ICO from the 29th of October, 2017. The ICO token supply represents 51% of the total token supply, so there will be a total of 1,530,000,000 tokens available, for 0,0001 ETH each during the offering. The ICO funding target was 5000 ETH, the funding cap was 29,500 ETH, and ended on the 29th of November, 2017. Unsold tokens were burnt.</span></p><p><strong>Token Reserve Split (49%):</strong></p><ul><li>29% Reserve Fund;</li><li>20% Datum Core Dev;</li></ul><p><span>Datum ICO campaign will feature a bounty campaign, and the token will not be mineable.</span></p>",
+    "TokenType": "ETH (ERC20)",
+    "WebsiteLink": "https://datum.org/",
+    "FundingCap": "29,500 ETH",
+    "FundingTarget": "5000 ETH",
+    "Date": 1509235200,
+    "EndDate": 1511913600,
+    "FundsRaisedList": "15,794.903 ETH",
+    "FundsRaisedUSD": "7507791.24",
+    "StartPrice": "0.0001",
+    "StartPriceCurrency": "ETH",
+    "Jurisdiction": "Switzerland",
+    "BlogLink": "http://blog.datum.org/",
+    "WhitePaperLink": "https://datum.org/assets/Datum-WhitePaper.pdf"
+  },
+  "ccId": "335505"
+}

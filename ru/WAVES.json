@@ -1,0 +1,68 @@
+{
+  "General": {
+    "Symbol": "WAVES",
+    "Name": "Waves",
+    "Description": "<p>Waves is a Blockchain token platform that allows the creation transfer and exchange of custom and fiat tokens and assets through the Blockchain without volatility. The Waves liteclient will feature a Portfolio, voting area to facilitate consensus on various projects and a messaging center.</p><p>Based on NXT&#39;s colored coin technology, Waves was built from scratch to provide new features . Waves plans to deliver a KYC and AML compliant platform with multiple Bank partnerships that will act as gateways for fiat deposits and withdrawals.</p><p><span>Waves has recently formed a partnership with Mycelium Wallet.</span></p>",
+    "Features": "<p>Descentralized token exchange: Waves platform will facilitate fundraising, crowdfunding, and trading of<br />financial instruments on the blockchain with reduced volatility.</p><p>Custom and fiat token creation, deletion and transfer.</p><p>Asset-to-asset exchange.</p><p>Lightweight clients: Waves will provide a easy to setup light client that can run on any computer.</p>",
+    "Technology": "<p>Waves is <span>the first production system being built on top of the <strong>Scorex</strong> framework</span></p><p><strong>Extensible solution</strong>: In order to fix the <span>need</span> for a <span>mandatory </span>hard fork when creating a new type of transaction on the NXT Platform (forcing network client software updates) WAVES offers plug-ins that are not included in the core software module, but are instead installed as an extension on top of it.</p>",
+    "TotalCoinSupply": "100000000",
+    "Algorithm": "Leased POS",
+    "ProofType": "LPoS",
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "12/06/2016",
+    "TotalCoinsMined": "100000000",
+    "Twitter": "@wavesplatform",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "https://wavesplatform.com/",
+    "GitHub": null,
+    "OnMarkets": [
+      "BitTrex",
+      "Yobit",
+      "Tidex",
+      "WavesDEX",
+      "Cryptopia",
+      "LiveCoin",
+      "Gateio",
+      "Binance",
+      "Liqui",
+      "Exmo",
+      "HitBTC"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Finished",
+    "Description": "<p><span>Waves is a custom blockchain tokens platform designed for large-scale business and consumer adoption. </span><span>Waves was created to make the benefits of blockchain technology accessible to ordinary businesses and end users. The platform launched in 2016 and was designed from the ground up to address the shortcomings of existing blockchain services. The result is an enterprise-ready platform that emphasises security, easy token operations (creation, transfer, exchange) and a straightforward user experience, as well as dealing with critical long-term issues such as speed and scalability.</span></p><p><strong>Team</strong>:</p><ul><li><strong>Sasha Ivanov</strong>: CEO, Founder. (<a href=\"https://twitter.com/sasha35625\" target=\"_blank\">Twitter</a>, <a href=\"https://www.linkedin.com/in/sasha35625\" target=\"_blank\">LinkedIn</a>);</li><li><strong>Guy Brandon</strong>: Semantics Engineer. (<a href=\"https://twitter.com/cassiuscrypto\" target=\"_blank\"><span>Twitter</span></a>);</li><li><strong>Alexander Bezkrovny</strong>: Communications. (<a href=\"https://twitter.com/rvelcoro\" target=\"_blank\"><span>Twitter</span></a>);</li><li><strong>Carlos Parada</strong><span>: Brand Management. (</span><a href=\"https://twitter.com/ethercoins\" target=\"_blank\"><span>Twitter</span></a><span>);</span></li><li><span><strong>Martin Spodymek</strong><span>: Head Community Manager. (</span><span><a href=\"https://twitter.com/coremedia_info\" target=\"_blank\">Twitter</a>)</span><span>;</span></span></li></ul><p>Waves held its ICO on April 12, 2016. The ICO coin supply represents 85% of the total coin supply, so there was a total of 85,000,000 coins available at the offering, for an average price of <span>0.00035405 BTC each</span>. The ICO raised a total of $<span>16,010,008 (</span><span>30,094 BTC) with a total of 5790 participants, and</span> ended on May 1, 2016. <span>The largest investor contributed 866 BTC which is equivalent to 2.87% of all Waves. The top 10 investors contributed 5,178 BTC and hold the equivalent of 17% of all Waves.</span></p><p><strong>Token Reserve Split (15%):</strong></p><ul><li>01% Distributed to early supporters;</li><li>01% R<span>eserved for post-ICO bounties;</span></li><li>04% R<span>eserved for strategical partners and backers</span>;</li><li><span>09% Withheld by the development team;</span></li></ul><p>Waves ICO campaign featured bonus, bounties, escrow and the coin will not be mineable.</p><p><strong>Bonus Structure:</strong></p><ul><li><span>First day - 20% Bonus;</span></li><li><span>April, 13 to April, 30 - 10% Bonus.</span></li><li><span>May, 1 - May, 15 - 5% Bonus.</span></li></ul>",
+    "TokenType": "WAVES",
+    "WebsiteLink": "https://wavesplatform.com/",
+    "FundingCap": "N/A",
+    "FundingTarget": "N/A",
+    "Date": 1491998400,
+    "EndDate": 1496232000,
+    "FundsRaisedList": "30,094 BTC",
+    "FundsRaisedUSD": "16010008",
+    "StartPrice": "0.188",
+    "StartPriceCurrency": "USD",
+    "Jurisdiction": "N/A",
+    "BlogLink": "https://blog.wavesplatform.com/",
+    "WhitePaperLink": "https://wavesplatform.com/files/whitepaper_v0.pdf"
+  },
+  "ccId": "20131"
+}

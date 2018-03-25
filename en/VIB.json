@@ -1,0 +1,63 @@
+{
+  "General": {
+    "Symbol": "VIB",
+    "Name": "Viberate",
+    "Description": "<p><span>Viberate is a platform that joins the entire live music ecosystem under one roof. Currently it acts as </span><span>a database</span><span> for live music, where profiles are ranked according to their online popularity. It is built and curated by the Viberate user community. </span><span>Viberate&#39;s</span><span> </span><span>end game is to disrupt the music industry as we know it – by becoming </span><span>a</span><span> global talent marketplace.</span></p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "200000000",
+    "Algorithm": "N/A",
+    "ProofType": "N/A",
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "01/01/0001",
+    "TotalCoinsMined": 200000000,
+    "Twitter": "@Viberate_com",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "https://www.viberate.io/",
+    "GitHub": null,
+    "OnMarkets": [
+      "OKEX",
+      "LiveCoin",
+      "Binance",
+      "HitBTC",
+      "BitTrex",
+      "EtherDelta"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Ongoing",
+    "Description": "<p>Viberate is a platform that joins the entire live music ecosystem under one roof. Currently it acts as a database for live music, where profiles are ranked according to their online popularity. It is built and curated by the Viberate user community. <span>Viberate&#39;s</span> end game is to disrupt the music industry as we know it – by becoming a global talent marketplace.</p><p><strong>Team</strong>:</p><ul><li><strong>Matej Gregorcic</strong>: CEO, Founder. <a href=\"https://www.linkedin.com/in/matejgregorcic/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Vasja Veber</strong>: COO, Founder.<span> </span><a href=\"https://www.linkedin.com/in/vasjaveber/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Bostjan Zakelj</strong>: CTO.<span> </span><a href=\"https://www.linkedin.com/in/bostjan-zakelj-b138874/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Kristian Gorenc</strong><span>: CMO.</span><span> </span><a href=\"https://www.linkedin.com/in/kristiangorenc/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li></ul><p>Viberate will be holding its ICO on September 5, 2017. The ICO token supply represents 60% of the total token supply, so there will be a total of <span>120 million </span>tokens available, for $0.1 USD each at the offering. The ICO funding target is 1,000,000 USD, the funding cap is approximately 12,000,000 USD and is expected to end on October 4, 2017 or when the funding cap is reached.</p><p><strong>Token Reserve Split (40%):</strong></p><ul><li>16% - Founders and Team;</li><li>08% - Advisors and Ambassadors;</li><li>04% - Seed investors;</li><li><span>05% - Viberate contributors;</span></li><li><span>07% - Reserves for future partnerships;</span></li></ul><p><span><strong>Use of Proceeds:</strong></span></p><ul><li>40% - Technical Development and UI;</li><li><span>15% - Product Development and Management;</span></li><li><span>15% - Database Expansion and Support;</span></li><li><span>20% - Marketing, Sales and PR;</span></li><li><span>10% - General and Administrative Operations;</span></li></ul><p><span>Viberate&#39;s ICO campaign will feature a bonus structure, available below.</span></p><p><strong>Bonus Structure:</strong></p><ul><li>12% Bonus - First 48 Hours;</li><li>09% Bonus - Week 1;</li><li>06% Bonus - Week 2;</li><li><span>03% Bonus - Week 3;</span></li><li><span>00% Rest of the Crowdsale;</span></li></ul>",
+    "TokenType": "ETH (ERC20)",
+    "WebsiteLink": "https://www.viberate.io/en/crowdsale",
+    "FundingCap": "12,000,000 USD",
+    "FundingTarget": "1,000,000 USD",
+    "Date": 1504609200,
+    "EndDate": 1504610400,
+    "FundsRaisedList": "N/A",
+    "FundsRaisedUSD": "10714285",
+    "StartPrice": "0.1",
+    "StartPriceCurrency": "USD",
+    "Jurisdiction": "N/A",
+    "BlogLink": "https://medium.com/viberate-blog",
+    "WhitePaperLink": "https://www.viberate.io/pdf/Viberate.io_Whitepaper.pdf"
+  },
+  "ccId": "198710"
+}

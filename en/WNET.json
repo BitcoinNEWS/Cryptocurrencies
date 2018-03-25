@@ -1,0 +1,58 @@
+{
+  "General": {
+    "Symbol": "WNET",
+    "Name": "Wavesnode.net",
+    "Description": "<p>Wavesnode.NET (WNET) is a Waves-based token issued by the team that operates the popular pool Wavesnode.net.<br />WNET is used as a payment asset for clients and/or businesses using all current and future Wavesnode.NET services.</p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "10000000",
+    "Algorithm": "N/A",
+    "ProofType": "N/A",
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "06/12/2016",
+    "TotalCoinsMined": 1000,
+    "Twitter": "@wavesnode",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "http://wavesnode.net",
+    "GitHub": null,
+    "OnMarkets": [
+      "WavesDEX"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "N/A",
+    "Description": null,
+    "TokenType": null,
+    "WebsiteLink": null,
+    "FundingCap": null,
+    "FundingTarget": null,
+    "Date": null,
+    "EndDate": null,
+    "FundsRaisedList": null,
+    "FundsRaisedUSD": null,
+    "StartPrice": null,
+    "StartPriceCurrency": null,
+    "Jurisdiction": null,
+    "BlogLink": null,
+    "WhitePaperLink": null
+  },
+  "ccId": "206512"
+}

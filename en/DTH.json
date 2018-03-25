@@ -1,0 +1,58 @@
+{
+  "General": {
+    "Symbol": "DTH",
+    "Name": "Dether",
+    "Description": "<p><span>Dether provides a platform that enables anyone to buy ether with cash and also has a map that provides physical stores nearby to spend it, just a mobile phone with internet access. </span>Their token DTH is a asset ERC20 token built on the Ethereum network.</p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "100000000",
+    "Algorithm": null,
+    "ProofType": null,
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "24/07/2017",
+    "TotalCoinsMined": 100000000,
+    "Twitter": "@dether_io",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": null,
+    "GitHub": null,
+    "OnMarkets": [
+      "Tidex"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Finished",
+    "Description": "<p><span>Dether provides a platform that enables anyone to buy ether with cash and also has a map that provides physical stores nearby to spend it, just a mobile phone with internet access. </span></p><p>Their token DTH is a asset ERC20 token built on the Ethereum network.</p>",
+    "TokenType": "ETH (ERC20)",
+    "WebsiteLink": "https://dether.io",
+    "FundingCap": "15,000 ETH",
+    "FundingTarget": "3,000 ETH",
+    "Date": 1517961600,
+    "EndDate": 1520985600,
+    "FundsRaisedList": "N/A",
+    "FundsRaisedUSD": "N/A",
+    "StartPrice": "0.0004",
+    "StartPriceCurrency": "ETH",
+    "Jurisdiction": "France",
+    "BlogLink": "https://medium.com/@DETHER",
+    "WhitePaperLink": "https://whitepaper.dether.io/"
+  },
+  "ccId": "788387"
+}

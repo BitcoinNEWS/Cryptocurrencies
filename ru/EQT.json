@@ -1,0 +1,60 @@
+{
+  "General": {
+    "Symbol": "EQT",
+    "Name": "EquiTrader",
+    "Description": "<p><span>EquiTrader is a decentralized crowdsourced trading analysis platform that rewards traders with app tokens for providing valuable market analysis and trading forecasts and provides a social community for traders and investors of cryptocurrency, stock, futures, and forex markets. The rewards are destributed in EQT tokens, a scrypt PoW cryptocurrency.</span><span><br /></span></p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "72000000",
+    "Algorithm": "Scrypt",
+    "ProofType": "PoW",
+    "BlockReward": 4.2364350234468775,
+    "Explorer": null,
+    "StartDate": "31/03/2017",
+    "TotalCoinsMined": 11478783.66082813,
+    "Twitter": "@Equi_Trader",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "-",
+    "GitHub": null,
+    "OnMarkets": [
+      "Yobit",
+      "Cryptopia",
+      "Novaexchange"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "N/A",
+    "Description": null,
+    "TokenType": null,
+    "WebsiteLink": null,
+    "FundingCap": null,
+    "FundingTarget": null,
+    "Date": null,
+    "EndDate": null,
+    "FundsRaisedList": null,
+    "FundsRaisedUSD": null,
+    "StartPrice": null,
+    "StartPriceCurrency": null,
+    "Jurisdiction": null,
+    "BlogLink": null,
+    "WhitePaperLink": null
+  },
+  "ccId": "105263"
+}

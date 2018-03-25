@@ -1,0 +1,58 @@
+{
+  "General": {
+    "Symbol": "DCY",
+    "Name": "Dinastycoin",
+    "Description": "<p>Dinastycoin is a PoW cryptonight coin that can be spent in the Dinasty services, which include the Dynasty Freedom marketplace, the Dynasty Freedom social network and the Dynasty Freedom backoffice.</p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "2000000000",
+    "Algorithm": "CryptoNight",
+    "ProofType": "PoW",
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "30/05/2017",
+    "TotalCoinsMined": 1525490803,
+    "Twitter": "@dinastycoin",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "http://www.dinastycoin.com/",
+    "GitHub": null,
+    "OnMarkets": [
+      "Cryptopia"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "N/A",
+    "Description": null,
+    "TokenType": null,
+    "WebsiteLink": null,
+    "FundingCap": null,
+    "FundingTarget": null,
+    "Date": null,
+    "EndDate": null,
+    "FundsRaisedList": null,
+    "FundsRaisedUSD": null,
+    "StartPrice": null,
+    "StartPriceCurrency": null,
+    "Jurisdiction": null,
+    "BlogLink": null,
+    "WhitePaperLink": null
+  },
+  "ccId": "181373"
+}

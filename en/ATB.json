@@ -1,0 +1,59 @@
+{
+  "General": {
+    "Symbol": "ATB",
+    "Name": "ATB coin",
+    "Description": "<p>ATB coin ICO — криптовалюта на основе SegWit и сети Lightning. Монета ATB - это Proof of Stake криптовалюта, предназначенная для решения некоторых наиболее актуальных проблем в текущем криптографическом ландшафте, таких как масштабируемость, эффективность работы и многое другое. Монета ATB включает в себя некоторые из самых последних технологий в мире блокчейна, такие как обновление SegWit и Lightning Network, что делает его более эффективным и гибким. Монета ATB обслуживается с набором легких и удобных кошельков - для настольных компьютеров, iOS, Android и web.</p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "N/A",
+    "Algorithm": "SHA256",
+    "ProofType": "PoW",
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "12/07/2017",
+    "TotalCoinsMined": null,
+    "Twitter": "@atbcoincom",
+    "Telegram": null,
+    "Youtube": "pHPynVpaamI",
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "https://atbcoin.com/",
+    "GitHub": null,
+    "OnMarkets": [
+      "Yobit",
+      "HitBTC"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Ongoing",
+    "Description": "<p><span>ATB coin is a Proof of Stake cryptocurrency designed to solve some of the most pressing issues in the current crypto landscape, such as scalability, energency efficiency and more. ATB coin features some of the most recent technologies in the blockchain space such as the SegWit update and Lightning Network making it more efficient, flexible, and agile.</span></p><p><span>The ATB coin ICO started on the 12th of June and it is currently ongoing until the 12th of July (one month). 50 Million ATBs are available during the ICO. Users can participate in the ICO with Bitcoin, Litecoin and Ether, ensuring that each address is public and verifiable. </span></p><p><span>The ATB coin ICO started with a 10% bonus that gradually decreased to 0. The ATB token is based on its own PoS blockchain, which means it can be mined with coins (Stake). The supply increases after the ICO.</span></p>",
+    "TokenType": "N/A",
+    "WebsiteLink": "https://atbcoin.com/join-en/",
+    "FundingCap": "50,000,000 USD",
+    "FundingTarget": "50000000 ATB",
+    "Date": 1497225600,
+    "EndDate": 1499817600,
+    "FundsRaisedList": "3,832 BTC; 8,102 ETH; 3,744 LTC; 27 ZCASH;",
+    "FundsRaisedUSD": "14976000",
+    "StartPrice": "0.90",
+    "StartPriceCurrency": "USD",
+    "Jurisdiction": "N/A",
+    "BlogLink": "https://atbcoin.com/news-en/",
+    "WhitePaperLink": "https://atbcoin.com/whitepaper-en/"
+  },
+  "ccId": "175618"
+}

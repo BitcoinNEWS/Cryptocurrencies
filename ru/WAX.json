@@ -1,0 +1,63 @@
+{
+  "General": {
+    "Symbol": "WAX",
+    "Name": "Worldwide Asset eXchange",
+    "Description": null,
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "185000000",
+    "Algorithm": null,
+    "ProofType": null,
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "05/10/2017",
+    "TotalCoinsMined": null,
+    "Twitter": "@WAXToken",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": null,
+    "GitHub": null,
+    "OnMarkets": [
+      "HitBTC",
+      "EtherDelta",
+      "Tidex",
+      "BitTrex",
+      "HuobiPro",
+      "Kucoin"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Upcoming",
+    "Description": "<p>Worldwide Asset eXchange is a decentralized platform that enables users to operate a fully functioning virtual marketplace. It is an item repository and was designed to serve videogamers to collect and trade virtual assets. WAX is an ERC 20 utility token that supports the activities and functionality of the <span>Worldwide Asset eXchange&#39;s platform, such as listing items for sale, transacting value between each other, settling the transfer of virtual goods, creating and servicing contracts, and proposing and voting for WAX Decentralized Exchange Multi-Party Payout Settlement Agent Asset Guilds.</span> </p><p><strong>Team</strong>:</p><ul><li><strong><span>William Edward Quigley</span></strong>: <span>CEO</span>. <a href=\"https://twitter.com/quigleyreport\" target=\"_blank\"><img style=\"width: 13px; height: 13px;\" src=\"/media/1383932/twitter_logo_final.png?width=13&amp;height=13\" alt=\"\" data-id=\"202868\"></a> <a href=\"/umbraco/(https:/www.linkedin.com/in/williamedwardquigley/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong><span>Malcolm CasSelle</span></strong>: <span>President</span>.<span> </span><a href=\"https://twitter.com/MalcolmCasSelle\" target=\"_blank\"><img style=\"width: 13px; height: 13px;\" src=\"/media/1383932/twitter_logo_final.png?width=13&amp;height=13\" alt=\"\" data-id=\"202868\"></a><span> </span><a href=\"https://www.linkedin.com/in/malcolmcasselle/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong><span>John Brechisci, Jr.</span></strong>: <span>Lead Designer</span>.</li><li><strong><span>Jonathan Yantis</span></strong><span>: <span> <span>COO</span></span></span><span>.</span></li></ul><p>Worldwide Asset eXchange is currently holding its Pre-sale, which will end on November 15th, at noon. The Pre-sale funding cap is 70,000 ETH and each token is offered for <span>0.00333333333 ETH. The main ICO </span>will be held on November 15th, 2017. The ICO token supply represents 35% of the total token supply, so there will be a total of 64,750,000 tokens available, for a starting price of 0.00666666666 ETH each at the offering. The ICO the funding cap is 20,000 ETH and is expected to end on November 29th, 2017 or when the funding cap is reached.</p><p><strong>Token Reserve Split (65%):</strong></p><ul><li>20% WAX Team and Founders;</li><li>15% Contributors and Advisors;</li><li>30% Market Development;</li></ul><p><span>Worldwide Asset eXchange ICO campaign will feature Bonuses, and the token will not be mineable.</span></p><p><strong>Bonus Structure:</strong></p><p><strong><img style=\"width: 500px; height: 330.4431599229287px;\" src=\"/media/12318292/wax-bonus-structure.png?width=500&amp;height=330.4431599229287\" alt=\"\" data-id=\"338605\"></strong></p>",
+    "TokenType": "ETH (ERC20)",
+    "WebsiteLink": null,
+    "FundingCap": "20,000 ETH",
+    "FundingTarget": "N/A",
+    "Date": 1510772400,
+    "EndDate": 1511982000,
+    "FundsRaisedList": "Pre-sale: 140,000 ETH\r\nMain ICO: 64,401,284 WAX tokens sold",
+    "FundsRaisedUSD": "64000000",
+    "StartPrice": "0.00666666666",
+    "StartPriceCurrency": "ETH",
+    "Jurisdiction": "Canada",
+    "BlogLink": "https://medium.com/waxtoken",
+    "WhitePaperLink": "https://www.waxtoken.com/wp-content/uploads/WAX_White_Paper.pdf"
+  },
+  "ccId": "338541"
+}

@@ -1,0 +1,61 @@
+{
+  "General": {
+    "Symbol": "SBD",
+    "Name": "Steem Backed Dollars",
+    "Description": "<p>Steem Backed Dollars or simply Steem Dollars are stable value pegged assets issued in the Steem.it platform. SBD are pegged to the value of the USD and can be redeemed on the Steem.it platform for about one dollar worth of Steem. </p><p>When Content creators receive rewards on the Steem.it platform they are made available in 50% Steem Power, which can be redeemed continuously over a period of 104 weeks, and 50% SBD which can be fully redeemed for Steem in a 5 day period. SBD can also be transfered on the Steem Platform and can be exchanged outside of the Platform.</p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": null,
+    "Algorithm": null,
+    "ProofType": null,
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "04/06/2016",
+    "TotalCoinsMined": 11027224,
+    "Twitter": null,
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "http://steemit.com",
+    "GitHub": null,
+    "OnMarkets": [
+      "Liqui",
+      "Poloniex",
+      "BitTrex",
+      "HitBTC"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "N/A",
+    "Description": null,
+    "TokenType": null,
+    "WebsiteLink": null,
+    "FundingCap": null,
+    "FundingTarget": null,
+    "Date": null,
+    "EndDate": null,
+    "FundsRaisedList": null,
+    "FundsRaisedUSD": null,
+    "StartPrice": null,
+    "StartPriceCurrency": null,
+    "Jurisdiction": null,
+    "BlogLink": null,
+    "WhitePaperLink": null
+  },
+  "ccId": "23728"
+}

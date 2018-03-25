@@ -1,0 +1,58 @@
+{
+  "General": {
+    "Symbol": "DCRE",
+    "Name": "DeltaCredits",
+    "Description": "<p>DeltaCredits is a PoS cryptocurrency with a decreasing coin supply based on a buy-back program. In this program the developers buy back coins with profits made from various physical and cloud mining contracts, dispensed by reputable and trustworthy registered businesses. The coins purchased from the exchanges will be publicly burn them to decrease the coin supply.</p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "100000",
+    "Algorithm": null,
+    "ProofType": "PoS",
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "18/08/2016",
+    "TotalCoinsMined": null,
+    "Twitter": "@gladimorcrypto",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "https://twitter.com/gladimorcrypto",
+    "GitHub": null,
+    "OnMarkets": [
+      "Yobit"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "N/A",
+    "Description": null,
+    "TokenType": null,
+    "WebsiteLink": null,
+    "FundingCap": null,
+    "FundingTarget": null,
+    "Date": null,
+    "EndDate": null,
+    "FundsRaisedList": null,
+    "FundsRaisedUSD": null,
+    "StartPrice": null,
+    "StartPriceCurrency": null,
+    "Jurisdiction": null,
+    "BlogLink": null,
+    "WhitePaperLink": null
+  },
+  "ccId": "34487"
+}

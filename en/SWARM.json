@@ -1,0 +1,58 @@
+{
+  "General": {
+    "Symbol": "SWARM",
+    "Name": "SwarmCoin",
+    "Description": "<p>Every time a project is created through Swarm, a part of that project is automatically given to all Swarm members. This allows all Swarm members to participate in the distributed abundance made possible by the Swarm.</p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "100000000",
+    "Algorithm": null,
+    "ProofType": null,
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "24/06/2014",
+    "TotalCoinsMined": "100000000",
+    "Twitter": "@SwarmCorp",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "https://swarmcorp.com/",
+    "GitHub": null,
+    "OnMarkets": [
+      "Poloniex"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Finished",
+    "Description": "<p><span style=\"font-weight: 400;\">Swarm is an open source project to build a “distributed incubator to help people fund their ideas” by issuing digital tokens on top of protocols such as Counter Party and the Master Protocol. The ICO raised around $560,000.</span></p><p><a href=\"https://docs.google.com/document/d/12VLfibhGGSwy4cuHUZUG5ngEVTZoZ6_dKKqLGwhhdik/edit?pli=1\" target=\"_blank\">Info report</a></p><p> </p>",
+    "TokenType": "N/A",
+    "WebsiteLink": "https://swarmcorp.com/",
+    "FundingCap": "N/A",
+    "FundingTarget": "N/A",
+    "Date": 1403006400,
+    "EndDate": 1405598400,
+    "FundsRaisedList": "1242 BTC",
+    "FundsRaisedUSD": "560000",
+    "StartPrice": "0.0056",
+    "StartPriceCurrency": "USD",
+    "Jurisdiction": "N/A",
+    "BlogLink": null,
+    "WhitePaperLink": null
+  },
+  "ccId": "5342"
+}

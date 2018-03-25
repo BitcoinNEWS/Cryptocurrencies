@@ -1,0 +1,61 @@
+{
+  "General": {
+    "Symbol": "SLG",
+    "Name": "SterlingCoin",
+    "Description": "<p>Sterling Coin is a hybrid proof of work and proof of stake alternative crypto currency that is now pure proof of stake with a 5.5% annualised rate.</p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "0",
+    "Algorithm": "X13",
+    "ProofType": "PoS",
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "02/08/2014",
+    "TotalCoinsMined": null,
+    "Twitter": "@SterlingcoinSLG",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "http://sterlingcoin.org.uk/",
+    "GitHub": null,
+    "OnMarkets": [
+      "Cryptsy",
+      "Bleutrade",
+      "Cryptopia",
+      "BitTrex"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "N/A",
+    "Description": null,
+    "TokenType": null,
+    "WebsiteLink": null,
+    "FundingCap": null,
+    "FundingTarget": null,
+    "Date": null,
+    "EndDate": null,
+    "FundsRaisedList": null,
+    "FundsRaisedUSD": null,
+    "StartPrice": null,
+    "StartPriceCurrency": null,
+    "Jurisdiction": null,
+    "BlogLink": null,
+    "WhitePaperLink": null
+  },
+  "ccId": "4605"
+}

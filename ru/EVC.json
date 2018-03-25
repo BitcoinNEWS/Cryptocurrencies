@@ -1,0 +1,59 @@
+{
+  "General": {
+    "Symbol": "EVC",
+    "Name": "Eventchain",
+    "Description": "<p>EventChain is a decentralized network that aimed at improving the ticketing industry, providing the additional benefits of using a blockchain as the a transaction and incentive layer. The EventChain system encourages everyone in the ecosystem, including all stake holders such as event managers of sport and concert events, party organizers, social clubs and ticket purchasers to sell or buy SmartTickets using EVC Tokens and other traditional payment methods. EVC is an ERC20 token based on the Ethereum blockchain.</p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "84000000",
+    "Algorithm": null,
+    "ProofType": null,
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "05/09/2017",
+    "TotalCoinsMined": 84000000,
+    "Twitter": "@EventChain_io",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": null,
+    "GitHub": null,
+    "OnMarkets": [
+      "EtherDelta",
+      "LiveCoin"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Ongoing",
+    "Description": "<p><span>EventChain is a decentralized network that aimed at improving the ticketing industry, </span><span>providing the additional benefits of using a blockchain as the a transaction and incentive layer. </span><span>T</span><span>he EventChain </span><span>system</span><span><span> </span>encourages everyone in the ecosystem, including all stakeholders such as event managers of sport and concert events, party organizers, social clubs and ticket purchasers to sell or buy SmartTickets using EVC Tokens and other traditional payment methods. </span><span>EVC is an ERC20 token</span><span> based on the Ethereum blockchain.</span></p><p> <strong>Team</strong>:</p><ul><li><strong>Ashton Addison:</strong> CEO <a href=\"https://www.linkedin.com/in/ashtonaddison/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Hasham Ahmad:</strong> Core Developer </li><li><strong>Thorsten Schmitt-Rink:</strong> Core Developer </li><li><strong>Chong Foo Chaw:</strong> Biz Development </li></ul><p>The Eventchain ICO began on the 13th of September and it is set to end by the 14th of October or when the funding cap is reached. The ICO token supply represents 65% of the total token supply and is currently available for 0.00125 ETH each. </p><p><strong>Token Reserve Split:</strong></p><p><strong><img src=\"https://ip.bitcointalk.org/?u=https%3A%2F%2Fcdn-images-1.medium.com%2Fmax%2F800%2F1%2AWV1mxhq4bjNyNhmel6UCYA.png&amp;t=581&amp;c=zhbZHgtU9njsAQ\" alt=\"\"></strong></p><p>The Eventchain ICO features a Bounty campaign.</p><p><strong>Bonus Structure:</strong></p><ul><li>Phase-1 Token Sale 1140 EVC/ETH</li><li>Phase-2 Token Sale 920 EVC/ETH</li><li>Phase-3 Token Sale 800 EVC/ETH</li></ul>",
+    "TokenType": "ETH (ERC20)",
+    "WebsiteLink": "https://tokensale.eventchain.io/",
+    "FundingCap": "N/A",
+    "FundingTarget": "N/A",
+    "Date": 1505318400,
+    "EndDate": 1507996800,
+    "FundsRaisedList": "55075.2097 ETH",
+    "FundsRaisedUSD": "16376062.8522",
+    "StartPrice": "0.000877192982",
+    "StartPriceCurrency": "ETH",
+    "Jurisdiction": "N/A",
+    "BlogLink": "https://blog.eventchain.io/",
+    "WhitePaperLink": "https://eventchain.io/whitepaper.pdf"
+  },
+  "ccId": "308072"
+}

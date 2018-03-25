@@ -1,0 +1,56 @@
+{
+  "General": {
+    "Symbol": "SET",
+    "Name": "Setcoin",
+    "Description": "<p>The Inserviss Platform is a Global Mobile Marketplace that connects service providers and customers. It allows service providers to join, publish their services, offer promotions and loyalty campaigns, and get feedback from consumers. For consumers it enables a convenient way to order and book custom services using a streamlined and secure mobile application. Setcoin is a token based on the Waves Platform. It&#39;s used for payments between Service Providers &amp; Customers.</p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "1000000000",
+    "Algorithm": null,
+    "ProofType": null,
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "01/01/0001",
+    "TotalCoinsMined": null,
+    "Twitter": "@inservisetcoins",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": null,
+    "GitHub": null,
+    "OnMarkets": [],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Upcoming",
+    "Description": "<p><span>The Inserviss Platform is a Global Mobile Marketplace that connects service providers </span><span>and customers. It allows service providers to join, publish their services, offer<span> </span></span><span>promotions and loyalty campaigns, and get feedback from consumers.<span> </span></span><span>For consumers it enables a convenient way to order and book custom services<span> </span></span><span>using a streamlined and secure mobile application. Setcoin is a token based on the Waves Platform. It&#39;s used</span><span> for payments between Service Providers &amp; Customers.</span></p><p> </p><p><strong>Team</strong>:</p><ul><li><strong>Igor​ ​Perepelychnyy:</strong> Founder &amp; Chief​ ​Execution​ Officer​ <a href=\"https://www.linkedin.com/in/perepelychnyy/\" target=\"_blank\">​​<img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>​Elena​​Perepelychnaya:</strong> Founder &amp; Chief​ Creative​ Officer <a href=\"https://www.linkedin.com/in/perepelychnaya/\" target=\"_blank\">​​<img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li></ul><p>The Setcoin ICO will start on the 1st of February. The ICO token allocation represents 30% of the total token suply and it will be available for a 0.00001 BTC base price. The ICO funding target is set at $20,000,000 andnthe hard cap is set at $100,000,000. </p><p><strong>Token Reserve Split (70%):</strong></p><ul><li>Pre-ICO: 5%</li><li>5 Years Growth: 35%</li><li>Partners: 10%</li><li>Team: 20%</li></ul><p>The SET ICO feautres a bonus campaign</p><p><strong>Bonus Structure:</strong></p><p><em>\"For $100 000+ orders we have additional bonuses, please contact your regional manager or igor@setcoins.io\"</em></p>",
+    "TokenType": "WAVES",
+    "WebsiteLink": "http://ico.setcoins.io/",
+    "FundingCap": "100,000,000 USD",
+    "FundingTarget": "20,000,000 USD",
+    "Date": 1517443200,
+    "EndDate": null,
+    "FundsRaisedList": "N/A",
+    "FundsRaisedUSD": "N/A",
+    "StartPrice": "0.00001",
+    "StartPriceCurrency": "BTC",
+    "Jurisdiction": "N/A",
+    "BlogLink": "https://medium.com/@igorperepelichny",
+    "WhitePaperLink": "http://ico.setcoins.io/"
+  },
+  "ccId": "675692"
+}

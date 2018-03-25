@@ -1,0 +1,58 @@
+{
+  "General": {
+    "Symbol": "NIMFA",
+    "Name": "Nimfamoney",
+    "Description": "<p>Nimfamoney wants to be the world’s first 100% decentralized cryptocurrency lending platform for token purchase on exchanges and ICOs for maximizing your personal profit. The platform allows investors to access 0% interest on loans to invest in blockchain companies or ICO&#39;s.</p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "100000000",
+    "Algorithm": null,
+    "ProofType": null,
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "01/09/2017",
+    "TotalCoinsMined": null,
+    "Twitter": "https://twitter.com/nimfamoney",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": null,
+    "GitHub": null,
+    "OnMarkets": [
+      "EtherDelta"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Ongoing",
+    "Description": "<p>Nimfamoney allows users to leverage their positions in ICO investments 3X. This increases their risk and reward to ICO investments. Nimfamoney charges a 3.3% fee for this loan and a 10% fee of profits.</p><p><strong>Use of Funds:</strong></p><ul><li>55% Software Developemnt</li><li>15% marketing</li><li>15% Operational expenses</li><li>5%Reserve fund</li><li>5% Expenses on legal services</li><li>5% Unexpected expenses</li></ul><p><strong>Team</strong>:</p><ul><li>Max Tarasenko: CEO.</li><li><strong>Vlad Pezhemskiy</strong>: Lead blockchain Developer</li><li><strong>Dan Suvorov</strong>: CTO</li><li><strong>Alex Kharchevnikov</strong>: CMO</li></ul>",
+    "TokenType": "N/A",
+    "WebsiteLink": "https://nimfamoney.io/ico",
+    "FundingCap": "No Cap",
+    "FundingTarget": "N/A",
+    "Date": 1504008000,
+    "EndDate": 1506765600,
+    "FundsRaisedList": "307.47513976 ETH",
+    "FundsRaisedUSD": "116225.60",
+    "StartPrice": "5",
+    "StartPriceCurrency": "USD",
+    "Jurisdiction": "N/A",
+    "BlogLink": null,
+    "WhitePaperLink": "https://nimfamoney.io/ENG_V.1.0_Whitepaper_ICO_Nimfamoney.pdf"
+  },
+  "ccId": "234596"
+}

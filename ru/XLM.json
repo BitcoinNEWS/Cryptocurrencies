@@ -1,0 +1,65 @@
+{
+  "General": {
+    "Symbol": "XLM",
+    "Name": "Stellar",
+    "Description": "<p>Stellar is public infrastructure for money.</p><p>Supported by a nonprofit, Stellar brings the world together by increasing interoperability between diverse financial systems and currencies.</p><p><span>Stellar is a technology that enables money to move directly between people, companies and financial institutions as easily as email. This means more access for individuals, lower costs for banks, and more revenue for businesses. Help better the world’s financial infrastructure by participating in our community or by building on Stellar. </span></p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "100804167793",
+    "Algorithm": null,
+    "ProofType": null,
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "19/07/2013",
+    "TotalCoinsMined": 18548941624,
+    "Twitter": "stellarorg",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "https://www.stellar.org/",
+    "GitHub": null,
+    "OnMarkets": [
+      "Gateio",
+      "OKEX",
+      "Kraken",
+      "Poloniex",
+      "Binance",
+      "BitTrex",
+      "BTC38",
+      "Cexio"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "N/A",
+    "Description": null,
+    "TokenType": null,
+    "WebsiteLink": null,
+    "FundingCap": null,
+    "FundingTarget": null,
+    "Date": null,
+    "EndDate": null,
+    "FundsRaisedList": null,
+    "FundsRaisedUSD": null,
+    "StartPrice": null,
+    "StartPriceCurrency": null,
+    "Jurisdiction": null,
+    "BlogLink": null,
+    "WhitePaperLink": null
+  },
+  "ccId": "4614"
+}

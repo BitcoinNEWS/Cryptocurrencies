@@ -1,0 +1,56 @@
+{
+  "General": {
+    "Symbol": "MC",
+    "Name": "Mass Coin",
+    "Description": "<p>The Mass Network is a blockchain based system in which users are rewarded for their attention and data. The Mass Network software shields users&#39; data and allows them to set a price they are willing to accept for revealing it, thus creating a free market for advertisers and consumers, in which the websites act as mediators. Mass Coin (MC) is the native currency in the Mass Network system.</p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "1000000000000",
+    "Algorithm": null,
+    "ProofType": null,
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "02/12/2016",
+    "TotalCoinsMined": null,
+    "Twitter": "@network_mass",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "https://mass.network/",
+    "GitHub": null,
+    "OnMarkets": [],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Finished",
+    "Description": "<p>Every ICO Participant will receive [1,000,000,000,000 × (i ÷ I) × 0.7] Mass Coin; Mass team members will receive a total of Mass Coin equal to: [1,000,000,000,000 × 0.3].</p><p><span data-sheets-value=\"{&quot;1&quot;:2,&quot;2&quot;:&quot;332.148 BTC&quot;}\" data-sheets-userformat=\"{&quot;2&quot;:8403523,&quot;3&quot;:{&quot;1&quot;:0},&quot;4&quot;:{&quot;1&quot;:2,&quot;2&quot;:15790578},&quot;9&quot;:1,&quot;12&quot;:0,&quot;14&quot;:{&quot;1&quot;:2,&quot;2&quot;:2236962},&quot;15&quot;:&quot;Roboto, sans-serif&quot;,&quot;16&quot;:12,&quot;26&quot;:300}\">332.148 BTC were raised during the ICO which was worth approximately $257,300</span></p><p><a href=\"https://mass.network/terms-of-use.html\" target=\"_blank\">Sale terms </a></p>",
+    "TokenType": "N/A",
+    "WebsiteLink": "https://mass.network/",
+    "FundingCap": "N/A",
+    "FundingTarget": "N/A",
+    "Date": 1470571200,
+    "EndDate": 1480550400,
+    "FundsRaisedList": "332 BTC",
+    "FundsRaisedUSD": "257300",
+    "StartPrice": "0.0000002573",
+    "StartPriceCurrency": "USD",
+    "Jurisdiction": "N/A",
+    "BlogLink": null,
+    "WhitePaperLink": "https://mass.network//mass-whitepaper.pdf"
+  },
+  "ccId": "27594"
+}

@@ -1,0 +1,60 @@
+{
+  "General": {
+    "Symbol": "HVN",
+    "Name": "Hive",
+    "Description": "<p>The Hive project aims to open up an entirely new market that provides liquidity to SMEs that are not able to get invoice factoring from traditional institutions. Through the use of the Ethereum blockchain, Hive serves as a decentralized data room for all invoices submitted assigns a unique fingerprint to every invoice issued by tokenizing invoices and publishing them on blockchain. This makes itpossible for businesses to automate their invoicing process and take advantage of factoring services.</p><p>The HVN is an ERC20 token bult on Ethereum that grants its holder the right to claim right over invoices on the Hive platform and obtain credit scores for certain entities which have a sufficient financial track record on the Hive blockchain.</p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "500000000",
+    "Algorithm": "N/A",
+    "ProofType": "N/A",
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "03/07/2017",
+    "TotalCoinsMined": 500000000,
+    "Twitter": "@hiveproject_net",
+    "Telegram": "https://t.me/hiveprojectnet",
+    "Youtube": "Vw7Dk0z_TX0",
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "https://www.hive-project.net/",
+    "GitHub": null,
+    "OnMarkets": [
+      "LiveCoin",
+      "HitBTC",
+      "EtherDelta"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Finished",
+    "Description": "<p>The Hive project aims to open up an entirely new market that provides liquidity to SMEs that are not able to get invoice factoring from traditional institutions. The HVN is an ERC20 token bult on Ethereum that grants its holder the right to claim right over invoices on the Hive platform and obtain credit scores for certain entities which have a sufficient financial track record on the Hive blockchain.</p><p>The Hive ICO will start on the 3rth of June and will last until the 14th of August. During the ICO, 75% of the 500000000 tokens will be distributed. 20% of the tokens are held for the development of Hive, 3% for User Growth Pool, and 2% for bounty campaigns. The campaign as a 2,000 BTC minimum funding goal and a 10,000 BTC hard cap. If the Hive ICO exceeds 1,500 BTC, the token holders will have the value of their tokens backed by Hive’s initial<br />liquidity pool, which will selectively invest in invoices at a discount that is sufficient to enable a proper yield in<br />risk-reward terms. The HVN ICO Bonus structure is as follows:</p><p><span>Week 1 -</span><span><span> </span>15% bonus<span> </span></span><br /><span>Week 2 -</span><span><span> </span>12% bonus<span> </span></span><br /><span>Week 3 -</span><span><span> </span>9% bonus<span> </span></span><br /><span>Week 4 -</span><span><span> </span>6% bonus<span> </span></span><br /><span>Week 5 -</span><span><span> </span>3% bonus<span> </span></span><br /><span>Week 6 -</span><span><span> </span>0% bonus</span></p><p><span>The Hive ICO counts with the participation of an Escrow team that will hold ICO funds.</span></p><p> </p>",
+    "TokenType": "ETH (ERC20)",
+    "WebsiteLink": "https://runcpa.com/getoffer/38228-8ee108816d4aedfd37ed56f82516af21-820",
+    "FundingCap": "10,000 BTC",
+    "FundingTarget": "2,000 BTC",
+    "Date": 1499112000,
+    "EndDate": 1502744400,
+    "FundsRaisedList": "2,022 BTC BTC",
+    "FundsRaisedUSD": "8530867",
+    "StartPrice": "N/A",
+    "StartPriceCurrency": "N/A",
+    "Jurisdiction": "N/A",
+    "BlogLink": "https://medium.com/hiveproject-net",
+    "WhitePaperLink": "https://www.hive-project.net/whitepapers/Hive_Project_Whitepaper.pdf?v2"
+  },
+  "ccId": "179329"
+}

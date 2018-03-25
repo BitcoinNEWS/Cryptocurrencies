@@ -1,0 +1,56 @@
+{
+  "General": {
+    "Symbol": "CJT",
+    "Name": "ConnectJob Token",
+    "Description": "<p><span>ConnectJob is a universal platform for connecting service providers (“Jobbers”) to their clients in a fast and secure manner, where token stakeholders can participate to the platform and exchange services and digital assets. CJT is an Ethereum-based token used within the ConnectJob platform.</span></p><p> </p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "300000000",
+    "Algorithm": null,
+    "ProofType": null,
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "01/01/0001",
+    "TotalCoinsMined": null,
+    "Twitter": "@connectjobfd",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": null,
+    "GitHub": null,
+    "OnMarkets": [],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Ongoing",
+    "Description": "<p>ConnectJob is a universal platform for connecting service providers (“Jobbers”) to their clients in a fast and secure manner, where token stakeholders can participate to the platform and exchange services and digital assets. CJT is an Ethereum-based token used within the ConnectJob platform.</p><p><strong>Team</strong>:</p><ul><li><strong>Jonathan Gueron:</strong> CO-FOUNDER &amp; CTO</li><li><strong>Yoni Assouline:</strong> FOUNDER &amp; CEO</li><li><strong>Tamir Ruvinov:</strong> COO</li><li><strong>David Persiko:</strong> MANAGING DIRECTOR</li><li><strong>Nechemya Kanelsky:</strong> CPO</li></ul><p>Pre-ICO: From Dec. 1st, 2017 to Feb. 11th, 2018</p><p>The ConnectJob ICO will start on the 12th of February and will last until the 30th of April, 2018. The token sale token supply represents 65% of the total coin supply. Users will be able to participate using BTC, ETH, USD and EUR. The token sale funding cap is set at 37,000,000 USD.</p><p><strong>Token Reserve Split (35%):</strong></p><ul><li>10% of the tokens sold during the Token Sale will be attributed to the Team</li><li><span>5 % of the tokens sold during the Token Sale will be attributed to the Advisors</span></li><li><span>20 % of the tokens sold during the Token Sale will be reserved for platform subsidies, industry partners, strategic incentives, and additional fundraising</span></li></ul><p>The ConnectJob ICO will feature a bonus and bounty campaign.</p><p><strong>Bonus Structure:</strong></p><p>BONUS PRE-ICO : 20%</p><p>BONUS ICO: </p><ul><li>Week 1-2: 12%</li><li>Week 3-4: 9%</li><li>Week 4-5: 6%</li><li>Week 5-6: 3%</li><li>Week 7-8: 2%</li><li>After week 8: 0%</li></ul>",
+    "TokenType": "ETH (ERC20)",
+    "WebsiteLink": "https://ico.connectjob.io/?utm_source=cryptocompare&utm_medium=link&utm_campaign=cryptocompare",
+    "FundingCap": "37000000 USD",
+    "FundingTarget": "N/A",
+    "Date": 1518393600,
+    "EndDate": 1525089600,
+    "FundsRaisedList": "9,970,260 USD",
+    "FundsRaisedUSD": "9970260",
+    "StartPrice": "0.000416666667",
+    "StartPriceCurrency": "ETH",
+    "Jurisdiction": "Gibraltar",
+    "BlogLink": "https://medium.com/@connectjob_",
+    "WhitePaperLink": "http://en.calameo.com/read/0053456751af77d996977?authid=6ATHIJmhTB02"
+  },
+  "ccId": "382617"
+}

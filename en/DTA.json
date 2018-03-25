@@ -1,0 +1,60 @@
+{
+  "General": {
+    "Symbol": "DTA",
+    "Name": "Data",
+    "Description": "<p>Data is a blockchain based advertising protocol initiated by the Blockchain Data Foundation, a company limited by guarantee to be incorporated in Singapore and governed in a not-for-profit manner. The Data team aims to mitigate the ad fraud seen on the actual advertising systems. In order to prevent the fraud propagated into the network traffic and deliver the heightened security with the consensus from the community, the platform will leverage the blockchain technology and Artificial Intelligence to register the user&#39;s attention patterns over a decentralized P2P protocol.</p><p>Data token (DTA) is an ERC-20 token that will be used as the medium of exchange within the platform.</p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "11500000000",
+    "Algorithm": null,
+    "ProofType": null,
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "11/01/2018",
+    "TotalCoinsMined": 11500000000,
+    "Twitter": "@Blockchain_Data",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": null,
+    "GitHub": null,
+    "OnMarkets": [
+      "HuobiPro",
+      "Kucoin",
+      "EtherDelta"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "N/A",
+    "Description": null,
+    "TokenType": null,
+    "WebsiteLink": null,
+    "FundingCap": null,
+    "FundingTarget": null,
+    "Date": null,
+    "EndDate": null,
+    "FundsRaisedList": null,
+    "FundsRaisedUSD": null,
+    "StartPrice": null,
+    "StartPriceCurrency": null,
+    "Jurisdiction": null,
+    "BlogLink": null,
+    "WhitePaperLink": null
+  },
+  "ccId": "713186"
+}

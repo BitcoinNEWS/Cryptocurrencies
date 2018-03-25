@@ -1,0 +1,59 @@
+{
+  "General": {
+    "Symbol": "SNRG",
+    "Name": "Synergy",
+    "Description": "<p>Synergy is a peer-to-peer decentralized cryptocurrency that uses a dual-algorithm system to mine blocks. For the first 10 days, which contains the full PoW (proof of work) period, Synergy uses the X11 algorithm. Because X11 is unnecessarily inefficient after PoW, Synergy switches to SHA256d for the PoS period (proof of stake). SHA256d is easier on CPUs during syncronization and bootstrap because it requires only two hashes to verify a block whereas X11 requires 11 hashes.</p><p>The early part of the Synergy PoS period makes use of Turbo Stake, which awards Synergy holders greater interest for every stake. The multiplier is directly used in the reward calculation by multiplying it with the base Synergy interest rate of 10% per year.</p><p>Holders build the Turbo Stake multiplier over two days by staking consistently. After that, the multiplier will level out and the holder will stake with a consistent rate that depends on how much stake competes with his. The Turbo Stake period lasts 30 days from the time of launch. </p>",
+    "Features": null,
+    "Technology": "<ul><li>Ticker Symbol: SNRG</li><li>PoW Algorithm: X11</li><li>PoS Algorithm: X11, switching to SHA256d after 10 days</li><li>RPC Port: 50542 (configurable with rpcport= option)</li><li>P2P Port: 40698 (configurable with port= option)</li><li>Tor Port: 38155 (configurable with torport= option)</li><li>Block Times: 2 Minutes</li><li>PoW Blocks: 4320 (6 days)</li><li>10% POS Interest per Year</li><li>Max Turbo Stake Multiplier: 288</li><li>Turbo Stake Lookback: 2 days Percent of Blocks over 2 days for Max Multiplier: 20%</li><li>Max Money Supply after PoW: 250,001 SNRG</li><li>Stake Minumum Age: 48 hours (2 days)</li><li>Stake Maximum Age: 144 hours (6 days)</li><li>Stake Maximum Reward Age: 8 days</li><li>New Mint Spendable: 120 blocks (4 hours)</li><li>Message Start (“Magic Bytes”): 0xf1, 0xe3, 0xe5, 0xd9</li><li>Message Start Test Net: 0xaf, 0xb9, 0xd9, 0xff</li><li>Application Data Folder Windows: “Synergy” OS X: “Synergy” Linux: “.synergy”</li><li>Config File Name Windows: “synergy.conf” OS X: “synergy.conf” Linux: “synergy.conf”</li></ul>",
+    "TotalCoinSupply": null,
+    "Algorithm": "X11",
+    "ProofType": "PoW/PoS",
+    "BlockReward": 10,
+    "Explorer": null,
+    "StartDate": "25/05/2015",
+    "TotalCoinsMined": 3526097.63819738,
+    "Twitter": "@SynergyCoin",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "http://www.synergycoin.com/",
+    "GitHub": null,
+    "OnMarkets": [
+      "Yobit",
+      "BitTrex"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "N/A",
+    "Description": null,
+    "TokenType": null,
+    "WebsiteLink": null,
+    "FundingCap": null,
+    "FundingTarget": null,
+    "Date": null,
+    "EndDate": null,
+    "FundsRaisedList": null,
+    "FundsRaisedUSD": null,
+    "StartPrice": null,
+    "StartPriceCurrency": null,
+    "Jurisdiction": null,
+    "BlogLink": null,
+    "WhitePaperLink": null
+  },
+  "ccId": "8825"
+}

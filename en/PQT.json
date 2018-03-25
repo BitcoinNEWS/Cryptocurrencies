@@ -1,0 +1,58 @@
+{
+  "General": {
+    "Symbol": "PQT",
+    "Name": "PAquarium",
+    "Description": "<p><span>PAquarium wants</span><span> to build</span><span> the world’s biggest aquarium, yet </span><span>PAquarium does not want </span><span>it to be simply another giant building. </span><span>PAquarium wants to </span><span>create a symbol and the state of the art for architecture, as well as a unique center of entertainment and recreation.</span></p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "1200000000",
+    "Algorithm": "N/A",
+    "ProofType": "N/A",
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "20/07/2017",
+    "TotalCoinsMined": null,
+    "Twitter": "@PAquariumCOM",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "http://bit.ly/2uKT7Kn",
+    "GitHub": null,
+    "OnMarkets": [
+      "HitBTC"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Ongoing",
+    "Description": "<p>PAquarium wants to build the world’s biggest aquarium, yet <span>PAquarium does not want </span>it to be simply another giant building. <span>PAquarium wants to </span>create a symbol and the state of the art for architecture, as well as a unique center of entertainment and recreation.</p>",
+    "TokenType": "ETH (ERC20)",
+    "WebsiteLink": "http://bit.ly/2uKT7Kn",
+    "FundingCap": "12,000,000 USD",
+    "FundingTarget": "12,000,000 USD",
+    "Date": 1500508800,
+    "EndDate": 1503532800,
+    "FundsRaisedList": "182.41 BTC",
+    "FundsRaisedUSD": "619807.29",
+    "StartPrice": "0.1",
+    "StartPriceCurrency": "USD",
+    "Jurisdiction": "N/A",
+    "BlogLink": null,
+    "WhitePaperLink": "https://ico.paquarium.com/wp-content/uploads/2017/06/Whihte-Paper.pdf"
+  },
+  "ccId": "179077"
+}

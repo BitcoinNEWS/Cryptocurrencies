@@ -1,0 +1,62 @@
+{
+  "General": {
+    "Symbol": "AMM",
+    "Name": "MicroMoney",
+    "Description": "<p><span>MicroMoney is an Ethereum-based Open Source Credit &amp; Big Data Bureau that connects new customers to existing financial services. </span></p><p>AMM is an ERC20 utility token. The AMM token is an integral part of the MicroMoney ecosystem and can be used as an internal payment mean or to get access to MicroMoney’s services.</p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "17532943.47918",
+    "Algorithm": null,
+    "ProofType": null,
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "22/09/2017",
+    "TotalCoinsMined": null,
+    "Twitter": "@micromoneyio",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": null,
+    "GitHub": null,
+    "OnMarkets": [
+      "OKEX",
+      "LiveCoin",
+      "HitBTC",
+      "EtherDelta",
+      "Yobit"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "N/A",
+    "Description": null,
+    "TokenType": null,
+    "WebsiteLink": null,
+    "FundingCap": null,
+    "FundingTarget": null,
+    "Date": null,
+    "EndDate": null,
+    "FundsRaisedList": null,
+    "FundsRaisedUSD": null,
+    "StartPrice": null,
+    "StartPriceCurrency": null,
+    "Jurisdiction": null,
+    "BlogLink": null,
+    "WhitePaperLink": null
+  },
+  "ccId": "589881"
+}

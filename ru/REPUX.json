@@ -1,0 +1,56 @@
+{
+  "General": {
+    "Symbol": "REPUX",
+    "Name": "Repux",
+    "Description": "<div class=\"freebirdFormviewerViewItemsItemItem freebirdFormviewerViewItemsTextTextItem\" data-required=\"true\" data-item-id=\"534092066\"><div class=\"freebirdFormviewerViewItemsTextLongText freebirdFormviewerViewItemsTextDisabledText freebirdThemedInput\">RepuX is a blockchain-backed protocol and artifical intelligence platform for SMEs to improve business operations by sharing data on a secure, decentralized network. REPUX is an Ethereum-based token that acts as the only <span>way to transact.</span></div></div><div class=\"freebirdFormviewerViewItemsItemItem\" data-required=\"true\" data-input=\"L9xHkb\" data-item-id=\"2128727222\"><div class=\"freebirdFormviewerViewItemsItemItemHeader\"><div class=\"freebirdFormviewerViewItemsItemItemTitleContainer\"></div></div></div>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "500000000",
+    "Algorithm": null,
+    "ProofType": null,
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "06/02/2018",
+    "TotalCoinsMined": null,
+    "Twitter": "@repu_x",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": null,
+    "GitHub": null,
+    "OnMarkets": [],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Upcoming",
+    "Description": "<p><span>RepuX is a blockchain-backed protocol and artificial intelligence platform for SMEs to improve business operations by sharing data on a secure, decentralized network. REPUX is an Ethereum-based token that acts as the only <span>way to transact.</span></span></p><p><strong>Team</strong>:</p><ul><li><strong>Marcin Welner:</strong> MANAGEMENT TEAM <a href=\"https://www.linkedin.com/in/marcin-welner-1625352/\" target=\"_blank\"><img src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Aleksandra Staszewska:</strong> PRODUCT TEAM <a href=\"https://www.linkedin.com/in/astaszewska/\" target=\"_blank\"><img src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Tomasz Tybon:</strong> MANAGEMENT TEAM <a href=\"https://www.linkedin.com/in/tomasztybon\" target=\"_blank\"><img src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Daniel Kmak:</strong> DEV TEAM. <a href=\"https://www.linkedin.com/in/kmakdaniel/\" target=\"_blank\"><img src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li></ul><p>The Repux ICO will start on the 6th of February and will end on the 6th of March. The ICO token allocation reprsents 50% of the total token supply and will be available for a 0.1 ETH starting price. The ICO funding target is set at 1,000,000 USD and the cap is set at 33,100,000 USD.</p><p><strong>Token Reserve Split (50%):</strong></p><ul><li>Rewards pool 10%</li><li>Sold on the Platform 23%</li><li>Founding team, 3 years vesting period</li><li>12% Ambassadors 3%</li><li>ICO bounties 2%</li></ul><p>The REPUX ICO features a bonus and bounty campaign as wall as an escrow agent.</p><p> </p>",
+    "TokenType": "ETH (ERC20)",
+    "WebsiteLink": "https://click.runcpa.com/getoffer/38228-4b4641a71f10fb18e040d19ec769a75c-1032",
+    "FundingCap": "33,100,000 USD",
+    "FundingTarget": "1,000,000 USD",
+    "Date": 1520355600,
+    "EndDate": 1522972800,
+    "FundsRaisedList": "4,700,000 USD",
+    "FundsRaisedUSD": "4700000",
+    "StartPrice": "0.2",
+    "StartPriceCurrency": "ETH",
+    "Jurisdiction": "N/A",
+    "BlogLink": "https://blog.repux.io/",
+    "WhitePaperLink": "https://repux.io/assets/repux-whitepaper-10-29-17-ver-1-a7cd8f9250fab5b16758baf9df31eb78aa25112cc40085aa3bda1f20278f3715.pdf"
+  },
+  "ccId": "719307"
+}

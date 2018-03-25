@@ -1,0 +1,62 @@
+{
+  "General": {
+    "Symbol": "SRC",
+    "Name": "SecureCoin",
+    "Description": "<p>SecureCoin is a fast and secure cryptographic digital currency based on Bitcoin. The specifications have been carefully chosen to maintain Bitcoins economic model of deflation. A single hashing algorithm poses a security risk because if it is compromised, the whole network is forever compromised. Multiple hashing algorithms enhance the security of the network by not only mitigating this, but also by adding an additional layer of complexity for any attacker to penetrate.</p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "21000000",
+    "Algorithm": "Scrypt",
+    "ProofType": "PoW",
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "28/08/2013",
+    "TotalCoinsMined": null,
+    "Twitter": "@SecureCoin",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "http://securecoin.org/",
+    "GitHub": null,
+    "OnMarkets": [
+      "Novaexchange",
+      "Cryptopia",
+      "Cryptsy",
+      "BTER",
+      "BTC38"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Finished",
+    "Description": "<p><span>Over a two day period the Back to Earth crowdfund raised the cap of 750 BTC from over 400 participants. </span><span>Everyone who participated in our crowdfund received tokens at the same rate of .0001875 BTC per SRC. </span></p><p><span></span><span>Everyone who donated more than .75 BTC received a Golden Ticket for each .75 BTC donated. </span></p><p><span>The remaining SRC supply will be locked up in a smart contract that Back to Earth cannot access for 4-12 months. </span></p>",
+    "TokenType": "N/A",
+    "WebsiteLink": "https://backto.earth/blog/the-back-to-earth-crowdfund/",
+    "FundingCap": "750 BTC",
+    "FundingTarget": "N/A",
+    "Date": 1493208000,
+    "EndDate": null,
+    "FundsRaisedList": "750 BTC",
+    "FundsRaisedUSD": "945,000",
+    "StartPrice": "$0.236",
+    "StartPriceCurrency": "N/A",
+    "Jurisdiction": "N/A",
+    "BlogLink": null,
+    "WhitePaperLink": "https://backto.earth/blog/back-to-earth-white-paper/"
+  },
+  "ccId": "4611"
+}

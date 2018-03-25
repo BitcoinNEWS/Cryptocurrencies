@@ -1,0 +1,68 @@
+{
+  "General": {
+    "Symbol": "BNT",
+    "Name": "Bancor Network Token",
+    "Description": "<p>The Bancor Protocol is a blockchain-based system for <span>discovery and a liquidity mechanism supporting multiple smart contract platforms. The flexibility of these blockchains allows tokens to be locked in reserve and to issue smart tokens on the Bancor system, enabling anyone to instantly purchase or liquidate the smart token in exchange for any of its reserve tokens.</span></p><p><span>The BNT is the first smart token on the Bancor system and it will hold a single reserve in Ether. Other smart tokens, by using BNT as one of their reserves, connect to the BNT network. </span><span>The BNT establishes network dynamics where increased demand for any of the network’s smart tokens increases demand for the common BNT, benefiting all other smart tokens holding it in reserve.</span></p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "79323978",
+    "Algorithm": null,
+    "ProofType": null,
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "13/02/2017",
+    "TotalCoinsMined": 74419144.95322934,
+    "Twitter": "@bancornetwork",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "https://bancor.network/",
+    "GitHub": null,
+    "OnMarkets": [
+      "Novaexchange",
+      "Yobit",
+      "HitBTC",
+      "LiveCoin",
+      "OKEX",
+      "Gateio",
+      "BitTrex",
+      "Binance",
+      "Liqui",
+      "Tidex",
+      "EtherDelta"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Finished",
+    "Description": "<p><span data-sheets-value=\"{&quot;1&quot;:2,&quot;2&quot;:&quot;The Bancor protocol is a standard that allows anyone to easily create completely liquid \\u201csmart tokens\\u201d that calculate their own prices &amp; enable a single party to convert any token to another, without requiring a second party to exchange with. Thereby enabling the long-tail of completely liquid cryptocurrencies. Smart tokens hold other tokens in reserve, and can be used as decentralized token baskets (like ETFs), token changers (like shapeshift), project &amp; protocol tokens (like GNT &amp; REP), community currencies (like Ithacash &amp; reward miles), and a lot of other use cases. The BANCOR network token will hold a single reserve in Ether. Other smart tokens, by using BANCOR as (one of) their reserve(s), connect to the BANCOR network. The BANCOR network token forms a monetary structure where increased demand for any of the network\\u2019s smart tokens drives up the value of the common BANCOR token, benefiting all other smart tokens holding it in reserve.&quot;}\" data-sheets-userformat=\"{&quot;2&quot;:25180290,&quot;4&quot;:{&quot;1&quot;:2,&quot;2&quot;:16777215},&quot;10&quot;:2,&quot;14&quot;:{&quot;1&quot;:2,&quot;2&quot;:3355443},&quot;15&quot;:&quot;Lato&quot;,&quot;16&quot;:12,&quot;26&quot;:300,&quot;27&quot;:0}\">The Bancor protocol is a standard that allows anyone to easily create completely liquid “smart tokens” that calculate their own prices &amp; enable a single party to convert any token to another, without requiring a second party to exchange with. The BANCOR network token will hold a single reserve in Ether. Other smart tokens, by using BANCOR as (one of) their reserve(s), connect to the BANCOR network. The BANCOR network token forms a monetary structure where increased demand for any of the network’s smart tokens drives up the value of the common BANCOR token, benefiting all other smart tokens holding it in reserve.</span></p><p>The Ethscan showed that there were 10,885 buyers with an average investment size of $13,471. Of the 50% withheld from investors Bancor plans to follow this distribution plan with <span data-sheets-value=\"{&quot;1&quot;:2,&quot;2&quot;:&quot;40% dedicated to software development, 20% as an Ethereum reserve for BNT, 12% toward marketing and business development, 10% for seeding Token Changes (smart tokens that hold multiple reserves and allow for direct exchange between them) and exchange-traded funds (Token Baskets), 8% for operational costs, 5% for legal expenses, and the remaining 5% for miscellaneous purposes.&quot;}\" data-sheets-userformat=\"{&quot;2&quot;:14466,&quot;4&quot;:{&quot;1&quot;:2,&quot;2&quot;:16777215},&quot;10&quot;:2,&quot;14&quot;:{&quot;1&quot;:2,&quot;2&quot;:0},&quot;15&quot;:&quot;medium-content-serif-font&quot;,&quot;16&quot;:16}\">40% dedicated to software development, 20% as an Ethereum reserve for BNT, 12% toward marketing and business development, 10% for seeding Token Changes (smart tokens that hold multiple reserves and allow for direct exchange between them) and exchange-traded funds (Token Baskets), 8% for operational costs, 5% for legal expenses, and the remaining 5% for miscellaneous purposes.</span> </p><p><strong>Team</strong>:</p><ul><li><strong>Bernard Lietaer</strong>: Foundation Council President.</li><li><strong>Guido Schmitz-Krummacher</strong>: Foundation Council.</li><li><strong>Eyal Hertzog</strong>: Foundation Council.<span> (<a href=\"https://www.linkedin.com/in/hertzog/\" target=\"_blank\">LinkedIn</a>);</span></li><li><strong>Guy Benartzi</strong><span>:<span> Foundation Council</span></span><span>. (<a href=\"https://www.linkedin.com/in/guy-benartzi-734613146/\" target=\"_blank\">LinkedIn</a>);</span></li><li><span><strong>Yehuda Levi</strong><span>:<span> CTO</span></span><span>. (<a href=\"https://www.linkedin.com/in/yudi-levi-4bb91911/\" target=\"_blank\">LinkedIn</a>);</span></span></li><li><strong>Galia Benartzi</strong><span>:<span> Business Development</span></span><span>. (<a href=\"https://www.linkedin.com/in/galia-benartzi-1a0aa220/\" target=\"_blank\">LinkedIn</a>, <a href=\"https://www.facebook.com/galia.benartzi\" target=\"_blank\">Facebook</a>);</span></li><li><span><strong>Ilana Pinhas</strong><span>:<span> <span>VP Engineering</span></span></span><span>. (<a href=\"https://www.linkedin.com/in/ilana-pinhas-9292352/\" target=\"_blank\">LinkedIn</a>);</span></span></li><li><strong><span>Or Bachar</span></strong><span>:<span> <span>Core Developer</span></span></span><span>. (<a href=\"https://www.linkedin.com/in/or-bachar-55821763/\" target=\"_blank\">LinkedIn</a>);</span></li><li><span><strong>Omry Rozenfeld</strong><span>:<span> <span>Core Developer</span></span></span><span>. (<a href=\"https://www.linkedin.com/in/omry-rosenfeld-a20406b9/\" target=\"_blank\">LinkedIn</a>);</span></span></li><li><span><span><strong>Asaf Rachman</strong><span>:<span> <span>Core Developer</span></span></span><span>. (<a href=\"https://www.linkedin.com/in/assaf-rachman-nuni-1281a3ba/\" target=\"_blank\">LinkedIn</a>);</span></span></span></li><li><strong><span>Mati Levi</span></strong><span>:<span> <span>QA Engineer</span></span></span><span>. (<a href=\"https://www.linkedin.com/in/mati-levi-71945455/\" target=\"_blank\">LinkedIn</a>);</span></li><li><span><strong>Itay Dreyfus</strong><span>:<span> <span>Product Designer</span></span></span><span>. (<a href=\"https://www.linkedin.com/in/itay-dreyfus-64049316/\" target=\"_blank\">LinkedIn</a>);</span></span></li></ul><p> </p><p><img style=\"width: 569px; height: 242px;\" src=\"/media/1383740/bnc.png?width=569&amp;height=242\" alt=\"\" data-id=\"179042\"></p><p> </p><p>With the surplus funds raised Bancor has created a price floor smart contract that will buy back BNT tokens when they go below the inital 0.01 ETH price. </p>",
+    "TokenType": "ETH (ERC20)",
+    "WebsiteLink": "https://www.bancor.network/fundraiser",
+    "FundingCap": "36,000,000 USD",
+    "FundingTarget": "N/A",
+    "Date": 1497276000,
+    "EndDate": 1497294000,
+    "FundsRaisedList": "396,720 ETH",
+    "FundsRaisedUSD": "153000000",
+    "StartPrice": "3.69",
+    "StartPriceCurrency": "USD",
+    "Jurisdiction": "Switzerland",
+    "BlogLink": "https://medium.com/bancor",
+    "WhitePaperLink": "https://drive.google.com/file/d/0B3HPNP-GDn7aLXFWOFpTZEgyaEk/view"
+  },
+  "ccId": "22327"
+}

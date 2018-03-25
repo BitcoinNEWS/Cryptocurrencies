@@ -1,0 +1,58 @@
+{
+  "General": {
+    "Symbol": "BNC",
+    "Name": "Benjacoin",
+    "Description": "<p>EPHE Corp. is a for-profit corporation whose products include an e-commerce iOS application called benjamin: sixty-second deals, a proprietary online display advertising technology and format, and an online display advertising method for integration in social media feeds.</p><p>Benja is a merchandise ad network. Across this platform, the company offers discounted merchandise from top-tier brands like Nike, Patagonia, and Under Armour. BenjaCoin is an Ethereum-based token that will serve as a revenue-generating mechanism for the Benja merchandise ad network.</p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "1000000000",
+    "Algorithm": "N/A",
+    "ProofType": "N/A",
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "01/08/2017",
+    "TotalCoinsMined": null,
+    "Twitter": "@benjacoin",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "https://www.benjacoin.com/",
+    "GitHub": null,
+    "OnMarkets": [
+      "Cryptopia"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Ongoing",
+    "Description": "<p><span>Benja</span><span> is a<span> </span></span><span>merchandise ad network. Across this platform, the company offers discounted merchandise from top-tier brands like Nike, Patagonia, and Under Armour.<span> </span></span><span>B</span><span>enjaCoin is an Ethereum-based token that will serve as a revenue-generating mechanism for the Benja merchandise ad<span> </span></span><span>network.</span></p><p><strong>Team</strong>:</p><ul><li><strong>Andrew J. Chapin:</strong> CEO.</li><li><span><strong>Tommy Goode:</strong> CTO.</span></li><li><strong>Morgan Reilly:</strong> CMO.</li></ul><p>The Benjacoin ICO began on the first of August, 2017 and will last for a month or until the funding cap is reached. The token supply represents 50% of the total 1B supply. Tokens are available for purchase through the Orderbook exchange at a 0.000125 ETH price. The funding cap for the ICO is 62500 ETH.</p><p><strong>Token Reserve Split (XX%):</strong></p><ul><li>50% BNC are to be held by Benja and introduced to the market in the event of an illiquid market</li></ul>",
+    "TokenType": "ETH (ERC20)",
+    "WebsiteLink": "https://www.orderbook.io/#/trading/BENJA-ETH",
+    "FundingCap": "62500 ETH",
+    "FundingTarget": "N/A",
+    "Date": 1501592400,
+    "EndDate": 1504270800,
+    "FundsRaisedList": "N/A",
+    "FundsRaisedUSD": "N/A",
+    "StartPrice": "0.000125",
+    "StartPriceCurrency": "ETH",
+    "Jurisdiction": "N/A",
+    "BlogLink": "http://benja.co/blog/",
+    "WhitePaperLink": "https://static1.squarespace.com/static/5966d525b11be19ba608f5a9/t/5989118aa5790a3d15598020/1502155149328/benjacoin_EN_072917compressed.pdf"
+  },
+  "ccId": "215570"
+}

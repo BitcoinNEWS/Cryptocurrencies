@@ -1,0 +1,60 @@
+{
+  "General": {
+    "Symbol": "NET*",
+    "Name": "Nimiq Exchange Token",
+    "Description": "<p>Nimiq is a Browser-based Blockchain &amp; Ecosystem Written in Javascript ES6 designed to make cryptocurrency easier for the enduser. Using WebRTC and WebSocket connections, Nimiq&#39;s ecosystem native to the web, allowing users to sync in seconds and to mine directly from the browser.</p><p>The Nimiq project is not live yet and the team has issued IOU tokens that can be traded. These tokens are callred Nimiq Exchange Tokens (NET) and they are ERC20 tokens based on the Ethereum blockchain. NET tokens will later be exchangeable for real Nimiq tokens.</p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "210000000",
+    "Algorithm": "N/A",
+    "ProofType": "N/A",
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "06/06/2017",
+    "TotalCoinsMined": 10500000,
+    "Twitter": "@nimiqnetwork",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "https://nimiq.com",
+    "GitHub": null,
+    "OnMarkets": [
+      "Liqui",
+      "EtherDelta",
+      "HitBTC"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Finished",
+    "Description": "<p>Nimiq is a Browser-based Blockchain &amp; Ecosystem Written in Javascript ES6 designed to make cryptocurrency easier for the enduser. The Nimiq project is not live yet and the team has issued IOU tokens that can be traded. These tokens are callred Nimiq Exchange Tokens (NET) and they are ERC20 tokens based on the Ethereum blockchain. NET tokens will later be exchangeable for real Nimiq tokens.</p><p>The Nimiq ICO started the 6th of June, 13:00 UTC and ran for 10 days. <span>With almost 4&#39;400 valid contributions the Contribution and Creation Cap where fully met and reached in just 10 days. </span>During this time, Nimiq gathered 4,992 BTC in exchange for 10,500,000 NET tokens. ICO specifications:</p><ul class=\"postList\"><li id=\"3dc4\" class=\"graf graf--li graf-after--p\">NET are standard tradable ERC20 tokens.</li><li id=\"5f32\" class=\"graf graf--li graf-after--li\">Exchange rate: 1 NIM = 10 NET.</li><li id=\"314c\" class=\"graf graf--li graf-after--li\">Tokens created in sale: up to 10&#39;500&#39;000 NET.</li><li id=\"6ab0\" class=\"graf graf--li graf-after--li\">The sale is capped at 60’000 ETH.</li><li id=\"9e90\" class=\"graf graf--li graf-after--li\">Bonus: <br />- First two weeks: 1 ETH = 175 NET <br />- Last two weeks: 1 ETH = 125 NET</li></ul><p>These tokens will be exchanged for Nimiq tokens at a 10:1 exchange rate, which means the ICO supply is 5% of the total Nimiq supply (21M). 88% will be distributed in mining rewards. The remaining Nimiq tokens will be distributed as so:</p><ul class=\"postList\"><li id=\"8946\" class=\"graf graf--li graf-after--li\">5%<span> </span><strong class=\"markup--strong markup--li-strong\">Token Sale</strong><span> </span>Contributors (no vesting, ~25% circulating supply yr 1)</li><li id=\"f241\" class=\"graf graf--li graf-after--li\">2.5% Long-term Endowment Foundation¹ (10 year vesting)</li><li id=\"52d8\" class=\"graf graf--li graf-after--li\">2% Good Cause Partnerships and Sponsorships² (10 year vesting)</li><li id=\"956b\" class=\"graf graf--li graf-after--li\">1.5% Early Contributors (6 month vesting)</li><li id=\"8b13\" class=\"graf graf--li graf-after--li\">1% Creators (3 year vesting)</li></ul><p> </p>",
+    "TokenType": "ETH (ERC20)",
+    "WebsiteLink": "https://nimiq.com/",
+    "FundingCap": "60,000 ETH",
+    "FundingTarget": "N/A",
+    "Date": 1498654800,
+    "EndDate": 1499516443,
+    "FundsRaisedList": "60,000 ETH",
+    "FundsRaisedUSD": "14400000",
+    "StartPrice": "0.00571428571",
+    "StartPriceCurrency": "ETH",
+    "Jurisdiction": "N/A",
+    "BlogLink": "https://medium.com/nimiq-network",
+    "WhitePaperLink": "https://medium.com/nimiq-network/nimiq-a-peer-to-peer-payment-protocol-native-to-the-web-ffd324bb084"
+  },
+  "ccId": "176669"
+}

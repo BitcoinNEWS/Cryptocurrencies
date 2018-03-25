@@ -1,0 +1,59 @@
+{
+  "General": {
+    "Symbol": "IPC",
+    "Name": "ImperialCoin",
+    "Description": "<p>ImperialCoin is a Proof of Work cryptocurrency based on the NeoScrypt algorithm. It has a 1.6 Billion supply.</p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "1600000000",
+    "Algorithm": "NeoScrypt",
+    "ProofType": "PoW",
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "20/02/2014",
+    "TotalCoinsMined": null,
+    "Twitter": "@impcoin",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "-",
+    "GitHub": null,
+    "OnMarkets": [
+      "Cryptopia",
+      "Coinse"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "N/A",
+    "Description": null,
+    "TokenType": null,
+    "WebsiteLink": null,
+    "FundingCap": null,
+    "FundingTarget": null,
+    "Date": null,
+    "EndDate": null,
+    "FundsRaisedList": null,
+    "FundsRaisedUSD": null,
+    "StartPrice": null,
+    "StartPriceCurrency": null,
+    "Jurisdiction": null,
+    "BlogLink": null,
+    "WhitePaperLink": null
+  },
+  "ccId": "182396"
+}

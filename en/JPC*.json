@@ -1,0 +1,59 @@
+{
+  "General": {
+    "Symbol": "JPC*",
+    "Name": "JackPotCoin",
+    "Description": "<p>JackpotCoin (JPC) is a coin thats premiss is superblocks that will on average appear every three and a half days - the payout grows from 10x to 100x at day 3.5 - and from day 3.5 to day 7 the block reward will increase 1000x. After this point the block reward probability will be increased if there has been no triggering. The block payout is reduced by 10% each week and the minimum payout will 1 coin per block - reached after just over two years. The block time is set to 120 seconds per block and the difficulty retargets per block. The Jackpot hashing algorithm is based on the SHA-3 algorithm. There was a 1% premine.</p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "0",
+    "Algorithm": "SHA3",
+    "ProofType": "PoW/PoS",
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "25/04/2014",
+    "TotalCoinsMined": null,
+    "Twitter": "@JackpotCoin",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": null,
+    "GitHub": null,
+    "OnMarkets": [
+      "Yobit",
+      "BitTrex"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "N/A",
+    "Description": null,
+    "TokenType": null,
+    "WebsiteLink": null,
+    "FundingCap": null,
+    "FundingTarget": null,
+    "Date": null,
+    "EndDate": null,
+    "FundsRaisedList": null,
+    "FundsRaisedUSD": null,
+    "StartPrice": null,
+    "StartPriceCurrency": null,
+    "Jurisdiction": null,
+    "BlogLink": null,
+    "WhitePaperLink": null
+  },
+  "ccId": "5333"
+}

@@ -1,0 +1,61 @@
+{
+  "General": {
+    "Symbol": "FST",
+    "Name": "FastCoin",
+    "Description": "<p>FastCoin (FST) is a fast coin with a block time of 12 seconds. Confimations needed for transactions are 12 secs - one of the fastest out there. There were originally 32 coins per block which halves every 12 months. A Fast scypt based coin.</p><table border=\"0\" class=\"zebra\" align=\"left\" style=\"border-spacing: 0px; width: 908px; margin-top: 0px; color: #444444; font-family: Arial, Helvetica, sans-serif; font-size: 12px; line-height: 18px; background-color: #222222;\"><tbody><tr style=\"background: url(&#39;http://www.cryptocoincomparison.com/templates/yoo_venture/images/tools/list_zebra.png&#39;) 0px 0px repeat;\"><td colspan=\"8\" align=\"left\" valign=\"top\" style=\"padding: 5px; border-radius: 0px; border-bottom-width: 0px; border-bottom-style: solid; border-bottom-color: rgba(0, 0, 0, 0.0980392); border-top-width: 1px; border-top-style: solid; border-top-color: rgba(0, 0, 0, 0.0980392);\"><div style=\"vertical-align: middle; float: right; border: 1px solid black; margin: 0px 0px 5px 10px;\"><h1 style=\"margin: 4px 4px 10px; font-weight: normal; font-size: 36px; line-height: 36px; font-family: OpenSansLight, Arial, Helvetica, sans-serif; color: #222222; vertical-align: middle;\">Fastcoin - FST</h1><p style=\"margin: 0px; vertical-align: middle;\" class=\"p1\">FastCoin (FST) is a fast coin with a block time of 12 seconds. Confimations needed for transactions are 12 secs - one of the fastest out there. There were originally 32 coins per block which halves every 12 months. A Fast scypt based coin.</p></div></td></tr></tbody></table>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "165888000",
+    "Algorithm": "Scrypt",
+    "ProofType": "PoW",
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "29/05/2013",
+    "TotalCoinsMined": null,
+    "Twitter": "@fast_coin",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "http://www.fastcoin.ca/",
+    "GitHub": null,
+    "OnMarkets": [
+      "Cryptopia",
+      "Coinse",
+      "LiveCoin",
+      "Cryptsy"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "N/A",
+    "Description": null,
+    "TokenType": null,
+    "WebsiteLink": null,
+    "FundingCap": null,
+    "FundingTarget": null,
+    "Date": null,
+    "EndDate": null,
+    "FundsRaisedList": null,
+    "FundsRaisedUSD": null,
+    "StartPrice": null,
+    "StartPriceCurrency": null,
+    "Jurisdiction": null,
+    "BlogLink": null,
+    "WhitePaperLink": null
+  },
+  "ccId": "4523"
+}

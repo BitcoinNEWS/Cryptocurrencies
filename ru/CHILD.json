@@ -1,0 +1,58 @@
+{
+  "General": {
+    "Symbol": "CHILD",
+    "Name": "ChildCoin",
+    "Description": "<p>X-Children is a revolutionary PoW coin featuring an established difficulty adjustment algorithm (X11) and an innovative two-phase distribution plan which ensures that the coin remains sustainable and economically viable. During the first 28 days 90% of all coins will be distributed, then transitions to anti/inflation 1 coin per block mode</p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "2000000",
+    "Algorithm": "X11",
+    "ProofType": "PoW",
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "24/08/2014",
+    "TotalCoinsMined": null,
+    "Twitter": "@XLaboratories",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "http://www.x-children.org/",
+    "GitHub": null,
+    "OnMarkets": [
+      "BitTrex"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "N/A",
+    "Description": null,
+    "TokenType": null,
+    "WebsiteLink": null,
+    "FundingCap": null,
+    "FundingTarget": null,
+    "Date": null,
+    "EndDate": null,
+    "FundsRaisedList": null,
+    "FundsRaisedUSD": null,
+    "StartPrice": null,
+    "StartPriceCurrency": null,
+    "Jurisdiction": null,
+    "BlogLink": null,
+    "WhitePaperLink": null
+  },
+  "ccId": "5377"
+}

@@ -1,0 +1,59 @@
+{
+  "General": {
+    "Symbol": "BTQ",
+    "Name": "BitQuark",
+    "Description": "<p><span>BitQuark is the result of merging Bitcoin with the super secure hashing power of Quarkcoin. BitQuark uses Bitcoin&#39;s distribution method with the addition of 0.5% annual inflationary after the initial 21,000,000 BitQuark&#39;s have been mined. It uses the super secure &#39;quark&#39; algorithm made up of 9 rounds of hashing from 6 hashing functions (blake, bmw, grøstl, JH, keccak, skein). 3 rounds apply a random hashing function. BTQ has a block time of 30 seconds and block rewards of 2.5 BTQ per block. The block rewards will never fall below 0.1 BTQ. Retargeting every block via DarkGravityWave3 and halving every 4 years. BTQ is CPU/GPU mined and ASIC resistant, so anyone can mine it without the need of running expensive high-end hardware. </span></p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "0",
+    "Algorithm": "Multiple",
+    "ProofType": "PoW",
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "16/09/2014",
+    "TotalCoinsMined": null,
+    "Twitter": "@BitQuarkCoin",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "http://www.bitquark.info/",
+    "GitHub": null,
+    "OnMarkets": [
+      "CCEX",
+      "BTER"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "N/A",
+    "Description": null,
+    "TokenType": null,
+    "WebsiteLink": null,
+    "FundingCap": null,
+    "FundingTarget": null,
+    "Date": null,
+    "EndDate": null,
+    "FundsRaisedList": null,
+    "FundsRaisedUSD": null,
+    "StartPrice": null,
+    "StartPriceCurrency": null,
+    "Jurisdiction": null,
+    "BlogLink": null,
+    "WhitePaperLink": null
+  },
+  "ccId": "8763"
+}

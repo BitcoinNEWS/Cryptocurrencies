@@ -1,0 +1,56 @@
+{
+  "General": {
+    "Symbol": "DBR",
+    "Name": "Düber",
+    "Description": "<p><span>The Düber Token (DBR) is intended to incentivize and improve information exchange in the cannabis community, including consumers, retailers, labs, processors and growers. Examples are rewarding community members for providing product information and photos, submitting product reviews, participation in loyalty programs and interaction with advertising and other communication channels. Blockchain technology will measure and allocate growth in economic surplus throughout the supply chain as a result of increased information exchange across all network participants. The DBR is an Ethereum (ETH) blockchain cryptocurrency that can be used within the network to pay for goods and services provided by licensed cannabis businesses.</span></p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "2226000000",
+    "Algorithm": null,
+    "ProofType": null,
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "25/10/2017",
+    "TotalCoinsMined": null,
+    "Twitter": "@duberpartners",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": null,
+    "GitHub": null,
+    "OnMarkets": [],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Ongoing",
+    "Description": "<p>The Düber Token (DBR) is intended to incentivize and improve information exchange in the cannabis community, including consumers, retailers, labs, processors and growers. Examples are rewarding community members for providing product information and photos, submitting product reviews, participation in loyalty programs and interaction with advertising and other communication channels. Blockchain technology will measure and allocate growth in economic surplus throughout the supply chain as a result of increased information exchange across all network participants. The DBR is an Ethereum (ETH) blockchain cryptocurrency that can be used within the network to pay for goods and services provided by licensed cannabis businesses.</p><p><strong>Team</strong>:</p><ul><li><strong>Glenn Ballman</strong><span>: CEO, Founder.</span></li><li><span><strong>Derek Mackie</strong><span>: CTO.</span></span></li><li><strong>André van Regenmortel</strong><span>: CMO.</span></li><li><span><strong>James Mutter</strong><span>: CLO.</span></span></li><li><strong>David Edmunds</strong><span>: CFO.</span></li></ul><p>Düber will be holding its ICO on the 25th of October, 2017. The ICO token supply represents 50% of the total token supply, so there will be a total of <span>1,113,000,000 </span>tokens available, for 0.00033333 ETH each at the offering. The ICO funding cap is 350,000 ETH and is expected to end on the 19th of January, 2017 or when the funding cap is reached.</p><p><strong>Token Reserve Split (XX%):</strong></p><ul><li>03% Bounties;</li><li>13.5% Network Liquidity;</li><li><span>13.5% Controlled Reserve;</span></li><li><span>05% Partners;</span></li><li><span>15% Team;</span></li></ul>",
+    "TokenType": "ETH (ERC20)",
+    "WebsiteLink": "https://dubercoin.com/",
+    "FundingCap": "350,000 ETH",
+    "FundingTarget": "17,500 ETH",
+    "Date": 1508889600,
+    "EndDate": 1516320000,
+    "FundsRaisedList": "Presale: 299,265 DBR sold.",
+    "FundsRaisedUSD": "N/A",
+    "StartPrice": "0.00033333",
+    "StartPriceCurrency": "ETH",
+    "Jurisdiction": "U.S.A",
+    "BlogLink": "https://medium.com/@duberpartners",
+    "WhitePaperLink": "https://gdbr.co/whitepaper-en"
+  },
+  "ccId": "394055"
+}

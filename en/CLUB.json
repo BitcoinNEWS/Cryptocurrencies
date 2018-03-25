@@ -1,0 +1,60 @@
+{
+  "General": {
+    "Symbol": "CLUB",
+    "Name": " ClubCoin",
+    "Description": "<p>Clubcoin is a peer-to-peer digital currency that has a decentralized and consensus based system where all transactions are viewed in a public ledger. Which means nobody has control and everything is completely transparent to everyone on the network.</p><p>This type of distributed network allows the coin to function without having to trust anyone. The concept of all digital currency is taking the control out of a central authority and putting it where it belongs... In the hands of the people!</p><p>With Clubcoin you can transfer money between accounts with ease. You can send any amount to any other person and they will receive it fast and be able to spend it once the transaction is confirmed by the network.</p><p>Coin added by <a href=\"http://chopcoin.io\" target=\"_blank\">@chopcoin</a> Team</p>",
+    "Features": "<p><strong>Large Distribution &amp; Low Inflation</strong><br /><br />78.5 million ClubCoin was mined to start and these coins are being distributed to BitClub Network members. See disclaimer below. No new coins will be created using Proof-of-Work method, all new coins will be issued from the 20% yearly interest paid to holders of ClubCoin who are staking their coins. This drops in half every 2 years.<br /> <br /><br /><strong>Built-in Users = Adoption<br /></strong><br />ClubCoin was first introduced to BitClub Network members as a strategic way to distribute the coins across a global network of users. This model gives ClubCoin a unique advantage over most coins in the market as it will continue to be issued and distributed worldwide to a fast growing user base.<br /> <br /><br /><strong>Blockchain Security<br /></strong><br />ClubCoin has it&#39;s own Blockchain and distributed network of nodes that make it very secure against attacks and hard to get 51% consensus. Other digital currencies that are only Proof-of-work face issues due to their reliability on large-scale mining operations. ClubCoin also boasts a powerful Block Explorer.<br /> <br /><br /><strong>Merchant Platform<br /></strong><br />A new Merchant Platform is being built that will allow online and brick &amp; mortar businesses to accept ClubCoin risk free, within a secure and reliable environment. Since many members will be eager to use this platform we have created a very strategic way to sign up new merchants. We have big plans for ongoing development of the entire ClubCoin ecosystem.</p>",
+    "Technology": null,
+    "TotalCoinSupply": null,
+    "Algorithm": "Scrypt",
+    "ProofType": "PoW/PoS",
+    "BlockReward": 15.315854961052537,
+    "Explorer": null,
+    "StartDate": "17/12/2015",
+    "TotalCoinsMined": 98954208.39866053,
+    "Twitter": "@Clubcoin_co",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "http://clubcoin.co/",
+    "GitHub": null,
+    "OnMarkets": [
+      "Yobit",
+      "Novaexchange",
+      "BitTrex"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "N/A",
+    "Description": null,
+    "TokenType": null,
+    "WebsiteLink": null,
+    "FundingCap": null,
+    "FundingTarget": null,
+    "Date": null,
+    "EndDate": null,
+    "FundsRaisedList": null,
+    "FundsRaisedUSD": null,
+    "StartPrice": null,
+    "StartPriceCurrency": null,
+    "Jurisdiction": null,
+    "BlogLink": null,
+    "WhitePaperLink": null
+  },
+  "ccId": "15869"
+}

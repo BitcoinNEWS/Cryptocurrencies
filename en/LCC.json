@@ -1,0 +1,60 @@
+{
+  "General": {
+    "Symbol": "LCC",
+    "Name": "LitecoinCash",
+    "Description": "<p>LitecoinCash (LCC) is an Litecoin fork that took place <span>at block 1371111. The LCC is based on the SHA256 algorithm and will feature 2,5 minutes block time and a difficulty adjustment at every block.</span></p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "840000000",
+    "Algorithm": "SHA256",
+    "ProofType": null,
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "03/02/2018",
+    "TotalCoinsMined": null,
+    "Twitter": "@LitecoinFork",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": null,
+    "GitHub": null,
+    "OnMarkets": [
+      "TradeSatoshi",
+      "Yobit",
+      "EtherDelta"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "N/A",
+    "Description": null,
+    "TokenType": null,
+    "WebsiteLink": null,
+    "FundingCap": null,
+    "FundingTarget": null,
+    "Date": null,
+    "EndDate": null,
+    "FundsRaisedList": null,
+    "FundsRaisedUSD": null,
+    "StartPrice": null,
+    "StartPriceCurrency": null,
+    "Jurisdiction": null,
+    "BlogLink": null,
+    "WhitePaperLink": null
+  },
+  "ccId": "783320"
+}

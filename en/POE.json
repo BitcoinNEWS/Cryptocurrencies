@@ -1,0 +1,62 @@
+{
+  "General": {
+    "Symbol": "POE",
+    "Name": "Po.et",
+    "Description": "<p>Po.et is an  Ethereum-based decentralized ledger built to track o<span>wnership and attribution for digital creative assets. It allows users to generate immutable and timestamped titles for creative works and register their assets to the Po.et network. Po.et also gives both publishers and content creators the tools to automate the licensing process without relying on any third parties, making the process cheaper and smple.</span></p><p><span>POE is an ERC20 Ethereum-based token that represents a proportional share of the the fees and revenue generated from the commercial applications built on top of the Po.et protocol, including generating content licenses and processing license payments among others.</span></p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "3141592653",
+    "Algorithm": "N/A",
+    "ProofType": "N/A",
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "08/08/2017",
+    "TotalCoinsMined": 3141592653,
+    "Twitter": "@_poetproject",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "https://po.et/",
+    "GitHub": null,
+    "OnMarkets": [
+      "OKEX",
+      "Binance",
+      "EtherDelta",
+      "HitBTC",
+      "Kucoin"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Upcoming",
+    "Description": "<p><span class=\"rte-image-centered\"></span><span>Po.et is an  Ethereum-based decentralized ledger built to track o</span><span>wnership and attribution for digital creative assets. </span><span>POE is an ERC20 Ethereum-based token that represents a proportional share of the the fees and revenue generated from the commercial applications built on top of the Po.et protocol, including generating content licenses and processing license payments among others. $10 million was generated from 2500 investors in only 30 minutes.</span></p><p><strong>Team</strong>:</p><ul><li><strong>Max Bronstein</strong>: Media &amp; Strategy Lead.</li><li><strong>Jeremy Kandah</strong>: Chief Coin Officer.</li><li><strong>Jill Richmond</strong>: Marketing &amp; Communications.</li><li><strong>Álvaro Crespo</strong>: Mobile Developer.</li><li><strong>Justin Litchfield</strong>: Product Development.</li><li><strong>Patricio Mosse</strong>: Full Stack Developer.</li></ul><p><span>Strating on the 8th of August, the Po.et ICO will allow users to buy POE with Ether. </span><span>Po.et is expecting to raise a maximum of $10</span><span> million, for which they will distribute </span><span>50% of the total 3,141,592,653 POE supply. The remaining tokens will be devided as so:</span></p><p><strong>Token Reserve Split (50%):</strong></p><ul><li>22% Foundation;</li><li>10% Integration Partners;</li><li>10% Angel Investors;</li><li><span>08% Founding Team;</span></li></ul><p> </p><p><img src=\"https://po.et/img/token-allocation.png?width=425&amp;height=211\" alt=\"\" width=\"425\" height=\"211\"></p><p> </p><p><strong>Use of Proceeds:</strong></p><ul><li>45% Poet R&amp;D;</li><li>05% Legal;</li><li>15% Business Development;</li><li><span>15% Marketing;</span></li><li><span>20% Poet<span> Platform</span>;</span></li></ul><p><span><img style=\"width: 419px; height: 233px;\" src=\"/media/1383902/poet_use1.png?width=419&amp;height=233\" alt=\"\" data-id=\"199106\"></span></p>",
+    "TokenType": "ETH (ERC20)",
+    "WebsiteLink": "https://po.et/",
+    "FundingCap": "10000000 USD",
+    "FundingTarget": "N/A",
+    "Date": 1502150400,
+    "EndDate": 1502152200,
+    "FundsRaisedList": "N/A",
+    "FundsRaisedUSD": "10000000",
+    "StartPrice": "N/A",
+    "StartPriceCurrency": "ETH",
+    "Jurisdiction": "N/A",
+    "BlogLink": "https://blog.po.et/",
+    "WhitePaperLink": "https://po.et/whitepaper.pdf"
+  },
+  "ccId": "188811"
+}

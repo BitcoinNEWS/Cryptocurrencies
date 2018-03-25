@@ -1,0 +1,56 @@
+{
+  "General": {
+    "Symbol": "ARI*",
+    "Name": "BeckSang",
+    "Description": "<p><span>BeckSang </span><span>is a cryptocurrency platform that provides cloud mining, mining pools, mining tools, and trading market to the client and enables the new decentralized cryptocurrency platform. Transactions may always happen during the mining, trading, funding processes, and even when simply sending money to someone else.</span></p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "5000000000",
+    "Algorithm": null,
+    "ProofType": null,
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "18/08/2017",
+    "TotalCoinsMined": null,
+    "Twitter": "@BECKSANG_CORP",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": null,
+    "GitHub": null,
+    "OnMarkets": [],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Ongoing",
+    "Description": "<p><span>BeckSang </span>is a cryptocurrency platform that provides cloud mining, mining pools, mining tools, and trading market to the client and enables the new decentralized cryptocurrency platform. Transactions may always happen during the mining, trading, funding processes, and even when simply sending money to someone else.</p><p><strong>Team</strong>:</p><ul><li><strong>Steven Baek</strong>: CEO. <a href=\"https://www.linkedin.com/in/steven-baek-73774ab4/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Ernest Chae</strong>: CTO.</li></ul><p><span>BeckSang&#39;s ICO will be divided into two crowdsales.</span></p><p>BeckSang ICO began on August 18, 2017. The ICO total token supply is 5,000,000,000 and will be available for 0.001 ETH each at the offering. The ICO is expected to end on September<span> 18, 2017.</span></p><p><strong>Price Structure:</strong></p><ul><li>Pre-Sale 1ETH = 2000 ARI | MAX 10000 ETH</li><li><span>First Crowdsale 1ETH = 1000 ARI | MAX 50000 ETH</span></li><li><span>Second Crowdsale 1ETH = 800 ARI | MAX To be decided.</span></li></ul>",
+    "TokenType": "ETH (ERC20)",
+    "WebsiteLink": "https://www.becksang.com/",
+    "FundingCap": "N/A",
+    "FundingTarget": "N/A",
+    "Date": 1503014400,
+    "EndDate": 1505692800,
+    "FundsRaisedList": "N/A",
+    "FundsRaisedUSD": "N/A",
+    "StartPrice": "0.001",
+    "StartPriceCurrency": "ETH",
+    "Jurisdiction": "N/A",
+    "BlogLink": null,
+    "WhitePaperLink": "https://docs.wixstatic.com/ugd/c15d3d_08a49b74cebf4694b078f71faef5e7f6.pdf"
+  },
+  "ccId": "235221"
+}

@@ -1,0 +1,59 @@
+{
+  "General": {
+    "Symbol": "NTK",
+    "Name": "Neurotoken",
+    "Description": "<p>Neuromation<span><span> </span>is a technology platform that creates synthetic learning environments for deep learning of neural networks. These simulations are then used for training better algorithms.<span> </span></span><br /><br /><span>The team is building a platform of distributed computing for creating artificial worlds where AI algorithms are trained on simulated sensory input. These synthetic worlds also have a virtually infinite supply of perfectly labelled training data.</span></p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "100000000",
+    "Algorithm": null,
+    "ProofType": null,
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "07/01/2018",
+    "TotalCoinsMined": null,
+    "Twitter": "@neuromation_io",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": null,
+    "GitHub": null,
+    "OnMarkets": [
+      "Yobit",
+      "Tidex"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Finished",
+    "Description": "<p>Neuromation is a technology platform that creates synthetic learning environments for deep learning of neural networks. These simulations are then used for training better algorithms. <br> <br>The team is building a platform of distributed computing for creating artificial worlds where AI algorithms are trained on simulated sensory input. These synthetic worlds also have a virtually infinite supply of perfectly labelled training data.</p><p><strong>Team</strong>:</p><ul><li><strong>Maxim Prasolov</strong><span>: CEO.</span><span> </span><a href=\"https://www.linkedin.com/in/maxim-prasolov/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Fedor Savchenko</strong><span>: CTO.</span><span> </span><a href=\"https://www.linkedin.com/in/fedor-savchenko-6687772/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Sergey Nikolenko</strong><span>: Chief Research Officer.</span><span> </span><a href=\"https://www.linkedin.com/in/sergey-nikolenko-30b08514/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Denis Popov</strong><span>: VP of Engineering.</span><span> </span><a href=\"https://www.linkedin.com/in/denispopov/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Esther Katz</strong><span>: VP Communication.</span><span> </span><a href=\"https://www.linkedin.com/in/esther-katz-16b673b/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Constantine Goltsev</strong><span>: Chairman.</span><span> </span><a href=\"https://www.linkedin.com/in/constantinegoltsev/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li></ul><p>Neuromation will be holding its ICO on the 7th of January, 2017. The ICO token supply represents 60% of the total token supply, so there will be a total of 60,000,000 tokens available, for 0.001 ETH each at the offering. The ICO funding cap is 60,000 ETH and is expected to end on the 15th of February, 2017 or when the funding cap is reached. Any unsold tokens will be burned.</p><p><strong>Token Reserve Split (40%):</strong></p><ul><li>12% Team;</li><li>12% Partners;</li><li>10% Liquidity Reserve;</li><li>06% Researchers</li></ul>",
+    "TokenType": "N/A",
+    "WebsiteLink": "https://ico.neuromation.io",
+    "FundingCap": "60,000  ETH",
+    "FundingTarget": "N/A",
+    "Date": 1515283200,
+    "EndDate": 1515628800,
+    "FundsRaisedList": "60,000  ETH",
+    "FundsRaisedUSD": "73188000",
+    "StartPrice": "0.001",
+    "StartPriceCurrency": "ETH",
+    "Jurisdiction": "Estonia",
+    "BlogLink": "https://medium.com/neuromation-io-blog",
+    "WhitePaperLink": "https://neuromation.io/files/Neuromation_white_paper.pdf"
+  },
+  "ccId": "439180"
+}

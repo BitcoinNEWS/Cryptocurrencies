@@ -1,0 +1,67 @@
+{
+  "General": {
+    "Symbol": "MANA",
+    "Name": "Decentraland",
+    "Description": null,
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "N/A",
+    "Algorithm": "N/A",
+    "ProofType": "N/A",
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "08/08/2017",
+    "TotalCoinsMined": 2644403343.158303,
+    "Twitter": "@decentraland",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "https://decentraland.org/",
+    "GitHub": null,
+    "OnMarkets": [
+      "Binance",
+      "BitTrex",
+      "OKEX",
+      "EtherDelta",
+      "Bitfinex",
+      "Gateio",
+      "HitBTC",
+      "Liqui",
+      "HuobiPro",
+      "LAToken"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Finished",
+    "Description": null,
+    "TokenType": "N/A",
+    "WebsiteLink": "https://contribution.decentraland.org/#/",
+    "FundingCap": "N/A",
+    "FundingTarget": "N/A",
+    "Date": 1502931600,
+    "EndDate": 1502931610,
+    "FundsRaisedList": "86,206 ETH",
+    "FundsRaisedUSD": "26292830",
+    "StartPrice": "N/A",
+    "StartPriceCurrency": "N/A",
+    "Jurisdiction": "N/A",
+    "BlogLink": "https://blog.decentraland.org/?gi=33cf054cb70d",
+    "WhitePaperLink": "https://decentraland.org/whitepaper.pdf"
+  },
+  "ccId": "199148"
+}

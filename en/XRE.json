@@ -1,0 +1,59 @@
+{
+  "General": {
+    "Symbol": "XRE",
+    "Name": "RevolverCoin",
+    "Description": "<div class=\"4u 12u$(medium)\"><p>Revolver is a cryptocurrency developed to empower and reward content service proviers, independent music and vide projects, startups and users inside the XRE network.</p></div>",
+    "Features": null,
+    "Technology": "<p>XRE uses its own algorithm, X11Evo.</p>",
+    "TotalCoinSupply": null,
+    "Algorithm": "X11Evo",
+    "ProofType": "PoW",
+    "BlockReward": 1.7499999990686774,
+    "Explorer": null,
+    "StartDate": "28/05/2016",
+    "TotalCoinsMined": 22633522.11029769,
+    "Twitter": "@RevolverCoin",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "http://www.revolvercoin.org/",
+    "GitHub": null,
+    "OnMarkets": [
+      "Cryptopia",
+      "Novaexchange"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "N/A",
+    "Description": null,
+    "TokenType": null,
+    "WebsiteLink": null,
+    "FundingCap": null,
+    "FundingTarget": null,
+    "Date": null,
+    "EndDate": null,
+    "FundsRaisedList": null,
+    "FundsRaisedUSD": null,
+    "StartPrice": null,
+    "StartPriceCurrency": null,
+    "Jurisdiction": null,
+    "BlogLink": null,
+    "WhitePaperLink": null
+  },
+  "ccId": "20823"
+}

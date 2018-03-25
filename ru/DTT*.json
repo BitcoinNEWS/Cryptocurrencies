@@ -1,0 +1,56 @@
+{
+  "General": {
+    "Symbol": "DTT*",
+    "Name": "Data Trading",
+    "Description": "<p>Data Trading is a project that provides a set of analytical and forecasting tools for trading in stock and crypto exchange markets <span>using AI, machine learning and neural networks for forecasting financial markets. DTT will serve as an inner system currency and will be used to pay for services of the system, or to reward developers. DTT is an ERC20 token based on the Ethereum blockchain. It will serve as an inner system currency and will be used to pay for services of the system, or to reward developers.</span></p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": null,
+    "Algorithm": null,
+    "ProofType": null,
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "18/12/2017",
+    "TotalCoinsMined": null,
+    "Twitter": "@DataTrading_",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": null,
+    "GitHub": null,
+    "OnMarkets": [],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Ongoing",
+    "Description": "<p><span>Data Trading is a project that provides a set of analytical and forecasting tools for trading in stock and crypto exchange markets </span><span>using AI, machine learning and neural networks for forecasting financial markets. DTT will serve as an inner system currency and will be used to pay for services of the system or to reward<span> </span>developers.<span> </span>DTT is an ERC20 token based on the Ethereum blockchain. It will serve as an inner system currency and will be used to pay for services of the system or to reward<span> </span>developers.</span></p><p><strong>Team</strong>:</p><ul><li>Anton Vokrug: CEO <a href=\"https://www.facebook.com/anton.vokrug\" target=\"_blank\"><img style=\"width: 13px; height: 13px;\" src=\"/media/1383930/face_logo_final.png?width=13&amp;height=13\" alt=\"\" data-id=\"202866\"></a><span> </span><a href=\"https://www.linkedin.com/in/antonvokrug/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li>Alexander Gandzha CTO<span> </span><a href=\"https://www.facebook.com/sasha.gandzha\" target=\"_blank\"><img style=\"width: 13px; height: 13px;\" src=\"/media/1383930/face_logo_final.png?width=13&amp;height=13\" alt=\"\" data-id=\"202866\"></a><span> </span><a href=\"https://www.linkedin.com/in/sasha-gandzha-a5992118/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li>Li Yongjin Lead Partner</li><li>Li YongGang Lead Partner</li></ul><p>The Data Trading ICO will start on the 18th of December 2017 and will end on the 22nd of February 2018. The ICO token allocation represents 80% of the total token supply. The DTT token will sold for a 0.1 USD starting price and will be available for BTC, ETH, DASH and LTC. The funding target for the DTT ICO is $5M and the cap is $25M.</p><p><strong>Token Reserve Split (20%):</strong></p><ul><li><span>Bounty program — 1% (3 600 000 DTT)</span></li><li><span>Fund for the promotion of the platform after the release (free trial subscriptions and services) — 10% (36 000 000 DTT)</span></li><li><span>Team and advisors — 9% (32 400 000 DTT)</span></li></ul><p>COMPANY_NAME ICO campaign features FEATURES, and the token will BE_NOTBE mineable.</p><p><strong>Bonus Structure:</strong></p><ul><li>30% bonus for all pre-sale participants</li></ul>",
+    "TokenType": "ETH (ERC20)",
+    "WebsiteLink": "http://data-trading.com",
+    "FundingCap": "25,000,000 USD",
+    "FundingTarget": "5,000,000 USD",
+    "Date": 1513555200,
+    "EndDate": 1519257600,
+    "FundsRaisedList": "197.699 BTC; 4,674.856 ETH",
+    "FundsRaisedUSD": "6405325.76372",
+    "StartPrice": "0.1",
+    "StartPriceCurrency": "USD",
+    "Jurisdiction": "Hong Kong",
+    "BlogLink": "http://blog.data-trading.com/",
+    "WhitePaperLink": "http://data-trading.com/datatrading_whitepaper_en.pdf"
+  },
+  "ccId": "363066"
+}

@@ -1,0 +1,60 @@
+{
+  "General": {
+    "Symbol": "HGT",
+    "Name": "Hello Gold",
+    "Description": "<p>HelloGold is a start-up that creates simple and accessible gold products for everyone, providing access to gold as a form of savings, loan collateral and remittance (value transfer). Founded in 2015 and headquartered in Kuala Lumpur, Malaysia, HelloGold built the world’s first Shariah compliant gold digital application that changes the way you buy and sell gold.</p><p>The Hello Gold foundation (HGF) is an organisation that was setup byu HelloGold to serve two primary objectives:</p><ul><li>Accelerate the use of blockchain technology for use by the mass market</li><li>Expand the availability of products that help the underserved and unbanked in emerging markets to have better and more affordable access to simple financial products beyond cash; i.e. providing the ability to diversify savings and better preserve wealth</li></ul>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "1000000000",
+    "Algorithm": null,
+    "ProofType": null,
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "28/08/2017",
+    "TotalCoinsMined": 1000000000,
+    "Twitter": "https://twitter.com/FoundationHG",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": null,
+    "GitHub": null,
+    "OnMarkets": [
+      "Gatecoin",
+      "HitBTC",
+      "EtherDelta"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Ongoing",
+    "Description": "<p>HelloGold is a start-up that creates simple and accessible gold products for everyone. Founded in 2015 and headquartered in Malaysia, HelloGold built the world’s first Shariah compliant gold digital application that changes the way users buy and sell gold. <br> <br>HelloGold will aim to increase market access to online gold initially in Thailand, China, Indonesia and the Philippines as well as expanding the product functionality. In recognition for their support and to enable the Foundation to continue operations, HelloGold will distribute 10% of the management fee of their assets under management back to the Foundation. <br> <br>The Foundation may then issue a reward to HGT token holders in the form of a new token, GBT. Each GBT will be backed by 1g of 99.99% investment grade gold. GBT can either be sold on exchange or be converted into a HelloGold customer account containing gold of the same amount and thereby redeemed into cash or physical gold. In the future GBT will also be available for direct purchase, creating a stable coin backed by real asset for use by the crypto-community.</p><p>Tokens allocated to the HelloGold team and its early backers will be vested over 36 months. 32% of tokens will be distributed in the initial sale with two more rounds expected in 2018/2019. </p><p><strong>Team</strong>:</p><ul><li><strong>Robin Lee</strong>:<strong> </strong>CEO <a href=\"https://www.linkedin.com/in/robin-lee-116444/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Wykeen Seet</strong>: CTO <a href=\"https://www.linkedin.com/in/wykeen-seet-2100824b/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Ridwan Abdullah: </strong>Business Development <a href=\"https://www.linkedin.com/in/ridwan-abdullah-696a4114/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Manuel Ho: </strong>Marketing <a href=\"https://www.linkedin.com/in/manuel-ho-0a5317/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Joshua Ambrose: </strong>Operations <a href=\"https://www.linkedin.com/in/joshua-ambrose-04029122/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Roger Ward: </strong>Corporate Development <a href=\"https://www.linkedin.com/in/rogerbward/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Ita Jalaluddin: </strong>Marketing<strong>  <a href=\"https://www.linkedin.com/in/ita-jalaluddin-b37a68122/?ppe=1\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></strong></li></ul><p><strong>Token Reserve Split (82%):</strong></p><ul><li>20% Strategic Investors (Presale)</li><li>20% Team</li><li>16% Sale 2 2018</li><li>16% Sale 3 2019</li><li>10% Suppliers</li></ul>",
+    "TokenType": "ETH (ERC20)",
+    "WebsiteLink": "https://www.hellogold.org/token-crowdsale.html",
+    "FundingCap": "9,600,000",
+    "FundingTarget": "5,000,000 USD",
+    "Date": 1503892800,
+    "EndDate": 1506916800,
+    "FundsRaisedList": "30056 ETH",
+    "FundsRaisedUSD": "9600000",
+    "StartPrice": "0.000112",
+    "StartPriceCurrency": "ETH",
+    "Jurisdiction": "Singapore",
+    "BlogLink": "https://medium.com/hellogold",
+    "WhitePaperLink": "https://www.hellogold.org/downloads/HelloGoldSummaryWhitepaper.pdf"
+  },
+  "ccId": "234508"
+}

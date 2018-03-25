@@ -1,0 +1,59 @@
+{
+  "General": {
+    "Symbol": "DVC",
+    "Name": "DevCoin",
+    "Description": "<p>Devcoin is an ethically inspired project based on the BitCoin crypto-currency and created to help fund open source projects created by programmers, hardware developers, writers, musicians, painters, graphic artists and filmmakers. Participants in the DevCoin economy earn DevCoins in proportion to their project development. Writers earn devcoins by writing, developers earn Devcoins by developing, artists earn DevCoin by creating, and the same follow for every other category including Administrators who apply their time and effort to help organize the DevCoin project and Marketers who earn Devcoins by Marketing. There are 50,000 coins per block, of which 90% goes to funding open source projects. 5,000 are given to miners, 45,000 are given to the people distributing Devcoins to artists and contributors.</p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "21000000000",
+    "Algorithm": "SHA256",
+    "ProofType": "PoW",
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "05/08/2011",
+    "TotalCoinsMined": 10946460000,
+    "Twitter": "@Devtome",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "http://devcoin.org/",
+    "GitHub": null,
+    "OnMarkets": [
+      "BTER",
+      "Cryptsy"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "N/A",
+    "Description": null,
+    "TokenType": null,
+    "WebsiteLink": null,
+    "FundingCap": null,
+    "FundingTarget": null,
+    "Date": null,
+    "EndDate": null,
+    "FundsRaisedList": null,
+    "FundsRaisedUSD": null,
+    "StartPrice": null,
+    "StartPriceCurrency": null,
+    "Jurisdiction": null,
+    "BlogLink": null,
+    "WhitePaperLink": null
+  },
+  "ccId": "4436"
+}

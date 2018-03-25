@@ -1,0 +1,65 @@
+{
+  "General": {
+    "Symbol": "UNO",
+    "Name": "Unobtanium",
+    "Description": "<p>Ultra rarity is this token&#39;s modus operandi. 1 Un per block, halving every 102,000 blocks. Only 196,875 Proof of Work UNOs will be minted before 0.0001 minimum block subsidies take effect at block 612,000. Zero coins premined. UNO&#39;s are an SHA-256 POW coin with a block target of three minutes and a hard cap to the coin supply of 250,000.</p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "250000",
+    "Algorithm": "SHA256",
+    "ProofType": "PoW",
+    "BlockReward": 0.00999999999476131,
+    "Explorer": null,
+    "StartDate": "18/08/2013",
+    "TotalCoinsMined": 198397.24151896,
+    "Twitter": "@bryceweiner",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "http://unobtanium.uno/",
+    "GitHub": null,
+    "OnMarkets": [
+      "TradeSatoshi",
+      "Cryptopia",
+      "Bleutrade",
+      "CCEX",
+      "Cryptsy",
+      "Coinse",
+      "BitTrex",
+      "BitSquare"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "N/A",
+    "Description": null,
+    "TokenType": null,
+    "WebsiteLink": null,
+    "FundingCap": null,
+    "FundingTarget": null,
+    "Date": null,
+    "EndDate": null,
+    "FundsRaisedList": null,
+    "FundsRaisedUSD": null,
+    "StartPrice": null,
+    "StartPriceCurrency": null,
+    "Jurisdiction": null,
+    "BlogLink": null,
+    "WhitePaperLink": null
+  },
+  "ccId": "4630"
+}

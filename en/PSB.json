@@ -1,0 +1,61 @@
+{
+  "General": {
+    "Symbol": "PSB",
+    "Name": "PesoBit",
+    "Description": "<p><span>PesoBit is a Proof of Work/Proof of Stake cryptocurrency that will target <span>Remittance, Freelancing and eCommerce while at the same time retain the normal practices </span><span>of altcoins via trading and staking that the International community can partake of. PesoBit was designed for the Filipino community.</span></span></p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "32958651",
+    "Algorithm": "Scrypt",
+    "ProofType": "PoW/PoS",
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "10/08/2016",
+    "TotalCoinsMined": 33522957,
+    "Twitter": "@pesobit",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "http://www.pesobit.net/",
+    "GitHub": null,
+    "OnMarkets": [
+      "Cryptopia",
+      "CCEX",
+      "Novaexchange",
+      "Yobit"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Finished",
+    "Description": "<p><span>The ICO ran for 4 weeks and the bonus slide from 20% to 0% by 5% each week. 15% development, 4% Bounties, 1% pre-ICO supporters.</span></p>",
+    "TokenType": "N/A",
+    "WebsiteLink": "http://www.pesobit.net/",
+    "FundingCap": "N/A",
+    "FundingTarget": "N/A",
+    "Date": 1471273200,
+    "EndDate": 1473638400,
+    "FundsRaisedList": "49.9 BTC",
+    "FundsRaisedUSD": "29326",
+    "StartPrice": "0.0018",
+    "StartPriceCurrency": "USD",
+    "Jurisdiction": "N/A",
+    "BlogLink": "http://www.pesobit.net/blog/",
+    "WhitePaperLink": "https://www.pesobit.net/whitepaper/"
+  },
+  "ccId": "29041"
+}

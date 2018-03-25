@@ -1,0 +1,59 @@
+{
+  "General": {
+    "Symbol": "FOOD",
+    "Name": "FoodCoin",
+    "Description": "<p>FoodCoin is a Global blockchain ecosystem for food and agriculture businesses.</p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "359312486.42417746 ",
+    "Algorithm": null,
+    "ProofType": null,
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "12/12/2017",
+    "TotalCoinsMined": null,
+    "Twitter": "@foodcoin_io",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": null,
+    "GitHub": null,
+    "OnMarkets": [
+      "EtherDelta",
+      "BitFlip"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Upcoming",
+    "Description": "<p>FoodCoin is a Global blockchain ecosystem for food and agriculture businesses.</p><p><strong>Team</strong>:</p><ul><li>Gregory Arzumanian <a href=\"https://www.facebook.com/gregory.arzumanian\" target=\"_blank\"><img src=\"/media/1383930/face_logo_final.png?width=13&amp;height=13\" alt=\"\" data-id=\"202866\"></a></li><li>Sergey Grigoryan <a href=\"https://www.linkedin.com/in/sergey-grigoryan-27b0625\" target=\"_blank\"><img src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li>Konstantin Maratayev <a href=\"https://www.facebook.com/dracul.aid\" target=\"_blank\"><img src=\"/media/1383930/face_logo_final.png?width=13&amp;height=13\" alt=\"\" data-id=\"202866\"></a></li><li>Anna Maslova <a href=\"https://www.facebook.com/profile.php?id=100007093182926\" target=\"_blank\"><img src=\"/media/1383930/face_logo_final.png?width=13&amp;height=13\" alt=\"\" data-id=\"202866\"></a></li></ul><p>The FoodCoin ICO will start on the 12th of December and will last until the 26th. The ICO token supply represents 40% of the total supply and will be availabnle for a 0.0001 ETH starting price. The ICO funding soft cap is set at 10000 ETH and the hard cap at 125000 ETH.</p><p>The Foodcoin ICO features a bonus and bounty campaign: https://www.foodcoin.io/en/bounty</p>",
+    "TokenType": "ETH (ERC20)",
+    "WebsiteLink": "https://www.foodcoin.io/files/doc/foodcoin-whitepaper-en.pdf (Under review by KPMG Legal)",
+    "FundingCap": "125000 ETH",
+    "FundingTarget": "10000 ETH",
+    "Date": 1513087200,
+    "EndDate": 1514296800,
+    "FundsRaisedList": "N/A",
+    "FundsRaisedUSD": "N/A",
+    "StartPrice": "0.0001",
+    "StartPriceCurrency": "ETH",
+    "Jurisdiction": "Switzerland",
+    "BlogLink": "https://www.foodcoin.io/en/blog",
+    "WhitePaperLink": "https://www.foodcoin.io/"
+  },
+  "ccId": "413886"
+}

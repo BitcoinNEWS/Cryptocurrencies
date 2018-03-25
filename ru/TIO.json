@@ -1,0 +1,63 @@
+{
+  "General": {
+    "Symbol": "TIO",
+    "Name": "Trade.io",
+    "Description": "<p>Trade.io is a trading platform that will leverage the Ethereum blockchain to mitigate the fees and inefficiencies seen in the traditional asset trading markets. The platform enables trading of crypto assets and banking investment, later on, the team plan to offer trading of Forex and CFDs over precious metals, oil, commodities, to name just a few. Furthermore, the platform will enable users to list assets that can be traded for Trade.io tokens.</p><p>Trade.io token (TIO) is a utility Ethereum-based token that will have several features. TIO will provide, a lower cost medium of exchange on trade.io, a membership key to the liquidity pool, and coupons enabling wallet participants to receive higher levels of benefits.</p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "500000000",
+    "Algorithm": null,
+    "ProofType": null,
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "01/11/2017",
+    "TotalCoinsMined": 223534822.66102275,
+    "Twitter": "@TradeToken",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": null,
+    "GitHub": null,
+    "OnMarkets": [
+      "OKEX",
+      "Gateio",
+      "Tidex",
+      "Kucoin",
+      "EtherDelta",
+      "HitBTC"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Ongoing",
+    "Description": "<p>Trade.io is a trading platform that will leverage the Ethereum blockchain to mitigate the fees and inefficiencies seen in the traditional asset trading markets. The platform enables trading of crypto assets and banking investment, later on, the team plan to offer trading of Forex and CFDs over precious metals, oil, commodities, to name just a few. Furthermore, the platform will enable users to list assets that can be traded for Trade.io tokens.</p><p>Trade.io token (TIO) is a utility Ethereum-based token that will have several features. TIO will provide, a lower cost medium of exchange on trade.io, a membership key to the liquidity pool, and coupons enabling wallet participants to receive higher levels of benefits.</p><p><strong>Team:</strong></p><ul><li><strong>Jim Preissler</strong>: Chief Executive Officer.</li><li><strong>Chien Lee</strong>: Board Member.</li><li><strong>Manmohan Singh</strong>: Chief Strategy Officer.</li></ul><p><span>Trade.io </span>will be holding its ICO on the 7th of December, 2017 and is expected to end on the 4th of January, 2017. The ICO token supply represents 40% of the total token supply, so there will be a total of 200,000,000 tokens available, for 0.006666 ETH each during the offering. Any unsold/remaining tokens will be burned.</p><p><span>Trade.io ICO will feature a bonus program and a bounty campaign, and the token will not be mineable.</span></p><p><strong>Bonus Structure:</strong></p><ul><li>1 ETH = 900: Dec 7th- Dec 14th;</li><li>1 ETH = 800: Dec 14th - Dec 21st;</li><li><span>1 ETH = 700: Dec 21st - Dec 28th</span>;</li><li>1 ETH = 100: Dec 28th - Jan 4th.</li></ul>",
+    "TokenType": "ETH (ERC20)",
+    "WebsiteLink": " https://trade.io/?utm_source=crypto-compare&utm_medium=listing&utm_campaign=media-buy",
+    "FundingCap": "N/A",
+    "FundingTarget": "N/A",
+    "Date": 1512633600,
+    "EndDate": 1515056340,
+    "FundsRaisedList": "24,127,813 USD",
+    "FundsRaisedUSD": "24127813",
+    "StartPrice": "0.006666",
+    "StartPriceCurrency": "ETH",
+    "Jurisdiction": "N/A",
+    "BlogLink": null,
+    "WhitePaperLink": "https://trade.io/whitepaper/?lang=en"
+  },
+  "ccId": "372812"
+}

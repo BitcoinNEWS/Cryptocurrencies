@@ -1,0 +1,59 @@
+{
+  "General": {
+    "Symbol": "HUC",
+    "Name": "HunterCoin",
+    "Description": "<p>HunterCoin is a hybrid of scrypt and SHA-256 and Scrypt having two difficulties. 42 million HUC&#39;s are to be mined or farmed with a block time of 60 seconds. 80% of all coins are distributed in the game and the difficulty retargets each block.</p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "42000000",
+    "Algorithm": "Multiple",
+    "ProofType": "PoW",
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "27/01/2014",
+    "TotalCoinsMined": null,
+    "Twitter": "@ChronoKings",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "http://huntercoin.org/",
+    "GitHub": null,
+    "OnMarkets": [
+      "Poloniex",
+      "Cryptsy"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "N/A",
+    "Description": null,
+    "TokenType": null,
+    "WebsiteLink": null,
+    "FundingCap": null,
+    "FundingTarget": null,
+    "Date": null,
+    "EndDate": null,
+    "FundsRaisedList": null,
+    "FundsRaisedUSD": null,
+    "StartPrice": null,
+    "StartPriceCurrency": null,
+    "Jurisdiction": null,
+    "BlogLink": null,
+    "WhitePaperLink": null
+  },
+  "ccId": "4535"
+}

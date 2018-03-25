@@ -1,0 +1,58 @@
+{
+  "General": {
+    "Symbol": "GIFT",
+    "Name": "GiftNet",
+    "Description": "<p>GiftNet is an ecosystem built on top of blockchain technology with the intent of providing a secure, anonymous marketplace in which free market economics prevail. GirftNet allows their users to encrypt their giftcard&#39;s verification code and only release the code once the desired clause has been met. GiftNet&#39;s native currency, GIFT is based on the x13 algorithm and uses a PoW protocol.</p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "6750000",
+    "Algorithm": "X13",
+    "ProofType": "PoW",
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "24/03/2014",
+    "TotalCoinsMined": null,
+    "Twitter": null,
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "-",
+    "GitHub": null,
+    "OnMarkets": [
+      "Yobit"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "N/A",
+    "Description": null,
+    "TokenType": null,
+    "WebsiteLink": null,
+    "FundingCap": null,
+    "FundingTarget": null,
+    "Date": null,
+    "EndDate": null,
+    "FundsRaisedList": null,
+    "FundsRaisedUSD": null,
+    "StartPrice": null,
+    "StartPriceCurrency": null,
+    "Jurisdiction": null,
+    "BlogLink": null,
+    "WhitePaperLink": null
+  },
+  "ccId": "38962"
+}

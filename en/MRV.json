@@ -1,0 +1,59 @@
+{
+  "General": {
+    "Symbol": "MRV",
+    "Name": "Macroverse",
+    "Description": "<p>Macroverse proposes to develop a ready-made procedurally-generated universe, called Macroverse, and to deploy it on the Ethereum blockchain. Macroverse will take the form of a set of smart contracts implementing the Macroverse Generator (MG), which can be queried by smart-contractbased games written by developers. Game contracts will call the MG to request information on the state of the Macroverse world, and the MG will use procedural generation to synthesize the information and will then return it to the game.</p><p>Access to Macroverse, and specifically the ability to interact with the MG smart contracts, will be controlled by a token: the Macroverse Token (MRV). The token which functions as a transferable, divisible software license. In the initial access control implementation, players will need to hold a configurable minimum MRV balance in order to use games or other applications that query the MG. Additionally, the MRV token will be used to claim ownership of land, or even entire planets or star systems, in the shared Macroverse world, conferring in-game benefits in supported games.</p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "668908",
+    "Algorithm": null,
+    "ProofType": null,
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "01/07/2017",
+    "TotalCoinsMined": 668907.5704036707,
+    "Twitter": "@MacroverseMRV",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": null,
+    "GitHub": null,
+    "OnMarkets": [
+      "EtherDelta",
+      "HitBTC"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Ongoing",
+    "Description": "<p>Macroverse proposes to develop a ready-made procedurally-generated universe, called Macroverse, and to deploy it on the Ethereum blockchain. Macroverse will take the form of a set of smart contracts implementing the Macroverse Generator (MG), which can be queried by smart-contractbased games written by developers. Game contracts will call the MG to request information on the state of the Macroverse world, and the MG will use procedural generation to synthesize the information and will then return it to the game.</p><p>Access to Macroverse, and specifically the ability to interact with the MG smart contracts, will be controlled by a token: the Macroverse Token (MRV). The token which functions as a transferable, divisible software license. In the initial access control implementation, players will need to hold a configurable minimum MRV balance in order to use games or other applications that query the MG. Additionally, the MRV token will be used to claim ownership of land, or even entire planets or star systems, in the shared Macroverse world, conferring in-game benefits in supported games.</p><p><strong>Team</strong>:</p><ul><li><strong>Adam Novak</strong>: Lead Developer, Founder. <a href=\"https://www.linkedin.com/in/adam-novak-607177133/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li></ul><p><span>Macroverse &#39;s </span>ICO began on July 1, 2017. The ICO token supply represents 95.238% of the total token supply, so there is a total of 100,000,000 tokens available, for 0.0002 ETH each. The ICO funding cap is 100,000,000 MRV and is expected to end 90 days after the start, or when the funding cap is reached.</p><p><strong>Token Reserve Split (<span>4.762</span>%):</strong></p><ul><li>4.762% R<span>eserved by Novak Distributed, the Macroverse developer</span>;</li></ul>",
+    "TokenType": "ETH (ERC20)",
+    "WebsiteLink": "https://macroverse.io/#buy",
+    "FundingCap": "100,000,000 MRV",
+    "FundingTarget": "N/A",
+    "Date": 1498903200,
+    "EndDate": 1506708000,
+    "FundsRaisedList": "N/A",
+    "FundsRaisedUSD": "N/A",
+    "StartPrice": "0.0002",
+    "StartPriceCurrency": "ETH",
+    "Jurisdiction": "N/A",
+    "BlogLink": null,
+    "WhitePaperLink": "https://macroverse.io/MacroverseWhitepaper.pdf"
+  },
+  "ccId": "221349"
+}

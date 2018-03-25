@@ -1,0 +1,61 @@
+{
+  "General": {
+    "Symbol": "GML",
+    "Name": "GameLeagueCoin",
+    "Description": "<p>GameLeagueCoin (GLC) is a PoW/PoS crypto currency with a difficulty retargetting every block and a block time of 60 seconds. The coin is scrypt and the POS carries an interest rate of 50% in Y1, 20% Y2, 10% Y3, 5% Y4, 2% Y5 and 1% thereafter. The coin was 100% premined for use in an online game.</p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "500000000",
+    "Algorithm": "Scrypt",
+    "ProofType": "PoW/PoS",
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "04/05/2014",
+    "TotalCoinsMined": null,
+    "Twitter": "@GameLeaguecoin",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "https://bitcointalk.org/index.php?topic=595779.0",
+    "GitHub": null,
+    "OnMarkets": [
+      "Yobit",
+      "Cryptsy",
+      "Poloniex",
+      "BitTrex"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "N/A",
+    "Description": null,
+    "TokenType": null,
+    "WebsiteLink": null,
+    "FundingCap": null,
+    "FundingTarget": null,
+    "Date": null,
+    "EndDate": null,
+    "FundsRaisedList": null,
+    "FundsRaisedUSD": null,
+    "StartPrice": null,
+    "StartPriceCurrency": null,
+    "Jurisdiction": null,
+    "BlogLink": null,
+    "WhitePaperLink": null
+  },
+  "ccId": "4531"
+}

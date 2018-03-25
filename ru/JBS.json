@@ -1,0 +1,60 @@
+{
+  "General": {
+    "Symbol": "JBS",
+    "Name": "JumBucks Coin",
+    "Description": "<p>The core idea behind Jumbucks is to create a coin for everyone to use. Jumbucks is not only meant to be fun and experimental, but it is designed to be a beacon towards which all cryptocurrencies should be headed. Jumbuck’s use cases will fund honest developers for future coin development, and encourage people to keep their wallets open (and staking!) by offering unique wallet features. Compelling and self-sustaining use cases are planned for Jumbucks, many of which have never yet been seen in the world of cryptocurrency. Jumbucks’ core is a fork of ShadowCoin, so it immediately offers great features such as P2P encrypted messaging and anonymous dual-key stealth addresses. </p>",
+    "Features": "<p><strong>Proof of Developer</strong></p><p>For a coin to be successful, investors and users need to be able to trust the key developers behind the project. In keeping with this principle, Jumbucks has undergone POD verification and received a 5+ out of 5 POD identity verification.</p><p><strong>No Premine | IPO</strong></p><p>Jumbucks launched with zero premine and zero IPO, leaving zero chance of developer dumps or cash-outs. Each individual Jumbuck was mined fairly and openly by the community!</p><p><strong>Fair Launch</strong></p><p>Jumbucks experienced one of the fairest launches and widest distributions of any coin in the altcoin community. With a record number of first time miners, a public developer, and no premine or IPO, you can invest in Jumbucks with confidence and peace of mind. Join the Jumbucks community today!</p>",
+    "Technology": null,
+    "TotalCoinSupply": "3293010",
+    "Algorithm": "X11",
+    "ProofType": "PoW/PoS",
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "01/09/2014",
+    "TotalCoinsMined": null,
+    "Twitter": "@getjumbucks",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "http://getjumbucks.com/",
+    "GitHub": null,
+    "OnMarkets": [
+      "Cryptopia",
+      "BitTrex",
+      "Cryptsy"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "N/A",
+    "Description": null,
+    "TokenType": null,
+    "WebsiteLink": null,
+    "FundingCap": null,
+    "FundingTarget": null,
+    "Date": null,
+    "EndDate": null,
+    "FundsRaisedList": null,
+    "FundsRaisedUSD": null,
+    "StartPrice": null,
+    "StartPriceCurrency": null,
+    "Jurisdiction": null,
+    "BlogLink": null,
+    "WhitePaperLink": null
+  },
+  "ccId": "4542"
+}

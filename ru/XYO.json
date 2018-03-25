@@ -1,0 +1,56 @@
+{
+  "General": {
+    "Symbol": "XYO",
+    "Name": "XYO",
+    "Description": "<p><span>The XYO Network solves the problem of location verification by creating a layered location verification service that is effective across device classes and smart contract protocols. XYO is an ERC20 utility token that powers XYO Network&#39;s ecosystem.</span></p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "100000000000",
+    "Algorithm": null,
+    "ProofType": null,
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "28/02/2018",
+    "TotalCoinsMined": 99999999999.99998,
+    "Twitter": "@XYOracleNetwork",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": null,
+    "GitHub": null,
+    "OnMarkets": [],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Upcoming",
+    "Description": "<p><span>The XYO Network solves the problem of location verification by creating a layered location verification service that is effective across device classes and smart contract protocols. XYO is an ERC20 utility token that powers XYO Network&#39;s ecosystem.</span></p><p><strong>Team</strong>:</p><ul><li><strong>Arie Trouw</strong>: Founder &amp; Architect. <a href=\"https://www.linkedin.com/in/arietrouw/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Scott Scheper:</strong> <span>Co-founder &amp; Head of Marketing</span>.<span> </span><a href=\"https://www.linkedin.com/in/scottscheper/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>William Long</strong>: Head of Hardware.<span> </span><a href=\"https://www.linkedin.com/in/wilong/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Markus Levin</strong><span>: Co-founder &amp; Head of Operations.</span><span> </span><a href=\"https://www.linkedin.com/in/markus-levin/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Christine Sako</strong><span>: Head of Analytics.</span><span> </span><a href=\"https://www.linkedin.com/in/christine-sako/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Johnny Kolasinski</strong><span>: Head of Media.</span><span> </span><a href=\"https://www.linkedin.com/in/johnnykolasinski/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Jordan Trouw</strong><span>: Customer Experience Manager.</span><span> </span><a href=\"https://www.linkedin.com/in/jordan-trouw/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Lee Kohse</strong><span>: Sr. Design Engineer.</span><span> </span><a href=\"https://www.linkedin.com/in/lee-kohse-0027324/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Louie Tejeda</strong><span>: Warehouse Logistics Supervisor.</span><span> </span><a href=\"https://www.linkedin.com/in/louietejeda/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Maryann Cummings</strong><span>: Client Support Manager.</span><span> </span><a href=\"https://www.linkedin.com/in/maryann-cummings-783b7a119/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Maria Cornejo</strong><span>: Retail Management Supervisor.</span><span> </span><a href=\"https://www.linkedin.com/in/maria-cornejo-b1820b118/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Vicky Knapp</strong><span>: Sr. Accounting Manager.</span><span> </span><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></li><li><strong>Patrick Turpen</strong><span>: Hardware QA Supervisor.</span><span> </span><a href=\"https://www.linkedin.com/in/pat-turpen-03469224/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li></ul><p> </p><p> </p>",
+    "TokenType": "ETH (ERC20)",
+    "WebsiteLink": "https://www.xyo.network",
+    "FundingCap": "N/A",
+    "FundingTarget": "N/A",
+    "Date": 1521504000,
+    "EndDate": 1525262400,
+    "FundsRaisedList": "1,300  ETH",
+    "FundsRaisedUSD": "1127425",
+    "StartPrice": "0.00001",
+    "StartPriceCurrency": "ETH",
+    "Jurisdiction": "U.S.A",
+    "BlogLink": "https://medium.com/xyonetwork",
+    "WhitePaperLink": "https://docs.xyo.network/XYO-White-Paper.pdf"
+  },
+  "ccId": "795305"
+}

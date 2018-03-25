@@ -1,0 +1,58 @@
+{
+  "General": {
+    "Symbol": "SMAC",
+    "Name": "Social Media Coin",
+    "Description": "<p>SMAC is designed to be cryptocurrency’s first large-scale attempt in the social media advertisement industry. With the standard fast confirmation times and a development team with a clear roadmap focused on maintaining value, as well as real world adoption. SMAC is uniquely suited to act as a transmitter of payments between one-account owner to an account buyer, providing the entry point for crypto into this industry with efforts to break away from the hassles faced by large movers currently using PayPal; such as account holds, and chargebacks. <br /> SMAC, aims to tap into the world’s multi-million dollar social media advertising industry, giving its holders a way to easily become a part of this newly founded lucrative industry and profit from the rewards.</p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "0",
+    "Algorithm": "X11",
+    "ProofType": "PoW/PoS",
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "11/02/2015",
+    "TotalCoinsMined": null,
+    "Twitter": "@SMACteam",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "http://www.smac.io/",
+    "GitHub": null,
+    "OnMarkets": [
+      "BitTrex"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "N/A",
+    "Description": null,
+    "TokenType": null,
+    "WebsiteLink": null,
+    "FundingCap": null,
+    "FundingTarget": null,
+    "Date": null,
+    "EndDate": null,
+    "FundsRaisedList": null,
+    "FundsRaisedUSD": null,
+    "StartPrice": null,
+    "StartPriceCurrency": null,
+    "Jurisdiction": null,
+    "BlogLink": null,
+    "WhitePaperLink": null
+  },
+  "ccId": "5350"
+}

@@ -1,0 +1,59 @@
+{
+  "General": {
+    "Symbol": "AID",
+    "Name": "AidCoin",
+    "Description": "<p><span>AidCoin is the ERC20 token that aims to become the preferred method to donate transparently through the Ethereum blockchain. The AID token will power AIDChain, a platform that provides an ecosystem of services through an easy-to-use interface, connecting the non-profit community while allowing full transparency and traceability of donations. </span><br /><br /><span>AIDChain’s services include an internal exchange to convert major cryptocurrencies into AidCoin, a built-in wallet to store and donate easily, an explorer to track donations transparently, tools to connect donors with all the actors involved in the non-profit sector and templates of smart contracts to run fundraising campaigns.</span></p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "100000000",
+    "Algorithm": null,
+    "ProofType": null,
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "02/11/2017",
+    "TotalCoinsMined": 100000000,
+    "Twitter": "@aid_coin",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": null,
+    "GitHub": null,
+    "OnMarkets": [
+      "Bitfinex",
+      "EtherDelta"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Finished",
+    "Description": "<p><span>AidCoin is the ERC20 token that aims to become the preferred method to donate transparently through the Ethereum blockchain. The AID token will power AIDChain, a platform that provides an ecosystem of services through an easy-to-use interface, connecting the non-profit community while allowing full transparency and traceability of donations. </span><br><br><span>AIDChain’s services include an internal exchange to convert major cryptocurrencies into AidCoin, a built-in wallet to store and donate easily, an explorer to track donations transparently, tools to connect donors with all the actors involved in the non-profit sector and templates of smart contracts to run fundraising campaigns.</span></p><p><strong>Team</strong>:</p><ul><li><strong>Francesco Nazari Fusetti:</strong> CEO and Founder. <a href=\"https://www.linkedin.com/in/francescon/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Manuela Ravalli</strong><span>: <span>Business Development Manager and Co-founder</span></span><span>. </span><a href=\"https://www.linkedin.com/in/manuela-ravalli-85a1a721/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Vittorio Minacori</strong>:<span> </span>CTO and Blockchain Developer. <a href=\"https://www.linkedin.com/in/vittoriominacori\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Alexandra Ducocq:</strong><span> COO and US Managing Director</span> <a href=\"https://www.linkedin.com/in/alexandraducocq/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Domenico Gravagno</strong><span>:<span>Co-founder</span></span><span>. </span><a href=\"https://www.linkedin.com/in/domenicogravagno/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Robert Robinson</strong><span>:<span> UK Managing Director</span></span><span>. </span><a href=\"https://www.linkedin.com/in/robertabrobinson/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li></ul><p>AidCoin will be holding its ICO on January 16th, 2018. The ICO token supply represents 30% of the total token supply, so there will be a total of <span>30,000,000 </span>tokens available, for a price of <span>0.0005 </span>ETH each at the offering. The ICO funding target is 10,000 ETH. The funding cap is <span>14,333 </span>ETH and the ICO is expected to end on February 1st, 2018 or when the funding cap is reached.</p><p><strong>Token Reserve Split (60%):</strong></p><ul><li>10% Team;</li><li>10<span>% </span><span>AidPool</span></li><li><span>3% </span><span>Bounty Program</span></li><li><span>10% Advisors &amp; early backers</span></li><li><span>27% AidCoin Company</span></li></ul><p> </p>",
+    "TokenType": "ETH (ERC20)",
+    "WebsiteLink": "https://www.aidcoin.co",
+    "FundingCap": "14,333 ETH",
+    "FundingTarget": "10,000 ETH",
+    "Date": 1516100400,
+    "EndDate": 1516147200,
+    "FundsRaisedList": "Pre-sale: 8,333 ETH\r\nMain-sale: 14,333 ETH",
+    "FundsRaisedUSD": "20626966.64",
+    "StartPrice": "0.0005",
+    "StartPriceCurrency": "ETH",
+    "Jurisdiction": "Switzerland",
+    "BlogLink": "https://medium.com/aidcoin",
+    "WhitePaperLink": "https://www.dropbox.com/s/t8pewckz1fesfws/whitepaper%20online.pdf?dl=0"
+  },
+  "ccId": "368770"
+}

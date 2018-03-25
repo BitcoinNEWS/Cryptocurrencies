@@ -1,0 +1,61 @@
+{
+  "General": {
+    "Symbol": "TES",
+    "Name": "TeslaCoin",
+    "Description": "<p>TeslaCoin (TES) is a Scrypt based crypto coin with a thirty second block time. There are a total of 300 million coins to be mined and 172 coins per block initially, reducing by 18.56% every thirty days. There was a 3% premine for the standard bug, bounties and development fees.</p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "60800000",
+    "Algorithm": "Multiple",
+    "ProofType": "PoW/PoS",
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "17/01/2014",
+    "TotalCoinsMined": null,
+    "Twitter": "@TeslaCoins",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "http://teslacoins.com/",
+    "GitHub": null,
+    "OnMarkets": [
+      "Cryptopia",
+      "Novaexchange",
+      "Cryptsy",
+      "BitTrex"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "N/A",
+    "Description": null,
+    "TokenType": null,
+    "WebsiteLink": null,
+    "FundingCap": null,
+    "FundingTarget": null,
+    "Date": null,
+    "EndDate": null,
+    "FundsRaisedList": null,
+    "FundsRaisedUSD": null,
+    "StartPrice": null,
+    "StartPriceCurrency": null,
+    "Jurisdiction": null,
+    "BlogLink": null,
+    "WhitePaperLink": null
+  },
+  "ccId": "4622"
+}

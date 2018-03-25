@@ -1,0 +1,58 @@
+{
+  "General": {
+    "Symbol": "DIM",
+    "Name": "DIMCOIN",
+    "Description": "<p>The DIM Ecosystem is a collective of financial and equity service providers that utilize the Data Interchange Module (DIM) cryptocurrencie<span>s a means of exchange.</span></p><p>Built on the NEM blockchain, the currencies used in DIM come in two versions, the DIMCOIN and DIM Currencies. DIMCOIN is a tradable speculative cryptocurrency and DIM currencies are fiat-pegged<span> digital currencies for the DIM-Ecosystem e-commerce and merchant purchasing. Users can exchange DIMCOIN for DIM Currencies in order to purchase assets in the DIM Ecosystem. Through Depotwallet debit cards users can perform online and walk-in merchant shopping.</span></p><p><span>There is a third token besides the DIMCOIN and the DIM currencies, the DIM token, which will be made available to the public during the ICO. The tokens represent a form of ownership in the DIM Ecosystem. Token holders with +50 DIM TOKENs will receive 30% of the net fee transfers on the DIMCOIN, DIM Currencies and cryptonised assets conducted in the DIM Ecosystem. </span></p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "10000000 ",
+    "Algorithm": "N/A",
+    "ProofType": "N/A",
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "26/06/2017",
+    "TotalCoinsMined": null,
+    "Twitter": "@DIMCOIN_ICO",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "https://www.dimcoin.io/",
+    "GitHub": null,
+    "OnMarkets": [
+      "HitBTC"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Ongoing",
+    "Description": "<p>The DIM Ecosystem is a collective of financial and equity service providers that utilize the Data Interchange Module (DIM) cryptocurrencie<span>s a means of exchange. T</span><span>he DIM token, which will be made available to the public during the<span> </span>ICO. The tokens represent a form of ownership<span> </span>in<span> </span>the DIM Ecosystem. Token holders<span> </span>with +50 DIM TOKENs will receive 30% of the net fee transfers on the DIMCOIN, DIM<span> </span>Currencies and cryptonised assets conducted in the DIM Ecosystem.</span></p><p>DIM will be holding its ICO on July 16, 2017. There will be a total of 10,000,000 tokens available for $1 USD each at the offering. The ICO is expected to end on August 27, 2017, or when all the tokens are sold.</p><p><strong>Bonuses:</strong></p><p>30 % - 1 <span>July </span>- 15 July (Pre ICO)</p><p>20 % - 16 <span>July </span>- 29 July</p><p>15 % - 30 <span>July </span>- 12 August</p><p>10 % - 13 August - 19 August</p><p>05 % - 20 August - 27 August</p><p> </p><p> </p><p> </p><p> </p><p> </p>",
+    "TokenType": "XEM",
+    "WebsiteLink": "https://www.dimcoin.io/",
+    "FundingCap": "N/A",
+    "FundingTarget": "N/A",
+    "Date": 1500163200,
+    "EndDate": 1503878399,
+    "FundsRaisedList": "2,813.51 BTC",
+    "FundsRaisedUSD": "9945743.58",
+    "StartPrice": "1",
+    "StartPriceCurrency": "USD",
+    "Jurisdiction": "N/A",
+    "BlogLink": null,
+    "WhitePaperLink": "https://www.dimcoin.io/fileadmin/user_upload/documents/DIMCOIN-whitepaper.pdf"
+  },
+  "ccId": "180678"
+}

@@ -1,0 +1,61 @@
+{
+  "General": {
+    "Symbol": "HST",
+    "Name": "Decision Token",
+    "Description": "<p>Horizon State is a token-based blockchain voting and decision-making platform that delivers unprecedented trust through the integrity and post-unforgeable attributes of blockchain technology. Horizon State delivers a secure digital ballot box that cannot be hacked, wherein results can never be altered, and voter identities are protected. The platform operates through the use of Decision Tokens (HST). These are used for running the decision and voting processes by providing the ‘gas’ for voting and other services within the ecosystem.</p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "48240069.5496",
+    "Algorithm": null,
+    "ProofType": null,
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "16/10/2017",
+    "TotalCoinsMined": 30862962.0596,
+    "Twitter": "@horizonstate",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": null,
+    "GitHub": null,
+    "OnMarkets": [
+      "Cryptopia",
+      "Kucoin",
+      "LiveCoin",
+      "EtherDelta"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Finished",
+    "Description": "<p><span>Horizon State <span>is<span> </span></span><span>a token-based blockchain voting and decision-making platform that delivers unprecedented trust through the integrity and post-unforgeable attributes of blockchain technology. Horizon State delivers a secure digital ballot box that cannot be hacked, wherein results can never be altered, and voter identities are protected. </span><span>The platform operates through the use of Decision Tokens (HST). These are used for running the decision and voting processes by providing the ‘gas’ for voting and other services within the ecosystem.</span></span></p><p> </p><p><strong>Team</strong>:</p><ul><li>Jamie Skella <a href=\"https://twitter.com/jamieskella\" target=\"_blank\"><img style=\"width: 13px; height: 13px;\" src=\"/media/1383932/twitter_logo_final.png?width=13&amp;height=13\" alt=\"\" data-id=\"202868\"></a><span> </span><a href=\"https://www.linkedin.com/in/jamieskella/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li>Dan Crane <a href=\"https://twitter.com/infoaddict\" target=\"_blank\"><img style=\"width: 13px; height: 13px;\" src=\"/media/1383932/twitter_logo_final.png?width=13&amp;height=13\" alt=\"\" data-id=\"202868\"></a><span> </span><a href=\"https://www.linkedin.com/in/infoaddict/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li>Nimo Naamani <a href=\"https://www.linkedin.com/in/nimonaamani/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li>Daniel Vertes<span> </span><a href=\"https://www.linkedin.com/in/daniel-vertes-20a28946/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li>Jason Theron <a href=\"https://www.linkedin.com/in/jason-theron-58381a5/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li></ul><p>The Horizon State ICO began on the 16th of October and ended on the 30th of October. The ICO token allocation represents 60% of the total supply and was available for a 0.09 USD price. The ICO funding cap was set at 10000 ETH.</p><p><strong>Token Reserve Split (XX%):</strong></p><ul><li>28% reserves,</li><li>2% bounties,</li><li>10% staff and advisors</li></ul><p>The HST ICO features a bonus and bounty campaign</p>",
+    "TokenType": "ETH (ERC20)",
+    "WebsiteLink": "https://horizonstate.com",
+    "FundingCap": "10000 ETH",
+    "FundingTarget": "N/A",
+    "Date": 1508112000,
+    "EndDate": 1509321600,
+    "FundsRaisedList": "N/A",
+    "FundsRaisedUSD": "14000000",
+    "StartPrice": "0.09",
+    "StartPriceCurrency": "USD",
+    "Jurisdiction": "Australia",
+    "BlogLink": "https://medium.com/horizonstate",
+    "WhitePaperLink": "https://horizonstate.com/whitepaper"
+  },
+  "ccId": "374246"
+}

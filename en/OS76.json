@@ -1,0 +1,58 @@
+{
+  "General": {
+    "Symbol": "OS76",
+    "Name": "OsmiumCoin",
+    "Description": "<p>Osmium Coin — это криптовалюта Proof of Work, основанная на популярном алгоритме Scrypt. Хотя название монеты основано на Осмиуме, монета не имеет к ней никакого отношения.</p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "2714286",
+    "Algorithm": "Scrypt",
+    "ProofType": "PoW",
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "05/10/2016",
+    "TotalCoinsMined": 894026,
+    "Twitter": "@OS76_OsmiumCoin",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "-",
+    "GitHub": null,
+    "OnMarkets": [
+      "Yobit"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "N/A",
+    "Description": null,
+    "TokenType": null,
+    "WebsiteLink": null,
+    "FundingCap": null,
+    "FundingTarget": null,
+    "Date": null,
+    "EndDate": null,
+    "FundsRaisedList": null,
+    "FundsRaisedUSD": null,
+    "StartPrice": null,
+    "StartPriceCurrency": null,
+    "Jurisdiction": null,
+    "BlogLink": null,
+    "WhitePaperLink": null
+  },
+  "ccId": "41122"
+}

@@ -1,0 +1,56 @@
+{
+  "General": {
+    "Symbol": "KREDS",
+    "Name": "KREDS",
+    "Description": "<p>Kreds is a PoW cryptocurrency based on the Lyra2REv2 algorithm that will empower the Kreds blockchain. The Kreds blockchain will feature Masternodes, the Segwit technology, the Lightning network, and atomic swaps. </p><p>The Kreds cryptocurrency will be used by the Kreds&#39; team to create an ecosystem of world utility, action-based reward, and currency within several media and news websites. In order to<span> satisfy the website subscribers and/or users, small amounts of Kreds will be awarded for engaging in certain actions and content. Once an established market and exchange are reached, Kreds cryptocurrency will be added for subscription payment for business services.</span></p><p><span>Click </span><a href=\"https://masternodes.online/currencies/KREDS/\" target=\"_blank\">here</a><span><span> </span>for Masternode stats from masternodes</span><span>.online</span><span>.</span></p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "1100000000",
+    "Algorithm": "Lyra2REv2",
+    "ProofType": "PoW",
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "05/02/2017",
+    "TotalCoinsMined": 602065050,
+    "Twitter": "@kredsblockchain",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": null,
+    "GitHub": null,
+    "OnMarkets": [],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "N/A",
+    "Description": null,
+    "TokenType": null,
+    "WebsiteLink": null,
+    "FundingCap": null,
+    "FundingTarget": null,
+    "Date": null,
+    "EndDate": null,
+    "FundsRaisedList": null,
+    "FundsRaisedUSD": null,
+    "StartPrice": null,
+    "StartPriceCurrency": null,
+    "Jurisdiction": null,
+    "BlogLink": null,
+    "WhitePaperLink": null
+  },
+  "ccId": "777643"
+}

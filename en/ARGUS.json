@@ -1,0 +1,59 @@
+{
+  "General": {
+    "Symbol": "ARGUS",
+    "Name": "ArgusCoin",
+    "Description": "<p>Argus is an open source layer P2P accounting &amp; auditing tool and is used to help support network security management and network forensics. ARGUS is the underlying asset in the Argus platform. It&#39;s a PoW cryptocurrency using the Scrypt algorithm.</p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "28600000",
+    "Algorithm": "Scrypt",
+    "ProofType": "PoW/PoS",
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "25/02/2017",
+    "TotalCoinsMined": 1148324,
+    "Twitter": null,
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "https://www.argusnetwork.co/",
+    "GitHub": null,
+    "OnMarkets": [
+      "Yobit",
+      "Cryptopia"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "N/A",
+    "Description": null,
+    "TokenType": null,
+    "WebsiteLink": null,
+    "FundingCap": null,
+    "FundingTarget": null,
+    "Date": null,
+    "EndDate": null,
+    "FundsRaisedList": null,
+    "FundsRaisedUSD": null,
+    "StartPrice": null,
+    "StartPriceCurrency": null,
+    "Jurisdiction": null,
+    "BlogLink": null,
+    "WhitePaperLink": null
+  },
+  "ccId": "70352"
+}

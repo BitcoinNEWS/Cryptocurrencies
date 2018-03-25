@@ -1,0 +1,56 @@
+{
+  "General": {
+    "Symbol": "EQL",
+    "Name": "EQUAL",
+    "Description": "<p>EQUAL aims to facilitate products and services that are powered, funded or incentivised through the EQUAL ERC-20 token which is powered by the Ethereum Network.</p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "797836741",
+    "Algorithm": null,
+    "ProofType": null,
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "19/12/2017",
+    "TotalCoinsMined": 797631661.6548868,
+    "Twitter": "@EqualToken",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": null,
+    "GitHub": null,
+    "OnMarkets": [],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "N/A",
+    "Description": null,
+    "TokenType": null,
+    "WebsiteLink": null,
+    "FundingCap": null,
+    "FundingTarget": null,
+    "Date": null,
+    "EndDate": null,
+    "FundsRaisedList": null,
+    "FundsRaisedUSD": null,
+    "StartPrice": null,
+    "StartPriceCurrency": null,
+    "Jurisdiction": null,
+    "BlogLink": null,
+    "WhitePaperLink": "https://www.equaltoken.io/whitepaper_v2.pdf"
+  },
+  "ccId": "777667"
+}

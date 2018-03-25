@@ -1,0 +1,59 @@
+{
+  "General": {
+    "Symbol": "RMC",
+    "Name": "Russian Mining Coin",
+    "Description": "<p><span>Built on the Bitcoin blockchain as a colored coin, the Russian Mining Coin token is a digital asset that certifies the right of an individual or legal entity to join Joint Mining Club, as well as confirms the owner&#39;s right to receive a miner Multiсlet according to terms and conditions in the agreement.</span></p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "10756.8259",
+    "Algorithm": null,
+    "ProofType": null,
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "01/01/0001",
+    "TotalCoinsMined": null,
+    "Twitter": "@russianminerco",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": null,
+    "GitHub": null,
+    "OnMarkets": [
+      "Novaexchange",
+      "BitFlip"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "N/A",
+    "Description": null,
+    "TokenType": null,
+    "WebsiteLink": null,
+    "FundingCap": null,
+    "FundingTarget": null,
+    "Date": null,
+    "EndDate": null,
+    "FundsRaisedList": null,
+    "FundsRaisedUSD": null,
+    "StartPrice": null,
+    "StartPriceCurrency": null,
+    "Jurisdiction": null,
+    "BlogLink": null,
+    "WhitePaperLink": null
+  },
+  "ccId": "381323"
+}

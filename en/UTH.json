@@ -1,0 +1,58 @@
+{
+  "General": {
+    "Symbol": "UTH",
+    "Name": "Uther",
+    "Description": "<p>Uther is a peer-to-peer network, it uses a Proof of Work algorithm that allows the creation of Dapps and Smartcontracts, Dagger. Uther plans to move to PoS, when Ethereum does. UTH has a 12 million premine in order to support the project&#39;s development. UTH can be sent to anyone instantly and used to fuel the creation of decentralized applications within the Uther network.</p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "25885320",
+    "Algorithm": "Dagger",
+    "ProofType": "PoW",
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "01/04/2016",
+    "TotalCoinsMined": null,
+    "Twitter": null,
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "-",
+    "GitHub": null,
+    "OnMarkets": [
+      "CCEX"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "N/A",
+    "Description": null,
+    "TokenType": null,
+    "WebsiteLink": null,
+    "FundingCap": null,
+    "FundingTarget": null,
+    "Date": null,
+    "EndDate": null,
+    "FundsRaisedList": null,
+    "FundsRaisedUSD": null,
+    "StartPrice": null,
+    "StartPriceCurrency": null,
+    "Jurisdiction": null,
+    "BlogLink": null,
+    "WhitePaperLink": null
+  },
+  "ccId": "21219"
+}

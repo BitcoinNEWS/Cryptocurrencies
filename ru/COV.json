@@ -1,0 +1,61 @@
+{
+  "General": {
+    "Symbol": "COV",
+    "Name": "CovenCoin",
+    "Description": "<p>CovenCoin is a PoW/PoS hybrid cryptocurrency using the SHA256 hashing algorithm and a 60 second block time.</p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "20000000",
+    "Algorithm": null,
+    "ProofType": null,
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "01/01/0001",
+    "TotalCoinsMined": 20000000,
+    "Twitter": "@covencoin",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "-",
+    "GitHub": null,
+    "OnMarkets": [
+      "Kucoin",
+      "EtherDelta",
+      "Yobit",
+      "HitBTC"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Finished",
+    "Description": "<p>The Covesting platform was conceived to help investors and cryptocurrency traders getting in touch with each other. Investors can browse through dozens of trading strategies, provided by professional asset managers, and subscribe to the ones matching their goals.</p><p>Thanks to technology-based solutions and smart-contracts, the Covesting platform allows its users to replicate trading activity of a chosen Model directly into their segregated account at Covesting.</p><p><strong>Team</strong>:</p><ul><li><strong>Dmitrij Pruglo</strong><span>: Founder, CEO.</span><span> </span><a href=\"https://www.linkedin.com/in/dmitrij-pruglo-b1510814a/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Timofej Voronin</strong><span>: Co-founder, COO.</span><span> </span><a href=\"https://www.linkedin.com/in/tim-voronin-346a7914/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Dinis Guarda<span>: </span></strong>Co-Founder<strong><span>.</span><span> </span><a href=\"https://www.linkedin.com/in/dinisguarda/\" target=\"_blank\"><img src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></strong></li><li><strong>Sergey Sevantsyan</strong><span>: CIO, CTO.</span><span> </span><a href=\"https://www.linkedin.com/in/sergey-sevantsyan/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Peter Kristensen</strong><span>: Head of Markets and Investor Relations.</span><span> </span><a href=\"https://www.linkedin.com/in/peter-kristensen-30b136a/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Paul Hinrichsen</strong><span>: Director of Business Development.</span><span> </span><a href=\"https://www.linkedin.com/in/maxsayganov/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Zeeshan Mallick</strong><span>: Chief Marketing Officer.</span><span> </span><a href=\"https://www.linkedin.com/in/zeeshanmallick/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Ivan Klykov</strong><span>: Investment Products Development.</span></li><li><strong>Andrew Nenadov</strong><span>: Project Manager.</span><span> <a href=\"https://www.linkedin.com/in/andrey-nenadov-b8647541/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></span></li><li><strong>Alex Strakh</strong><span>: Blockchain Lead.</span><span> </span><a href=\"https://www.linkedin.com/in/aleksandr-strakh/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Konstantin Zherebtsov</strong><span>: Information Security Officer.</span><span> </span><a href=\"https://www.linkedin.com/in/kzherebtsov/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Max Sayganov</strong><span>: Digital Marketing Strategist.</span><span> </span><a href=\"https://www.linkedin.com/in/maxsayganov/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li></ul><p>Prior to the ICO, Covesting will be holding a pre-ICO limited to 1,500,000 COV for <span>0.00333 ETH each.</span></p><p>Covesting will be holding its ICO on the 24th of November, 2017. The ICO token supply represents 75% of the total token supply, so there will be a total of <span>15,000,000 </span>tokens available at the offering. The ICO funding target is 2,000 ETH, the funding cap is 100,000 ETH and is expected to end on the 15th of January, 2017 or when the funding cap is reached.</p><p><strong>Token Reserve Split (25%):</strong></p><ul><li>Pre-ICO 7%;</li><li>Founders 13%;</li><li>Pr, bounty, advisors 5%;</li></ul><div class=\"block-6-content-div-1\"><div></div></div>",
+    "TokenType": "ETH (ERC20)",
+    "WebsiteLink": "https://covesting.io",
+    "FundingCap": "25,000 ETH",
+    "FundingTarget": "2,000 ETH",
+    "Date": 1511481600,
+    "EndDate": 1514764800,
+    "FundsRaisedList": "Pre-ICO: 1,100,000 USD\r\nMain ICO: 25,000 ETH",
+    "FundsRaisedUSD": "22203000",
+    "StartPrice": "0.00125",
+    "StartPriceCurrency": "ETH",
+    "Jurisdiction": "N/A",
+    "BlogLink": "https://medium.com/@Covesting",
+    "WhitePaperLink": "https://covesting.io/Covesting_White_Paper.pdf"
+  },
+  "ccId": "28151"
+}

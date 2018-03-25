@@ -1,0 +1,58 @@
+{
+  "General": {
+    "Symbol": "LKK",
+    "Name": "Lykke",
+    "Description": "<p>Lykke is a semi-decentralized trading platform with zero fees for all assets and financial instruments. The platform is based on blockchain technology. The LKK token is a Colored Coin representing shares in the Lykke exchange.</p><p> </p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "1285690000",
+    "Algorithm": null,
+    "ProofType": null,
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "17/03/2016",
+    "TotalCoinsMined": 278779589,
+    "Twitter": "@LykkeCity",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": null,
+    "GitHub": null,
+    "OnMarkets": [
+      "Lykke"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Finished",
+    "Description": "<p class=\"note\">Lykke is a Swiss Fintech company building a global marketplace based on the blockchain. It builds on decades of thought and research by company founder Richard Olsen, a pioneer in the field of high-frequency finance. Richard served as co-founder and CEO of OANDA, a leading foreign exchange company. Lykke received initial seed funding in 2015. The company is currently pursuing investors who want to change the face of the global market.</p><p>Lykke raised 1,161,338 CHF with participants from 90 countries and 717 Lykke coin holders over a 28 day period. The average size of investment was 1619 CHF. 23,226,753 coins were sold in this inital ICO which represents 1.8% of the total supply.</p><p>Lykke has since conducted a second ICO that offered coins at a 20% discount at a price of 0.04CHF per coin. These coins are 1-year Lykke coins as such will settle one year later. 50,000,000 were sold in this round.</p><p>Blog and Team - https://www.lykke.com/leadership  </p>",
+    "TokenType": "New Blockchain",
+    "WebsiteLink": "https://www.lykke.com/ico/#campaign-in-figures",
+    "FundingCap": "2,000,000 CHF",
+    "FundingTarget": "N/A",
+    "Date": 1473768000,
+    "EndDate": null,
+    "FundsRaisedList": "1,161,338 CHF",
+    "FundsRaisedUSD": "1203708",
+    "StartPrice": "N/A",
+    "StartPriceCurrency": "N/A",
+    "Jurisdiction": "N/A",
+    "BlogLink": null,
+    "WhitePaperLink": "https://www.lykke.com/media/Whitepaper_LykkeExchange.pdf"
+  },
+  "ccId": "130939"
+}

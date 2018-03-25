@@ -1,0 +1,60 @@
+{
+  "General": {
+    "Symbol": "DRACO",
+    "Name": "DT Token",
+    "Description": "<p>DT Token - это криптовалюта выпущенная NXT.</p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "88888888",
+    "Algorithm": null,
+    "ProofType": null,
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "12/04/2016",
+    "TotalCoinsMined": "88888888",
+    "Twitter": "@E_Drachma",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "http://www.drachmae.co.uk/",
+    "GitHub": null,
+    "OnMarkets": [
+      "Yobit",
+      "CCEX",
+      "BitTrex"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "N/A",
+    "Description": null,
+    "TokenType": null,
+    "WebsiteLink": null,
+    "FundingCap": null,
+    "FundingTarget": null,
+    "Date": null,
+    "EndDate": null,
+    "FundsRaisedList": null,
+    "FundsRaisedUSD": null,
+    "StartPrice": null,
+    "StartPriceCurrency": null,
+    "Jurisdiction": null,
+    "BlogLink": null,
+    "WhitePaperLink": null
+  },
+  "ccId": "22248"
+}

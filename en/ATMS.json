@@ -1,0 +1,59 @@
+{
+  "General": {
+    "Symbol": "ATMS",
+    "Name": "Atmos",
+    "Description": "<p>The Advanced File Index (“AFIX”) combines the advantages both the IPFS and the Novusphere blockchain-based database, using the latter as a database layer for the content content on the IPFS p2p network. This database allows Novus to build an advanced index for any files that exist in the IPFS network and provides metadata for each file.</p><p>Atmos, <span>a Proof of Stake cryptocurrency,</span> is the native value token in the Novusphere blockchain and will be used to pay for content rating, content request, dispute resolution and gateway advertisement of the Novusphere AFIX.</p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "110290030",
+    "Algorithm": "PoS",
+    "ProofType": "PoS",
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "07/02/2017",
+    "TotalCoinsMined": null,
+    "Twitter": "@thenovusphere",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "https://novusphere.io/",
+    "GitHub": null,
+    "OnMarkets": [
+      "Cryptopia",
+      "Novaexchange"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "N/A",
+    "Description": null,
+    "TokenType": null,
+    "WebsiteLink": null,
+    "FundingCap": null,
+    "FundingTarget": null,
+    "Date": null,
+    "EndDate": null,
+    "FundsRaisedList": null,
+    "FundsRaisedUSD": null,
+    "StartPrice": null,
+    "StartPriceCurrency": null,
+    "Jurisdiction": null,
+    "BlogLink": null,
+    "WhitePaperLink": null
+  },
+  "ccId": "61902"
+}

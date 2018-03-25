@@ -1,0 +1,56 @@
+{
+  "General": {
+    "Symbol": "LDC*",
+    "Name": "LeadCoin",
+    "Description": "<p>LeadCoin empowers businesses to sell their unused leads and buy hot leads from other businesses. Sellers automatically share their unused leads in real-time. LeadCoin’s matching algorithm then analyzes and matches leads to buyers. Leads who didn’t match one business, are now the perfect match for another.​​</p><p>The LDC Token represents the right to acquire leads from other businesses in the network.</p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": null,
+    "Algorithm": null,
+    "ProofType": null,
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "01/03/2018",
+    "TotalCoinsMined": null,
+    "Twitter": "@LeadCoinNetwork",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": null,
+    "GitHub": null,
+    "OnMarkets": [],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Finished",
+    "Description": "<p>LeadCoin empowers businesses to sell their unused leads and buy hot leads from other businesses. Sellers automatically share their unused leads in real-time. LeadCoin’s matching algorithm then analyzes and matches leads to buyers. Leads who didn’t match one business, are now the perfect match for another.</p><p>The LDC Token represents the right to acquire leads from other businesses in the network.</p><p><strong>Team</strong>:</p><ul><li><strong>Shmulik Grizim</strong><span>: Founder.</span></li><li><strong>Samy Goihman</strong><span>: COO.</span></li><li><span><strong>Eyal Rosen </strong><span>: CMO.</span></span></li><li><strong>Alexey Murashkevich</strong><span>: Blockchain &amp; Web Development Expert .</span></li><li><span><strong>Shai Ament </strong><span>: Blockchain &amp; Cloud Engineering Expert .</span></span></li><li><strong>Lilach Arviv </strong><span>: QA &amp; Automation Team Leader .</span></li><li><span><strong>Alana Vaxman </strong><span>: Head of Technical Support &amp; QA Specialist .</span></span></li><li><strong>Yonni Myers </strong><span>: Technical Content &amp; Communications .</span></li><li><span><strong>Damien Rozan </strong><span>: Community Manager .</span></span></li><li><strong>Alana Levitan </strong><span>: Head of Social Media .</span></li><li><span><strong>Dana Perry </strong><span>: Senior Account Manager .</span></span></li><li><strong>Nitsan Harel </strong><span>: Senior Support Manager .</span></li><li><span><strong>Mirey Molcho </strong><span>: Business Development Manager .</span></span></li><li><span><strong>Rivka Akiva</strong><span>: Designer.</span></span></li><li><strong>Moshe Hogeg </strong><span>: Advisor.</span></li><li><span><strong>Uriel Peled</strong><span>: Advisor.</span></span></li></ul><p>LeadCoin will be holding its ICO on the 1st of March, 2018. The ICO token supply represents 50% of the total token supply and the will be available, for 0.00006666666 ETH each at the offering. The ICO funding cap is 50,000,000 USD and is expected to end on the 11th of March, 2018, or when the funding cap is reached.</p><p><strong>Token Reserve Split (50%):</strong></p><ul><li>30% LeadCoin Reserves;</li><li>10% Webydo Ltd;</li><li>10% Founding Team;</li></ul>",
+    "TokenType": "ETH (ERC20)",
+    "WebsiteLink": "https://www.leadcoin.network/",
+    "FundingCap": "50,000,000 USD",
+    "FundingTarget": "N/A",
+    "Date": 1519916400,
+    "EndDate": 1519984800,
+    "FundsRaisedList": "50,000,000 USD",
+    "FundsRaisedUSD": "50000000",
+    "StartPrice": "0.00006666666",
+    "StartPriceCurrency": "ETH",
+    "Jurisdiction": "Gibraltar",
+    "BlogLink": null,
+    "WhitePaperLink": "https://drive.google.com/file/d/1YlZhHsvHuD0K0XRDz_W1M6xdhLvSZPcx/view?usp=sharing"
+  },
+  "ccId": "732021"
+}

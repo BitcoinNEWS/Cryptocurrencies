@@ -1,0 +1,56 @@
+{
+  "General": {
+    "Symbol": "ARNA*",
+    "Name": "ARNA Panacea",
+    "Description": "<div class=\"wpb_text_column wpb_content_element \"><div class=\"wpb_wrapper\"><p>ARNA Panacea is a Biotech Decentralized Solution, Powered by the Ethereum Blockchain. The platform allows for the processing of clinical trials data, support for researchers during R&amp;D phase and a marketplace for all types of market participants involved in clinical trials as well as direct sales of final biotech products to customers (patients). The ARNA Panacea platform is powered by the ARNA token, an ERC20 token based on the Ethereum blockchain.</p></div></div><div class=\"wpb_text_column wpb_content_element  vc_custom_1505503778477\"><div class=\"wpb_wrapper\"></div></div>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "1000000000",
+    "Algorithm": null,
+    "ProofType": null,
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "15/09/2017",
+    "TotalCoinsMined": null,
+    "Twitter": "@ArnaGenomics",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": null,
+    "GitHub": null,
+    "OnMarkets": [],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Upcoming",
+    "Description": "<div class=\"wpb_text_column wpb_content_element \"><div class=\"wpb_wrapper\"><p><span>ARNA Panacea is a Biotech Decentralized Solution, Powered by the Ethereum Blockchain</span><span>. The </span><span>platform allows for the processing of clinical trials data</span><span>, </span><span>support for researchers during R&amp;D phase and a marketplace for all types of market participants involved in clinical trials as well as direct sales of final biotech products to customers (patients). The </span><span>ARNA Panacea platform is powered by the ARNA token, an ERC20 token based on the Ethereum blockchain.</span></p></div></div><p><strong>Team</strong>:</p><ul><li><strong>EGOR MELNIKOV:</strong> Founder of the project, CEO <a href=\"https://www.linkedin.com/in/egor-melnikov-8b935b131/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><span><strong>GEORGE NIKITIN:</strong> COO, co-founder and blockchain platform ideologist <a href=\"https://www.linkedin.com/in/george-nikitin-8a38734/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></span></li><li><strong>ANATOLIY MELNIKOV:</strong> scientific supervisor and creator of the ARNA BC test <span> </span></li></ul><p><span>Pre-sale starts on <span class=\"colors\">September, 21</span></span></p><p>The ARNA token sale will start on the 19th of November, 2017 and will last until the 3rd of December or until the $40,000,000 cap is reached. 50% of the total supply will be be available during the ICO and any unsold tokens will be allocated to marketing. </p><p><strong>Token Reserve Split:</strong></p><p><span class=\"rte-image-full\"><strong><img src=\"https://ip.bitcointalk.org/?u=https%3A%2F%2Fi.imgur.com%2FCRrA0gr.png&amp;t=580&amp;c=jG0KcT3t6b7fYw\" alt=\"\"></strong></span></p><p>COMPANY_NAME ICO campaign features FEATURES, and the token will BE_NOTBE mineable.</p><p><strong>Bonus Structure:</strong></p><p><span class=\"rte-image-full\"><strong><img src=\"https://ip.bitcointalk.org/?u=https%3A%2F%2Fi.imgur.com%2FQJjTeDt.png&amp;t=580&amp;c=b7KarqG-E14k8A\" alt=\"\"></strong></span></p>",
+    "TokenType": "ETH (ERC20)",
+    "WebsiteLink": "https://token.arnagenomics.com",
+    "FundingCap": "$40.000.000",
+    "FundingTarget": "$1.000.000",
+    "Date": 1511049600,
+    "EndDate": 1512259200,
+    "FundsRaisedList": "Pre-sale: 883.323 USD",
+    "FundsRaisedUSD": "N/A",
+    "StartPrice": "0.08",
+    "StartPriceCurrency": "USD",
+    "Jurisdiction": "N/A",
+    "BlogLink": "https://goo.gl/Mp9fBK",
+    "WhitePaperLink": "https://token.arnagenomics.com/ARNA_whitepaper_en.html"
+  },
+  "ccId": "303888"
+}

@@ -1,0 +1,58 @@
+{
+  "General": {
+    "Symbol": "CARE",
+    "Name": "Care Token",
+    "Description": "<p>CareX is a healthcare payment method that allows patients to control their health records and purchase healthcare services at a reduced cost, regardless of borders. The CareX system allows providers to cut their administrative costs, get paid instantly and acces a global market of customers.</p><p>CARE Token holders are able to utilize the CareX wallet to securely host their medical records, granting short-term access to providers as needed and decided. Preliminary unofficial diagnoses to ailments will also be available thanks to our medically trained AI-based chatbot.</p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "10000000 ",
+    "Algorithm": null,
+    "ProofType": null,
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "10/02/2018",
+    "TotalCoinsMined": null,
+    "Twitter": "@carexblockchain",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": null,
+    "GitHub": null,
+    "OnMarkets": [
+      "EtherDelta"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Ongoing",
+    "Description": "<p>CareX is a healthcare payment<span> </span>method that allows patients to control their health records and purchase healthcare services at a reduced cost, regardless of borders. The CareX system allows providers to cut their administrative costs, get paid instantly and acces a global market of customers.</p><p>CARE Token holders are able to utilize the CareX wallet to securely host their medical records, granting short-term access to providers as needed and decided. Preliminary unofficial diagnoses to ailments will also be available thanks to our medically trained AI-based chatbot.</p><p><strong>Team</strong>:</p><ul><li><strong>Mike Bishop:</strong> Chief Executive Officer, Head of CareX ICO,Compliance Officer <a href=\"https://www.linkedin.com/in/mikebishops\" target=\"_blank\"><img src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Hendrik Klein:</strong> Chief Investment Officer, CEO at Da Vinci Luxury AG; Zürich Area, Switzerland <a href=\"https://www.linkedin.com/in/heklein\" target=\"_blank\"><img src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Jackson Adams:</strong> Chief Communications Officer(CCO) <a href=\"https://www.linkedin.com/in/jackson-adams-oxford/\" target=\"_blank\"><img src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Daniel Pivalizza:</strong> Crypto Analyst <a href=\"https://www.linkedin.com/in/daniel-pivalizza-babb1b151\" target=\"_blank\"><img src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li></ul><p>The CareX ICO began on the 11th of December 2017 and will end on the 23rd of March 2018. The ICO token allocation represents 100% of the total token supply and will be available for a 10 USD starting price. The ICO funding target is set at $<span>20,000,000 </span>and the cap is set at $100,000,000. </p><p>The CARE ICO features a bounty campaign and escrow agent.</p><p> </p>",
+    "TokenType": "ETH (ERC20)",
+    "WebsiteLink": "https://carex.tech",
+    "FundingCap": "100000000 USD",
+    "FundingTarget": "20000000 USD",
+    "Date": 1512950400,
+    "EndDate": 1521763200,
+    "FundsRaisedList": "10,000,000 USD",
+    "FundsRaisedUSD": "10000000",
+    "StartPrice": "10",
+    "StartPriceCurrency": "USD",
+    "Jurisdiction": "U.S.A",
+    "BlogLink": "https://blog.carex.tech/",
+    "WhitePaperLink": "https://carex.tech/docs/whitepaper.pdf"
+  },
+  "ccId": "760878"
+}

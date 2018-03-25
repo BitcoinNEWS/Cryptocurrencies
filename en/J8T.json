@@ -1,0 +1,58 @@
+{
+  "General": {
+    "Symbol": "J8T",
+    "Name": "JET8",
+    "Description": "<p>JET8 is a decentralized mobile network that aims to connect influencers, audiences and brads through the value of social currency.</p><p>JET8 token (J8T) is an ERC-20 token that will be used to reward the platform users for their engagement.</p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "1468857774.5777",
+    "Algorithm": null,
+    "ProofType": null,
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "01/02/2018",
+    "TotalCoinsMined": null,
+    "Twitter": "@jet8app",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": null,
+    "GitHub": null,
+    "OnMarkets": [
+      "Kucoin"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "N/A",
+    "Description": null,
+    "TokenType": null,
+    "WebsiteLink": null,
+    "FundingCap": null,
+    "FundingTarget": null,
+    "Date": null,
+    "EndDate": null,
+    "FundsRaisedList": null,
+    "FundsRaisedUSD": null,
+    "StartPrice": null,
+    "StartPriceCurrency": null,
+    "Jurisdiction": null,
+    "BlogLink": null,
+    "WhitePaperLink": null
+  },
+  "ccId": "819799"
+}

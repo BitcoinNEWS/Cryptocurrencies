@@ -1,0 +1,60 @@
+{
+  "General": {
+    "Symbol": "RZR",
+    "Name": "RazorCoin",
+    "Description": "<p>Razor (RZR) is a scrypt based PoW alternative crypto currency. The block time is targetted to 75 seconds and the block time is 75 seconds. The block reward starts at an initial 100 RZR and halves every 10,000 blocks.</p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "4000000",
+    "Algorithm": "Scrypt",
+    "ProofType": "PoW",
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "15/07/2014",
+    "TotalCoinsMined": null,
+    "Twitter": "@RazorCoin",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "http://ww2.razorcoin.com/?folio=9POR7JU99",
+    "GitHub": null,
+    "OnMarkets": [
+      "BitTrex",
+      "Cryptsy",
+      "Coinse"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "N/A",
+    "Description": null,
+    "TokenType": null,
+    "WebsiteLink": null,
+    "FundingCap": null,
+    "FundingTarget": null,
+    "Date": null,
+    "EndDate": null,
+    "FundsRaisedList": null,
+    "FundsRaisedUSD": null,
+    "StartPrice": null,
+    "StartPriceCurrency": null,
+    "Jurisdiction": null,
+    "BlogLink": null,
+    "WhitePaperLink": null
+  },
+  "ccId": "4597"
+}

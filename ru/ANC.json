@@ -1,0 +1,63 @@
+{
+  "General": {
+    "Symbol": "ANC",
+    "Name": "Anoncoin",
+    "Description": "<p>Anoncoin is a cryptocurrency that supports the i2p darknet for transactions, providing a higher degree of anonimity. With the addition of being fully tor compatible there is a huge possibility of hiding in plain sight by transferring coins using the darknet only. </p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "4200000",
+    "Algorithm": null,
+    "ProofType": "PoW",
+    "BlockReward": 2.5,
+    "Explorer": null,
+    "StartDate": "01/01/0001",
+    "TotalCoinsMined": 1860619.362,
+    "Twitter": "@AnonCoinProject",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "https://anoncoin.net/",
+    "GitHub": null,
+    "OnMarkets": [
+      "Novaexchange",
+      "Cryptopia",
+      "Cryptsy",
+      "Cexio",
+      "BTC38",
+      "Coinse"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "N/A",
+    "Description": null,
+    "TokenType": null,
+    "WebsiteLink": null,
+    "FundingCap": null,
+    "FundingTarget": null,
+    "Date": null,
+    "EndDate": null,
+    "FundsRaisedList": null,
+    "FundsRaisedUSD": null,
+    "StartPrice": null,
+    "StartPriceCurrency": null,
+    "Jurisdiction": null,
+    "BlogLink": null,
+    "WhitePaperLink": null
+  },
+  "ccId": "27370"
+}

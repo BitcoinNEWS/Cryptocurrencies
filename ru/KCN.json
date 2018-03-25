@@ -1,0 +1,56 @@
+{
+  "General": {
+    "Symbol": "KCN",
+    "Name": "Kencoin",
+    "Description": "<p>This anonymous cryptocurrency makes adult entertainment transactions safe, secure, and completely private. With just a click, Kencoin users can pay for access to the adult content they seek, without risk of exposure or disclosure of any personal details.</p><p>Kencoin is an industry-specific cryptocurrency, targeting the adult entertainment sector. Its mission <span>is to be constantly marketed to all partner and merchants in the sector, and</span> serve as the standard currency for anonymous, safe transactions in all sex and dating-related purchases.</p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "1000000000",
+    "Algorithm": "N/A",
+    "ProofType": "N/A",
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "01/01/0001",
+    "TotalCoinsMined": null,
+    "Twitter": null,
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "http://kencoin.org/",
+    "GitHub": null,
+    "OnMarkets": [],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Ongoing",
+    "Description": "<p>This anonymous cryptocurrency makes adult entertainment transactions safe, secure, and completely private. With just a click, Kencoin users can pay for access to the adult content they seek, without risk of exposure or disclosure of any personal details.</p><p>Kencoin is an industry-specific cryptocurrency, targeting the adult entertainment sector. Its mission <span>is to be constantly marketed to all partner and merchants in the sector, and</span> serve as the standard currency for anonymous, safe transactions in all sex and dating-related purchases.</p><p><strong>Team</strong>:</p><ul><li><strong>Laurent Chekroun</strong>: CEO of Kencoin.</li><li><strong>Nicolay Livadkin</strong>: COO of Kencoin.</li><li><strong>Michael Rabi</strong>: CTO of Kencoin.</li></ul><p><span>Kencoin </span>will be holding its ICO on August 22, 2017. The ICO token supply represents 60% of the total token supply, so there will be a total of 600,000,000 tokens available at the offering. The ICO is expected to last for 21 days.</p><p><strong>Token Reserve Split (40%):</strong></p><ul><li>20% KenCoin Team;</li><li>20% Marketing &amp; Advisors;</li></ul>",
+    "TokenType": "ETH (ERC20)",
+    "WebsiteLink": "http://kencoin.org/#",
+    "FundingCap": "N/A",
+    "FundingTarget": "N/A",
+    "Date": 1503410400,
+    "EndDate": 1504396800,
+    "FundsRaisedList": "N/A",
+    "FundsRaisedUSD": "N/A",
+    "StartPrice": "N/A",
+    "StartPriceCurrency": "N/A",
+    "Jurisdiction": "Switzerland",
+    "BlogLink": "http://kencoin.org/blogs/ ",
+    "WhitePaperLink": "http://kencoin.org/wp-content/uploads/2017/07/whitepaper.pdf "
+  },
+  "ccId": "205967"
+}

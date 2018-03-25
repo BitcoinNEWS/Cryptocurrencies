@@ -1,0 +1,56 @@
+{
+  "General": {
+    "Symbol": "SMNX",
+    "Name": "SMNX",
+    "Description": "<p>The Solomon exchange is a u<span>ser-friendly application where users can buyi and sell cryptocurrencies through their bank accounts and more. The Solomon Exchange is backed by strong algorithmic mechanism to give users a choice among best cryptocurrency exchanges in the world. </span></p><p>The Solomon Exchange token is an Ethereum-based asset used to pay fees on the Solomon Exchange Local platform. These tokens are also be used to distribute dividends to token holders.</p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "15000000",
+    "Algorithm": "N/A",
+    "ProofType": "N/A",
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "28/08/2017",
+    "TotalCoinsMined": null,
+    "Twitter": "@solomon_ex",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "https://solomonex.info/",
+    "GitHub": null,
+    "OnMarkets": [],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Ongoing",
+    "Description": "<p>The Solomon exchange is a user-friendly application where users can buyi and sell cryptocurrencies through their bank accounts and more. The Solomon Exchange is backed by strong algorithmic mechanism to give users a choice among best cryptocurrency exchanges in the world.</p><p>The Solomon Exchange token is an Ethereum-based asset used to pay fees on the Solomon Exchange Local platform. These tokens are also be used to distribute dividends to token holders.</p><p> <strong>Team</strong>:</p><ul><li>Jessica Mc&#39;Carty: UI-UX Desinger</li><li>Paul Daniels: Codex Developer</li><li>Andy Williams: Project Manager</li><li>Taylor Wales: Beta Tester.</li></ul><p><span>SOLOMON EXCHANGE will be holding its ICO on<span> </span></span><span class=\"aBn\" data-term=\"goog_1393649281\"><span class=\"aQJ\">28th August, 2017</span></span><span>. The ICO token supply represents  60% of the total token supply, so there will be a total of 15 million tokens available, for USD 1 (ETH and BTC) each at the offering. The ICO funding target is $9 million, the funding cap is $15 million and is expected to end on<span> </span></span><span class=\"aBn\" data-term=\"goog_1393649282\"><span class=\"aQJ\">27th September, 2017,</span></span><span><span> </span>or when the funding cap is reached. Any unsold/remaining tokens will be destroyed.</span></p><p><strong>Token Reserve Split (40%):</strong></p><ul><li>40% To be held by the Company</li></ul><p><span>The SMNX ICO featues a bonus campaign.</span></p><p><strong>Bonus Structure:</strong></p><ul><li>20% First 3 days</li><li>15% next 7 days</li><li>10% next 7 days</li></ul>",
+    "TokenType": "ETH (ERC20)",
+    "WebsiteLink": "https://solomonex.info/",
+    "FundingCap": "15,000,000 USD",
+    "FundingTarget": "9,000,000 USD",
+    "Date": 1503878400,
+    "EndDate": 1506556800,
+    "FundsRaisedList": "35.6040 ETH",
+    "FundsRaisedUSD": "13000",
+    "StartPrice": "1",
+    "StartPriceCurrency": "USD",
+    "Jurisdiction": "N/A",
+    "BlogLink": "https://medium.com/@solomon_ex",
+    "WhitePaperLink": "https://solomonex.info/whitepaper/SMNX_wp.pdf"
+  },
+  "ccId": "218221"
+}

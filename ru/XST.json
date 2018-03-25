@@ -1,0 +1,61 @@
+{
+  "General": {
+    "Symbol": "XST",
+    "Name": "StealthCoin",
+    "Description": "<p>StealthCoin combines proof of stake and ToR anonymity.</p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "0",
+    "Algorithm": "X13",
+    "ProofType": "PoW/PoS",
+    "BlockReward": 4.115154525755267,
+    "Explorer": null,
+    "StartDate": "08/07/2014",
+    "TotalCoinsMined": 28417067.50327819,
+    "Twitter": "@StealthCoin",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "https://www.stealth-coin.com/",
+    "GitHub": null,
+    "OnMarkets": [
+      "BitTrex",
+      "Cryptopia",
+      "Cryptsy",
+      "Poloniex"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "N/A",
+    "Description": null,
+    "TokenType": null,
+    "WebsiteLink": null,
+    "FundingCap": null,
+    "FundingTarget": null,
+    "Date": null,
+    "EndDate": null,
+    "FundsRaisedList": null,
+    "FundsRaisedUSD": null,
+    "StartPrice": null,
+    "StartPriceCurrency": null,
+    "Jurisdiction": null,
+    "BlogLink": null,
+    "WhitePaperLink": null
+  },
+  "ccId": "5032"
+}

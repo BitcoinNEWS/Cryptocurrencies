@@ -1,0 +1,58 @@
+{
+  "General": {
+    "Symbol": "SHADE",
+    "Name": "ShadeCoin",
+    "Description": "<p>Shade is a hybrid proof of stake and proof of work alternative crypto currency that you can trade for bitcoin on cryptsy and on bittrex. The proof of stake annualised rate is 4%.</p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "2000000",
+    "Algorithm": "Scrypt",
+    "ProofType": "PoW/PoS",
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "04/09/2014",
+    "TotalCoinsMined": null,
+    "Twitter": "@ShadeCoin",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "-",
+    "GitHub": null,
+    "OnMarkets": [
+      "Cryptsy"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "N/A",
+    "Description": null,
+    "TokenType": null,
+    "WebsiteLink": null,
+    "FundingCap": null,
+    "FundingTarget": null,
+    "Date": null,
+    "EndDate": null,
+    "FundsRaisedList": null,
+    "FundsRaisedUSD": null,
+    "StartPrice": null,
+    "StartPriceCurrency": null,
+    "Jurisdiction": null,
+    "BlogLink": null,
+    "WhitePaperLink": null
+  },
+  "ccId": "4602"
+}

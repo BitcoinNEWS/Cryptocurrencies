@@ -1,0 +1,56 @@
+{
+  "General": {
+    "Symbol": "BT",
+    "Name": "BuildTeam",
+    "Description": "<p>BuildTeam is a tech start-up with multiple projects under its management such as the <a href=\"http://www.minnowbooster.net\" target=\"_blank\">Minnowbooster</a> and the <a href=\"http://www.steemvoter.com\" target=\"_blank\">Steemvoter</a>. The company focuses on providing sidechain<span><span> </span>services and custom applications that compliment the Steemit social networking ecosystem and other blockchain-based networks. The BuildTeam token (BT) is used to compensate the staff who can then bid for a percentage of the company&#39;s profits in STEEM through a monthly auction process or sell their tokens on the Bitshares DEX. Steem<span><span> </span>is distributed on a proportional basis depending on how much each participant bids.</span></span></p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "1000000",
+    "Algorithm": null,
+    "ProofType": null,
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "29/08/2017",
+    "TotalCoinsMined": null,
+    "Twitter": null,
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": null,
+    "GitHub": null,
+    "OnMarkets": [],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "N/A",
+    "Description": null,
+    "TokenType": null,
+    "WebsiteLink": null,
+    "FundingCap": null,
+    "FundingTarget": null,
+    "Date": null,
+    "EndDate": null,
+    "FundsRaisedList": null,
+    "FundsRaisedUSD": null,
+    "StartPrice": null,
+    "StartPriceCurrency": null,
+    "Jurisdiction": null,
+    "BlogLink": null,
+    "WhitePaperLink": null
+  },
+  "ccId": "249784"
+}

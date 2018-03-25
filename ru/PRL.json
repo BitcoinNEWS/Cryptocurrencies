@@ -1,0 +1,60 @@
+{
+  "General": {
+    "Symbol": "PRL",
+    "Name": "Oyster Pearl",
+    "Description": "<p>Oyster Protocol provides a framework <span>for accessing a decentralized mesh network. This network connects </span>website owners, storage users and nodes (Web and Broker).</p><p>The Oyster Protocol enables websites to generate traffic revenue as visitors perform Proof of Work for a decentralized storage ledger. Web Nodes are everyday computers, smartphones, cars - anything with a modern web browser. They communicate with each other directly, only needing occasional connection brokerage from Broker Nodes. Web nodes recompense for their work is granted access to content/goods/services from the corresponding website owner. Website owners and broker nodes are rewarded with PRL token.</p><p><span>PRL is an Ethereum-based ERC20 token that serves as currency on Oyster&#39;s ecosystem.</span></p><p> </p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "108592693",
+    "Algorithm": null,
+    "ProofType": null,
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "01/10/2017",
+    "TotalCoinsMined": 98592692,
+    "Twitter": "@OysterProtocol",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": null,
+    "GitHub": null,
+    "OnMarkets": [
+      "Cryptopia",
+      "Kucoin",
+      "EtherDelta"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "N/A",
+    "Description": null,
+    "TokenType": null,
+    "WebsiteLink": null,
+    "FundingCap": null,
+    "FundingTarget": null,
+    "Date": null,
+    "EndDate": null,
+    "FundsRaisedList": null,
+    "FundsRaisedUSD": null,
+    "StartPrice": null,
+    "StartPriceCurrency": null,
+    "Jurisdiction": null,
+    "BlogLink": null,
+    "WhitePaperLink": null
+  },
+  "ccId": "429355"
+}

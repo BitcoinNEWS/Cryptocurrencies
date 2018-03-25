@@ -1,0 +1,61 @@
+{
+  "General": {
+    "Symbol": "BQX",
+    "Name": "Bitquence",
+    "Description": "<p><span>Bitquence wants to create a platform that could provide a single point of interaction with the new economy. This Digital Wallet will be the backbone for Bitquence&#39;s asset management and cryptocurrency services platform. </span></p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "19461495.70166717",
+    "Algorithm": "N/A",
+    "ProofType": "N/A",
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "28/06/2017",
+    "TotalCoinsMined": null,
+    "Twitter": "@bitquence",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "http://www.bitquence.com/",
+    "GitHub": null,
+    "OnMarkets": [
+      "HitBTC",
+      "LiveCoin",
+      "EtherDelta",
+      "Binance"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Finished",
+    "Description": "<p><span>Ethos </span><span>created a platform that could provides a single point of interaction with the new economy. This Digital Wallet </span><span>is</span><span><span> </span>the backbone for<span> </span></span><span>Ethos</span><span> &#39;s asset management and cryptocurrency services platform.</span></p><p><span>Bitquence held its ICO on June 28, 2017. There will be a total of 1 Bilion tokens available at the offering. The ICO is expected to end on 16</span><span>, Jul 2017. This ICO will initially distribute up to 30% of BQX in order to fund development of the platform and expand service offerings.</span></p><p><strong>Discounts:</strong> </p><table border=\"0\" width=\"381\" height=\"128\"><tbody><tr><td style=\"text-align: center;\"><strong>Cumulative ETH Committed</strong></td><td style=\"text-align: center;\"><strong>BQX per ETH</strong></td></tr><tr><td>1 to 4999</td><td style=\"text-align: right;\">5000</td></tr><tr><td>5000 to 9999</td><td style=\"text-align: right;\">4600</td></tr><tr><td>10,000 to 14,999</td><td style=\"text-align: right;\">4200</td></tr><tr><td>15,000 to 19,999</td><td style=\"text-align: right;\">3500</td></tr><tr><td>20,000 to 39,999</td><td style=\"text-align: right;\">3175</td></tr><tr><td>Possible 72 Hour Period</td><td style=\"text-align: right;\">1363</td></tr></tbody></table><p><span>This table shows the price at the amount of ETH committed. There is a soft cap of 40,000 ETH after which the crowdsale will enter a 72 hour “last chance” period which has a hard cap of 150,000 ETH. The total supply of the tokens will be 1 Billion if all 150,000 ETH of tokens are sold. If 40,000 ETH worth of tokens are sold, then the remaining 110,000 ETH worth of tokens will be burned and the total supply will be less than 1 Billion.</span></p><p> </p>",
+    "TokenType": "ETH (ERC20)",
+    "WebsiteLink": "https://www.bitquence.com/tokensale/",
+    "FundingCap": "150000 ETH",
+    "FundingTarget": "40000 ETH",
+    "Date": 1498626000,
+    "EndDate": 1500163200,
+    "FundsRaisedList": "N/A",
+    "FundsRaisedUSD": "N/A",
+    "StartPrice": "0.0002",
+    "StartPriceCurrency": "ETH",
+    "Jurisdiction": "N/A",
+    "BlogLink": "https://www.ethos.io/blog/",
+    "WhitePaperLink": "https://www.bitquence.com/wp-content/uploads/2017/05/BitquenceWhitePaper.pdf"
+  },
+  "ccId": "141464"
+}

@@ -1,0 +1,59 @@
+{
+  "General": {
+    "Symbol": "WCT",
+    "Name": "Waves Community Token",
+    "Description": "<p>The Waves Community Token (WCT) это инструмент для краудфандинговых кампаний, запущенных на платформе Waves.Данный токен создан для стимуляции долгосрочного хранения денежных средств в системе Waves, так как владельцы токенов Waves получают дополнительный доход за счет постоянного распределения активов платформой. Токен сообщества находится в процессе реализации и будет окончательно запущен после полного технического формирования платформы Waves. Токен сообщества будет распределяться в течение 9 месяцев для всех держателей Waves, кроме бирж. По плану распределение проводится 15 числа каждого месяца по результатам моментального снимка баланса в Waves. 20% активов распределяются в течение первого месяца (первое успешное распределение активов прошло 15 января 2017 года), 10% будут распределяться все следующие месяцы. Токен сообщества будет повышать количество активов у своих держателей. Дальнейшее развитие токена сообщества — проведение голосований. Владельцы токена получат право голосовать за разнообразные проекты, таким образом, повысится ценность новых проектов, появится скрининг и пользователи будут больше заинтересованы в участии в жизни сообщества Waves.</p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "10000000",
+    "Algorithm": null,
+    "ProofType": null,
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "03/01/2017",
+    "TotalCoinsMined": 10000000,
+    "Twitter": "@wavesplatform",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "https://wavesplatform.com/",
+    "GitHub": null,
+    "OnMarkets": [
+      "WavesDEX",
+      "Tidex"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "N/A",
+    "Description": null,
+    "TokenType": null,
+    "WebsiteLink": null,
+    "FundingCap": null,
+    "FundingTarget": null,
+    "Date": null,
+    "EndDate": null,
+    "FundsRaisedList": null,
+    "FundsRaisedUSD": null,
+    "StartPrice": null,
+    "StartPriceCurrency": null,
+    "Jurisdiction": null,
+    "BlogLink": null,
+    "WhitePaperLink": null
+  },
+  "ccId": "43042"
+}

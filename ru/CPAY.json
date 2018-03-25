@@ -1,0 +1,58 @@
+{
+  "General": {
+    "Symbol": "CPAY",
+    "Name": "CryptoPay",
+    "Description": "<p>Cryptopay<span> </span>is a platform that will leverage the Ethereum blockchain to empower their digital payment solutions.<span> </span>Cryptopay<span> </span>provides services like a Bitcoin wallet, a CPAY credit card, a Bitcoin payment gateway, brokerage services, and a Peer-to-Peer marketplace.</p><p>Cryptopay<span> </span>token will benefit the tokens holders with a monthly basis reward, starting with 10% of the total revenue from the services available. Depending on the business success, it could be replaced by referral commissions.</p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "320000000",
+    "Algorithm": null,
+    "ProofType": null,
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "17/09/2017",
+    "TotalCoinsMined": 90414745,
+    "Twitter": "@cryptopay",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": null,
+    "GitHub": null,
+    "OnMarkets": [
+      "HitBTC"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Ongoing",
+    "Description": "<p>Cryptopay is a platform that will leverage the Ethereum blockchain to empower their digital payment solutions. Cryptopay provides services like a Bitcoin wallet, a CPAY credit card, a Bitcoin payment gateway, brokerage services, and a Peer-to-Peer marketplace.</p><p>Cryptopay token will benefit the tokens holders with a monthly basis reward, starting with 10% of the total revenue from the services available. Depending on the business success, it could be replaced by referral commissions.</p><p><strong>Team</strong>:</p><ul><li><strong>George Basiladze</strong>: Founder.</li><li><strong>Dmitry Gunyashov</strong>: Founder.</li><li><strong>Eric Benz</strong>: Managing Director.</li></ul><p>Cryptopay will be holding its ICO on the 25th of September, 2017. The ICO token supply represents 52% of the total token supply, so there will be a total of 165,000,000 tokens available, for 0.29 USD each at the offering. The ICO funding target is 50,000 ETH, the funding cap is 150,000 ETH and is expected to end on the 30th of October, 2017 or when the funding cap is reached.</p><p><strong>Token Reserve Split (48%):</strong></p><ul><li>23% Pre-sale;</li><li>5%<span> </span>Advisers and Partners;</li><li>5% Bounty program</li><li>10% Foundation retention</li><li>5% CPAY team;</li></ul><p><span>Cryptopay ICO will feature a bounty campaign and a bonus program, and the token will not be mineable.</span></p><p><strong>Bonus Structure:</strong></p><ul><li>10% 2nd October 2017, 11:00 (UTC+1) to the 3rd of October 2017,10:00 (UTC+1) ;</li><li>5% 3rd October 2017, 11:00 BST (UTC+1) to the 10th October 2017, 10:00 BST (UTC+1);</li><li>2.5% 10th October 2017, 11:00 BST (UTC+1) to the 17th October 2017, 10:00 BST (UTC+1);</li></ul>",
+    "TokenType": "ETH (ERC20)",
+    "WebsiteLink": "https://ico.cryptopay.me/#about",
+    "FundingCap": "150,000 ETH",
+    "FundingTarget": "N/A",
+    "Date": 1506330000,
+    "EndDate": 1509354000,
+    "FundsRaisedList": "50,000 ETH",
+    "FundsRaisedUSD": "15000000",
+    "StartPrice": "0.29",
+    "StartPriceCurrency": "USD",
+    "Jurisdiction": "Cayman Islands",
+    "BlogLink": "https://medium.com/@cryptopay",
+    "WhitePaperLink": "https://ico.cryptopay.me/ico_cpay_wp.pdf"
+  },
+  "ccId": "345674"
+}

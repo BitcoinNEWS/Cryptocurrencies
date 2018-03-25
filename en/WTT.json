@@ -1,0 +1,60 @@
+{
+  "General": {
+    "Symbol": "WTT",
+    "Name": "Giga Watt",
+    "Description": "<p>The Giga Watt Project<span> is a full-service mining solution provider that </span>offers turnkey mining hosting services at its Wenatchee, WA facilities, and GigaWatt Pte. Ltd., a Singapore company (“Partner”), which sells mining equipment to customers worldwide. Giga Watt is a full-service mining solution provider. Giga Watt also offers a variety of custom packages and services, so that clients who own their mining equipment, including the models not distributed by Giga Watt’s Partner, can still host it at Giga Watt’s facility.</p><p>WTT token is an Ethereum token representing the right to use the Giga Watt processing center&#39;s capacity, rent-free for 50 years, to accommodate 1 Watt&#39;s worth of mining equipment power consumption.</p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "34500000\t",
+    "Algorithm": "N/A",
+    "ProofType": "N/A",
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "12/05/2017",
+    "TotalCoinsMined": null,
+    "Twitter": "@WTTtoken",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "https://cryptonomos.com/wtt/",
+    "GitHub": null,
+    "OnMarkets": [
+      "Yobit",
+      "EtherDelta",
+      "HitBTC"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Ongoing",
+    "Description": "<p>WTT token is an Ethereum token representing the right to use the Giga Watt processing center&#39;s capacity, rent-free for 50 years, to accommodate 1 Watt&#39;s worth of mining equipment power consumption.</p><p>The WTT token will be distributed through a public ICO which will be offered for 60 days starting on June 2, 2017 and ending on July 31, 2017. During the token sale, 30M WTT tokens will be available (86.96%) For every 100 tokens sold in this offering 15 additional tokens will be issued and retained for the team members, partners and advisors.</p><p>The token price is USD 1-1.2, depending on the date of the acquisition, according to the bonus at the time. Investors can purchase WTT with Bitcoin, Ether and USD (Wire Transfer). The WTT ICO features Bounties and a Bonus campaign for early investors.</p>",
+    "TokenType": "ETH (ERC20)",
+    "WebsiteLink": "https://cryptonomos.com/wtt/",
+    "FundingCap": "N/A",
+    "FundingTarget": "N/A",
+    "Date": 1496430000,
+    "EndDate": 1501531200,
+    "FundsRaisedList": "N/A",
+    "FundsRaisedUSD": "N/A",
+    "StartPrice": "1",
+    "StartPriceCurrency": "USD",
+    "Jurisdiction": "N/A",
+    "BlogLink": "https://medium.com/gigawatt",
+    "WhitePaperLink": "https://cryptonomos.com/wtt/white-paper.pdf"
+  },
+  "ccId": "179109"
+}

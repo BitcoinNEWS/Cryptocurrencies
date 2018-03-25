@@ -1,0 +1,56 @@
+{
+  "General": {
+    "Symbol": "PROPS",
+    "Name": "Props",
+    "Description": "<p><span>PROPS is a decentralized digital media network that rewards its users, content creators and developers, based on their contribution to the growth of the network.</span></p><p><span>The PROPS token is a ERC20 compliant token based on the Ethereum blockchain and is to be used in their platform as a payment method.</span></p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "1000000000",
+    "Algorithm": null,
+    "ProofType": null,
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "01/01/0001",
+    "TotalCoinsMined": 200000,
+    "Twitter": "@PROPSproject",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": null,
+    "GitHub": null,
+    "OnMarkets": [],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Finished",
+    "Description": "<p><span>PROPS is a decentralized digital media network that rewards its users, content creators and developers, based on their contribution to the growth of the network.</span></p><p><span>The PROPS token is<span> </span>an ERC20<span> </span>compliant token in the Ethereum<span> </span>blockchain <span></span>and is to be used in their platform as a currency.</span></p><p><strong>Team</strong>:</p><ul><li><strong>Adi Sideman</strong>: Founder and CEO. <a href=\"https://www.linkedin.com/in/adi-sideman-33244/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Yonatan Sela</strong>: Chief Business Officer. <a href=\"https://www.linkedin.com/in/yonatansela/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Eran Kalmanson</strong>: Chief Technology Officer. <a href=\"https://www.linkedin.com/in/eran-kalmanson-5a34881/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Ben Perper</strong>: Director of Product and Business Intelligence. <a href=\"https://www.linkedin.com/in/benperper/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li></ul><p>PROPS by YouNow will be holding its ICO on December 11, 2017. The ICO token supply represents 20% of the total token supply, so there will be a total of 200,000 tokens available, for 0.12 USD each at the offering. The ICO funding target is 25,000,000 USD, the funding cap is 25,000,000 USD and is expected to end on December 21st, 2017 or when the funding cap is reached. Any unsold/remaining tokens will be burned.</p><p> </p>",
+    "TokenType": "ETH (ERC20)",
+    "WebsiteLink": "https://propsproject.com",
+    "FundingCap": "25,000,000 USD",
+    "FundingTarget": "25,000,000 USD",
+    "Date": 1512950400,
+    "EndDate": 1513814400,
+    "FundsRaisedList": "25,000,000 USD",
+    "FundsRaisedUSD": "25000000",
+    "StartPrice": "0.12",
+    "StartPriceCurrency": "USD",
+    "Jurisdiction": "N/A",
+    "BlogLink": "https://blog.propsproject.com",
+    "WhitePaperLink": "https://propsproject.com/static/PROPS%20Whitepaper.pdf"
+  },
+  "ccId": "796019"
+}

@@ -1,0 +1,61 @@
+{
+  "General": {
+    "Symbol": "HAL",
+    "Name": "Halcyon",
+    "Description": "<p>Halcyon Coin is a decentralized digital currency, launching August 16th 2014 with a Proof of Work (PoW) period lasting approximately 9 days.  Halcyon was developed so the PoW period would run simulataneously with the Proof of Stake phase (PoS), which eventually took over the blockchain as a means to confirm transactions.  Halcyon was launched with no Premine or IPO.  Stake holders are rewarded for holding their coins, at a rate of 9% annually.  This rate also compounds on itself, and the staker is rewarded transaction fees as an extra incentive.  Halcyon users with wallet balances greater than 2000 coins will soon be able to participate as masternodes, which will provide another source of residual income.  There were a total of 1.62 million coins produced by the end of the PoW phase.  The x15 algorithm was chosen so as to give individuals the best chance to acquire coins, with the least amount of multipool and asic interference.</p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "0",
+    "Algorithm": "X15",
+    "ProofType": "PoW/PoS",
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "16/07/2014",
+    "TotalCoinsMined": null,
+    "Twitter": "@HalcyonDev",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "-",
+    "GitHub": null,
+    "OnMarkets": [
+      "Cryptopia",
+      "Cryptsy",
+      "BitTrex",
+      "Coinse"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "N/A",
+    "Description": null,
+    "TokenType": null,
+    "WebsiteLink": null,
+    "FundingCap": null,
+    "FundingTarget": null,
+    "Date": null,
+    "EndDate": null,
+    "FundsRaisedList": null,
+    "FundsRaisedUSD": null,
+    "StartPrice": null,
+    "StartPriceCurrency": null,
+    "Jurisdiction": null,
+    "BlogLink": null,
+    "WhitePaperLink": null
+  },
+  "ccId": "4533"
+}

@@ -1,0 +1,56 @@
+{
+  "General": {
+    "Symbol": "GLA",
+    "Name": "Gladius",
+    "Description": "<p><span>Gladius is a blockchain-based solution for web security, allowing users to purchase pay-as-you-go DDoS mitigation and content delivery services from distributed pools people across the globe. Gladius allows users to connect,to protection pools near them in order to provide better protection and accelerate their content. GLA is an ERC20 token based on the Ethereum blockchain and is used as the payment method for services on the Gladius platform.</span></p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "96300000",
+    "Algorithm": null,
+    "ProofType": null,
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "29/10/2017",
+    "TotalCoinsMined": 12667973.21563612,
+    "Twitter": "@gladiusio",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": null,
+    "GitHub": null,
+    "OnMarkets": [],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Finished",
+    "Description": "<p><span>Gladius is a blockchain-based solution for web security, allowing users to</span><span> purchase pay-as-you-go DDoS mitigation and content delivery services from distributed pools people across the globe. </span><span>Gladius allows users</span><span> to connect </span><span>to protection pools near </span><span>them in order</span><span><span> </span>to provide better protection and accelerate </span><span>their</span><span><span> </span>content. GLA is an ERC20 token based on the Ethereum blockchain and is used as the payment method for services on the Gladius platform.</span></p><p><strong>Team</strong>:</p><ul><li><strong>Jeremy Epstein:</strong> Marketing Advisor <a href=\"https://www.linkedin.com/in/jer979/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Max Niebylski:</strong> Founder &amp; CEO <a href=\"https://www.linkedin.com/in/maxniebylski\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Michael Terpin:</strong> PR Advisor <a href=\"https://www.linkedin.com/in/michaelterpin/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Frank Bonnet:</strong> Technical Advisor <a href=\"https://www.linkedin.com/in/frank-bonnet-3b890865/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li></ul><p>The Gladius ICO will start on the 1st of November and will last until the 30th of November, 2017. The ICO token allocation represents 60% of the total token supply and will be available for 0.002 ETH each. The ICO funding cap is 83333 ETH.</p><p><strong>Token Reserve Split (40%):</strong></p><ul><li>10% Founders</li><li>10% Team</li><li>20% Operational (bounties, advisers, platform growth, etc.)</li></ul><p>The Gladius ICO features a Bonus and Bounty campaigns.</p><p><strong>Bonus Structure:</strong></p><ul><li>1st day: <span>20% Bonus</span></li></ul>",
+    "TokenType": "ETH (ERC20)",
+    "WebsiteLink": "https://gladius.io/token-sale",
+    "FundingCap": "12500000 USD",
+    "FundingTarget": "N/A",
+    "Date": 1511488800,
+    "EndDate": 1514340000,
+    "FundsRaisedList": "12,500,000 USD",
+    "FundsRaisedUSD": "12500000",
+    "StartPrice": "0.002",
+    "StartPriceCurrency": "ETH",
+    "Jurisdiction": "N/A",
+    "BlogLink": "https://medium.com/@gladiusio",
+    "WhitePaperLink": "https://gladius.io/pdf/gladius-whitepaper.pdf"
+  },
+  "ccId": "318704"
+}

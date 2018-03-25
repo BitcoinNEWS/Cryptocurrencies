@@ -1,0 +1,58 @@
+{
+  "General": {
+    "Symbol": "MINE",
+    "Name": "Instamine Nuggets",
+    "Description": "<p>InstaMineNuggets ($MINE) is a unique cryptocurrency designed to offer its users decentralized blockchain \"Crypto Coin Contracts\" offering potential rewards while striving to become a viable storage of wealth for the long-term. $MINE launched on 02-25-15 offering open-source desk top QT software for download and mining purposes. $MINE aims to produce an efficient network for miners and adopters alike.</p><p>$MINE was developed utilizing the identical underlying algorithm and scrypt of Litecoin and will be capped at 21649485 million coins with 30 coins per initial block and rewards halving at block 350,000 to 15 coins. $MINE&#39;s mining reward will continue to halve every 350,000 blocks; EX: 30, 15, 7.5 until all coins are completely mined and in publics hands. Target spacing is 3 minutes with a target time span of 33 hours with rewards maturing every 3 blocks mined.</p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "21649485",
+    "Algorithm": "Scrypt",
+    "ProofType": "PoW",
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "22/02/2015",
+    "TotalCoinsMined": null,
+    "Twitter": "@InstaMineNugget",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "http://www.instaminenuggets.com/",
+    "GitHub": null,
+    "OnMarkets": [
+      "BitTrex"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "N/A",
+    "Description": null,
+    "TokenType": null,
+    "WebsiteLink": null,
+    "FundingCap": null,
+    "FundingTarget": null,
+    "Date": null,
+    "EndDate": null,
+    "FundsRaisedList": null,
+    "FundsRaisedUSD": null,
+    "StartPrice": null,
+    "StartPriceCurrency": null,
+    "Jurisdiction": null,
+    "BlogLink": null,
+    "WhitePaperLink": null
+  },
+  "ccId": "5379"
+}

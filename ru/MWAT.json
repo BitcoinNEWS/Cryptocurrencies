@@ -1,0 +1,58 @@
+{
+  "General": {
+    "Symbol": "MWAT",
+    "Name": "RED MegaWatt",
+    "Description": "<p>The Restart Energy Democracy Platform or RED Platform is a blockchain-based decentralized energy trading platform that makes it possible for energy consumers and producers to <span class=\"green_text\">Send and Receive Energy Worldwide</span><span>.</span></p><p><span><span>The RED MegaWatt(MWAT) Tokens are ERC20 utility tokens that give access to the RED Platform Software and to the RED Franchise.</span></span></p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "700000000",
+    "Algorithm": null,
+    "ProofType": null,
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "16/12/2017",
+    "TotalCoinsMined": 470000000,
+    "Twitter": "@RestartEnergyio",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": null,
+    "GitHub": null,
+    "OnMarkets": [
+      "Kucoin"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Finished",
+    "Description": "<p><strong>Team</strong>:</p><ul><li><strong><span>Armand Doru Domuta</span></strong>: CEO &amp; Founder <a href=\"https://www.linkedin.com/in/armand-doru-domuta-31994123/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong><span>Renato Doicaru</span></strong>: COO &amp; Co-Founder<span> </span><a href=\"https://www.linkedin.com/in/renato-doicaru-51b96955/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong><span>Cristian Bogdan</span></strong>: CFO<span> </span><a href=\"https://www.linkedin.com/in/cristian-bogdan-14b82638/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong><span>Andrei Avram</span></strong>: CTO <a href=\"https://www.linkedin.com/in/avramandrei/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li></ul><p>RED MWAT will be holding its ICO on January 15th, 2018. The ICO token supply represents 80% of the total token supply, so there will be a total of 470,000,000 tokens available, for 0.1 USD each at the offering. The ICO funding target is 30,000,000 USD, the funding cap is 30,000,000 USD and is expected to end on January 28, 2018 or when the funding cap is reached. Any unsold/remaining tokens will be burned.</p><p><strong>Token Reserve Split (100%):</strong></p><ul><li>80% Token sale;</li><li>12% Team;</li><li>8% OTHER ( 5% Advisors and 3% bounties);</li></ul><p><span>The token will not be mineable.</span></p><p> </p>",
+    "TokenType": "ETH (ERC20)",
+    "WebsiteLink": "https://restartenergy.io/",
+    "FundingCap": "30,000,000 USD",
+    "FundingTarget": "30,000,000 USD",
+    "Date": 1515974400,
+    "EndDate": 1517097600,
+    "FundsRaisedList": "30,000,000 USD",
+    "FundsRaisedUSD": "30000000",
+    "StartPrice": "0.1",
+    "StartPriceCurrency": "USD",
+    "Jurisdiction": "N/A",
+    "BlogLink": "https://blog.restartenergy.io",
+    "WhitePaperLink": "https://restartenergy.io/Restart_Energy_Whitepaper.pdf"
+  },
+  "ccId": "770254"
+}

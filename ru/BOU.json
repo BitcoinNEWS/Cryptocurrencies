@@ -1,0 +1,56 @@
+{
+  "General": {
+    "Symbol": "BOU",
+    "Name": "Boulle",
+    "Description": "<p>Boulle is a blockchain based solution to voting. Their Voting System on the Blockchain requires two steps: ID authentication and vote submission. Authentication in Boulé Voting Technology is based on the Ethereum Blockchain.<br /><br />Smart Contract will be public and preview available to be verified, same as the exit poll at the end of the voting process. The Elector Identification Process starts from the National Security Number and it requires several simple and secure steps explained on this page. After identification, electors can vote. The Vote can be modified several times until the end of the voting period. Once the voting period is ended, the transaction is confirmed and it is not possible to change it or to remove it from the Blockchain and it will be recorded forever. It will be impossible to associate Voter&#39;s Identity with the vote through the transaction.</p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": null,
+    "Algorithm": null,
+    "ProofType": null,
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "01/01/0001",
+    "TotalCoinsMined": null,
+    "Twitter": "https://twitter.com/BouleCoin",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": null,
+    "GitHub": null,
+    "OnMarkets": [],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Ongoing",
+    "Description": "<p>The Boulé System aims to be the main Blockchain based vote technology. It will provide a secure and anonymous gateway to confirm the vote. Electoral organisers will purchase BOU Token to allow their electors to vote. BOU will be chased as counterpart of elector ID validation.</p><p>The token will be sold to election organizers in order to run their service. The larger the election the more tokens are required. Boule will conduct a pre-sale on the 28th of August</p><p><strong>Team:</strong></p><ul><li>Claudio Perlini: Project Lead</li><li><strong>Giovanni Zorzato</strong>: Tech Lead</li><li><strong>William Selmo</strong>: Business Developer</li><li><strong>Edoardo Birbini</strong>: UX/UI design</li></ul><p><strong>Token Reserve Distriution (50%):</strong></p><ul><li>20% Partnership and Community</li><li>20% Foundation reserve</li><li>10% Team and Advisory with a 6 month cliff and 2 years vesting</li></ul><p><strong>Bonus Structure:</strong></p><ul><li>Day 1, 1 ETH = 2000 BOU</li><li>After Day 1, 1 ETH = 1400 BOU</li></ul>",
+    "TokenType": "ETH (ERC20)",
+    "WebsiteLink": "https://www.boule.one/presale/",
+    "FundingCap": "300 ETH",
+    "FundingTarget": "N/A",
+    "Date": 1503903600,
+    "EndDate": 1506340800,
+    "FundsRaisedList": "577.12 ETH",
+    "FundsRaisedUSD": "169586",
+    "StartPrice": "0.0005",
+    "StartPriceCurrency": "ETH",
+    "Jurisdiction": "N/A",
+    "BlogLink": "https://medium.com/boulecoin",
+    "WhitePaperLink": "https://www.dropbox.com/s/2x32r12e99xl4wq/boul%C3%A9%20whitepaper.pdf?dl=1"
+  },
+  "ccId": "241804"
+}

@@ -1,0 +1,60 @@
+{
+  "General": {
+    "Symbol": "VSL",
+    "Name": "vSlice",
+    "Description": "<p>vSlice is a token issued on the Ethereum blockchain. It represents a piece in the ownership of the vDice gambling dapp and its revenue. This token will issue dividends produced by the gambling fees charged on vDice, which is a fully decentralized version of SatoshiDICE for Ether betting. </p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "33390496.0333",
+    "Algorithm": null,
+    "ProofType": null,
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "15/11/2016",
+    "TotalCoinsMined": "33390496.0333756",
+    "Twitter": "@vdice_io",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "https://www.vdice.io/",
+    "GitHub": null,
+    "OnMarkets": [
+      "LiveCoin",
+      "Liqui",
+      "EtherDelta"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Finished",
+    "Description": "<p><span>vDice is an ERC20 gambling platform which can be compared to the Ethereum version of the classic SatoshiDICE. Players send ETH to a smart contract, which pays out rewards based on random numbers. Numbers.org serves as the oracle. 6,000 bets have been placed in the beta version. The vSlice tokens entitles holders to 50% of house profits.</span></p><p><span style=\"text-decoration: underline;\">Bonus</span></p><ul><li><span>Week 1: 130 vSlice per ETH</span></li><li><span>Week 2: 120 vSlice per ETH</span></li><li><span>Weeks 3-4: 100 vSlice per ETH</span></li></ul><p><span>Legal and Compliance: 23% allocation.<br />Expenses, Salaries and Rewards: 23% allocation.<br />Paying expenses and rewards for initiation of the Crowdsale: 15% allocation.<br />Development of new games and projects, according to core competencies: 39% allocation.<br /></span></p><p><a href=\"https://blog.vdice.io/wp-content/uploads/2016/10/vdice_game_code_audit_october_2016.pdf\" target=\"_blank\"><span>Security audit report</span></a></p>",
+    "TokenType": "ETH (ERC20)",
+    "WebsiteLink": "http://www.vslice.io/",
+    "FundingCap": "700,000 ETH",
+    "FundingTarget": "N/A",
+    "Date": 1479211200,
+    "EndDate": 1481803200,
+    "FundsRaisedList": "2112.5 BTC",
+    "FundsRaisedUSD": "1647000",
+    "StartPrice": "0.0493",
+    "StartPriceCurrency": "USD",
+    "Jurisdiction": "N/A",
+    "BlogLink": "https://blog.vdice.io/",
+    "WhitePaperLink": "https://blog.vdice.io/wp-content/uploads/2016/10/vDice_ICO_Whitepaper_English.pdf"
+  },
+  "ccId": "32880"
+}

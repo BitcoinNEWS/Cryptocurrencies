@@ -1,0 +1,56 @@
+{
+  "General": {
+    "Symbol": "MASS",
+    "Name": "Mass.Cloud",
+    "Description": "<p>The Mass.Cloud system allows users to earn interest from PoS and Masternode cryptocurrencies without being exposed to the volatility of one single coin. Mass.Cloud hosts a selection PoS nodes and masternodes and distributes the profits made in Ether through MASS token holders, according to the number of tokens held. MASS is an ERC20 Ethereum token.</p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "N/A",
+    "Algorithm": "N/A",
+    "ProofType": "N/A",
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "12/07/2017",
+    "TotalCoinsMined": 1.3e+25,
+    "Twitter": "@MASSToken",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "https://mass.cloud/",
+    "GitHub": null,
+    "OnMarkets": [],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Upcoming",
+    "Description": "<p><span>The Mass.Cloud system allows users to earn interest from PoS and Masternode cryptocurrencies without being exposed to the volatility of one single coin. Mass.Cloud hosts a selection PoS nodes and masternodes and </span><span>distributes</span><span> the profits made in Ether through MASS token holders, according to the number of tokens held. MASS is an ERC20 Ethereum token.</span></p><p><span>Mass.Cloud is currently in the presale stage. In August (Target), Mass.Cloud will host its ICO in which there will be the following bonuses:</span></p><p><span>Phase 1 of the ICO will offer 20% more tokens on purchases on the first 6 million tokens.</span></p><p><span>Phase 2 of the ICO will offer 10% more tokens on purchases on the next 11 million tokens.</span></p><p><span>Phase 3 of the ICO will offer no bonus tokens and a flat exchange rate of 1000 tokens per Ethereum is set on the next 25 million tokens.</span></p>",
+    "TokenType": "ETH (ERC20)",
+    "WebsiteLink": "https://mass.cloud/",
+    "FundingCap": "50000 ETH",
+    "FundingTarget": "N/A",
+    "Date": null,
+    "EndDate": null,
+    "FundsRaisedList": "N/A",
+    "FundsRaisedUSD": "N/A",
+    "StartPrice": "0.001",
+    "StartPriceCurrency": "ETH",
+    "Jurisdiction": "N/A",
+    "BlogLink": null,
+    "WhitePaperLink": "https://mass.cloud/MASS-whitepaper.pdf"
+  },
+  "ccId": "184135"
+}

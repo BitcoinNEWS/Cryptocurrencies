@@ -1,0 +1,59 @@
+{
+  "General": {
+    "Symbol": "INDI",
+    "Name": "IndiCoin",
+    "Description": "<p>Indicoin<span> </span>is a social platform that aims to provide a tool where people can help the less<span> </span>p<span>rivileged from any part of the world. This platform will leverage the Ethereum blockchain to provide meaningful tasks to the user community and attach a monetary value to it, creating a community of people who are incentivized to do socially positive and constructive tasks.</span></p><p>Indicoin tokens will give the users voting rights to decide either to accept or reject a suggested task and also will able users to receive rewards for participating in tasks.</p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "550000000",
+    "Algorithm": null,
+    "ProofType": "PoW",
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "15/08/2017",
+    "TotalCoinsMined": 550000000,
+    "Twitter": "@Indi_Coin",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": null,
+    "GitHub": null,
+    "OnMarkets": [
+      "HitBTC",
+      "EtherDelta"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Finished",
+    "Description": "<p>Indicoin<span> </span>is a social platform that aims to provide a tool where people can help the less<span> </span>p<span>rivileged from any part of the world. This platform will leverage the Ethereum blockchain to provide meaningful tasks to the user community and attach a monetary value to it, creating a community of people who are incentivized to do socially positive and constructive tasks.</span></p><p>Indicoin tokens will give the users voting rights to decide either to accept or reject a suggested task and also will able users to receive rewards for participating in tasks.</p><p><strong>Team</strong>:</p><ul><li><strong>Supreet Gupta</strong></li><li><strong>Kapil Kapadi</strong></li><li><strong>Varad Shambhawa</strong></li></ul><p>IndiCoin will be holding its ICO on the 1st of October, 2017 and end on the 7th of November, 2017. The ICO token supply represents 51% of the total token supply, so there will be a total of <span>280,500,000 t</span>okens available, for 0,00008 ETH each during the offering. </p><p><strong>Token Reserve Split (49%):</strong></p><ul><li>27% to the Company;</li><li>22% to the Team, advisers and Bounty campaign;</li></ul><p><span>IndiCoin ICO will feature a bounty campaign and bonuses, and the token will not be mineable.</span></p>",
+    "TokenType": "ETH (ERC20)",
+    "WebsiteLink": "https://www.indicoin.org.in/",
+    "FundingCap": "22,500 ETH",
+    "FundingTarget": "1000 ETH",
+    "Date": 1506816000,
+    "EndDate": 1510079399,
+    "FundsRaisedList": "6,720,000 USD",
+    "FundsRaisedUSD": "6720000",
+    "StartPrice": "0.00008",
+    "StartPriceCurrency": "ETH",
+    "Jurisdiction": "N/A",
+    "BlogLink": "https://medium.com/@Indi_coin",
+    "WhitePaperLink": "https://www.indicoin.org.in/wp-content/uploads/2017/09/Indicoin-Whitepaper.pdf"
+  },
+  "ccId": "351078"
+}

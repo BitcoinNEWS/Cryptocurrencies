@@ -1,0 +1,59 @@
+{
+  "General": {
+    "Symbol": "EMGO",
+    "Name": "MobileGo",
+    "Description": "<p>MobileGo is a token backed by the Gamecredits, a gaming platform. The Gamecredits Team will use the blockchain technology to develop a decentralized mobile gaming store.</p><p>The mobile gaming store will feature smart contracts and will be powered by the MobileGo, an ERC-20 token that will allow gamers to purchase in-game content and be rewarded for loyalty and participation in the platform.</p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "100000000",
+    "Algorithm": null,
+    "ProofType": null,
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "16/02/2017",
+    "TotalCoinsMined": 100000000,
+    "Twitter": "@MobileGoToken",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": null,
+    "GitHub": null,
+    "OnMarkets": [
+      "Tidex",
+      "HitBTC"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "N/A",
+    "Description": null,
+    "TokenType": null,
+    "WebsiteLink": null,
+    "FundingCap": null,
+    "FundingTarget": null,
+    "Date": null,
+    "EndDate": null,
+    "FundsRaisedList": null,
+    "FundsRaisedUSD": null,
+    "StartPrice": null,
+    "StartPriceCurrency": null,
+    "Jurisdiction": null,
+    "BlogLink": null,
+    "WhitePaperLink": null
+  },
+  "ccId": "531426"
+}

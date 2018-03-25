@@ -1,0 +1,64 @@
+{
+  "General": {
+    "Symbol": "ENG",
+    "Name": "Enigma",
+    "Description": "<p>Enigma is a decentralized data marketplace, that guarantees the privacy of their users&#39; shared data cryptographically. <span>Enigma’s computational model is based on an optimized version of secure multi-party computation, backed by a verifiable secret-sharing scheme. For storage, Enigma uses a </span>modified<span><span> </span>distributed<span> </span></span>hashtable<span><span> </span>for holding secret-shared data. An external blockchain is utilized as the controller of the network. It manages access control, identities and serves as a tamper-proof log of events. Security deposits are required and fees are charged in order to incentivize operation, correctness and fairness in the system. ENG is an Ethereum-based ERC 20 token that serves as currency on Enigma&#39;s network.</span></p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "150000000",
+    "Algorithm": null,
+    "ProofType": null,
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "28/07/2017",
+    "TotalCoinsMined": 150000000,
+    "Twitter": "@EnigmaMPC",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": null,
+    "GitHub": null,
+    "OnMarkets": [
+      "Tidex",
+      "OKEX",
+      "HitBTC",
+      "BitTrex",
+      "Binance",
+      "EtherDelta",
+      "Liqui"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "N/A",
+    "Description": null,
+    "TokenType": null,
+    "WebsiteLink": null,
+    "FundingCap": null,
+    "FundingTarget": null,
+    "Date": null,
+    "EndDate": null,
+    "FundsRaisedList": null,
+    "FundsRaisedUSD": null,
+    "StartPrice": null,
+    "StartPriceCurrency": null,
+    "Jurisdiction": null,
+    "BlogLink": null,
+    "WhitePaperLink": null
+  },
+  "ccId": "338335"
+}

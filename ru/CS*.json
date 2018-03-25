@@ -1,0 +1,60 @@
+{
+  "General": {
+    "Symbol": "CS*",
+    "Name": "Credits",
+    "Description": "<p>Credits is a decentralized financial platform based on the Ethereum blockchain. The platform allows the delivery of financial services (money transfers, currency and value exchanges, crediting and funding, just to name a few) via a distributed ledger, smart contracts and Credits cryptocurrency in a peer-to-peer (P2P) basis.</p><p>Credits cryptocurrency (CS) is a utility token.</p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "249471071.21",
+    "Algorithm": null,
+    "ProofType": null,
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "14/11/2017",
+    "TotalCoinsMined": null,
+    "Twitter": "@creditscom",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": null,
+    "GitHub": null,
+    "OnMarkets": [
+      "Tidex",
+      "Kucoin",
+      "Gateio"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "N/A",
+    "Description": null,
+    "TokenType": null,
+    "WebsiteLink": null,
+    "FundingCap": null,
+    "FundingTarget": null,
+    "Date": null,
+    "EndDate": null,
+    "FundsRaisedList": null,
+    "FundsRaisedUSD": null,
+    "StartPrice": null,
+    "StartPriceCurrency": null,
+    "Jurisdiction": null,
+    "BlogLink": null,
+    "WhitePaperLink": null
+  },
+  "ccId": "799597"
+}

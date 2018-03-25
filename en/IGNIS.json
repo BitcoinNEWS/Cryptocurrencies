@@ -1,0 +1,59 @@
+{
+  "General": {
+    "Symbol": "IGNIS",
+    "Name": "Ignis",
+    "Description": "<p>Jelurida, the company behind NXT, is building Ardor as a next-gen version of NXT. The platform will feature child chains as a service, the first of which will be Ignis which will se IGNIS for its operations. <span>All of the existing and well tested Nxt blockchain features will be available on the Ignis child chain, with multiple Ardor platform specific enhancements being added.</span></p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": null,
+    "Algorithm": null,
+    "ProofType": null,
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "05/08/2017",
+    "TotalCoinsMined": 761143950,
+    "Twitter": null,
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": null,
+    "GitHub": null,
+    "OnMarkets": [
+      "BitTrex",
+      "HitBTC"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Ongoing",
+    "Description": "<p><span>Jelurida, the company behind NXT, is building Ardor as a next-gen version of NXT. The platform will feature child chains as a service, the first of which will be Ignis which will se IGNIS for its operations. </span><span>All of the existing and well tested Nxt blockchain features will be available on the Ignis child chain, with multiple Ardor platform specific enhancements being added.</span></p><p><strong>Team</strong>:</p><ul><li><strong>Kristina Kalcheva: </strong>Co-Founder <a href=\"https://www.linkedin.com/in/kristina-kalcheva\" target=\"_blank\"><img src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Lior Yaffe: </strong>Co-Founder, Senior Developer <a href=\"https://il.linkedin.com/in/lior-yaffe-61106b1\" target=\"_blank\"><img src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Petko Petkov: </strong>Co-founder, Core Developer <a href=\"https://bg.linkedin.com/in/petko-petkov-792a0829\" target=\"_blank\"><img src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Tomislav Gountchev:</strong> Lead Software Architect <a href=\"https://www.linkedin.com/in/gountchev\" target=\"_blank\"><img src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li></ul><p> </p><p>Jelurida will be holding an ICO for Augur, starting on the 26th of August (2nd round) and lasting until the 14th of October with some pauses along the way. </p><p>The total amount of IGNIS coins issued will be equal to half of the amount of NXT coins existing on the Nxt blockchain at the time of the Ardor Genesis Snapshot, plus 500 M (five hundred million).</p><p>Approximately half of the IGNIS coins will be reserved and distributed automatically to the NXT holders based on their account balances at the time of the Ardor Genesis Snapshot, at 1 NXT = 0.5 IGNIS ratio.</p><p>From the remaining 500 M (five hundred million) IGNIS, 440 M (four hundred and forty million) will be offered to the general public in a crowdsale (ICO), and 60 M (sixty million) will be kept by Jelurida.</p><p><span>There are bonuses for the Ignis ICO</span></p><p><strong>Bonus Structure:</strong></p><table border=\"1\" cellspacing=\"1\" cellpadding=\"1\" align=\"center\" summary=\"Dates, prices, and amounts of JRLDA tokens offered for sale in the Ignis ICO\"><thead><tr><th scope=\"col\">Dates</th><th scope=\"col\">JLRDA tokens for sale</th><th scope=\"col\">Price of 1 JLRDA in NXT</th></tr></thead><tbody><tr><td>Aug 05 - Aug 12</td><td>60,000,000</td><td>0.40</td></tr><tr><td>Aug 26 - Sep 02</td><td>80,000,000</td><td>0.55</td></tr><tr><td>Sep 09 - Sep 16</td><td>100,000,000</td><td>0.76</td></tr><tr><td>Sep 23 - Sep 30</td><td>100,000,000</td><td>1.05</td></tr><tr><td>Oct 07 - Oct 14</td><td>up to 100,000,000</td><td>1.45</td></tr></tbody></table>",
+    "TokenType": "NXT",
+    "WebsiteLink": "https://www.jelurida.com/ico",
+    "FundingCap": "N/A",
+    "FundingTarget": "N/A",
+    "Date": 1504915200,
+    "EndDate": 1508544000,
+    "FundsRaisedList": "144000000 NXT",
+    "FundsRaisedUSD": "N/A",
+    "StartPrice": "0.55",
+    "StartPriceCurrency": "NXT",
+    "Jurisdiction": "N/A",
+    "BlogLink": null,
+    "WhitePaperLink": "https://www.jelurida.com/sites/default/files/JeluridaWhitepaper.pdf"
+  },
+  "ccId": "231674"
+}

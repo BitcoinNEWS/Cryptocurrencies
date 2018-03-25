@@ -1,0 +1,56 @@
+{
+  "General": {
+    "Symbol": "SCOR",
+    "Name": "Scorista",
+    "Description": "<p>Scorista aims to be the first decentralised credit bureau and risk management assistant for crypto banks. Scorista uses machine learning to predict the threats of non-performing loans and to control the quality of the credit portfolio. Just like solution for alternative lenders, Scorista for crypto banks provides clients with an instant credit decisions (Approve or Deny the credit with detailed explanation in each case) and money-back guarantee for the results.</p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": null,
+    "Algorithm": null,
+    "ProofType": null,
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "21/08/2017",
+    "TotalCoinsMined": null,
+    "Twitter": "https://twitter.com/scorista",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": null,
+    "GitHub": null,
+    "OnMarkets": [],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Ongoing",
+    "Description": "<p>Scorista aims to be the first decentralised credit bureau and risk management assistant for every crypto bank in the world. Created by managers , mathematicians and programmers, Scorista wants to become the global crypto credit assessment standard. Scorista serves 120 lenders in 5 countries and has prepared more than 2.5 Million credit decisions. Scorista uses machine learning algorithms based on 3 Million credit decisions to provide crypto banks with risk management.</p><p><strong>Team:</strong></p><ul><li><strong>Daniel Sherstobitov</strong>: Cofounder and risk director</li><li><strong>Maria Veikhman</strong>: Cofounder and CEO</li><li><strong>Alexey Chudinov</strong>: CTO</li><li><strong>Yulya Sharapova</strong>: Finance</li></ul><p><strong>Token Reserve Split (11%)</strong>:</p><ul><li>9% Founders</li><li>2% Bounty campaign participants</li></ul><p><strong>Bounty Campaign</strong>:</p><ul><li>Translations: 10%</li><li>Signature campaign: 15%</li><li>Online discussions support: 15%</li><li>Promotional campaign at Facebook: 10%</li><li>Promotional campaign at Twitter: 10%</li><li>Special support: 40%</li></ul><p><strong>Bonuses:</strong></p><ul><li>Day 1: 30%</li><li>Day 2-7: 20%</li><li>Day 8-14: 10%</li></ul>",
+    "TokenType": "N/A",
+    "WebsiteLink": "http://ico.scorista.com/",
+    "FundingCap": "50,000,000 USD",
+    "FundingTarget": "N/A",
+    "Date": 1504382400,
+    "EndDate": 1505181600,
+    "FundsRaisedList": "8.732 ETH; 0.441 BTC",
+    "FundsRaisedUSD": "100000",
+    "StartPrice": "1",
+    "StartPriceCurrency": "USD",
+    "Jurisdiction": "N/A",
+    "BlogLink": null,
+    "WhitePaperLink": "http://ico.scorista.com/img/SCORISTA_White_Paper.pdf"
+  },
+  "ccId": "234659"
+}

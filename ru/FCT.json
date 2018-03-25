@@ -1,0 +1,61 @@
+{
+  "General": {
+    "Symbol": "FCT",
+    "Name": "Factoids",
+    "Description": "<p><strong>Blockchain to Business and Governments</strong></p><p>Factom is a system for securing millions of real-time records in the blockchain with a single hash.</p><p>Businesses and governments can use Factom to simplify records management, record business processes, and address security and compliance issues.</p><p>Factom uses the blockchain to power a remarkable range of applications, including audit systems, medical records, supply chain management, voting systems, property titles, legal applications, and financial systems. </p><p>Download the <a href=\"https://github.com/FactomProject/FactomDocs/blob/master/Factom_Whitepaper.pdf?raw=true\" target=\"_blank\">Factom Whitepaper</a> to understand out how business and governments can use the blockchain technology to improve their services and their profit margins.</p>",
+    "Features": "<p>Factoids are traded on Poloniex under the ticker – “FCT”, making the whole project more approachable for novice users. The ticker “FCT” coupled with “Factom Exchange” should make it a lot easier for anyone to find the software tokens on Poloniex. It’s not necessary to know all the technical aspects regarding Factom or Factoids to reap the benefits of this platform.</p><p>Investors have been eagerly awaiting the addition of Factoids on major cryptocurrency exchanges since the conclusion of the Factom token sale. Factoids trading on crypto-exchanges are likely to generate additional interest in the Factom platform while allowing new community members to purchase some tokens for future use.</p><p>In preparation for the launch of the Factoids trading market on Poloniex, the Factom team also released the binaries and installers for the project’s software client recently. The Factom client provides a convenient manner of storing and transferring Factoids.</p>",
+    "Technology": "<p><strong>Will Factoids have their own blockchain?</strong></p><p>Ultimately Factoids will be implemented on their own Chain in Factom. For the crowd sale, other options are possible.</p><p><strong>How are Factoids created?</strong></p><p>Two ways. Factoids will be created as a part of the crowd sale. Secondly, Factoids will be created at a fixed rate and paid to the Factom Servers and Audit Servers for their work running the system, and to pay other incentives.</p><p><strong>Is there a separate Proof of Work or other consensus mechanism for factoids, independent of factom?</strong></p><p>No. That said, the Factom chain and the Entry chain are managed by the Factom Servers (they are the application using these chains) so they validate them in real time. No invalid entries can be placed in these chains.</p><p><strong>How do factoids get sent back to the protocol? Is it a kind of burn?  </strong></p><p>No. The Entry Credits are burned. Entry Credits are non transferable. They can only be used to buy entries. But when they DO buy entries, the Factoid in the protocol that was used to buy the Entry Credits is released. The amount of Factoids varies since the price of Entry Credits per Factoid varies.  </p><p>The Factoid paid out is calculated by dividing the total number of Factoid in the protocol by the number of outstanding Entry Credits.  </p><p>The number of Factoids in the protocol and the number of outstanding Entry Credits are all computable from the Entry Chain and the Factoid Chain.  </p>",
+    "TotalCoinSupply": "8753873",
+    "Algorithm": null,
+    "ProofType": null,
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "05/10/2015",
+    "TotalCoinsMined": "8753873",
+    "Twitter": "@factomproject",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "http://factom.org/",
+    "GitHub": null,
+    "OnMarkets": [
+      "Cryptopia",
+      "BitZ",
+      "BitTrex",
+      "Poloniex"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "N/A",
+    "Description": null,
+    "TokenType": null,
+    "WebsiteLink": null,
+    "FundingCap": null,
+    "FundingTarget": null,
+    "Date": null,
+    "EndDate": null,
+    "FundsRaisedList": null,
+    "FundsRaisedUSD": null,
+    "StartPrice": null,
+    "StartPriceCurrency": null,
+    "Jurisdiction": null,
+    "BlogLink": null,
+    "WhitePaperLink": null
+  },
+  "ccId": "13280"
+}

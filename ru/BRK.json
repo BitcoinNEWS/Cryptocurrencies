@@ -1,0 +1,59 @@
+{
+  "General": {
+    "Symbol": "BRK",
+    "Name": "BreakoutCoin",
+    "Description": "<div class=\"4u 12u$(medium)\"><p>Breakout Chain is <span>Multicurrency Blockchain based platform</span>. <span>Breakout Chain allows the issuance of colored coins, pegged currencies and the deployment of smart contracts Break Chain&#39;s main currency is BreakCoin (BRK), which</span><span> can also be used to gamble </span><span>on the</span><span> Breakout Gaming Platform.</span></p></div><div class=\"4u$ 12u$(medium)\"></div>",
+    "Features": "<p>Multicurrencies – multiple currencies carried on a single chain</p><p>Multicurrency Hybrid PoW/PoS – a security mechanism where currency A is rewarded to secure a chain using Proof-of-Work, and currency B is rewarded to secure the same chain using Proof-of-Stake (PoS, also described below)</p><p>Breakout Gravity Wave – a difficulty algorithm derived from Dark Gravity Wave that throttles block creation.</p><p>Delegated Fees – the ability to send currency A but pay for the transaction in currency B</p><p>Fee Scavenging – the ability for transaction fee collection to be deferred until a Proof-of-Work claims the fee</p><p>Nonmalleable Transactions – transactions protected against changes to their transaction IDs</p><p>Colored Coins – currencies with only one unit that is indivisible, a proof of concept for which has been incorporated into Breakout Chain in the form of a deck of cards</p><p><span>Currency Interrelationships</span></p><p>Exchange Friendliness</p>",
+    "Technology": null,
+    "TotalCoinSupply": null,
+    "Algorithm": "SHA256",
+    "ProofType": "PoW/PoS",
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "15/10/2015",
+    "TotalCoinsMined": 18725143,
+    "Twitter": "@BreakoutGaming",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "http://breakoutenterprise.com/",
+    "GitHub": null,
+    "OnMarkets": [
+      "Novaexchange",
+      "BitTrex"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "N/A",
+    "Description": null,
+    "TokenType": null,
+    "WebsiteLink": null,
+    "FundingCap": null,
+    "FundingTarget": null,
+    "Date": null,
+    "EndDate": null,
+    "FundsRaisedList": null,
+    "FundsRaisedUSD": null,
+    "StartPrice": null,
+    "StartPriceCurrency": null,
+    "Jurisdiction": null,
+    "BlogLink": null,
+    "WhitePaperLink": null
+  },
+  "ccId": "20892"
+}

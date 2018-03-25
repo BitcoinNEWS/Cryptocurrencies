@@ -1,0 +1,59 @@
+{
+  "General": {
+    "Symbol": "SCOT",
+    "Name": "Scotcoin",
+    "Description": "<p>Scotcoin 2.0 is a Counterparty asset that replaced the original <span>SHA-256 </span>Scotcoin.</p><p>The Scotcoin project plans to spreat their cryptocurrency <span> to the people of Scotland and to ensure SCOT is widely accepted in all areas of commerce and society in Scotland in order to grow the Scottish economy.</span></p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "1000000000",
+    "Algorithm": "Counterparty",
+    "ProofType": null,
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "15/11/2014",
+    "TotalCoinsMined": 1000000000,
+    "Twitter": "@ScotcoinProject",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "http://www.scotcoin.org/",
+    "GitHub": null,
+    "OnMarkets": [
+      "BitTrex",
+      "Coinse"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "N/A",
+    "Description": null,
+    "TokenType": null,
+    "WebsiteLink": null,
+    "FundingCap": null,
+    "FundingTarget": null,
+    "Date": null,
+    "EndDate": null,
+    "FundsRaisedList": null,
+    "FundsRaisedUSD": null,
+    "StartPrice": null,
+    "StartPriceCurrency": null,
+    "Jurisdiction": null,
+    "BlogLink": null,
+    "WhitePaperLink": null
+  },
+  "ccId": "20342"
+}

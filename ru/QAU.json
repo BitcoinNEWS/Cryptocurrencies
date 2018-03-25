@@ -1,0 +1,60 @@
+{
+  "General": {
+    "Symbol": "QAU",
+    "Name": "Quantum",
+    "Description": "<p>The Quantum project aims to bring institutional grade liquidity to the cryptocurrency and digital asset markets, which is currently one of the main impediments to large scale adoption. Quantum will do this by deploying liquidity pools which will provide funds <span> for margin trading to exchanges, connecting various markets by arbitraging price differences and making markets using price neutral algorithmic trading. </span><span>Any income generated from the liquidity pool will be used to buy back Quantum tokens on the market at the best possible price and destroy them publically, making the QAU token a deflationary currency.</span></p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "246855127",
+    "Algorithm": "N/A",
+    "ProofType": "N/A",
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "15/04/2017",
+    "TotalCoinsMined": 240395553.46745625,
+    "Twitter": "QAUProject",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "http://www.quantumproject.org/",
+    "GitHub": null,
+    "OnMarkets": [
+      "LiveCoin",
+      "HitBTC",
+      "EtherDelta"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Finished",
+    "Description": "<p><span>Quantum will do this by deploying liquidity pools which will provide funds </span><span> for margin trading to exchanges, connecting various markets by arbitraging price differences and making markets using price neutral algorithmic trading. </span><span>Any income generated from the liquidity pool will be used to buy back Quantum tokens on the market at the best possible price and destroy them publically, making the QAU token a deflationary currency.</span></p><p> </p>",
+    "TokenType": "ETH (ERC20)",
+    "WebsiteLink": "http://www.quantumproject.org/",
+    "FundingCap": "N/A",
+    "FundingTarget": "N/A",
+    "Date": 1492218000,
+    "EndDate": 1494810000,
+    "FundsRaisedList": "2417.33 BTC",
+    "FundsRaisedUSD": "4122708",
+    "StartPrice": "0.05",
+    "StartPriceCurrency": "USD",
+    "Jurisdiction": "N/A",
+    "BlogLink": null,
+    "WhitePaperLink": "http://www.quantumproject.org/s/whitepaper.pdf"
+  },
+  "ccId": "170958"
+}

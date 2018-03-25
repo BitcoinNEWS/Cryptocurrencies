@@ -1,0 +1,56 @@
+{
+  "General": {
+    "Symbol": "ZEN*",
+    "Name": "Zen Protocol",
+    "Description": "<p><span>Zen Protocol is a blockchain built for finance. It&#39;s focus is to help developers writing <span>fast, scalable and reliable smart contracts</span><span>.<span> Zen Protocol features Bitcoin integration, faster smart contracts by proving how long they take to run, which means there&#39;s no need for a \"gas\" system, and a native token use and issuance. </span></span></span></p><p><span><span><span>Z</span></span></span><span><span><span>EN is an ERC20 token used to activate contracts. Contracts are pay-per-block, meaning they don&#39;t use network resources that they don&#39;t pay for. The token is also used to vote on what mix of hash functions should be used in Zen Protocol&#39;s PoW.</span></span><br /></span></p><p> </p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "100000000",
+    "Algorithm": null,
+    "ProofType": null,
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "17/12/2017",
+    "TotalCoinsMined": null,
+    "Twitter": "@zen_protocol",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": null,
+    "GitHub": null,
+    "OnMarkets": [],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "N/A",
+    "Description": null,
+    "TokenType": null,
+    "WebsiteLink": null,
+    "FundingCap": null,
+    "FundingTarget": null,
+    "Date": null,
+    "EndDate": null,
+    "FundsRaisedList": null,
+    "FundsRaisedUSD": null,
+    "StartPrice": null,
+    "StartPriceCurrency": null,
+    "Jurisdiction": null,
+    "BlogLink": null,
+    "WhitePaperLink": null
+  },
+  "ccId": "586160"
+}

@@ -1,0 +1,58 @@
+{
+  "General": {
+    "Symbol": "SND",
+    "Name": "Sandcoin",
+    "Description": "<p><span>The Sandcoin project </span><span>allows its holders to participate in the creation of a crowd-sourced sand quarry project in which non-metallic materials will be mined to generate revenue and buy-back the SND token at a higher price. The SND token is an Ethereum-based asset.</span></p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "2684319 ",
+    "Algorithm": null,
+    "ProofType": null,
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "18/09/2017",
+    "TotalCoinsMined": 2684319,
+    "Twitter": "@ruslanyocto",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": null,
+    "GitHub": null,
+    "OnMarkets": [
+      "EtherDelta"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Ongoing",
+    "Description": "<p>The Sandcoin project allows its holders to participate in the creation of a crowd-sourced sand quarry project in which non-metallic materials will be mined to generate revenue and buy-back the SND token at a higher price. The SND token is an Ethereum-based asset.</p><p><strong>Team</strong>:</p><ul><li><strong>Ruslan Pichugin:</strong> CEO</li><li><strong>Grachkov Kirill:</strong> COO</li><li><strong>Eduard Egorov:</strong> CMO</li><li><strong>Eugene Khashin:</strong> CTO</li></ul><p>The Sandcoin ICO started on the 18th of September and it will last until the 18th of November 2017. The ICO token allocation represents 93.23% of the total token supply and will be available for a $1.25 starting price each. The funding target for the ICO is  $1175000.</p>",
+    "TokenType": "ETH (ERC20)",
+    "WebsiteLink": "https://en.sandcoin.io/",
+    "FundingCap": "N/A",
+    "FundingTarget": "$4000000",
+    "Date": 1505692800,
+    "EndDate": 1508284800,
+    "FundsRaisedList": "Pre-ICO: 218,500 USD\r\nICO: 1,786,424 SND",
+    "FundsRaisedUSD": "1500000",
+    "StartPrice": "1.25",
+    "StartPriceCurrency": "USD",
+    "Jurisdiction": "N/A",
+    "BlogLink": "https://twitter.com/ruslanyocto",
+    "WhitePaperLink": "https://en.sandcoin.io/SNDWPENupdate.pdf?1"
+  },
+  "ccId": "314865"
+}

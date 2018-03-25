@@ -1,0 +1,59 @@
+{
+  "General": {
+    "Symbol": "ADB",
+    "Name": "Adbank",
+    "Description": "<p><span>Adbank is an online ad platform built on the Ethereum blockchain. The platform will leverage the blockchain and AI technologies to remove the costly middlemen and also mitigate the $50 billion </span>problems<span><span> </span>of ad fraud. By using the Adbank platform, publishers will be able to get paid for their content while charging advertisers less and creating a transparent ecosystem that benefits all key stakeholders in the industry. Existing ad platforms will be able to access anti-fraud AI tools through<span> </span></span>Adbank’s<span><span> </span>API, which will be powered with ADB tokens.</span></p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "1000000000",
+    "Algorithm": null,
+    "ProofType": null,
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "15/11/2017",
+    "TotalCoinsMined": 1000000000,
+    "Twitter": "@adbanknetwork",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": null,
+    "GitHub": null,
+    "OnMarkets": [
+      "Kucoin",
+      "EtherDelta"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Finished",
+    "Description": "<p><span>Adbank is an online ad platform built on the Ethereum blockchain. The platform will leverage the blockchain and AI technologies to remove the costly middlemen and also mitigate the $50 billion </span>problem<span><span> </span>of ad fraud. By using the Adbank platform, publishers will be able to get paid for their content while charging advertisers less and creating a transparent ecosystem that benefits all key stakeholders in the industry. Existing ad platforms will be able to access anti-fraud AI tools through<span> </span></span>Adbank’s<span><span> </span>API, which will be powered with ADB tokens.</span></p><p><strong>Team</strong>:</p><ul><li><strong>Jon Gillham</strong>: Founder &amp; CEO. <a href=\"https://www.linkedin.com/in/jon-gillham-80912a14a/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Chiron Bramberger</strong>: Co-Founder &amp; CTO. <a href=\"https://www.linkedin.com/in/chironbramberger/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Kelsey Cole</strong>: Co-Founder &amp; CBO.<span> </span><a href=\"https://www.linkedin.com/in/kelseycole/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Angelo Dodaro</strong><span>: Co-Founder &amp; CMO. <a href=\"https://www.linkedin.com/in/angelododaro/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></span></li><li><strong>Leon Pereira</strong>: Co-Founder &amp; CCO. <a href=\"https://www.linkedin.com/in/leonpereira/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li></ul><p>Adbank will be holding its ICO on the 14th of December, 2017. The ICO token supply represents 51% of the total token supply, so there will be a total of 510,000,000 ADB tokens available, for 0.000033 ETH each during the offering. The ICO funding cap is 10,000 ETH and is expected to end on the 21st of January, 2017 or when the funding cap is reached.</p><p><strong>Token Reserve Split (49%):</strong></p><ul><li>29% will be reserved and released once the token sale has ended;</li><li>15% will go to the Adbank Founding Team ;</li><li>2.5% will go to Adbank Early Advisors;</li><li>2.5% will go towards a Bounty program;</li></ul><p><span>Adbank ICO will feature a bounty campaign and a bonus program, and the token will not be mineable.</span></p><p><strong>Bonus Structure:</strong></p><ul><li>20% Bonus for the first 24 hours;</li><li>15% Bonus until December 22;</li><li>10% Bonus until December 29;</li><li>5% Bonus until January 5;</li></ul>",
+    "TokenType": "ETH (ERC20)",
+    "WebsiteLink": "https://adbank.network/#tokenSale",
+    "FundingCap": "10,000 ETH",
+    "FundingTarget": "N/A",
+    "Date": 1513209600,
+    "EndDate": 1516060800,
+    "FundsRaisedList": "10,000 ETH",
+    "FundsRaisedUSD": "12000000",
+    "StartPrice": "0.00003",
+    "StartPriceCurrency": "ETH",
+    "Jurisdiction": "Canada",
+    "BlogLink": "https://medium.com/adbank-blog",
+    "WhitePaperLink": "https://adbank.network/us/Whitepaper_AdBank2017.pdf"
+  },
+  "ccId": "468052"
+}

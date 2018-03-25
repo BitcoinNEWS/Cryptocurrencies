@@ -1,0 +1,56 @@
+{
+  "General": {
+    "Symbol": "BM*",
+    "Name": "Bitcomo",
+    "Description": "<p><span>Bitcomo is a decentralized CPA (cost-per-action) marketing network. BM is the token serving as currency</span><span> for advertisers</span><span> and publishers on Bitcomo&#39;s network. It is based in Ethereum and Waves smart contracts.</span></p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "170000000",
+    "Algorithm": null,
+    "ProofType": null,
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "10/10/2017",
+    "TotalCoinsMined": null,
+    "Twitter": "@bitcomo",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": null,
+    "GitHub": null,
+    "OnMarkets": [],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Ongoing",
+    "Description": "<p><span>Bitcomo is a decentralized CPA (cost-per-action) marketing network. BM is the token serving as currency</span><span> for advertisers</span><span> and publishers on Bitcomo&#39;s network. It is based in Ethereum and Waves smart contracts.</span></p><p><strong>Team</strong>:</p><ul><li><strong>Ivan Karadzhov</strong>: Co-founder of Bitcomo (CEO Adpop). <a href=\"https://www.facebook.com/1IvanKaradzhov\" target=\"_blank\"><img style=\"width: 13px; height: 13px;\" src=\"/media/1383930/face_logo_final.png?width=13&amp;height=13\" alt=\"\" data-id=\"202866\"></a></li><li><strong>Nick Evdokimov</strong>: Blockchain Advisor.<span> </span><a href=\"https://www.facebook.com/neopult\" target=\"_blank\"><img style=\"width: 13px; height: 13px;\" src=\"/media/1383930/face_logo_final.png?width=13&amp;height=13\" alt=\"\" data-id=\"202866\"></a></li><li><strong>Lavrentios Penklidis</strong>: Head of Public Relations Department.<span> </span><a href=\"https://www.facebook.com/lavrentios.penklidis.1\" target=\"_blank\"><img style=\"width: 13px; height: 13px;\" src=\"/media/1383930/face_logo_final.png?width=13&amp;height=13\" alt=\"\" data-id=\"202866\"></a></li><li><strong>Aline Angheluta</strong>: LATAM and EU markets manager.<span> </span><a href=\"https://www.facebook.com/alina.adpop.9\" target=\"_blank\"><img style=\"width: 13px; height: 13px;\" src=\"/media/1383930/face_logo_final.png?width=13&amp;height=13\" alt=\"\" data-id=\"202866\"></a></li><li><strong>Ekaterina Kozhina</strong>: US and Pacific Asia markets manager.<span> </span><a href=\"https://www.facebook.com/eka.kozhina.1\" target=\"_blank\"><img style=\"width: 13px; height: 13px;\" src=\"/media/1383930/face_logo_final.png?width=13&amp;height=13\" alt=\"\" data-id=\"202866\"></a></li><li><strong>Tuan Anh</strong>: Southeast Asia markets manager.<span> </span><a href=\"https://www.facebook.com/tuananh.adpop.9\" target=\"_blank\"><img style=\"width: 13px; height: 13px;\" src=\"/media/1383930/face_logo_final.png?width=13&amp;height=13\" alt=\"\" data-id=\"202866\"></a></li><li><strong>Alina Yakubenko</strong>: CIS market manager.<span> </span><a href=\"https://www.facebook.com/profile.php?id=100016291392786\" target=\"_blank\"><img style=\"width: 13px; height: 13px;\" src=\"/media/1383930/face_logo_final.png?width=13&amp;height=13\" alt=\"\" data-id=\"202866\"></a></li><li><strong>Artem Kravchenko</strong>: Marketing Director.<span> </span><a href=\"https://www.facebook.com/tim.addays\" target=\"_blank\"><img style=\"width: 13px; height: 13px;\" src=\"/media/1383930/face_logo_final.png?width=13&amp;height=13\" alt=\"\" data-id=\"202866\"></a></li><li><strong>Roman Dubina</strong>: Bitcomo Platform Developer.<span> <a href=\"https://www.linkedin.com/in/roman-dubina-106686a7/\" target=\"_blank\"><img src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></span></li><li><strong>Elena Merkulova</strong>: CIS market manager.<span> </span><img style=\"width: 13px; height: 13px;\" src=\"/media/1383930/face_logo_final.png?width=13&amp;height=13\" alt=\"\" data-id=\"202866\"></li><li><strong>Alexandra Eltysheva</strong>: Head of publishing department.<span> </span><img style=\"width: 13px; height: 13px;\" src=\"/media/1383930/face_logo_final.png?width=13&amp;height=13\" alt=\"\" data-id=\"202866\"></li><li><strong>Dmitriy Fedotov</strong>: Latam market manager.</li><li><strong>Alex Grus</strong>:<span> CMO Bitcomo</span>.<span> </span><a href=\"https://www.facebook.com/profile.php?id=100011234657723\" target=\"_blank\"><img style=\"width: 13px; height: 13px;\" src=\"/media/1383930/face_logo_final.png?width=13&amp;height=13\" alt=\"\" data-id=\"202866\"></a></li></ul><p>Bitcomo will be holding its ICO on January 16, 2018. The ICO token supply represents 72% of the total token supply, so there will be a total of <span>122,400,000 </span>tokens available, for 0.30 USD each at the offering. The ICO funding target is 30,000,000 USD and is expected to end on November 16, 2018 or when the funding cap is reached.</p><p><strong>Token Reserve Split (28%):</strong></p><ul><li>8% <span>Bounty and bonus program</span>;</li><li>11% <span>Team</span>;</li><li>9% Advisors.</li></ul><p><span>Bitcomo&#39;s ICO campaign will feature Bonuses and Bounty campaign, and the token will not be mineable.</span></p><p><strong>Bonus Structure:</strong></p><ul><li> 20% Early Investors (6,528,000 BM)</li></ul>",
+    "TokenType": "ETH (ERC20)",
+    "WebsiteLink": null,
+    "FundingCap": "30,000,000 USD",
+    "FundingTarget": "N/A",
+    "Date": 1513382400,
+    "EndDate": 1518739200,
+    "FundsRaisedList": "Pre-Sale: 4,857,261 BM tokens sold\r\nMain Sale: 6,035,573.28 BM tokens sold",
+    "FundsRaisedUSD": "N/A",
+    "StartPrice": "0.30",
+    "StartPriceCurrency": "USD",
+    "Jurisdiction": "N/A",
+    "BlogLink": "https://medium.com/@btcm",
+    "WhitePaperLink": "https://cdn.bitcomo.com/docs/whitepaper__en.pdf"
+  },
+  "ccId": "345544"
+}

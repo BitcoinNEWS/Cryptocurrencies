@@ -1,0 +1,68 @@
+{
+  "General": {
+    "Symbol": "NXT",
+    "Name": "Nxt",
+    "Description": "<p>Nxt is considered a 2nd generation crypto currency. With all the alt coins that alter parametes such as hashing mechanism, time between blocks, starting difficulty, and so on, Nxt brings much much more to the table and was designed this way for a number of reasons. It&#39;s proof of stake model makes it less susceptible to 51% attacks whilst it is designed to support large transaction volumes, something which the traditional Bitcoin and its clones have as a potential flaw. Nxt allows the creation and exchange of custom tokens, coloured coins and assets on the Blockchain.</p><p>In 2016, the NXT team announced the launch of Ardor, the Nxt 2.0. The platform will allow users the same features as Nxt and additional tools like sidechain support for asset issuance and more. The destribution of the ARDR token was done through a snapshot process, which is the reason for the price spike during late 2016.</p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "1000000000",
+    "Algorithm": "PoS",
+    "ProofType": "PoS/LPoS",
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "24/11/2013",
+    "TotalCoinsMined": "1000000000",
+    "Twitter": "@nxtcommunity",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "http://nxt.org/",
+    "GitHub": null,
+    "OnMarkets": [
+      "CCEX",
+      "Cryptsy",
+      "CCEDK",
+      "BTER",
+      "Poloniex",
+      "LiveCoin",
+      "HitBTC",
+      "BitTrex",
+      "BTC38",
+      "BitSquare",
+      "Jubi"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Finished",
+    "Description": "<p>The ICO closed on November 18th 2013 and raised 21BTC from 72 investors which at the time was worth around $6000. The genesis block was published on 24 November 2013. The source code was partially released on 3 January. The full source code was released on 1 March 2014 under the MIT License.</p><p>Over the following weeks the ICO price of NXT increased from 2 satoshis to 16,000 Satoshis in January 2014.</p>",
+    "TokenType": "NXT",
+    "WebsiteLink": null,
+    "FundingCap": "N/A",
+    "FundingTarget": "N/A",
+    "Date": 1380373200,
+    "EndDate": 1384776000,
+    "FundsRaisedList": "21 BTC",
+    "FundsRaisedUSD": "6000",
+    "StartPrice": "0.000006",
+    "StartPriceCurrency": "USD",
+    "Jurisdiction": "N/A",
+    "BlogLink": null,
+    "WhitePaperLink": "http://www.nxtcommunity.org/nxt-whitepaper"
+  },
+  "ccId": "1183"
+}

@@ -1,0 +1,58 @@
+{
+  "General": {
+    "Symbol": "EA",
+    "Name": "EagleCoin",
+    "Description": "<p>Eaglecoin is Proof of Work cryptocurrency based on the SHA-256 algorithm aimed to provide high profits and fast confirmation times. It is made with the intention to make mining profitable as possible with its giant block rewards and giant coin supply.This coin is perfect for those who have old Bitcoin ASIC&#39;s that are no longer profitable.</p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "40000000",
+    "Algorithm": "SHA256",
+    "ProofType": "PoW",
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "30/06/2015",
+    "TotalCoinsMined": null,
+    "Twitter": null,
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "-",
+    "GitHub": null,
+    "OnMarkets": [
+      "Yobit"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "N/A",
+    "Description": null,
+    "TokenType": null,
+    "WebsiteLink": null,
+    "FundingCap": null,
+    "FundingTarget": null,
+    "Date": null,
+    "EndDate": null,
+    "FundsRaisedList": null,
+    "FundsRaisedUSD": null,
+    "StartPrice": null,
+    "StartPriceCurrency": null,
+    "Jurisdiction": null,
+    "BlogLink": null,
+    "WhitePaperLink": null
+  },
+  "ccId": "45821"
+}

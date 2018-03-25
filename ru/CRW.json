@@ -1,0 +1,60 @@
+{
+  "General": {
+    "Symbol": "CRW",
+    "Name": "Crown Coin",
+    "Description": "<p><span>Crowncoin was created in 2014 as a proof of work digital currency and an alternative to FIAT currencies. CRW is a peer to peer digital currency, which enables to send and receive online payments between two parties without the need of financial institution.</span></p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "42000000",
+    "Algorithm": "SHA256",
+    "ProofType": "PoW",
+    "BlockReward": 9.000000000620881,
+    "Explorer": null,
+    "StartDate": "14/10/2014",
+    "TotalCoinsMined": 17700271.90692421,
+    "Twitter": "@Crowncoin1",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "http://crown.tech/",
+    "GitHub": null,
+    "OnMarkets": [
+      "Yobit",
+      "CCEX",
+      "BitTrex"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "N/A",
+    "Description": null,
+    "TokenType": null,
+    "WebsiteLink": null,
+    "FundingCap": null,
+    "FundingTarget": null,
+    "Date": null,
+    "EndDate": null,
+    "FundsRaisedList": null,
+    "FundsRaisedUSD": null,
+    "StartPrice": null,
+    "StartPriceCurrency": null,
+    "Jurisdiction": null,
+    "BlogLink": null,
+    "WhitePaperLink": null
+  },
+  "ccId": "7586"
+}

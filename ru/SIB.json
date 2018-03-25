@@ -1,0 +1,64 @@
+{
+  "General": {
+    "Symbol": "SIB",
+    "Name": "SibCoin",
+    "Description": "<p>SibCoin is the cryptocurrency designed for the Siberian Community. It provides fast, anonymous and cheap transactions.</p>",
+    "Features": "<p><span>Darksend: Anonymous Transactions</span></p><p>InstantX: Faster Payments</p>",
+    "Technology": null,
+    "TotalCoinSupply": "24000000",
+    "Algorithm": "X11GOST",
+    "ProofType": "PoW",
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "09/05/2015",
+    "TotalCoinsMined": 16563062,
+    "Twitter": null,
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "http://sibcoin.org/",
+    "GitHub": null,
+    "OnMarkets": [
+      "CCEX",
+      "Cryptopia",
+      "TradeSatoshi",
+      "Yobit",
+      "BitTrex",
+      "LiveCoin",
+      "BitSquare"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "N/A",
+    "Description": null,
+    "TokenType": null,
+    "WebsiteLink": null,
+    "FundingCap": null,
+    "FundingTarget": null,
+    "Date": null,
+    "EndDate": null,
+    "FundsRaisedList": null,
+    "FundsRaisedUSD": null,
+    "StartPrice": null,
+    "StartPriceCurrency": null,
+    "Jurisdiction": null,
+    "BlogLink": null,
+    "WhitePaperLink": null
+  },
+  "ccId": "20745"
+}

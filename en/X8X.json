@@ -1,0 +1,58 @@
+{
+  "General": {
+    "Symbol": "X8X",
+    "Name": "X8Currency",
+    "Description": "<div class=\"freebirdFormviewerViewItemsItemItem freebirdFormviewerViewItemsTextTextItem\" data-required=\"true\" data-item-id=\"534092066\"><div class=\"freebirdFormviewerViewItemsTextLongText freebirdFormviewerViewItemsTextDisabledText freebirdThemedInput\">The X8Currency is an Ethereum-based token that <span>uses a combination of 8 fiat currency baskets and gold to provide a stable value. It is stable and exchangeable directly at the issuer, offering distributed exchanges a suitable solution for fiat exit point. </span></div></div>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "49733935.5804942909444764",
+    "Algorithm": null,
+    "ProofType": null,
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "06/12/2017",
+    "TotalCoinsMined": null,
+    "Twitter": "@x8currency",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": null,
+    "GitHub": null,
+    "OnMarkets": [
+      "EtherDelta"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Finished",
+    "Description": "<p><span>The</span><span><span> </span>X8Currency is an Ethereum-based token that </span><span>uses a combination of 8 fiat currency baskets and gold to provide a stable value. It is stable and exchangeable directly at the issuer, offering distributed exchanges a suitable solution for fiat exit point. </span></p><p><strong>Team</strong>:</p><ul><li><strong>GREGOR KOŽELJ:</strong> CEO / Founder <a href=\"https://www.linkedin.com/profile/view?id=gregor-ko%C5%BEelj-19075434/\" target=\"_blank\"><img src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>TOMAŽ LEPOŠA:</strong> CSO <a href=\"https://www.linkedin.com/profile/view?id=tomaz-leposa/\" target=\"_blank\"><img src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>ALY KULAUZOVIĆ:</strong> Business development <a href=\"https://www.linkedin.com/profile/view?id=aly-kulauzovic-66461113b/\" target=\"_blank\"><img src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>RUDOLF P. STRÖBL:</strong> Infrastructure <a href=\"https://www.linkedin.com/profile/view?id=rudolfstroebl/\" target=\"_blank\"><img src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li></ul><p>The X8Currency ICO will start on the 19th of December 2017 and will last until the 19th of January 2018. The ICO token supply represents 34% of the total supply and will be available for a 0.1 EUR price. Users can buy tokens with ETH and BTC. The X8X ICO cap is set at $3.4M</p><p><strong>Token Reserve Split (66%):</strong></p><ul><li><span>Team and advisors 15%, </span></li><li><span>Private Placement 18%, </span></li><li><span>X8 Capital AG 6%, </span></li><li><span>Institutional reserve / Crypto airdrop 27%</span></li></ul>",
+    "TokenType": "ETH (ERC20)",
+    "WebsiteLink": "https://x8currency.com",
+    "FundingCap": "3400000 EUR",
+    "FundingTarget": "N/A",
+    "Date": 1515063600,
+    "EndDate": 1516273200,
+    "FundsRaisedList": "4,146.51 ETH",
+    "FundsRaisedUSD": "5457595",
+    "StartPrice": "0.1000",
+    "StartPriceCurrency": "EUR",
+    "Jurisdiction": "Switzerland",
+    "BlogLink": "https://www.ionectar.com/x-feed/",
+    "WhitePaperLink": "https://x8currency.com/wp-content/uploads/X8-Project-TGE-Whitepaper.pdf"
+  },
+  "ccId": "450337"
+}

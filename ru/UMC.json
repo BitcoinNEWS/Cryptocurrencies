@@ -1,0 +1,59 @@
+{
+  "General": {
+    "Symbol": "UMC",
+    "Name": "Umbrella Coin",
+    "Description": "<p>UMC is an Ethereum-based token, the native currency in the Umbrella Coin, a benefits platform made in order to deal with the hidden costs of insurance. </p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "100000000",
+    "Algorithm": "N/A",
+    "ProofType": "N/A",
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "17/07/2017",
+    "TotalCoinsMined": 100000000,
+    "Twitter": "@umbrellacoin",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "https://www.umbrellacoin.org/",
+    "GitHub": null,
+    "OnMarkets": [
+      "Yobit",
+      "EtherDelta"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Ongoing",
+    "Description": "<p>UMC is built on the UMC network. The UMC network carries an unspecified amount of UMC to handle benefits payouts. This pool acts as float. Traditional insurance companies take money from premiums and immediately invest it. UMC allows you to own a stake in the network float and be involved in the payout process.</p><p><strong>Team:</strong></p><ul><li><strong>Terry Tata</strong>: President and CEO</li><li><strong>Roshan Parikh</strong>: Lead Blockchain Developer</li><li><strong>David Lackey</strong>: Software Architect</li><li><strong>Elizabeth Sternhell</strong>: Senior Software Engineer</li><li><strong>Forrest Whitehouse</strong>: Chief Softwaree Engineer</li><li><strong>Christopher Fong</strong>: Backend Software Engineer</li><li><strong>David Arnold</strong>: Marketing and Sales</li><li><strong>Alexander Vargas</strong>: Marketing and Sales</li></ul><p><strong>Token reserve split</strong><span> </span>(31.2%) -</p><ul><li><strong>20% float pool</strong></li><li><strong>10% Team</strong></li><li><strong>1.2% Bounty</strong></li></ul>",
+    "TokenType": "ETH (ERC20)",
+    "WebsiteLink": "https://www.umbrellacoin.org/",
+    "FundingCap": "N/A",
+    "FundingTarget": "N/A",
+    "Date": 1503230400,
+    "EndDate": 1505908800,
+    "FundsRaisedList": "1524.75 ETH",
+    "FundsRaisedUSD": "447483.63",
+    "StartPrice": "0.0016667",
+    "StartPriceCurrency": "ETH",
+    "Jurisdiction": "N/A",
+    "BlogLink": "https://medium.com/@umbrellacoin",
+    "WhitePaperLink": "https://github.com/umbrellacoin/umc/blob/master/documents/UMC.pdf"
+  },
+  "ccId": "213100"
+}

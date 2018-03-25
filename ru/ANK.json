@@ -1,0 +1,56 @@
+{
+  "General": {
+    "Symbol": "ANK",
+    "Name": "Ankorus Token",
+    "Description": "<p><span>Ankorus is an Ethereum-based financial assets trading platform that allows user to tokenize and trade financial assets like stocks, shares, bonds, ETFs, FX and commodities. </span><span>ANK is an ERC20 token that serves as a currency on the Ankorus ecosystem.</span></p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "50501621.1030904686494342",
+    "Algorithm": null,
+    "ProofType": null,
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "14/10/2017",
+    "TotalCoinsMined": null,
+    "Twitter": "@AnkorusGlobal",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": null,
+    "GitHub": null,
+    "OnMarkets": [],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "N/A",
+    "Description": null,
+    "TokenType": null,
+    "WebsiteLink": null,
+    "FundingCap": null,
+    "FundingTarget": null,
+    "Date": null,
+    "EndDate": null,
+    "FundsRaisedList": null,
+    "FundsRaisedUSD": null,
+    "StartPrice": null,
+    "StartPriceCurrency": null,
+    "Jurisdiction": null,
+    "BlogLink": null,
+    "WhitePaperLink": null
+  },
+  "ccId": "781308"
+}

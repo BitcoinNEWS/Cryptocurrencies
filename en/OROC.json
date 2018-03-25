@@ -1,0 +1,56 @@
+{
+  "General": {
+    "Symbol": "OROC",
+    "Name": "Orocrypt",
+    "Description": "<p><span>Indirect precious metals investments can be held in gold, platinum or silver ETF shares</span>.<span> Orocrypt aims to provide an alternative to the above by offering a method of recording precious metals ownership</span>.</p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "​1112000",
+    "Algorithm": "N/A",
+    "ProofType": "N/A",
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "19/05/2017",
+    "TotalCoinsMined": null,
+    "Twitter": "@orocrypt",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "https://orocrypt.com/",
+    "GitHub": null,
+    "OnMarkets": [],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Ongoing",
+    "Description": "<p>Indirect precious metals investments can be held in gold, platinum or silver ETF shares. Orocrypt aims to provide an alternative to the above by offering a method of recording precious metals ownership.</p><p><span>Orocrypt </span> will be holding its ICO on June 14, 2017. There will be a total of 500,000 Class A tokenized shares available for €9 EUR each at the offering. The ICO is expected to end on July 14, 2017.</p><p>The ICO did not raise its minimum of 1,199,997 EUR and will be issuing a refund to all those who participated in the crowdsale.</p><p> </p>",
+    "TokenType": "ETH (ERC20)",
+    "WebsiteLink": "https://ico.orocrypt.com",
+    "FundingCap": "4,500,000 EUR",
+    "FundingTarget": "1,199,997 EUR",
+    "Date": 1497398400,
+    "EndDate": 1499990400,
+    "FundsRaisedList": "N/A",
+    "FundsRaisedUSD": "N/A",
+    "StartPrice": "9",
+    "StartPriceCurrency": "EUR",
+    "Jurisdiction": "N/A",
+    "BlogLink": "https://medium.com/@orocrypt",
+    "WhitePaperLink": "https://orocrypt.com/docs/whitepaper.pdf"
+  },
+  "ccId": "180001"
+}

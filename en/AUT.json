@@ -1,0 +1,56 @@
+{
+  "General": {
+    "Symbol": "AUT",
+    "Name": "Autoria",
+    "Description": "<p><span>AUT (Autorium) is an ERC20 compatible automatic mining Ethereum smart contract built on the Ethereum blockchain. Autorium implemented a supply-curve modeled growth algorithm in order to control token deployment. Additionally, Autoria uses a “Proof of ETH” mining node registration system in order to promote diverse participation and Ethereum usage.</span></p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "N/A",
+    "Algorithm": "N/A",
+    "ProofType": "N/A",
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "01/01/0001",
+    "TotalCoinsMined": null,
+    "Twitter": "@autoriacoin",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "https://autoria.io",
+    "GitHub": null,
+    "OnMarkets": [],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Upcoming",
+    "Description": "<p>AUT (Autorium) is an ERC20 compatible automatic mining Ethereum smart contract built on the Ethereum blockchain. Autorium implemented a supply-curve modeled growth algorithm in order to control token deployment. Additionally, Autoria uses a “Proof of ETH” mining node registration system in order to promote diverse participation and Ethereum usage.</p><p><strong>Team</strong>:</p><ul><li><strong>Stuart Farmer</strong>: Technical Architect.</li><li><strong>Boris Chan</strong>: Business Development.</li><li><strong>Mario Hernandez</strong>: Econometrics.</li><li><strong>Nick Huber</strong><span>: Finance &amp; Business Development.</span></li><li><span><strong>James Munsch</strong><span>: Merchant Service Developer.</span></span></li><li><strong>Christian Perry</strong><span>: Public Communications.</span></li></ul><p>Autoria will be holding its ICO on August 10, 2017. The ICO <span>structure and details will be announced soon.</span></p>",
+    "TokenType": "ETH (ERC20)",
+    "WebsiteLink": null,
+    "FundingCap": "N/A",
+    "FundingTarget": "N/A",
+    "Date": null,
+    "EndDate": null,
+    "FundsRaisedList": "N/A",
+    "FundsRaisedUSD": "N/A",
+    "StartPrice": "N/A",
+    "StartPriceCurrency": "N/A",
+    "Jurisdiction": "N/A",
+    "BlogLink": "https://medium.com/@autoria",
+    "WhitePaperLink": " https://www.autoria.io/whitepaper.pdf"
+  },
+  "ccId": "206001"
+}

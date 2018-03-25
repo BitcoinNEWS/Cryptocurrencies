@@ -1,0 +1,59 @@
+{
+  "General": {
+    "Symbol": "ATS",
+    "Name": "Authorship",
+    "Description": "<p>Authorship (ATS) is a platform that will leverage the Ethereum blockchain to provide a new operating model for the book industry. Authorship seeks to close the gap between authors, readers, publishers, and translators creating a platform where all the referred intervenients can share their content.</p><p>The ATS token will have several functionalities. For example, token holders will be able to buy books or even receive a monthly basis reward (for authors/translators).</p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "100000000",
+    "Algorithm": null,
+    "ProofType": null,
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "01/08/2017",
+    "TotalCoinsMined": 100000000,
+    "Twitter": "@authorship_com",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": null,
+    "GitHub": null,
+    "OnMarkets": [
+      "HitBTC",
+      "EtherDelta"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "N/A",
+    "Description": null,
+    "TokenType": null,
+    "WebsiteLink": null,
+    "FundingCap": null,
+    "FundingTarget": null,
+    "Date": null,
+    "EndDate": null,
+    "FundsRaisedList": null,
+    "FundsRaisedUSD": null,
+    "StartPrice": null,
+    "StartPriceCurrency": null,
+    "Jurisdiction": null,
+    "BlogLink": null,
+    "WhitePaperLink": null
+  },
+  "ccId": "345017"
+}

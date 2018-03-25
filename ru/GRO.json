@@ -1,0 +1,56 @@
+{
+  "General": {
+    "Symbol": "GRO",
+    "Name": "Gron Digital",
+    "Description": "<p>Gron Digital is a Gambling and Betting Platform where transactions are administered by cryptographically verifiable code with no human intervention. Gron Digital is a secure, transparent, auditable and fair Gaming Platform on the Blockchain. The Smart Contracts act as an autonomous trust agent. The Platform is operated by a utility token – called GRO. The GRO is used by participants in exchange for value and services they provide. Service providers, bookmakers, casino operators, affiliates, regulators and players are a few examples of the participants within the Gron Digital eco-system.</p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "950000000",
+    "Algorithm": null,
+    "ProofType": null,
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "27/02/2018",
+    "TotalCoinsMined": null,
+    "Twitter": "@GronDigital",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": null,
+    "GitHub": null,
+    "OnMarkets": [],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Ongoing",
+    "Description": "<p>Gron Digital is a Gambling and Betting Platform where transactions are administered by cryptographically verifiable code with no human intervention. Gron Digital is a secure, transparent, auditable and fair Gaming Platform on the Blockchain. The Smart Contracts act as an autonomous trust agent. The Platform is operated by a utility token – called GRO. The GRO is used by participants in exchange for value and services they provide. Service providers, bookmakers, casino operators, affiliates, regulators and players are a few examples of the participants within the Gron Digital eco-system.</p><p><strong>Team</strong>:</p><ul><li><strong>Tebogo Makamo</strong>: CEO. <a href=\"https://www.linkedin.com/in/tebogo-makamo-3b6b0047/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Dmitry Oberzhitsky</strong><span>: COO.</span><span> </span><a href=\"https://www.linkedin.com/in/dmitry-oberzhitsky-867040113/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Alex Barude</strong><span>: CTO.</span><span> </span><a href=\"https://www.linkedin.com/in/alex-braude-6779b6149/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Peter Frangiskakis</strong><span>: Business Development.</span><span> </span><a href=\"https://www.linkedin.com/in/peter-frangiskakis-bb792665/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Wendy Case</strong><span>: Head of Marketing.</span><span> </span><a href=\"https://www.linkedin.com/in/wendy-case-35590a20/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Irina Semyonova</strong><span>: Project Manager.</span><span> </span><a href=\"https://www.linkedin.com/in/iryna-semenova-ab1bb487/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><span><strong>Artur Timoshin</strong>: System Architect.</span><span> </span><a href=\"https://www.linkedin.com/in/arthur-timoshin-0b08a2a1/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>André Wilsenach:</strong><span> Advisor. </span></li><li><strong>Walter Staffetius:</strong><span> Advisor. </span></li><li><strong>Lucien Wijsman:</strong><span> Advisor. </span></li><li><strong>Alpheus Matsebula:</strong> Advisor. </li></ul><p>Gron Digital will be holding its ICO on the 27th of February, 2018. The ICO token supply represents 40% of the total token supply and the tokens will be available for 0.0001 ETH each at the offering. The ICO funding target is 15,000,000 USD and is expected to end on the 24th of April, 2018.</p><p><strong>Token Reserve Split (60%):</strong></p><ul><li>50% - Software Development;</li><li>5% - Legal Framework and Finance;</li><li>15% - Operations;</li><li>10% - Marketing;</li><li>15% - Advisors;</li><li>5% - Contingencies.</li></ul>",
+    "TokenType": "ETH (ERC20)",
+    "WebsiteLink": "https://rdr.achivanetwork.com/click?pid=1276&offer_id=210",
+    "FundingCap": "N/A",
+    "FundingTarget": "15,000,000 USD",
+    "Date": 1519689600,
+    "EndDate": 1524528000,
+    "FundsRaisedList": "1,200,000 USD",
+    "FundsRaisedUSD": "1200000",
+    "StartPrice": "0.0001",
+    "StartPriceCurrency": "ETH",
+    "Jurisdiction": "N/A",
+    "BlogLink": "https://medium.com/@grondigitalplatform",
+    "WhitePaperLink": "https://grondigital.com/whitepaper"
+  },
+  "ccId": "755352"
+}

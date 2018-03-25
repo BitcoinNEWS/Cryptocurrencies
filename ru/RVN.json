@@ -1,0 +1,56 @@
+{
+  "General": {
+    "Symbol": "RVN",
+    "Name": "Ravencoin",
+    "Description": "<p>The Raven Coin is based on the X16R algorithm and was designed to<span> be focused on the transfer of assets</span> within the blockchain.</p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "21000000000",
+    "Algorithm": "X16R",
+    "ProofType": null,
+    "BlockReward": 4993.226166654408,
+    "Explorer": null,
+    "StartDate": "14/01/2018",
+    "TotalCoinsMined": 765540175.1483217,
+    "Twitter": "@ravencoin",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": null,
+    "GitHub": null,
+    "OnMarkets": [],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "N/A",
+    "Description": null,
+    "TokenType": null,
+    "WebsiteLink": null,
+    "FundingCap": null,
+    "FundingTarget": null,
+    "Date": null,
+    "EndDate": null,
+    "FundsRaisedList": null,
+    "FundsRaisedUSD": null,
+    "StartPrice": null,
+    "StartPriceCurrency": null,
+    "Jurisdiction": null,
+    "BlogLink": null,
+    "WhitePaperLink": "https://ravencoin.org/wp-content/uploads/2018/01/X16R-Whitepaper-3.pdf"
+  },
+  "ccId": "794350"
+}

@@ -1,0 +1,60 @@
+{
+  "General": {
+    "Symbol": "RPX",
+    "Name": "Red Pulse",
+    "Description": "<p><span>Red Pulse </span><span>is a</span><span><span> </span>NEO-based market intelligence platform covering China&#39;s </span><span>financial<span> </span></span><span>and capital markets. RPX is the token that serves as currency on Red Pulse&#39;s framework. </span><span>The supply of RPX will increase over time at a rate of 10% per year.</span></p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "1358371250",
+    "Algorithm": null,
+    "ProofType": null,
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "08/10/2017",
+    "TotalCoinsMined": 543348500,
+    "Twitter": "@red_pulse_china",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": null,
+    "GitHub": null,
+    "OnMarkets": [
+      "Binance",
+      "Kucoin",
+      "HuobiPro"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Finished",
+    "Description": "<p><span>Red Pulse is a NEO-based market intelligence platform covering China&#39;s financial and capital markets. RPX is the token that serves as currency on Red Pulse&#39;s framework. The supply of RPX will increase over time at a rate of 10% per year.</span></p><p><strong>Team</strong>:</p><ul><li><strong><span>Jonathan Ha</span></strong>: <span>Founder, CEO</span>. <a href=\"https://www.linkedin.com/in/hajon/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong><span>Stanley Chao</span></strong>: <span>Co-founder, Head of Data Science</span>. <a href=\"https://www.linkedin.com/in/stanley-chao-cfa-caia-4a12043/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong><span>Peter Alexander</span></strong>: <span>Co-founder, Non-executive Chairman</span>. <a href=\"https://www.linkedin.com/in/peter-alexander-97630910/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li></ul><p><strong>Token Reserve Split (60%):</strong></p><ul><li><span>40% Reserve held by company</span>;</li><li><span>15% Company shareholders</span>;</li><li>5% Company empplyeesThe supply of RPX will increase over time at a rate of 10% per year</li></ul>",
+    "TokenType": "NEO",
+    "WebsiteLink": null,
+    "FundingCap": "15,000,000 USD",
+    "FundingTarget": "N/A",
+    "Date": 1507467600,
+    "EndDate": 1507467960,
+    "FundsRaisedList": "15,000,000 USD",
+    "FundsRaisedUSD": "15000000",
+    "StartPrice": "N/A",
+    "StartPriceCurrency": "N/A",
+    "Jurisdiction": "N/A",
+    "BlogLink": null,
+    "WhitePaperLink": "https://coin.red-pulse.com/wp-content/uploads/redpulse-whitepaper-en.pdf"
+  },
+  "ccId": "341267"
+}

@@ -1,0 +1,58 @@
+{
+  "General": {
+    "Symbol": "ELI",
+    "Name": "Eligma",
+    "Description": "<p><span>Eligma is an Ethereum-based single point-of-access e-business platform. Eligma is set to change the way people discover, purchase, track and resell items online. It offers users a decentralized universal loyalty program and helps them transform every household into a business while are also bringing cryptocurrencies mainstream by offering crypto payments for online stores that don&#39;t offer them yet.</span></p><p>ELI is an ERC20 token that serves as a medium of exchange on Eligma&#39;s ecosystem.</p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "500000000",
+    "Algorithm": null,
+    "ProofType": null,
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "01/03/2018",
+    "TotalCoinsMined": null,
+    "Twitter": "@eligmacom",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": null,
+    "GitHub": null,
+    "OnMarkets": [
+      "CCEX"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Upcoming",
+    "Description": "<p><span>Eligma is an Ethereum-based single point-of-access e-business platform. Eligma is set to change the way people discover, purchase, track and resell items online. It offers users a decentralized universal loyalty program and helps them transform every household into a business while are also bringing cryptocurrencies mainstream by offering crypto payments for online stores that don&#39;t offer them yet.</span></p><p>ELI is an ERC20 token that<span> </span>serves as a medium of exchange on<span> </span>Eligma&#39;s ecosystem.</p><p><strong>Team</strong>:</p><ul><li><strong>Dejan Roljic</strong>: Founder &amp; CEO. <img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></li><li><strong>Matej Gregorcic</strong>: Co-Founder. <img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></li><li><strong>Joze Mermal</strong>: POSITION.<span> </span><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></li><li><strong>Alexander Danilov</strong><span>: Chief Technology Officer.</span><span><span> </span></span><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></li><li><strong>Bostjan Mrak</strong><span>: Lead Machine Learning Engineer.</span><span> </span><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></li><li><strong>Ziga Toni</strong><span>: Chief Operating Officer.</span><span> </span><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></li><li><strong>Timotej Polach</strong><span>: Chief Security Officer.</span><span> </span><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></li><li><strong>Luka Planinc</strong><span>: General Counsel.</span><span> </span><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></li><li><strong>Tomislav Mucic</strong><span>: Senior Blockchain Consultant.</span><span> </span><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></li><li><strong>Andrej Plankar</strong><span>: Blockchain Business Consultant.</span><span> </span><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></li><li><strong>Rok Babic</strong><span>: Senior Blockchain Developer.</span><span> </span><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></li><li><strong>Luka Prasnikar</strong><span>: Senior Blockchain Developer.</span><span> </span><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></li><li><strong>Matevz Caserman</strong><span>: Senior Blockchain Consultant.</span><span> </span><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></li><li><strong>Jan Kalsek</strong><span>: Senior Blockchain Consultant.</span><span> </span><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></li><li><strong>Ajet Redzepi</strong><span>: Senior Business Developer.</span><span> </span><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></li><li><strong>Mitja Hegler</strong><span>: Senior Business Developer.</span><span> </span><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></li><li><strong>Jure Sobocan</strong><span>: Art Director and UX/UI expert.</span><span> </span><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></li><li><strong>Rok Kostanjsek:</strong><span> Senior Designer.</span><span> </span><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></li><li><strong>Luka Paragi</strong><span>: Senior Designer.</span><span> </span><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></li></ul><p>Eligma will be holding its ICO on April 17th, 2018. The ICO token supply represents 60% of the total token supply, so there will be a total of 300,000,000 tokens available, for 0.1 USD each at the offering. The ICO funding target is 3,000,000 USD, the funding cap is 24,000,000 USD and is expected to end on May 8th, 2018 or when the funding cap is reached.</p><p><strong>Token Reserve Split (40%):</strong></p><ul><li>19% Team;</li><li><span>12% Community and user growth</span>;</li><li><span>5% Advisors</span>;</li><li><span>4% Future partners.</span></li></ul><p><span>Eligma ICO campaign will feature Bonuses, and the token will not be mineable.</span></p><p><strong><span>Bonus </span>Structure:</strong></p><ul><li>8 % of additional tokens for the first 20 mio.LI tokens</li><li>6 % of additional tokens for the second 20 mio. ELI tokens</li><li>4 % of additional tokens for the third 20 mio. ELI tokens</li><li>2 % of additional tokens for the fourth 20 mio. ELI tokens</li><li>0 % for remaining tokens.</li></ul>",
+    "TokenType": "ETH (ERC20)",
+    "WebsiteLink": "https://www.eligma.io",
+    "FundingCap": "24,000,000 USD",
+    "FundingTarget": "3,000,000 USD",
+    "Date": 1523962800,
+    "EndDate": 1525777200,
+    "FundsRaisedList": "N/A",
+    "FundsRaisedUSD": "N/A",
+    "StartPrice": "0.1",
+    "StartPriceCurrency": "USD",
+    "Jurisdiction": "Slovenian",
+    "BlogLink": "https://medium.com/eligma-blog",
+    "WhitePaperLink": "https://www.eligma.io/pdf/eligma-white-paper_v1.1.pdf"
+  },
+  "ccId": "801531"
+}

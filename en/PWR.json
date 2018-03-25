@@ -1,0 +1,58 @@
+{
+  "General": {
+    "Symbol": "PWR",
+    "Name": "PowerCoin",
+    "Description": "<p>PowerCoin является криптовалютой призваной облегчить децентрализованную совместную работу и общие вычислительные мощности. Пользователи могут создавать и совместно использовать проекты, рабочие группы, заметки, опросы и многое другое через свой PowerClient. PWR также предоставляет простой в использовании PowerGrid, который позволяет компаниям покупать и продавать или жертвовать вычислительную мощность.</p>",
+    "Features": null,
+    "Technology": "<p><span>POW Block reward reduction:</span><br /><br /><span>Blocks 0 to 10: Airdrop PWR</span><br /><span>Blocks 10 to 100 = 0 PWR</span><br /><span>Blocks 101 to 43100 = 350 PWR</span><br /><span>Blocks 43101 to 86400 = 230 PWR </span><br /><br /><span>POS Block reward reduction:</span><br /><br /><span>Blocks: 86000-86400: 5 PWR (Warm-Up)</span><br /><span>Blocks: 86400-100800: 10 PWR (1 Stage)</span><br /><span>Blocks: 100800-115200: 25 PWR (2 Stage)</span><br /><span>Blocks: 115200-129600: 50 PWR (3 Stage)</span><br /><span>Blocks: 129600-144000: 100 PWR (Full Power)</span><br /><span>Blocks: 144000-158400: 20 PWR (5 Stage)</span><br /><span>Blocks: 158400-172800: 15 PWR (6 Stage)</span><br /><span>Blocks: 172800 &gt; 5% Fixed Yearly</span></p>",
+    "TotalCoinSupply": "50021000",
+    "Algorithm": "NIST5",
+    "ProofType": "PoW/PoS",
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "06/05/2016",
+    "TotalCoinsMined": null,
+    "Twitter": "@Powercoin_PWR",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "http://www.powercoin.pw/",
+    "GitHub": null,
+    "OnMarkets": [
+      "Yobit"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "N/A",
+    "Description": null,
+    "TokenType": null,
+    "WebsiteLink": null,
+    "FundingCap": null,
+    "FundingTarget": null,
+    "Date": null,
+    "EndDate": null,
+    "FundsRaisedList": null,
+    "FundsRaisedUSD": null,
+    "StartPrice": null,
+    "StartPriceCurrency": null,
+    "Jurisdiction": null,
+    "BlogLink": null,
+    "WhitePaperLink": null
+  },
+  "ccId": "20236"
+}

@@ -1,0 +1,68 @@
+{
+  "General": {
+    "Symbol": "FUN",
+    "Name": "FunFair",
+    "Description": "<p>FunFair is an Ethereum-based casino that allows users to bet in a trustless and decentralized model, featuing <span>3D games can be built in HTML5. FunFair offers cheap fees in terms of gas costs. The FUN coin is also an Ethereum-based token that will be used for all platform actions, including betting, lending, paying out players and compensating stakeholders.</span></p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "17173696076",
+    "Algorithm": "N/A",
+    "ProofType": "N/A",
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "15/06/2017",
+    "TotalCoinsMined": 10999873621.398026,
+    "Twitter": "@FunFairTech",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "https://funfair.io/",
+    "GitHub": null,
+    "OnMarkets": [
+      "Bitfinex",
+      "CCEX",
+      "Gateio",
+      "Novaexchange",
+      "BitTrex",
+      "LiveCoin",
+      "OKEX",
+      "Binance",
+      "LAToken",
+      "HitBTC",
+      "EtherDelta"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Finished",
+    "Description": "<p><span>FunFair is an Ethereum-based casino that allows users to bet in a trustless and decentralized model, featuing </span><span>3D games can be built in HTML5. FunFair offers cheap fees in terms of gas costs. The FUN coin is also an Ethereum-based token that will be used for all platform actions, including betting, lending, paying out players and compensating stakeholders.</span></p><p><strong>Team</strong>:</p><ul><li><strong>Jez San</strong>: CEO, Founder. (<a href=\"https://www.linkedin.com/in/jezsan\" target=\"_blank\">LinkedIn</a>);</li><li><strong>Jeremy Longley</strong>: CTO, Co-Founder. (<a href=\"https://www.linkedin.com/in/jeremy-longley-16827b\" target=\"_blank\"><span>LinkedIn</span></a>);</li><li><strong>Oliver Hopton</strong>: Developer, Co-Founder. (<a href=\"https://www.linkedin.com/in/oliver-hopton-0387a61\" target=\"_blank\"><span>LinkedIn</span></a>);</li><li><strong>Rob Palmer-Hole</strong>: Project Manager. (<a href=\"https://www.linkedin.com/in/rob-palmer-hole-a398b210/\" target=\"_blank\"><span>LinkedIn</span></a>);</li></ul><p>FunFair held the first stage of FUN ICO on <span>June 22, 2017 at 14:00 UTC until its hard cap was reached, gathering roughly $26 million. The ICO token supply represents 21.30% of the total token supply.</span></p><p><strong>Token Reserve Split (78,7%):</strong></p><ul><li><span>64.25% Reserved for the Phase 2 Trust;</span></li><li><span>13.38% for Founders;</span></li><li><span>1.07% for Advisors</span>;</li></ul><p><span>FunFair </span>ICO campaign featured a bonus structure for early investors. The token<span> cannot be mined.</span></p><p><strong>Bonus Structure:</strong></p><ul><li><span>$0 to $1 million: 50% Bonus;</span></li><li><span>$1 million to $2 million: 40% Bonus;</span></li><li><span>$2 million to $3 million: 30% Bonus;</span></li><li><span>$3 million to $4 million: 20% Bonus;</span></li><li><span>$4 million to $5 million: 10% Bonus;</span></li><li><span>$5 million or higher: No Bonus;</span></li></ul>",
+    "TokenType": "ETH (ERC20)",
+    "WebsiteLink": "https://funfair.io/token-event/",
+    "FundingCap": "20000000 USD",
+    "FundingTarget": "10000000 USD",
+    "Date": 1498140000,
+    "EndDate": 1499436000,
+    "FundsRaisedList": "N/A",
+    "FundsRaisedUSD": "26000000",
+    "StartPrice": "0.01",
+    "StartPriceCurrency": "USD",
+    "Jurisdiction": "N/A",
+    "BlogLink": "https://funfair.io/blog/",
+    "WhitePaperLink": "https://funfair.io/white-papers-languages/"
+  },
+  "ccId": "178978"
+}

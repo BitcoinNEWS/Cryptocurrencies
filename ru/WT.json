@@ -1,0 +1,56 @@
+{
+  "General": {
+    "Symbol": "WT",
+    "Name": "WeToken",
+    "Description": "<p>World Wi-Fi is a global wi-fi network based on privately owned routers <span> (most of which are residential). Their owners may offer free Internet access and earn cryptocurrency through Internet advertising. The WeToken (WT) is an ERC223 token based on the Ethereum network and will be used for all transactions within the network.</span></p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "600000000",
+    "Algorithm": null,
+    "ProofType": null,
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "18/03/2018",
+    "TotalCoinsMined": null,
+    "Twitter": "@WorldWifi_ICO",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": null,
+    "GitHub": null,
+    "OnMarkets": [],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Ongoing",
+    "Description": "<p>World Wi-Fi is a global wi-fi network based on privately owned routers  (most of which are residential). Their owners may offer free Internet access and earn cryptocurrency through Internet advertising. The WeToken (WT) is an ERC223 token based on the Ethereum network and will be used for all transactions within the network.</p><p><strong>Team</strong>:</p><ul><li><strong>Ilya Yashin:</strong> Co-Founder &amp; CEO <a href=\"https://www.facebook.com/isyashin\" target=\"_blank\"><img src=\"/media/1383930/face_logo_final.png?width=13&amp;height=13\" alt=\"\" data-id=\"202866\"></a> <a href=\"https://www.linkedin.com/in/%D0%B8%D0%BB%D1%8C%D1%8F-%D1%8F%D1%88%D0%B8%D0%BD-354b8295/\" target=\"_blank\"><img src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Yan Sepiashvili:</strong> Co-Founder <a href=\"https://www.linkedin.com/in/yan-sepiashvily-1aa9b3153/\" target=\"_blank\"><img src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a> <a href=\"https://www.facebook.com/yan.sepiah\" target=\"_blank\"><img src=\"/media/1383930/face_logo_final.png?width=13&amp;height=13\" alt=\"\" data-id=\"202866\"></a></li><li><strong>Dmitry Koleznev:</strong> Chief Operation Officer <a href=\"https://www.linkedin.com/in/dmitry-koleznev-581742153\" target=\"_blank\"><img src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a> <a href=\"https://www.facebook.com/isyashin\" target=\"_blank\"></a><a href=\"https://m.facebook.com/dmitry.koleznev.5\" target=\"_blank\"><img src=\"/media/1383930/face_logo_final.png?width=13&amp;height=13\" alt=\"\" data-id=\"202866\"></a></li><li><strong>Larry Cameron:</strong> Technical Information Security Officer <a href=\"https://www.linkedin.com/in/larrycameron80/\" target=\"_blank\"><img src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li></ul><p>The WeToken ICO will start on the 18th of March and it will last until the 18th of April. The ICO token allocation represents 30% of the total token supply and will be sold for a $0.1 ach. The ICO funding target is set at $3,000,000 and the cap is set at $25,000,000. </p><p>The WT ICO features a bonus and bounty campaign.</p><p> </p>",
+    "TokenType": "ETH (ERC223)",
+    "WebsiteLink": "http://en.worldwifi.io?utm_source=cryptocompare&utm_medium=cryptocompare&utm_campaign=cryptocompare",
+    "FundingCap": "$25,000,000",
+    "FundingTarget": "$3,000,000 ",
+    "Date": 1521331200,
+    "EndDate": 1524009600,
+    "FundsRaisedList": "5,023,000 USD",
+    "FundsRaisedUSD": "5023000",
+    "StartPrice": "0.1",
+    "StartPriceCurrency": "USD",
+    "Jurisdiction": "Singapore",
+    "BlogLink": "https://medium.com/@WorldWifi_ICO",
+    "WhitePaperLink": "https://en.worldwifi.io/en/files/whitepaper_en.pdf"
+  },
+  "ccId": "746288"
+}

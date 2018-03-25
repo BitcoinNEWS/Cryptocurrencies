@@ -1,0 +1,56 @@
+{
+  "General": {
+    "Symbol": "CFTY",
+    "Name": "Crafty",
+    "Description": "<p>Crafty is a decentralized, autonomous workers free platform. Powered by the blockchain, Crafty introduces service providers to the contractors through a digital marketplace reachable via the web or through a mobile app. Crafty&#39;s reputation system (or \"the chain of trust\") incentivises users to behave honestly. Users are rewarded with CFTY tokens for <span>evaluating the counterpart accurately.</span></p><p><span>The CFTY token is an ERC-20 token based on the Ethereum blockchain. It is used as a medium of exchange and as a tool to incentivize user engagement.</span></p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "10000000000",
+    "Algorithm": null,
+    "ProofType": null,
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "22/01/2018",
+    "TotalCoinsMined": null,
+    "Twitter": "@craftywork_",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": null,
+    "GitHub": null,
+    "OnMarkets": [],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Ongoing",
+    "Description": "<p>Crafty is a decentralized, autonomous workers free platform. Powered by the blockchain, Crafty introduces service providers to the contractors through a digital marketplace reachable via the web or through a mobile app. Crafty&#39;s reputation system (or \"the chain of trust\") incentivises users to behave honestly. Users are rewarded with CFTY tokens for <span>evaluating the counterpart accurately.</span></p><p><span>The CFTY token is an ERC-20 token based on the Ethereum blockchain. It is used as a medium of exchange and as a tool to incentivize user engagement.</span></p><p><strong>Team</strong>:</p><ul><li><strong>Reinaldo Silva:</strong> CEO <a href=\"https://www.facebook.com/normann.kalmus\" target=\"_blank\"><img src=\"/media/1383930/face_logo_final.png?width=13&amp;height=13\" alt=\"\" data-id=\"202866\"></a> <a href=\"https://twitter.com/normannkallmus\" target=\"_blank\"><img src=\"/media/1383932/twitter_logo_final.png?width=13&amp;height=13\" alt=\"\" data-id=\"202868\"></a> <a href=\"https://www.linkedin.com/in/normannkalmus/\" target=\"_blank\"><img src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Normann Kalmus:</strong> CKO (Chief Knowledge Officer) <a href=\"https://www.facebook.com/reinaldoasilva\" target=\"_blank\"><img src=\"/media/1383930/face_logo_final.png?width=13&amp;height=13\" alt=\"\" data-id=\"202866\"></a> <a href=\"https://www.linkedin.com/in/reinaldo-silva-b3833211b/\" target=\"_blank\"><img src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Alessandro Ferreira:</strong> IT Manager &amp; Full-Stack Software Architect <a href=\"https://www.facebook.com/alessandro.snts.ferreira?ref=crafty\" target=\"_blank\"><img src=\"/media/1383930/face_logo_final.png?width=13&amp;height=13\" alt=\"\" data-id=\"202866\"></a> <a href=\"https://www.linkedin.com/in/alessandro-ferreira-33069927/\" target=\"_blank\"><img src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Ricardo Bessa:</strong> Full stack developer <a href=\"https://www.linkedin.com/in/normannkalmus/\" target=\"_blank\"><img src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li></ul><p>The Crafty ICO began on the 22nd of January and will end on the 13th of March 2018. The ICO token allocation represents 50% of the total token supply and will be available for a 0.0000068 ETH base price. The ICO funding cap is set at 35,000,000 USD.</p><p><strong>Token Reserve Split (50%):</strong></p><ul><li><span>30% company reserve, </span></li><li><span>14.5% team/founders, </span></li><li><span>4.5% advisors, </span></li><li><span>1% bounty/promotions</span></li></ul><p>The CFTY ICO features a bonus and bounty campaign.</p><p><strong>Bonus Structure:</strong></p><ul><li>(Up to 20% bonuses)</li></ul><p> </p>",
+    "TokenType": "ETH (ERC20)",
+    "WebsiteLink": "https://ico.crafty.work",
+    "FundingCap": "35,000,000 USD",
+    "FundingTarget": "N/A",
+    "Date": 1518393601,
+    "EndDate": 1520985540,
+    "FundsRaisedList": "Presale: 11,147,500 USD",
+    "FundsRaisedUSD": "21000000",
+    "StartPrice": "0.0000068",
+    "StartPriceCurrency": "ETH",
+    "Jurisdiction": "Uruguay",
+    "BlogLink": "https://steemit.com/@craftyapp",
+    "WhitePaperLink": "https://www.crafty.work/pdf/WHITEPAPER_CRAFTY_en.pdf"
+  },
+  "ccId": "711418"
+}

@@ -1,0 +1,61 @@
+{
+  "General": {
+    "Symbol": "YBC",
+    "Name": "YbCoin",
+    "Description": "<p>YB coin is a Chinese clone of YACcoin. It uses scrypt N+1 and ChaCha. The coin has a relatively low block time at 60 seconds but being a clone hasnt really brought much to the table in terms of innovation. Again like Yacoin there is a dynamically adjusted economic model related to the network power that balances the incentivisation to mine and use it depending on its popularity. An inverse relationship.</p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "200000000",
+    "Algorithm": "Multiple",
+    "ProofType": null,
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "01/01/0001",
+    "TotalCoinsMined": null,
+    "Twitter": "@ybcoin",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "http://www.ybcoin.com/en/",
+    "GitHub": null,
+    "OnMarkets": [
+      "BTC38",
+      "Yobit",
+      "BitTrex",
+      "Cryptsy"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "N/A",
+    "Description": null,
+    "TokenType": null,
+    "WebsiteLink": null,
+    "FundingCap": null,
+    "FundingTarget": null,
+    "Date": null,
+    "EndDate": null,
+    "FundsRaisedList": null,
+    "FundsRaisedUSD": null,
+    "StartPrice": null,
+    "StartPriceCurrency": null,
+    "Jurisdiction": null,
+    "BlogLink": null,
+    "WhitePaperLink": null
+  },
+  "ccId": "3639"
+}

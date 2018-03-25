@@ -1,0 +1,60 @@
+{
+  "General": {
+    "Symbol": "ICOB",
+    "Name": "Icobid",
+    "Description": "<p>Icobid is a Proof of Work/Proof of Stake cryptocurrency that fuels the Icobid platform. The Icobid platform will  be the place for users to join, share ideas, vote for best ideas and earn by expressing their opinions, allowing users to easily publish teir proposals to be voted on and funded.</p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "200000000 ",
+    "Algorithm": "Scrypt",
+    "ProofType": "PoW/PoS",
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "01/01/0001",
+    "TotalCoinsMined": 107048455.12143768,
+    "Twitter": "@pioneer8816",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "http://www.icobidplatform.net/",
+    "GitHub": null,
+    "OnMarkets": [
+      "Yobit",
+      "Cryptopia",
+      "Novaexchange"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Finished",
+    "Description": "<p><span>ICObid is a platform that supports the following:</span></p><p><span>- Voting for users ideas</span><br /><span>- Exchange page between ICOBID, fiat currencies, cryptocurrencies and tokens of ideas</span><br /><span>- Job Page: Same to a freelancer site</span><br /><span>- ICO page: Escrow, running ICOs, Tokens publishing</span></p><p>Bountry campaign -<span> 500.000 ICB for Signature campaign,</span> 300.000 ICB for Facebook and and 300.000 ICB Twitter campaign. Another 300.000 ICB for second twitter campaign</p>",
+    "TokenType": "N/A",
+    "WebsiteLink": "http://www.icobidplatform.com/",
+    "FundingCap": "N/A",
+    "FundingTarget": "N/A",
+    "Date": 1481457600,
+    "EndDate": 1484136000,
+    "FundsRaisedList": "N/A",
+    "FundsRaisedUSD": "15000",
+    "StartPrice": "0.00001300",
+    "StartPriceCurrency": "BTC",
+    "Jurisdiction": "N/A",
+    "BlogLink": null,
+    "WhitePaperLink": "http://www.icobidplatform.com/attorneys.html"
+  },
+  "ccId": "34499"
+}

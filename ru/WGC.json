@@ -1,0 +1,58 @@
+{
+  "General": {
+    "Symbol": "WGC",
+    "Name": "World Gold Coin",
+    "Description": "<p>World Gold Coin is a Hong Kong based Proof of Work Cryptocurrency that allows users to send and receive transactions almost instantlyl WGC use Sha-256 as its hashing algorithm, like Bitcoin.</p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "51000000",
+    "Algorithm": "SHA256",
+    "ProofType": "PoW",
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "11/07/2016",
+    "TotalCoinsMined": 3102200,
+    "Twitter": null,
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "http://wgcglobal.com/",
+    "GitHub": null,
+    "OnMarkets": [
+      "CCEX"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "N/A",
+    "Description": null,
+    "TokenType": null,
+    "WebsiteLink": null,
+    "FundingCap": null,
+    "FundingTarget": null,
+    "Date": null,
+    "EndDate": null,
+    "FundsRaisedList": null,
+    "FundsRaisedUSD": null,
+    "StartPrice": null,
+    "StartPriceCurrency": null,
+    "Jurisdiction": null,
+    "BlogLink": null,
+    "WhitePaperLink": null
+  },
+  "ccId": "24402"
+}

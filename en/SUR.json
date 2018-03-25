@@ -1,0 +1,61 @@
+{
+  "General": {
+    "Symbol": "SUR",
+    "Name": "Suretly",
+    "Description": "<p>Suretly is a provider of an international crowd vouching platform. The company offers users an investment alternative called <em>crowdvouching</em>, which allows customers to make money vouching for people who need an urgent loan.</p><p>This system works in a similar fashion with peer-2-peer lending, but customers do not lend money to each other directly. Instead, they vouch for borrowers who apply for a loan through lending partners.</p><p>Customers can find borrowers that are looking for their loan’s guarantors. The voucher can check the borrower’s profile and choose whether to vouch for the borrower if their default risk and earning amount suit them.</p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "N/A",
+    "Algorithm": "N/A",
+    "ProofType": "N/A",
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "20/04/2017",
+    "TotalCoinsMined": 237614,
+    "Twitter": "@suretly_com",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "https://suretly.com/",
+    "GitHub": null,
+    "OnMarkets": [
+      "HitBTC",
+      "Tidex",
+      "EtherDelta",
+      "WavesDEX"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Finished",
+    "Description": "<p><span>Suretly is planning to raise between $1.5 - $10 million USD in the next round of financing by selling 15% of its shares. This money will help to accelerate penetration into new markets and countries. A major investor of this round will be a Singapore company “SURcoin pte.ltd” which will get options to buy 15% of Suretly’s shares and will initiate tokens issue.</span></p><p><span>Suretly will be holding its ICO on Jul 11, 2017. There will be a total of 10,000,000 USD in SUR-token&#39;s available for 0.1 ETH each at the offering. The ICO is expected to end on 11<span>, Aug 2017.</span></span></p><p><span><span>SUR-token will be issued on two blockchain platforms: Ethereum and Waves - each investor can choose a token he prefers himself. In the future these two types of tokens will be used in the Suretly app as a guarantee on a granted sureties.</span></span></p><p><span><span>Bonuses Available:</span></span></p><p>- First hour: 70%</p><p>- First day (after first hour) : 50%</p><p>- Second day: 40%</p><p>- 3th day: 30%</p><p>- 4th day: 20%</p><p>- 5th day: 10%</p>",
+    "TokenType": "ETH (ERC20)",
+    "WebsiteLink": "https://www.ico.suretly.com/",
+    "FundingCap": "10000000",
+    "FundingTarget": "10000000",
+    "Date": 1499760000,
+    "EndDate": 1502438400,
+    "FundsRaisedList": "In Presale:\r\n1612,21 ETH;\r\n65,22 BTC;\r\n340,73 LTC;\r\n1652,36 WAVES;\r\n\r\nIn ICO:\r\n168 BTC;\r\n6460 ETH;\r\n1329 LTC;\r\n12922 WAVES;",
+    "FundsRaisedUSD": "2695596",
+    "StartPrice": "0.1",
+    "StartPriceCurrency": "ETH",
+    "Jurisdiction": "N/A",
+    "BlogLink": null,
+    "WhitePaperLink": "https://suretly.com/docs/Suretly_whitepaper_v1.2.pdf"
+  },
+  "ccId": "177462"
+}

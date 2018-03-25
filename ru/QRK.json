@@ -1,0 +1,64 @@
+{
+  "General": {
+    "Symbol": "QRK",
+    "Name": "QuarkCoin",
+    "Description": "<p>Quark Coin (QRK) Military Grade Encryption and it is a free open source peer-to-peer electronic cash system that is completely decentralized, without the need for a central server or trusted parties. Users hold the crypto keys to their own money and transact directly with each other, with the help of a P2P network to check for double-spending. Super secure hashing: 9 rounds of hashing from 6 hashing functions (blake, bmw, groestl, jh, keccak, skein). 3 rounds apply a random hashing function.</p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "247000000",
+    "Algorithm": "Multiple",
+    "ProofType": "PoW",
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "21/07/2013",
+    "TotalCoinsMined": null,
+    "Twitter": "@quarkcoin",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "http://www.qrk.cc/",
+    "GitHub": null,
+    "OnMarkets": [
+      "BTER",
+      "Novaexchange",
+      "Coinse",
+      "Cryptopia",
+      "Cryptsy",
+      "BXinth",
+      "BTC38"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "N/A",
+    "Description": null,
+    "TokenType": null,
+    "WebsiteLink": null,
+    "FundingCap": null,
+    "FundingTarget": null,
+    "Date": null,
+    "EndDate": null,
+    "FundsRaisedList": null,
+    "FundsRaisedUSD": null,
+    "StartPrice": null,
+    "StartPriceCurrency": null,
+    "Jurisdiction": null,
+    "BlogLink": null,
+    "WhitePaperLink": null
+  },
+  "ccId": "4351"
+}

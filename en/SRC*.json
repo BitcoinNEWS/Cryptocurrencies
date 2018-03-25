@@ -1,0 +1,56 @@
+{
+  "General": {
+    "Symbol": "SRC*",
+    "Name": "StarCredits",
+    "Description": "<p>StartCredits is an Ethereum-based token that will serve as the currency for the Back to Earth alternative reality game. <span>The StarCredit token will allow players to vote on story outcomes, collect in-game content, unlock special features, puzzles, and more. The SRC tokens used to interact with the story line are destroyed, reducing the total SRC supply.</span></p><p>Back to Earth is an alternative reality game or experience that aims create an even more immerse alternate reality experience for gamers, providing content that will enrich the story line in multiple formats, including film, mobile apps, social media, books, physical memorabilia, and more. This is known as “transmedia” storytelling in which players are submersed into the game’s storyline through various platforms. </p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "20000000",
+    "Algorithm": null,
+    "ProofType": null,
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "26/04/2017",
+    "TotalCoinsMined": null,
+    "Twitter": "@backtoearthARG",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "https://backto.earth/",
+    "GitHub": null,
+    "OnMarkets": [],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Finished",
+    "Description": "<p><span>4,000,000 SRC tokens were sold at the rate of .0001875 BTC per SRC. An additional 500,000 SRC will be distributed through referral rewards. Donations of 0.75 BTC received golden tickets.</span></p><p><span><br /><span>The remaining SRC supply will be locked up in a smart contract that Back to Earth cannot access for 4-12 months. </span>Almost immediately following the crowdfund 643 BTC of the total 750.57 BTC were sold at a market rate of roughly $1450 per BTC. This totalled about $932,000.</span></p><p><span>A second crowdfund will release 4.5 million SRC and the other </span><span>11 million SRC remain off market for up to a year following the first crowdfund.</span></p>",
+    "TokenType": "ETH (ERC20)",
+    "WebsiteLink": "https://backto.earth/",
+    "FundingCap": "750 BTC",
+    "FundingTarget": "N/A",
+    "Date": 1493208000,
+    "EndDate": 1493380800,
+    "FundsRaisedList": "750.57 BTC",
+    "FundsRaisedUSD": "1080000",
+    "StartPrice": "0.0001875",
+    "StartPriceCurrency": "BTC",
+    "Jurisdiction": "N/A",
+    "BlogLink": "http://backto.earth/blog/",
+    "WhitePaperLink": "http://backto.earth/blog/back-to-earth-white-paper/"
+  },
+  "ccId": "59966"
+}

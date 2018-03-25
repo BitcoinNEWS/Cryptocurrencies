@@ -1,0 +1,58 @@
+{
+  "General": {
+    "Symbol": "PGL",
+    "Name": "Prospectors",
+    "Description": "<p>Prospectors is an economic multi-player real-time strategy with the real trading and economic relations. Game events happen in the world that resembles Earth in the middle of the 19th century, in the epoch of the initial capital formation.</p><p>The main peculiarity of Prospectors, will be the possibility of monetizing the time spent in the game. In other words, players will be able to not only enjoy the game but earn on it as well. One will be able to convert the gold made in the game into real money.</p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "220000000",
+    "Algorithm": null,
+    "ProofType": null,
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "01/01/0001",
+    "TotalCoinsMined": null,
+    "Twitter": "@prospectorsgame",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": null,
+    "GitHub": null,
+    "OnMarkets": [
+      "EtherDelta"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Ongoing",
+    "Description": "<p>Prospectors is an economic multi-player real-time strategy with the real trading and economic relations. Game events happen in the world that resembles Earth in the middle of the 19th century, in the epoch of the initial capital formation.</p><p>The main peculiarity of Prospectors, will be the possibility of monetizing the time spent in the game. In other words, players will be able to not only enjoy the game but earn on it as well. One will be able to convert the gold made in the game into real money.</p><p><strong>Team</strong>:</p><ul><li><strong>Andriy Maslievich</strong>: Co-founder of Prospectors, Leading Developer.</li><li><strong>Nazar Chervinskiy</strong>: <span>Co-founder of Prospectors.</span></li><li><strong>Max Karkach</strong>: <span>Co-founder of Prospectors, Developer, Designer and Illustrator.</span></li><li><strong>Oksana Vasylytsya</strong><span>: Co-founder of Prospectors, Leading Developer of the Game’s Economic Model.</span></li><li><span><strong>Taras Yeserskiy</strong><span>: Co-founder of Prospectors.</span></span></li><li><strong>Sergiy Chervinskiy</strong><span>: Co-founder of Prospectors, Author and Illustrator.</span></li></ul><p>Prospectors ICO began on August 10, 2017. The ICO token supply represents 27% of the total token supply, so there is a total of 60,000,000 tokens available, for 0.0005 ETH each. The ICO funding target is 2000 ETH, the funding cap is 29000 ETH and is expected to end on September 10, 2017 or when the funding cap is reached.</p>",
+    "TokenType": "N/A",
+    "WebsiteLink": "https://ico.prospectors.io/",
+    "FundingCap": "29000 ETH",
+    "FundingTarget": "2000 ETH",
+    "Date": 1502323200,
+    "EndDate": 1505001600,
+    "FundsRaisedList": "890 ETH",
+    "FundsRaisedUSD": "267000",
+    "StartPrice": "0.0005",
+    "StartPriceCurrency": "ETH",
+    "Jurisdiction": "N/A",
+    "BlogLink": null,
+    "WhitePaperLink": "https://prospectors.io/white_paper_en.pdf"
+  },
+  "ccId": "222125"
+}

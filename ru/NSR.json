@@ -1,0 +1,63 @@
+{
+  "General": {
+    "Symbol": "NSR",
+    "Name": "NuShares",
+    "Description": "<p>NuShares are units held by individuals who wish to help support and maintain the Nu network. Owning NuShares is not required to use NuBits. Instead, NuShares are intended to be a source of network equity for developers, entrepreneurs, and speculators. NuShareholders can receive network revenues in the form of <a href=\"http://peercoin.net/\">Peercoin</a> dividends paid out by a custodian.</p><p>NuShareholders can cast votes for actions that positively affect the Nu network. These actions help adjust the supply and demand for NuBits so that they will always remain at a long-term $1.00 US value.</p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "1000000000",
+    "Algorithm": null,
+    "ProofType": "PoS",
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "28/09/2014",
+    "TotalCoinsMined": null,
+    "Twitter": "@OfficialNuBits",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "https://nubits.com/nushares/introduction",
+    "GitHub": null,
+    "OnMarkets": [
+      "Cryptopia",
+      "Novaexchange",
+      "CCEDK",
+      "BTER",
+      "Cryptsy",
+      "Poloniex"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "N/A",
+    "Description": null,
+    "TokenType": null,
+    "WebsiteLink": null,
+    "FundingCap": null,
+    "FundingTarget": null,
+    "Date": null,
+    "EndDate": null,
+    "FundsRaisedList": null,
+    "FundsRaisedUSD": null,
+    "StartPrice": null,
+    "StartPriceCurrency": null,
+    "Jurisdiction": null,
+    "BlogLink": null,
+    "WhitePaperLink": null
+  },
+  "ccId": "5295"
+}

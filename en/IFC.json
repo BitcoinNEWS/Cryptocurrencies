@@ -1,0 +1,64 @@
+{
+  "General": {
+    "Symbol": "IFC",
+    "Name": "Infinite Coin",
+    "Description": "<p>Infinitecoin (IFC) is a peer-to-peer open source cryptocurrency that is based on Litecoin (which was in turn inspired by Bitcoin), except that it will have 1142.86 times as many coins, and the difficulty with which coins are produced is adjusted more frequently.</p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "9060000000000000000",
+    "Algorithm": "Scrypt",
+    "ProofType": "PoW",
+    "BlockReward": 0.00048828125,
+    "Explorer": null,
+    "StartDate": "05/06/2013",
+    "TotalCoinsMined": 90596277248.71335,
+    "Twitter": "@Infinitecoin_US",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "http://infinitecoin.com/",
+    "GitHub": null,
+    "OnMarkets": [
+      "BTER",
+      "Coinse",
+      "Cryptopia",
+      "Jubi",
+      "Novaexchange",
+      "Cryptsy",
+      "Poloniex"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "N/A",
+    "Description": null,
+    "TokenType": null,
+    "WebsiteLink": null,
+    "FundingCap": null,
+    "FundingTarget": null,
+    "Date": null,
+    "EndDate": null,
+    "FundsRaisedList": null,
+    "FundsRaisedUSD": null,
+    "StartPrice": null,
+    "StartPriceCurrency": null,
+    "Jurisdiction": null,
+    "BlogLink": null,
+    "WhitePaperLink": null
+  },
+  "ccId": "4539"
+}

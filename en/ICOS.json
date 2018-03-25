@@ -1,0 +1,61 @@
+{
+  "General": {
+    "Symbol": "ICOS",
+    "Name": "ICOBox",
+    "Description": "<p>ICOBox — это продукт, который позволяет снизить затраты на проведение ICO путем автоматизации и внедрения шаблонов и моделей во всех трех основных компонентах ICO: технологическое решение, юридическое решение, маркетинговое решение. ICOBox стремится стабилизировать рынок ICO через массовое производство кампании ICO, которое будет способствовать его децентрализации и диверсификации.</p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": null,
+    "Algorithm": [],
+    "ProofType": null,
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "15/08/2017",
+    "TotalCoinsMined": 585617,
+    "Twitter": "@icobox_io",
+    "Telegram": null,
+    "Youtube": "3C0FcYr8enY",
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "https://icos.icobox.io/",
+    "GitHub": null,
+    "OnMarkets": [
+      "HitBTC",
+      "Tidex",
+      "EtherDelta",
+      "LiveCoin"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Ongoing",
+    "Description": "<p>ICOBox is a product which allows to lower the cost of conducting ICOs through automating and introducing templates and models in all three essential ICO components: Technology solution, Legal solution, Marketing solution.</p><p>ICOBox aims to stabilize the ICO market through mass ICO campaign production which will facilitate its decentralization and diversification.</p><p><strong>Team</strong>:</p><ul><li><strong>Mike Raitsyn</strong>: Founder. <a href=\"https://www.linkedin.com/in/mike-raitsyn-05b5b9b4/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Niсk Evdokimov</strong>: <span>Founder</span>.<span> </span><a href=\"https://www.linkedin.com/in/nick-evdokimov-ba5635a7/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Anar Babaev</strong>: <span>Founder</span>.<span> </span><a href=\"https://www.linkedin.com/in/anar-babaev-03771323/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Dmitry Khovratovich</strong><span>: Security and Smart Contract CTO.</span><span> </span><a href=\"https://www.linkedin.com/in/khovratovich/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong><span>Taras Kozlov</span></strong><span>: Tech Lead.</span><span> </span><a href=\"https://www.linkedin.com/in/taraskozlov/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Daniel Minkov</strong><span>: Senior Product Manager.</span><span> </span><a href=\"https://www.linkedin.com/in/daniel-minkov-05b50882/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li></ul><p>ICOBox crowdsale began on August 15, 2017. The ICO token supply represents 83% of the total token supply. The ICO has an uncapped funding cap and is expected to end on September 15, 2017. For every 100 ICOS tokens sold through the ICO, 20 additional tokens will be issued for distribution to partners, advisors, bounty participants, and the team members.</p><p><strong>Token Reserve Split (16.7%):</strong></p><ul><li>16.7% Partners, advisors, bounty participants, and team members.;</li></ul>",
+    "TokenType": "ETH (ERC20)",
+    "WebsiteLink": "https://icos.icobox.io",
+    "FundingCap": "N/A",
+    "FundingTarget": "N/A",
+    "Date": 1502866800,
+    "EndDate": 1505545200,
+    "FundsRaisedList": "3290.6216 BTC",
+    "FundsRaisedUSD": "14374010",
+    "StartPrice": "0.008",
+    "StartPriceCurrency": "BTC",
+    "Jurisdiction": "N/A",
+    "BlogLink": null,
+    "WhitePaperLink": "https://icos.icobox.io/WhitePaper.pdf"
+  },
+  "ccId": "207775"
+}

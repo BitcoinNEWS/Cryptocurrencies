@@ -1,0 +1,56 @@
+{
+  "General": {
+    "Symbol": "GES",
+    "Name": "Galaxy eSolutions",
+    "Description": "<p><span>A global distribution and e-commerce marketplace for refurbished consumer electronics.</span></p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "300000000",
+    "Algorithm": null,
+    "ProofType": null,
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "17/11/2017",
+    "TotalCoinsMined": null,
+    "Twitter": "@Galaxye_eSol",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": null,
+    "GitHub": null,
+    "OnMarkets": [],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Ongoing",
+    "Description": "<p>A global distribution and e-commerce marketplace for refurbished consumer electronics.</p><p><strong>Team</strong>:</p><ul><li><strong>Yuen Wong</strong><span>: Co-Founder &amp; CEO.</span></li><li><span><strong>Joe Chan</strong><span>: CTO.</span></span></li><li><strong>Erik Hohmann</strong><span>: CMO.</span></li><li><span><strong>Chris Wong</strong><span>: COO.</span></span></li><li><strong>Simon Choi </strong><span>: Fintech, Blockchain &amp; Global ICO Lawyer.</span></li><li><span><strong>Pranav Burnwal</strong><span>: Region Head at Blockchain Education Network.</span></span></li><li><strong>Brennan Bennett</strong><span>: Blockchain Technology Consultant.</span></li></ul><p>Galaxy eSolutions will be holding its ICO on the 28th of February, 2018. There will be a total of 2,800,000 tokens available, for 0.01 ETH each at the offering. The ICO funding target is 25000 ETH and is expected to end on the 31st of March, 2018.</p><p><strong>Token Reserve Split (11%):</strong></p><ul><li>9.5% Team;</li><li>1.5% Bounties;</li></ul>",
+    "TokenType": "N/A",
+    "WebsiteLink": "https://galaxy-esolutions.com/",
+    "FundingCap": "N/A",
+    "FundingTarget": "25000 ETH",
+    "Date": 1519819200,
+    "EndDate": 1522497540,
+    "FundsRaisedList": "2,052.96 ETH\r\n1088068.8 USD",
+    "FundsRaisedUSD": "1088068.8",
+    "StartPrice": "0.0001",
+    "StartPriceCurrency": "ETH",
+    "Jurisdiction": "Hong Kong",
+    "BlogLink": "https://medium.com/@GalaxyeSolution",
+    "WhitePaperLink": "http://whitepaper.galaxy-esolutions.com/"
+  },
+  "ccId": "377508"
+}

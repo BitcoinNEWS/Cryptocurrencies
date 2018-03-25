@@ -1,0 +1,56 @@
+{
+  "General": {
+    "Symbol": "TBAR",
+    "Name": "Titanium BAR",
+    "Description": "<p>Titanium BAR (TBAR) was a swap of BAR token that took place on the 21st of February and will be distributed at a 1:1 ration (TBAR to BAR). The swap has been done due to one hack that resulted in the theft of approximately 18.76 million BAR tokens, with this said, the TBAR will preserve the integrity of Titanium&#39;s ecosystem.</p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "60000000",
+    "Algorithm": null,
+    "ProofType": null,
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "21/03/2018",
+    "TotalCoinsMined": 60000000,
+    "Twitter": "@TBISINC",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": null,
+    "GitHub": null,
+    "OnMarkets": [],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "N/A",
+    "Description": null,
+    "TokenType": null,
+    "WebsiteLink": null,
+    "FundingCap": null,
+    "FundingTarget": null,
+    "Date": null,
+    "EndDate": null,
+    "FundsRaisedList": null,
+    "FundsRaisedUSD": null,
+    "StartPrice": null,
+    "StartPriceCurrency": null,
+    "Jurisdiction": null,
+    "BlogLink": null,
+    "WhitePaperLink": null
+  },
+  "ccId": "815247"
+}

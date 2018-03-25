@@ -1,0 +1,59 @@
+{
+  "General": {
+    "Symbol": "CHSB",
+    "Name": "SwissBorg",
+    "Description": "<p>SwissBorg is a wealth management platform for cryptos based on the blockchain, made in Switzerland by a team of financial experts. CHSB token holders become community members and are rewarded for participating in referendums to decide the future of SwissBorg.</p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "1000000000",
+    "Algorithm": null,
+    "ProofType": null,
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "08/09/2017",
+    "TotalCoinsMined": 1000000000,
+    "Twitter": "@swissborg",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": null,
+    "GitHub": null,
+    "OnMarkets": [
+      "LiveCoin",
+      "HitBTC"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Finished",
+    "Description": "<p><span>SwissBorg is a wealth management platform for cryptos based on the blockchain, made in Switzerland by a team of financial experts. </span><span>CHSB token holders become community members and are rewarded for participating in referendums to decide the future of SwissBorg.</span></p><p><strong>Team</strong>:</p><ul><li>Cyrus Fazel: CEO-Founder. <a href=\"https://twitter.com/Cyrus_Fazel\" target=\"_blank\"><img style=\"width: 13px; height: 13px;\" src=\"/media/1383932/twitter_logo_final.png?width=13&amp;height=13\" alt=\"\" data-id=\"202868\"></a> <a href=\"https://www.linkedin.com/in/cyrusfazelmrfintech/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li>Anthony Lesoismier: CSO - Co-Founder.<span> </span><span> </span><a href=\"https://www.linkedin.com/in/anthony-lesoismier-geniaux-06254a11/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li>Christophe Diserens: COO.<span> </span><span> </span><a href=\"https://www.linkedin.com/in/christophe-diserens-caia-1984b81/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li>Maxime Gillot: CIO. <a href=\"https://www.linkedin.com/in/maxime-gillot-9718319/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li>Marco Guerreiro: Chief Research Officer. <a href=\"https://www.linkedin.com/in/marco-guerreiro-viegas-9a16103/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li>Micha Roon: Smart Contract Expert.  <a href=\"https://www.linkedin.com/in/micha/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li>Olga Vorobyeva: Head of Marketing and PR. <a href=\"https://twitter.com/olvorobyeva\" target=\"_blank\"><img style=\"width: 13px; height: 13px;\" src=\"/media/1383932/twitter_logo_final.png?width=13&amp;height=13\" alt=\"\" data-id=\"202868\"></a> <a href=\"https://www.linkedin.com/in/vorobyeva/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li>Tomas Hanak: IT Operations. <a href=\"https://www.linkedin.com/in/thanak/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li></ul><p>SwissBorg will be holding its ICO on December 7th, 2017. The ICO token supply represents 62,5% of the total token supply, so there will be a total of 620000000 tokens available, for  at the offering. The ICO funding target is <span>$50,000,000</span>, the funding cap is <span>$50,000,000</span> and is expected to end on January 1st, 2018 or when the funding cap is reached. Any unsold/remaining tokens will be reserved for further development.</p><p><strong>Token Reserve Split (100%):</strong></p><ul><li>62,50% ICO;</li><li>20% Team &amp; advisors;</li><li>16,50% Retained for further development;</li><li>1% Bounty;</li></ul><p><span>The token will not be mineable.</span></p><p> </p>",
+    "TokenType": "ETH (ERC20)",
+    "WebsiteLink": "https://ico.swissborg.com/",
+    "FundingCap": "50000000",
+    "FundingTarget": "N/A",
+    "Date": 1512604800,
+    "EndDate": 1515542400,
+    "FundsRaisedList": "N/A",
+    "FundsRaisedUSD": "N/A",
+    "StartPrice": "N/A",
+    "StartPriceCurrency": "USD",
+    "Jurisdiction": "Switzerland",
+    "BlogLink": "https://medium.com/swissborg",
+    "WhitePaperLink": "https://drive.google.com/file/d/0BwQ5Ud-ApHvJbkQ0aXVJLVVlUk0/view"
+  },
+  "ccId": "752993"
+}

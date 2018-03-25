@@ -1,0 +1,56 @@
+{
+  "General": {
+    "Symbol": "AXYS",
+    "Name": "Axys",
+    "Description": "<p><span>Axys is an online marketplace and hospitality service that allows people to lease or rent short-term vacation rentals, apartment rentals, homestays, hostel beds, or hotel rooms and Car rental using the blockchain technology and Cryptocurrencies.  </span>AXYS is an asset ERC20 token built on the Ethereum network and is used as a utility token on the Axys platform.</p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "20000000",
+    "Algorithm": null,
+    "ProofType": null,
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "04/12/2017",
+    "TotalCoinsMined": 20000000,
+    "Twitter": "@Axys13",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": null,
+    "GitHub": null,
+    "OnMarkets": [],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "N/A",
+    "Description": null,
+    "TokenType": null,
+    "WebsiteLink": null,
+    "FundingCap": null,
+    "FundingTarget": null,
+    "Date": null,
+    "EndDate": null,
+    "FundsRaisedList": null,
+    "FundsRaisedUSD": null,
+    "StartPrice": null,
+    "StartPriceCurrency": null,
+    "Jurisdiction": null,
+    "BlogLink": null,
+    "WhitePaperLink": null
+  },
+  "ccId": "799948"
+}

@@ -1,0 +1,59 @@
+{
+  "General": {
+    "Symbol": "GRWI",
+    "Name": "Growers International",
+    "Description": "<p>G<span>rowers International is a cryptocurrency created for legal Cannabis growers &amp; businesses. Fatures include Seed-2-Sale, Strain Chain, Investment Platform, Grow Store, Grow Contracts and custom designed Software Suite.</span></p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "1000420",
+    "Algorithm": "DPoS",
+    "ProofType": "N/A",
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "01/01/0001",
+    "TotalCoinsMined": null,
+    "Twitter": "@GrowersIntl",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "http://growersintl.com/coin/",
+    "GitHub": null,
+    "OnMarkets": [
+      "Cryptopia",
+      "CCEX"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "N/A",
+    "Description": null,
+    "TokenType": null,
+    "WebsiteLink": null,
+    "FundingCap": null,
+    "FundingTarget": null,
+    "Date": null,
+    "EndDate": null,
+    "FundsRaisedList": null,
+    "FundsRaisedUSD": null,
+    "StartPrice": null,
+    "StartPriceCurrency": null,
+    "Jurisdiction": null,
+    "BlogLink": null,
+    "WhitePaperLink": null
+  },
+  "ccId": "207931"
+}

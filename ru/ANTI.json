@@ -1,0 +1,60 @@
+{
+  "General": {
+    "Symbol": "ANTI",
+    "Name": "Anti Bitcoin",
+    "Description": "<p>Anti Bitcoin был создан как символ против жадности и нечестности внутри сообщества криптовалютных компаний, он стремится указать на самые большие недостатки биткойна, такие как манипулирование рынком небольшими группами людей.</p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "42000000",
+    "Algorithm": "SHA256",
+    "ProofType": "PoW",
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "15/10/2015",
+    "TotalCoinsMined": null,
+    "Twitter": "@anti_bitcoin",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "http://anti.cash/",
+    "GitHub": null,
+    "OnMarkets": [
+      "Yobit",
+      "Cryptopia",
+      "CCEX"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "N/A",
+    "Description": null,
+    "TokenType": null,
+    "WebsiteLink": null,
+    "FundingCap": null,
+    "FundingTarget": null,
+    "Date": null,
+    "EndDate": null,
+    "FundsRaisedList": null,
+    "FundsRaisedUSD": null,
+    "StartPrice": null,
+    "StartPriceCurrency": null,
+    "Jurisdiction": null,
+    "BlogLink": null,
+    "WhitePaperLink": null
+  },
+  "ccId": "20828"
+}

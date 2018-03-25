@@ -1,0 +1,64 @@
+{
+  "General": {
+    "Symbol": "ADX",
+    "Name": "AdEx",
+    "Description": "<p>AdEx is a decentralized Ad exchange built on the Ethereum network  Focusing on <span>the entertainment industry and video streaming services and publishers, AdEx aims to replace the traditional digital advertising models by providing a transparent, focused solution for advertisers to collaborate with ad publishers directly, skipping middlemen fees and complications. The platform also ensures that the end user can understand and control the ads delivered to them through the use of the AdEx User Profile personalized page. </span>The AdEx token (ADX) is used within the AdEx Platform to buy or sell advertising space and time. </p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "100000000",
+    "Algorithm": "N/A",
+    "ProofType": "N/A",
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "30/05/2017",
+    "TotalCoinsMined": 73430701,
+    "Twitter": "@AdEx_Network",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "https://www.adex.network/",
+    "GitHub": null,
+    "OnMarkets": [
+      "BitTrex",
+      "Binance",
+      "EtherDelta",
+      "HitBTC",
+      "Gatecoin",
+      "Liqui",
+      "HuobiPro"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Finished",
+    "Description": "<p>AdEx is a decentralized ad exchange built on Ethereum blockchain and smart contracts. The AdEx platform is designed to disrupt and replace the traditional digital advertising models by providing a transparent, focused solution for advertisers to collaborate with ad publishers and reach the best potential clients.</p><p>The AdEx crowdsale will start on June 30th and will end on July 30th or when the hard cap of 40,000 ЕТH is reached (Only ETH will be accepted as a paying method).</p><p>The token exchange rate will be: 1 ETH = 900 ADX.</p><p>There will be a:</p><p>- 30% first day bonus (1ETH = 1170ADX)</p><p>- 15% first week bonus (1ETH = 1035ADX)</p><p>Tokens will be immediately transferable after the crowdsale.</p>",
+    "TokenType": "ETH (ERC20)",
+    "WebsiteLink": "https://tokens.adex.network/",
+    "FundingCap": "40000 ETH",
+    "FundingTarget": "40000 ETH",
+    "Date": 1498780800,
+    "EndDate": 1498809600,
+    "FundsRaisedList": "40008.0523 ETH;",
+    "FundsRaisedUSD": "9041808",
+    "StartPrice": "0.00085470085",
+    "StartPriceCurrency": "ETH",
+    "Jurisdiction": "N/A",
+    "BlogLink": "https://medium.com/the-adex-blog",
+    "WhitePaperLink": "https://www.adex.network/adex/AdEx-Whitepaper-v1.4.pdf"
+  },
+  "ccId": "170452"
+}

@@ -1,0 +1,60 @@
+{
+  "General": {
+    "Symbol": "AM",
+    "Name": "AeroMe",
+    "Description": "<p>Aero was created 22-June-2014. By the developer, Majika.The main goal with Aero was to create the decentralized marketplace exchange, AeroME. On 11-Jan-2015 Aero completed a coinswap from Aero to AeroME.</p><p>Because Aero was not optimal for the platform, Majika created a new coin that was. After half a year of work, the AeroME platform was announced to be released in February.</p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "12000000",
+    "Algorithm": "X13",
+    "ProofType": "PoW/PoS",
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "14/02/2015",
+    "TotalCoinsMined": null,
+    "Twitter": "@aerocoin",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "http://www.aerome.org/",
+    "GitHub": null,
+    "OnMarkets": [
+      "Yobit",
+      "TradeSatoshi",
+      "BitTrex"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "N/A",
+    "Description": null,
+    "TokenType": null,
+    "WebsiteLink": null,
+    "FundingCap": null,
+    "FundingTarget": null,
+    "Date": null,
+    "EndDate": null,
+    "FundsRaisedList": null,
+    "FundsRaisedUSD": null,
+    "StartPrice": null,
+    "StartPriceCurrency": null,
+    "Jurisdiction": null,
+    "BlogLink": null,
+    "WhitePaperLink": null
+  },
+  "ccId": "5330"
+}

@@ -1,0 +1,66 @@
+{
+  "General": {
+    "Symbol": "WINGS",
+    "Name": "Wings DAO",
+    "Description": "<p>Wings is a platform where users can create and invest in Decentralized Autonomous Organizations (DAOs). These DAOs can be created without any specific coding knowledge or technical skills, and are approved through a prediction market feature. the Wings Platform is run by a DAO itself, the Wings DAO. Wings DAO tokens, WINGS, represent a share within that DAO and allows users to vote on the developments of the platform, and to recieve dividends from the fees generated within the platform.</p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "100000000",
+    "Algorithm": null,
+    "ProofType": null,
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "31/12/2016",
+    "TotalCoinsMined": "100000000",
+    "Twitter": "@wingsplatform",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "https://wings.ai/",
+    "GitHub": null,
+    "OnMarkets": [
+      "Gateio",
+      "Novaexchange",
+      "EtherDelta",
+      "Binance",
+      "LiveCoin",
+      "Tidex",
+      "BitTrex",
+      "Liqui",
+      "HitBTC"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Finished",
+    "Description": "<p><span data-sheets-value=\"{&quot;1&quot;:2,&quot;2&quot;:&quot;https://etherscan.io/token/WINGS&quot;}\" data-sheets-userformat=\"{&quot;2&quot;:276968,&quot;6&quot;:{&quot;1&quot;:[{&quot;1&quot;:2,&quot;2&quot;:0,&quot;5&quot;:{&quot;1&quot;:2,&quot;2&quot;:0}},{&quot;1&quot;:0,&quot;2&quot;:0,&quot;3&quot;:3},{&quot;1&quot;:1,&quot;2&quot;:0,&quot;4&quot;:1}]},&quot;8&quot;:{&quot;1&quot;:[{&quot;1&quot;:2,&quot;2&quot;:0,&quot;5&quot;:{&quot;1&quot;:2,&quot;2&quot;:0}},{&quot;1&quot;:0,&quot;2&quot;:0,&quot;3&quot;:3},{&quot;1&quot;:1,&quot;2&quot;:0,&quot;4&quot;:1}]},&quot;9&quot;:0,&quot;10&quot;:0,&quot;11&quot;:3,&quot;14&quot;:{&quot;1&quot;:2,&quot;2&quot;:1136076},&quot;15&quot;:&quot;Calibri&quot;,&quot;16&quot;:11,&quot;21&quot;:1}\"><span data-sheets-value=\"{&quot;1&quot;:2,&quot;2&quot;:&quot;The token being sold is the Wings token. The Wings token serves as a means of participating in the prediction market (as a submitter or a forecaster) and a means of preventing spam and sybil attacks. All transactions will require a small fee, similar to Ethereum\\u2019s gas fees. Submitting a proposal will also require a listing fee, which can vary based on the proposal submitter\\u2019s forecast rating and is meant to discourage spam.&quot;}\" data-sheets-userformat=\"{&quot;2&quot;:12456,&quot;6&quot;:{&quot;1&quot;:[{&quot;1&quot;:2,&quot;2&quot;:0,&quot;5&quot;:[null,2,0]},{&quot;1&quot;:0,&quot;2&quot;:0,&quot;3&quot;:3},{&quot;1&quot;:1,&quot;2&quot;:0,&quot;4&quot;:1}]},&quot;8&quot;:{&quot;1&quot;:[{&quot;1&quot;:2,&quot;2&quot;:0,&quot;5&quot;:[null,2,0]},{&quot;1&quot;:0,&quot;2&quot;:0,&quot;3&quot;:3},{&quot;1&quot;:1,&quot;2&quot;:0,&quot;4&quot;:1}]},&quot;10&quot;:2,&quot;15&quot;:&quot;Calibri&quot;,&quot;16&quot;:11}\"></span></span><span>Wings tokens</span><span> serve as a means of participating in the prediction market (as a submitter or a forecaster) and a means of preventing spam and sybil attacks. All transactions will require a small fee, similar to Ethereum’s gas fees. Submitting a proposal will also require a listing fee, which can vary based on the proposal submitter’s forecast rating and is meant to discourage spam. </span></p><p><strong>Team</strong>:</p><ul><li><strong>Serguei Popov</strong>: Scientific Advisor. (<a href=\"https://www.linkedin.com/in/serguei-popov-631bb762/?ppe=1\" target=\"_blank\">LinkedIn</a>);</li><li><strong>Boris Povod</strong>: Blockchain Developer. (<a href=\"https://www.linkedin.com/in/boris-povod-361a1b79/?ppe=1\" target=\"_blank\">LinkedIn</a>, <a href=\"https://twitter.com/mr_povod\" target=\"_blank\">Twitter</a>);</li><li><strong>Stas Oskin</strong>: Biz Dev and Core Dev. (<a href=\"https://www.linkedin.com/in/stasoskin/?ppe=1\" target=\"_blank\">LinkedIn</a>);</li><li><strong>Alexey Kopievsky</strong><span>:<span> Senior Frontend Developer.</span></span><span> (<a href=\"https://www.linkedin.com/in/alexey-kopievskiy-a472a0102/?ppe=1\" target=\"_blank\">LinkedIn</a></span><span>);</span></li><li><span><strong>Artem Gorbachev</strong><span>:<span> Math Model Developer</span></span><span>. (<a href=\"https://linkedin.com/in/artem-gorbachev-91479b72\" target=\"_blank\">LinkedIn</a></span><span>);</span></span></li><li><strong><span>Harsh Vakharia</span></strong><span>:<span> <span>Full Stack Developer</span></span></span><span>. (<a href=\"https://www.linkedin.com/in/harshjv\" target=\"_blank\">LinkedIn</a>, <a href=\"https://twitter.com/harshjv\" target=\"_blank\">Twitter</a></span><span>);</span></li><li><span><strong>Sebastian Stupurac</strong><span>:</span><span> <span>Project &amp; Product</span>. (<a href=\"https://il.linkedin.com/in/sebastian-stupurac-6bbb1712\" target=\"_blank\">LinkedIn</a></span><span>);</span></span></li><li><strong><span>Dominik Zynis</span></strong><span>:<span> <span>Marketing &amp; Communications</span></span></span><span>. (<a href=\"https://twitter.com/chloregy\" target=\"_blank\">Twitter</a></span><span>);</span></li><li><span><strong>Nikolay Taymanov</strong><span>:<span><span> <span>Community Manager</span></span></span></span><span>. (<a href=\"https://twitter.com/btcturbo\" target=\"_blank\">Twitter</a></span><span>);</span></span></li></ul><p>Wings held its ICO on November 18, 2016 and<span data-sheets-value=\"{&quot;1&quot;:2,&quot;2&quot;:&quot;https://etherscan.io/token/WINGS&quot;}\" data-sheets-userformat=\"{&quot;2&quot;:276968,&quot;6&quot;:{&quot;1&quot;:[{&quot;1&quot;:2,&quot;2&quot;:0,&quot;5&quot;:{&quot;1&quot;:2,&quot;2&quot;:0}},{&quot;1&quot;:0,&quot;2&quot;:0,&quot;3&quot;:3},{&quot;1&quot;:1,&quot;2&quot;:0,&quot;4&quot;:1}]},&quot;8&quot;:{&quot;1&quot;:[{&quot;1&quot;:2,&quot;2&quot;:0,&quot;5&quot;:{&quot;1&quot;:2,&quot;2&quot;:0}},{&quot;1&quot;:0,&quot;2&quot;:0,&quot;3&quot;:3},{&quot;1&quot;:1,&quot;2&quot;:0,&quot;4&quot;:1}]},&quot;9&quot;:0,&quot;10&quot;:0,&quot;11&quot;:3,&quot;14&quot;:{&quot;1&quot;:2,&quot;2&quot;:1136076},&quot;15&quot;:&quot;Calibri&quot;,&quot;16&quot;:11,&quot;21&quot;:1}\"><span data-sheets-value=\"{&quot;1&quot;:2,&quot;2&quot;:&quot;The token being sold is the Wings token. The Wings token serves as a means of participating in the prediction market (as a submitter or a forecaster) and a means of preventing spam and sybil attacks. All transactions will require a small fee, similar to Ethereum\\u2019s gas fees. Submitting a proposal will also require a listing fee, which can vary based on the proposal submitter\\u2019s forecast rating and is meant to discourage spam.&quot;}\" data-sheets-userformat=\"{&quot;2&quot;:12456,&quot;6&quot;:{&quot;1&quot;:[{&quot;1&quot;:2,&quot;2&quot;:0,&quot;5&quot;:[null,2,0]},{&quot;1&quot;:0,&quot;2&quot;:0,&quot;3&quot;:3},{&quot;1&quot;:1,&quot;2&quot;:0,&quot;4&quot;:1}]},&quot;8&quot;:{&quot;1&quot;:[{&quot;1&quot;:2,&quot;2&quot;:0,&quot;5&quot;:[null,2,0]},{&quot;1&quot;:0,&quot;2&quot;:0,&quot;3&quot;:3},{&quot;1&quot;:1,&quot;2&quot;:0,&quot;4&quot;:1}]},&quot;10&quot;:2,&quot;15&quot;:&quot;Calibri&quot;,&quot;16&quot;:11}\"><span> raised close to $2 Million (2010.4 BTC) in the crowdfund. The ICO ended on <span>January<span> </span></span><span>6</span><span>, 2017</span><span>.</span> The foundation paid some debts and of that amount just a bit over $350,000 worth of BTC, ETH, ETC, LTC and XRP were allocated to the marketing and communications fund which is managed by Dominik Zynis, WINGS co-founder and WINGS Foundation communications lead. The foundation sold some BTC and XRP to various fiat currencies. After their sales, the portfolio increased in value to around $1 Million (May 2, 2017) which was allocated for communications and marketing activities over the life of the foundation. The foundation has divested from the BTC, XRP, LTC, ETH, ETC and have focused on investing the fund in ERC20 tokens. You need to register on the website to get the whitepaper.</span></span></span></p><p><span data-sheets-value=\"{&quot;1&quot;:2,&quot;2&quot;:&quot;https://etherscan.io/token/WINGS&quot;}\" data-sheets-userformat=\"{&quot;2&quot;:276968,&quot;6&quot;:{&quot;1&quot;:[{&quot;1&quot;:2,&quot;2&quot;:0,&quot;5&quot;:{&quot;1&quot;:2,&quot;2&quot;:0}},{&quot;1&quot;:0,&quot;2&quot;:0,&quot;3&quot;:3},{&quot;1&quot;:1,&quot;2&quot;:0,&quot;4&quot;:1}]},&quot;8&quot;:{&quot;1&quot;:[{&quot;1&quot;:2,&quot;2&quot;:0,&quot;5&quot;:{&quot;1&quot;:2,&quot;2&quot;:0}},{&quot;1&quot;:0,&quot;2&quot;:0,&quot;3&quot;:3},{&quot;1&quot;:1,&quot;2&quot;:0,&quot;4&quot;:1}]},&quot;9&quot;:0,&quot;10&quot;:0,&quot;11&quot;:3,&quot;14&quot;:{&quot;1&quot;:2,&quot;2&quot;:1136076},&quot;15&quot;:&quot;Calibri&quot;,&quot;16&quot;:11,&quot;21&quot;:1}\"><span data-sheets-value=\"{&quot;1&quot;:2,&quot;2&quot;:&quot;The token being sold is the Wings token. The Wings token serves as a means of participating in the prediction market (as a submitter or a forecaster) and a means of preventing spam and sybil attacks. All transactions will require a small fee, similar to Ethereum\\u2019s gas fees. Submitting a proposal will also require a listing fee, which can vary based on the proposal submitter\\u2019s forecast rating and is meant to discourage spam.&quot;}\" data-sheets-userformat=\"{&quot;2&quot;:12456,&quot;6&quot;:{&quot;1&quot;:[{&quot;1&quot;:2,&quot;2&quot;:0,&quot;5&quot;:[null,2,0]},{&quot;1&quot;:0,&quot;2&quot;:0,&quot;3&quot;:3},{&quot;1&quot;:1,&quot;2&quot;:0,&quot;4&quot;:1}]},&quot;8&quot;:{&quot;1&quot;:[{&quot;1&quot;:2,&quot;2&quot;:0,&quot;5&quot;:[null,2,0]},{&quot;1&quot;:0,&quot;2&quot;:0,&quot;3&quot;:3},{&quot;1&quot;:1,&quot;2&quot;:0,&quot;4&quot;:1}]},&quot;10&quot;:2,&quot;15&quot;:&quot;Calibri&quot;,&quot;16&quot;:11}\"><span><a href=\"https://etherscan.io/token/WINGS\" target=\"_blank\">Ethscan<span> </span></a>and<span> </span><a href=\"https://blog.wings.ai/wings-roadmap-update-a2638904fe3c\" target=\"_blank\">Roadmap</a>.</span></span></span></p>",
+    "TokenType": "N/A",
+    "WebsiteLink": "https://wings.ai/",
+    "FundingCap": "2,000,000 USD",
+    "FundingTarget": "N/A",
+    "Date": 1479474000,
+    "EndDate": 1483704000,
+    "FundsRaisedList": "N/A",
+    "FundsRaisedUSD": "2000000",
+    "StartPrice": "0.026",
+    "StartPriceCurrency": "USD",
+    "Jurisdiction": "N/A",
+    "BlogLink": "https://medium.com/wings-ai",
+    "WhitePaperLink": "https://gallery.mailchimp.com/e96dd1e39a278ec293dcc8de1/files/WINGS_Whitepaper_V1.1.pdf"
+  },
+  "ccId": "25946"
+}

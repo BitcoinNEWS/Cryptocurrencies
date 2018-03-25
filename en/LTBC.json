@@ -1,0 +1,58 @@
+{
+  "General": {
+    "Symbol": "LTBC",
+    "Name": "LTBCoin",
+    "Description": "<p>LTBcoin does not use computational mining. Instead, coins are distributed to the content creators, the community and the platform according to a fixed schedule. After a period of 260 weeks (5 years), all coins will be distributed and no new coins will be created.</p><p>It is a crypto-rewards system where people who help LTB to be useful are rewarded for their efforts. And it’s built on Bitcoin!</p><p>LTBcoin is the proprietary token for the Let’s Talk Bitcoin Network. It is the exclusive token accepted for sponsorships. It will provide the user a significant discount in the network wide and ACT-specific e-commerce stores. It can be used in the network for tipping and will generally be useful in every corner of the LTB universe.</p><p>LTBcoin does not use computational mining. Instead, coins are distributed to the content creators, the community and the platform according to a fixed schedule. After a period of 260 weeks (5 years), all coins will be distributed and no new coins will be created.</p><p>LTBcoin is a user-defined asset using the <span>Counterparty</span> protocol. Counterparty is built on Bitcoin and is secured by the Bitcoin network. Because of this, LTBcoin addresses are exactly the same as Bitcoin addresses. LTBcoin can be traded on the Counterparty distributed exchange for Bitcoin, XCP or other user-defined assets.</p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "0",
+    "Algorithm": null,
+    "ProofType": "PoP/PoV/PoQ",
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "27/07/2014",
+    "TotalCoinsMined": 493863915,
+    "Twitter": "@ltbcoin",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "http://ltbcoin.com/",
+    "GitHub": null,
+    "OnMarkets": [
+      "Poloniex"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "N/A",
+    "Description": null,
+    "TokenType": null,
+    "WebsiteLink": null,
+    "FundingCap": null,
+    "FundingTarget": null,
+    "Date": null,
+    "EndDate": null,
+    "FundsRaisedList": null,
+    "FundsRaisedUSD": null,
+    "StartPrice": null,
+    "StartPriceCurrency": null,
+    "Jurisdiction": null,
+    "BlogLink": null,
+    "WhitePaperLink": null
+  },
+  "ccId": "5369"
+}

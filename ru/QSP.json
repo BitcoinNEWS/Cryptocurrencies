@@ -1,0 +1,62 @@
+{
+  "General": {
+    "Symbol": "QSP",
+    "Name": "Quantstamp",
+    "Description": "<p>The Quantstamp is a protocol that aims to create a scalable and cost-effective audit system to all smart contracts on the Ethereum network.The protocol will use the SAT solver software to verify the programs solidity. In order to have the necessary computing power for the software, the Quantstamp will leverage a distributed network of participants.</p><p>Quantstamp token (QSP) is an ERC-20 token that will benefit the users in several ways. QSP will reward those who contribute to the software for verifying the solidity programs, who run the Quantstamp validation node (a specialized node on the Ethereum network), and those who find bugs on the smart contracts.</p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "976442388.3211",
+    "Algorithm": null,
+    "ProofType": null,
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "01/10/2017",
+    "TotalCoinsMined": null,
+    "Twitter": "@Quantstamp",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": null,
+    "GitHub": null,
+    "OnMarkets": [
+      "Binance",
+      "EtherDelta",
+      "Kucoin",
+      "HuobiPro",
+      "Gateio"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "N/A",
+    "Description": null,
+    "TokenType": null,
+    "WebsiteLink": null,
+    "FundingCap": null,
+    "FundingTarget": null,
+    "Date": null,
+    "EndDate": null,
+    "FundsRaisedList": null,
+    "FundsRaisedUSD": null,
+    "StartPrice": null,
+    "StartPriceCurrency": null,
+    "Jurisdiction": null,
+    "BlogLink": null,
+    "WhitePaperLink": null
+  },
+  "ccId": "397757"
+}

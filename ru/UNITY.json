@@ -1,0 +1,59 @@
+{
+  "General": {
+    "Symbol": "UNITY",
+    "Name": "SuperNET",
+    "Description": "<p>SuperNET is an asset built on the NXT platform and it is a cryptocurrency network that facilitates the creation revenue for developers in the cryptosphere. UNITY, like the coin&#39;s ticker itself, plans to unite, spread and empower cryptocurrencies whle still allowing them to maintain their brand freedom and identity. </p><p>SuperNET&#39;s platform allows developers to create, deploy amd integrate new funcionalities and features related to blockchain technology, with of over 15 programming languages at their disposal through a system of plug-ins.</p><p>Plug-ins can be downloaded and used within the SuperNET client, allowing new deployments to be easily integrated and used by the SuperNET community.</p><p>SupeNET revenues (from its core assets, advertisements and shared fees) will be distributed as follows:<br /><br /><span>10% for overhead</span><br /><span>20% for coin communities, according to their proportional contribution</span><br /><span>5% Nxt core development</span><br /><span>5% for BTCD stakers</span><br /><span>10% unallocated, for discretionary spending to maximise the market cap of SuperNET</span><br /><span>50% will go to SuperNET assetholders using the NXT dividend mechanism.</span></p>",
+    "Features": "<p><strong>NXT Asset 12071612744977229797</strong></p><p><span>SuperNET is an integrated <strong>trading-house/incubator/software/advertising</strong> entity that plans to aggregate users and monetize the internal and external traffic..</span></p><p>The <strong>trading-house</strong> will be a global 24/7 team based trading combined with individual trading based on each traders results.</p><p>The <strong>incubator</strong> (NXTventure) provides funding to developers to create software for the SuperNET that enhances the overall monetization, this monetization only being possible when value is created for the user.</p><p>The <strong>software</strong> is the sum of all asset companies and cryptocurrencies that are joined together to create the useful services, eg. decentralized trading.</p><p>The <strong>advertising</strong> is the total inventory created by all the user minutes interacting with the dynamically generated context sensitive HTML GUI.</p>",
+    "Technology": null,
+    "TotalCoinSupply": "816060.9999",
+    "Algorithm": null,
+    "ProofType": null,
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "16/11/2015",
+    "TotalCoinsMined": 777777,
+    "Twitter": "@SuperNETorg",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "https://www.supernet.org/en",
+    "GitHub": null,
+    "OnMarkets": [
+      "BTER",
+      "Poloniex"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Finished",
+    "Description": "<p>In September 2014 the BTC equivalent of 5737.1589 was raised, which was worth around $2.4 Million at the time.</p><p><a href=\"https://bitcointalk.org/index.php?topic=762346.0\" target=\"_blank\">ICO details</a></p><p><a href=\"https://bitcointalk.org/index.php?topic=762346.msg8748412#msg8748412\" target=\"_blank\">Escrow details</a></p>",
+    "TokenType": "NXT",
+    "WebsiteLink": "https://bitcointalk.org/index.php?topic=762346.0",
+    "FundingCap": "N/A",
+    "FundingTarget": "N/A",
+    "Date": 1411477200,
+    "EndDate": 1414065600,
+    "FundsRaisedList": "1201.4874086 BTC; 37559.38107027 BTCD; 47088699.1745 NXT; 435658.49 VRC; 5403 VIA; 713706.73861822 CNY",
+    "FundsRaisedUSD": "2409540",
+    "StartPrice": "2.95",
+    "StartPriceCurrency": "USD",
+    "Jurisdiction": "N/A",
+    "BlogLink": "http://old.supernet.org/blog/",
+    "WhitePaperLink": null
+  },
+  "ccId": "20635"
+}

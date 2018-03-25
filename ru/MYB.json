@@ -1,0 +1,59 @@
+{
+  "General": {
+    "Symbol": "MYB",
+    "Name": "MyBit",
+    "Description": "<p>MyBit is a Decentralized Asset Management Platform that uses blockchain technology and Ethereum smart contracts to create a new asset class for decentralized Energy and AI infastructure. MyBit allows users to commoditize solar panel installation and other forms of renewable energy, investors and landowners can crowdfund the coming decentralized energy grid while investors get security on their investment.</p><p>MYB is an Ethereum-based token. All transactions on the MyBit platform are assessed a 1% network fee which is distributed to token holders based on their percent stake.</p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "5000000",
+    "Algorithm": "N/A",
+    "ProofType": "N/A",
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "24/07/2017",
+    "TotalCoinsMined": 2812073.44012426,
+    "Twitter": "@MyBit_DApp",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "https://mybit.io/",
+    "GitHub": null,
+    "OnMarkets": [
+      "Cryptopia",
+      "HitBTC"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Finished",
+    "Description": "<p>MyBit is a Decentralized Asset Management Platform that uses blockchain technology and Ethereum smart contracts to create a new asset class for decentralized Energy and AI infastructure. MYB is an Ethereum-based token. All transactions on the MyBit platform are assessed a 1% network fee which is distributed to token holders based on their percent stake.</p><p>The MyBit ICO will start on July 17th at 12:00 GMT +0, and will be open for 30 days or until the hard cap is reached. <span>The</span><span> har</span><span>d cap is of 26,875 ETHER and the minimum requirement<span> </span></span><span>for the ICO<span> </span>deemed successful</span><span> </span><span>is of</span><span><span> </span>4,000 ETHER</span><span>.</span><span><span> </span>If minimum amount is not reached, all funds will automatically be transferred back to sender. </span><span>Funds will be secured in a multi-signature wallet contract with 2 members of the MyBit team and 2 members from Brave New Coin and there is also a bounty campaign. During the ICO, 60% of the total 5M MYB supply. The remaining supply will be distributed as so:</span></p><p>· 10% to Founders<br />· 8% for Bounties and Advisors<br />· 22% for Bonuses, Rewards, and pre-sale discounts</p><p><span>There will be 2 Tranches during the TokenSale. Tranche 1 includes 9,375 ETHER at a 25% Discount : 1 ETHER = 133 MyB. Tranche 2 consists of 17,500 ETHER at full price : 1 ETHER = 100 MyB.</span></p><p> </p><p> </p>",
+    "TokenType": "ETH (ERC20)",
+    "WebsiteLink": "https://mybit.io/tokensale",
+    "FundingCap": " 26,875 ETH",
+    "FundingTarget": "2,000 USD",
+    "Date": 1500324000,
+    "EndDate": 1502794145,
+    "FundsRaisedList": "10,044 ETH",
+    "FundsRaisedUSD": "2800000",
+    "StartPrice": "0.00751879699",
+    "StartPriceCurrency": "ETH",
+    "Jurisdiction": "Switzerland",
+    "BlogLink": "https://mybit.io/",
+    "WhitePaperLink": "https://mybit.io/docs/MyBit_Whitepaper_v0.9.pdf"
+  },
+  "ccId": "179345"
+}

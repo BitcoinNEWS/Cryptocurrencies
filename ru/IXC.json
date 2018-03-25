@@ -1,0 +1,61 @@
+{
+  "General": {
+    "Symbol": "IXC",
+    "Name": "IXcoin",
+    "Description": "<p>Ixcoin (IXC) is a fork of Bitcoin with twice the inflation rate of 96 Ixcoins per block and the same 21 million total limit. Ixcoin is intended to closely mirror code updates to Bitcoin to allow for easy interoperability with Bitcoin-related third party services and APIs. IXCoin can be merge mined with bitcoin.</p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "21000000",
+    "Algorithm": "SHA256",
+    "ProofType": "PoW",
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "10/08/2011",
+    "TotalCoinsMined": 20999087.999,
+    "Twitter": "@Ixcoin",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "https://www.ixcoin.co/",
+    "GitHub": null,
+    "OnMarkets": [
+      "Yobit",
+      "Cryptopia",
+      "Cryptsy",
+      "Cexio"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "N/A",
+    "Description": null,
+    "TokenType": null,
+    "WebsiteLink": null,
+    "FundingCap": null,
+    "FundingTarget": null,
+    "Date": null,
+    "EndDate": null,
+    "FundsRaisedList": null,
+    "FundsRaisedUSD": null,
+    "StartPrice": null,
+    "StartPriceCurrency": null,
+    "Jurisdiction": null,
+    "BlogLink": null,
+    "WhitePaperLink": null
+  },
+  "ccId": "4541"
+}

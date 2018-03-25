@@ -1,0 +1,58 @@
+{
+  "General": {
+    "Symbol": "HRB",
+    "Name": "Harbour DAO",
+    "Description": "<p>Harbour DAO is a Decentralized Autonomous Organization in which its members select projects to participate in, allowing the members to choose which tokens to keep or sell as a group which means that users will have full control of the DAO and the array of tokens of which it is composed.. It allows for experienced <span>and entrant users in the cryptosphere alike to participate in projects the community finds interesting. Harbour DAO also allows community members to participate in pre-funding stages of certain projects.</span></p><p><span>The HRB token allows holders to to create and vote on proposals for the group. The amount of votes they have is equal to the amount of tokens they hold (Stake). Additionally token holders will be able to receive a share of the ETH that Harbour has generated throughout a quarter.</span></p><p><strong>IMPORTANT NEWS:</strong></p><p>From the <a href=\"https://harbour.tokenate.io/\" target=\"_blank\">Harbour </a>official website:</p><blockquote><span>\"In light of the recent SEC investigative report, the Harbour team regrets to announce that we are delaying the launch of our token sale. Over the past few days, and in concert with our legal team and advisors, we have soberly assessed the implications of the SEC’s report as well as our own compliance. We have determined, in short, that there is just too much uncertainty within our current model to forge ahead without some careful assessment and perhaps revision to Harbour. </span><br /><br /><span>For those who have contributed to our whitelist pre-ICO, please note that your contribution will be refunded to you in full after </span>August 31st<span>. We will provide instructions to you on how to do this. For those who are looking to participate in the public ICO that was to be held on August 1st, we look forward to your contribution at a later date.\"</span></blockquote>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "N/A",
+    "Algorithm": "N/A",
+    "ProofType": "N/A",
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "01/01/0001",
+    "TotalCoinsMined": null,
+    "Twitter": "@HarbourDao",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "https://harbour.tokenate.io",
+    "GitHub": null,
+    "OnMarkets": [
+      "HitBTC"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Finished",
+    "Description": "<p>The HRB token allows holders to to create and vote on proposals for the group. The amount of votes they have is equal to the amount of tokens they hold (Stake). Additionally token holders will be able to receive a share of the ETH that Harbour has generated throughout a quarter.</p><p>From the <a href=\"https://harbour.tokenate.io/\" target=\"_blank\">Harbour </a>official website:</p><blockquote><span>\"In light of the recent SEC investigative report, the Harbour team regrets to announce that we are delaying the launch of our token sale. Over the past few days, and in concert with our legal team and advisors, we have soberly assessed the implications of the SEC’s report as well as our own compliance. We have determined, in short, that there is just too much uncertainty within our current model to forge ahead without some careful assessment and perhaps revision to Harbour. </span><br /><br /><span>For those who have contributed to our whitelist pre-ICO, please note that your contribution will be refunded to you in full after<span> </span></span>August 31st<span>. We will provide instructions to you on how to do this. For those who are looking to participate in the public ICO that was to be held on August 1st, we look forward to your contribution at a later date.\"</span></blockquote>",
+    "TokenType": "ETH (ERC20)",
+    "WebsiteLink": "https://harbour.tokenate.io/",
+    "FundingCap": "10000 ETH",
+    "FundingTarget": "10000 ETH",
+    "Date": null,
+    "EndDate": null,
+    "FundsRaisedList": "N/A",
+    "FundsRaisedUSD": "N/A",
+    "StartPrice": "0.06667",
+    "StartPriceCurrency": "ETH",
+    "Jurisdiction": "N/A",
+    "BlogLink": "https://medium.com/harbour",
+    "WhitePaperLink": "https://harbour.tokenate.io/HarbourWhitepaper.pdf"
+  },
+  "ccId": "176336"
+}

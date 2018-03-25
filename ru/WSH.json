@@ -1,0 +1,56 @@
+{
+  "General": {
+    "Symbol": "WSH",
+    "Name": "Wish Finance",
+    "Description": "<p>Wish Finance is a smart blockchain lender serving SMEs and fighting to solve a problem in a vast global market.</p><p>By leveraging a unique set of technologies - big data, neural networks, and blockchain - together with lean business processes, Wish Finance can address this cocktail of pain points. Wish finance connects to businesses’ point-of-sale (POS) infrastructure to use real-time data for scoring, risk control, and automatic loan repayment.</p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "30000000",
+    "Algorithm": null,
+    "ProofType": null,
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "02/10/2017",
+    "TotalCoinsMined": 30000000,
+    "Twitter": "@WishFinanceCom",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": null,
+    "GitHub": null,
+    "OnMarkets": [],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Ongoing",
+    "Description": "<p>Wish Finance is a smart blockchain lender serving SMEs and fighting to solve a problem in a vast global market.</p><p>By leveraging a set of technologies - big data, neural networks, and blockchain - together with lean business processes, Wish Finance can address this cocktail of pain points. Wish finance connects to businesses’ point-of-sale (POS) infrastructure to use real-time data for scoring, risk control, and automatic loan repayment.</p><p><strong>Team</strong>:</p><ul><li><strong>Eugene Green</strong>: CEO and Founder. <a href=\"https://www.linkedin.com/in/eugenegreen/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Michael Elgort</strong><span>: CCO. <a href=\"https://www.linkedin.com/in/michael-elgort-5763732b/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></span></li><li><span><strong>Ruslan Gavinov</strong><span>: CTO. <a href=\"https://www.linkedin.com/in/ruslan-gavinov-b8a2774b/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></span></span></li><li><strong>Alexander Rugaev</strong><span>: Chief Blockchain Officer.</span><span> </span><a href=\"https://www.linkedin.com/in/alexrugaev/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li></ul><p>Wish Finance will be holding its ICO on Ocotber 2, 2017. Each token will be sold at the offering for $1. The ICO is expected to end on October 30, 2017.</p><p><strong>Use of Funds:</strong></p><ul><li>07% Operations in Singapore;</li><li>08% Operations in Hong Kong;</li><li>05% Operations in South Korea;</li><li><span>05% Operations in Benelux;</span></li><li><span>10% Operations in Scandinavia;</span></li><li>65% Lending Portfolio;</li></ul>",
+    "TokenType": "ETH (ERC20)",
+    "WebsiteLink": "https://wishfinance.com/",
+    "FundingCap": "N/A",
+    "FundingTarget": "N/A",
+    "Date": 1509926400,
+    "EndDate": 1512690900,
+    "FundsRaisedList": "837,000 WISH sold",
+    "FundsRaisedUSD": "N/A",
+    "StartPrice": "1",
+    "StartPriceCurrency": "USD",
+    "Jurisdiction": "N/A",
+    "BlogLink": "https://medium.com/@WishFinanceCom",
+    "WhitePaperLink": "https://wishfinance.com/WishFinanceWhitepaper.pdf"
+  },
+  "ccId": "301216"
+}

@@ -1,0 +1,58 @@
+{
+  "General": {
+    "Symbol": "EXY",
+    "Name": "Experty",
+    "Description": "<p>Experty is a cryptocurrency-based knowledge sharing application that allows experts to monetize their skills through a skype-like voice and video experience. <span>Payments are handled through an automated smart contract system using Experty’s native currency EXY, an Ethereum-based token.</span></p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "79404563.976510606",
+    "Algorithm": null,
+    "ProofType": null,
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "17/11/2017",
+    "TotalCoinsMined": null,
+    "Twitter": "@experty_io",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": null,
+    "GitHub": null,
+    "OnMarkets": [
+      "Kucoin"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Ongoing",
+    "Description": "<p><span>Experty is a cryptocurrency-based knowledge sharing application that allows experts to monetize their skills through a skype-like voice and video experience.<span><span> </span></span><span>Payments are handled through an automated smart contract system using Experty’s native<span> </span>currency EXY, an Ethereum-based token.</span></span></p><p><strong>Team</strong>:</p><ul><li><strong>KAMIL PRZEORSKI: </strong>CEO Founder<span> </span><a href=\"http://facebook.com/przeorski\" target=\"_blank\"><img style=\"width: 13px; height: 13px;\" src=\"/media/1383930/face_logo_final.png?width=13&amp;height=13\" alt=\"\" data-id=\"202866\"></a><span> </span><a href=\"http://twitter.com/przeor\" target=\"_blank\"><img style=\"width: 13px; height: 13px;\" src=\"/media/1383932/twitter_logo_final.png?width=13&amp;height=13\" alt=\"\" data-id=\"202868\"></a><span> </span><a href=\"https://www.linkedin.com/in/keepitstupidsimple/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>TOM DYL:</strong> CTO CO-Founder<span> </span><a href=\"https://www.linkedin.com/in/tom-dyl-20a52a123/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>GREG KUCMIERZ:</strong> Solidity engineer, co-founder<span> </span><a href=\"https://web.facebook.com/gkucmierz\" target=\"_blank\"><img style=\"width: 13px; height: 13px;\" src=\"/media/1383930/face_logo_final.png?width=13&amp;height=13\" alt=\"\" data-id=\"202866\"></a><span> </span><a href=\"http://twitter.com/przeor\" target=\"_blank\"><img style=\"width: 13px; height: 13px;\" src=\"/media/1383932/twitter_logo_final.png?width=13&amp;height=13\" alt=\"\" data-id=\"202868\"></a><span> </span><a href=\"https://www.linkedin.com/in/grzegorz-ku%C4%87mierz-8432113a\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>BLAISE MATHAI:</strong> Communications Manager<span> </span><a href=\"https://www.linkedin.com/in/grzegorz-ku%C4%87mierz-8432113a\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>SARAH KHAN:</strong> Project Director</li><li><strong>ANATOLII MENLYK:</strong> Full Stack Developer</li></ul><p>The Experty ICO will begin on the 25th of January 2017 and will last until the 25th of February of 2018. The ICO token allocation represents 33% of the total token supply and will be available for a 0.001 ETH base price during the ICO. Users can participate with ETH only. The token sale funding cap is set at 33,000 ETH.</p><p><strong>Token Reserve Split (67%):</strong></p><ul><li>33% Company Tokens (vested for 3 years*)</li><li>30% Partner Tokens (locked for 18 months)</li><li>1% to Cover Token Sale Costs</li><li>3% Airdrops and Bounties</li></ul><p>The Experty ICO will feature a bonus campaign and an escrow agent (<span>Bitcoin Suisse).</span></p><p><strong>Bonus Structure:</strong></p><ul><li>1ETH = 1400 EXY during pre sale,</li><li>1ETH = 1000 EXY during main sale</li></ul>",
+    "TokenType": "ETH (ERC20)",
+    "WebsiteLink": "https://www.experty.io",
+    "FundingCap": "33,000 ETH",
+    "FundingTarget": "N/A",
+    "Date": 1516838400,
+    "EndDate": 1519516800,
+    "FundsRaisedList": "N/A",
+    "FundsRaisedUSD": "N/A",
+    "StartPrice": "0.001",
+    "StartPriceCurrency": "ETH",
+    "Jurisdiction": "Switzerland",
+    "BlogLink": "https://medium.com/@experty_io",
+    "WhitePaperLink": "https://www.experty.io/docs/Experty-Whitepaper.pdf"
+  },
+  "ccId": "388493"
+}

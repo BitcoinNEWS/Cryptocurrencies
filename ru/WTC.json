@@ -1,0 +1,64 @@
+{
+  "General": {
+    "Symbol": "WTC",
+    "Name": "Waltonchain",
+    "Description": "<p>Waltonchain is a cryptocurrency project leveraging the Ethereum blockchain and RFID technology. </p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "70000000",
+    "Algorithm": "Ethash",
+    "ProofType": null,
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "27/08/2017",
+    "TotalCoinsMined": 70000000,
+    "Twitter": "@waltonchain",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": null,
+    "GitHub": null,
+    "OnMarkets": [
+      "LAToken",
+      "Binance",
+      "Gateio",
+      "HitBTC",
+      "OKEX",
+      "Kucoin",
+      "EtherDelta"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "N/A",
+    "Description": null,
+    "TokenType": null,
+    "WebsiteLink": null,
+    "FundingCap": null,
+    "FundingTarget": null,
+    "Date": null,
+    "EndDate": null,
+    "FundsRaisedList": null,
+    "FundsRaisedUSD": null,
+    "StartPrice": null,
+    "StartPriceCurrency": null,
+    "Jurisdiction": null,
+    "BlogLink": null,
+    "WhitePaperLink": null
+  },
+  "ccId": "299397"
+}

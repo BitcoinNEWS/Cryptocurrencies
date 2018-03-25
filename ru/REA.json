@@ -1,0 +1,58 @@
+{
+  "General": {
+    "Symbol": "REA",
+    "Name": "Realisto",
+    "Description": "<p>Realisto intends to tokenize real estate investment via blockchain. <span>The </span>Realisto s<span>trategy is to compile a portfolio of several properties with a view to flip, to lease, to develop, or to manage and resell them. This will be called the Realisto Core Pool. Realisto will also set up the Realisto Opportunity Pool, where real estate investment projects will be presented to investors so that they may vote on acquisition via token allocation. The platform is designed to serve two different kinds of users. First, there are the investors who wish to invest their cryptocurrency capital into tokens that enable them to participate in the platform’s real estate projects. Second, there are the emitters who use the Realisto platform to issue their own asset-backed tokens.</span></p><p><span><span><span><span>REA is an Ethereum-based ERC 20 token that powers Realisto&#39;s economic system. Token holders <span>will benefit from the profits made by the Core Pool as well as the profits that come from the </span>Realisto<span> </span><span>platform-as-a-service.</span></span></span></span></span></p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "3629668",
+    "Algorithm": null,
+    "ProofType": null,
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "03/11/2017",
+    "TotalCoinsMined": 3629667.5861820923,
+    "Twitter": "@REALISTO_TOKEN",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": null,
+    "GitHub": null,
+    "OnMarkets": [
+      "EtherDelta"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Finished",
+    "Description": "<p>Realisto intends to tokenize real estate investment via blockchain. <span>The </span>Realisto s<span>trategy is to compile a portfolio of several properties with a view to flip, to lease, to develop, or to manage and resell them. This will be called the Realisto <span>Core Pool. Realisto will also set up the Realisto<span><span> </span>Opportunity Pool, where real estate investment projects will be presented to investors so that they may vote on acquisition via token allocation. The <span>platform is designed to<span> </span></span>serve<span><span> </span>two different kinds of users. First, there are the investors who wish to invest their cryptocurrency capital into tokens that enable them to participate in the platform’s real estate projects. Second, there are the emitters who use the<span> </span></span>Realisto <span>platform to issue their own asset-backed tokens.</span></span></span></span></p><p><span><span><span><span>REA is an Ethereum-based ERC 20 token that powers Realisto&#39;s economic system. Token holders <span>will benefit from the profits made by the Core Pool as well as the profits that come from the </span>Realisto<span> </span><span>platform-as-a-service.</span></span></span></span></span></p><p><strong>Team</strong>:</p><ul><li><strong>Rouven Rosenbaum</strong>: Founder, Co-CEO.</li><li><strong>Leonard Zobel</strong>: Founder, Co-CEO.</li><li><strong>Pavel Metelitsyn</strong>: CTO, Software Developer.</li><li><strong>Manfred Loell</strong>: Real Estate Expert (Marketing and Development; Real Estate Database).</li><li><strong>Rafael Rosenbaum</strong>: Real Estate Expert (Acquisition and Development).</li><li><strong>Carlo Wandelt</strong>: Real Estate Expert (Development and Project Management).</li><li><strong>Maxim Olschsanskij</strong>: Real Estate Expert (Residential).</li><li><strong>Christoph Willumeit</strong>: Marketing and Communication.</li><li><strong>Immanuel Scherer</strong>: Software Developer and Systems Architect.</li><li><strong>Thomas Hinze</strong>: Platform Developer.</li></ul><p>Realisto will be holding its ICO on November 15, 2017. The ICO token supply represents 87% of the total token supply. Each token will be offered for 0.00333333333 ETH. The ICO is uncapped and it is expected to end on December 15, 2017. Minimal contribution in the public ICO is set at 0.01 ETH.</p><p><strong>Token Reserve Split (13%):</strong></p><ul><li>10% Team;</li><li>3% Bounty campaign;</li></ul><p><span>Realisto ICO campaign will feature Bonuses and Bounty campaign, and the token will not be mineable.</span></p><p><strong>Bonus Structure:</strong></p><ul><li>Initial discount of 15%. The discount rate will be lowered in increments of 5% percent over the duration of the 30-day sale, with the latest stage of the sale offering no discount.</li></ul>",
+    "TokenType": "ETH (ERC20)",
+    "WebsiteLink": "https://realisto.io/",
+    "FundingCap": "N/A",
+    "FundingTarget": "N/A",
+    "Date": 1511524800,
+    "EndDate": 1514203200,
+    "FundsRaisedList": "29.898 BTC, 790 ETH, 90.429 LTC",
+    "FundsRaisedUSD": "1356356",
+    "StartPrice": "0.00333333333",
+    "StartPriceCurrency": "ETH",
+    "Jurisdiction": "Germany",
+    "BlogLink": "https://medium.com/@Realisto",
+    "WhitePaperLink": "https://realisto.io/files/papers/Whitepaper/REALISTO_Whitepaper_V1.2_EN.pdf"
+  },
+  "ccId": "362039"
+}

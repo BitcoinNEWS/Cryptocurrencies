@@ -1,0 +1,59 @@
+{
+  "General": {
+    "Symbol": "MAC",
+    "Name": "MachineCoin",
+    "Description": "<p><span>Machinecoin is a free and decentralized peer-to-peer cryptocurrency that is completely open source and uses TimeTravel as a proof-of-work algorithm. Machinecoin operates with no central authority or any banks; managing transactions and the issuing of Machinecoins is carried out collectively by the network itself. </span><a href=\"https://paper.machinecoin.org/\">Paper Wallets</a><span> allow to store Machinecoins offline and even much more safer than this can be done with any fiat money. </span><a href=\"https://www.cryptopia.co.nz/Exchange?market=MAC_BTC\">Exchanges</a><span> can be used to trade Machinecoins with Bitcoins and other cryptocurrencies. </span><a href=\"https://machinecoin.work/\">Work</a><span> can be done with Machinecoin either as an employer or as an employee.</span></p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "35000000",
+    "Algorithm": "Time Travel",
+    "ProofType": "PoW",
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "07/01/2014",
+    "TotalCoinsMined": null,
+    "Twitter": null,
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "https://machinecoin.org/",
+    "GitHub": null,
+    "OnMarkets": [
+      "Cryptopia",
+      "Novaexchange"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "N/A",
+    "Description": null,
+    "TokenType": null,
+    "WebsiteLink": null,
+    "FundingCap": null,
+    "FundingTarget": null,
+    "Date": null,
+    "EndDate": null,
+    "FundsRaisedList": null,
+    "FundsRaisedUSD": null,
+    "StartPrice": null,
+    "StartPriceCurrency": null,
+    "Jurisdiction": null,
+    "BlogLink": null,
+    "WhitePaperLink": null
+  },
+  "ccId": "41962"
+}

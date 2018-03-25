@@ -1,0 +1,56 @@
+{
+  "General": {
+    "Symbol": "RHEA",
+    "Name": "Rhea",
+    "Description": "<p>Reha is a crypto-equity hybrid token, allowing users to hedge against volatility by investing in the index rather than in one single asset. <span>Through the Rhea Crypto20 - the capitalization-weighted index, there will be multiple ways of hedging, speculating and investing in the cryptocurrency market without holding any individual currency. RHEA is an ERC20 token based on the Ethereum blockchain. Rhea token will provide up to 40% quarterly dividends to all token holders.</span></p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "50000000",
+    "Algorithm": null,
+    "ProofType": null,
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "02/10/2017",
+    "TotalCoinsMined": null,
+    "Twitter": "@rheatoken",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": null,
+    "GitHub": null,
+    "OnMarkets": [],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Ongoing",
+    "Description": "<p><span>Reha is a crypto-equity hybrid token, allowing users to hedge against volatility by investing in the index rather than in one single asset. </span><span>Through the Rhea Crypto20 - the capitalization-weighted index, there will be multiple ways of hedging, speculating and investing in the cryptocurrency market without holding any individual currency. RHEA is an ERC20 token based on the Ethereum blockchain. Rhea token will provide up to 40% quarterly dividends to all token holders.</span></p><p><strong>Team</strong>:</p><ul><li><strong>Detelin Sertov:</strong> Co-Founder <a href=\"https://www.linkedin.com/in/dsertov\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Georgi Kirilov:</strong> Co-Founder <a href=\"https://www.linkedin.com/in/georgi-kirilov-011992\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Vesselin Antonov:</strong> Lead developer <a href=\"https://www.linkedin.com/in/vesselinantonov\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li></ul><p>The Rhea ICO will begin on the 2nd of October 2017 and will last until the 30th of the same month or until the 50000 ETH funding cap is reached. 85% of the total token supply will be sold during the ICO for a 0.0008145 ETH starting price.</p><h4><strong>Token Reserve Split:</strong></h4><ul><li><div class=\"freebirdFormviewerViewItemsItemItem freebirdFormviewerViewItemsTextTextItem\" data-item-id=\"1688926117\"><div class=\"freebirdFormviewerViewItemsTextItemWrapper\"><div class=\"freebirdFormviewerViewItemsTextShortText freebirdFormviewerViewItemsTextDisabledText freebirdThemedInput\">10% liquidity provision,</div><div class=\"freebirdFormviewerViewItemsTextShortText freebirdFormviewerViewItemsTextDisabledText freebirdThemedInput\">4% long-term reserve,</div><div class=\"freebirdFormviewerViewItemsTextShortText freebirdFormviewerViewItemsTextDisabledText freebirdThemedInput\">1% bounties</div></div></div><div class=\"freebirdFormviewerViewItemsItemItem freebirdFormviewerViewItemsTextTextItem\" data-required=\"true\" data-item-id=\"1077776534\"><div class=\"freebirdFormviewerViewItemsItemItemHeader\"><div class=\"freebirdFormviewerViewItemsItemItemTitleContainer\"></div></div></div></li></ul><p>The Rhea ICO features a bounty and bonus campaign.</p><p><strong>Bonus Structure:</strong></p><table border=\"0\" class=\"get-rhea-table\"><tbody><tr><td><table border=\"0\" class=\"price-table\"><tbody><tr><th>Price Per Token</th></tr><tr><td>- Oct 2 - Oct 4</td></tr><tr><td>- Oct 5 - Oct 8</td></tr><tr><td>- Oct 9 - Oct 15</td></tr><tr><td>- Oct 16 - Oct 22</td></tr><tr><td>- Oct 23 - Oct 30</td></tr></tbody></table></td><td><br>0.0008145063 ETH<br>0.0008573750 ETH<br>0.0009025000 ETH<br>0.0009500000 ETH<br>0.0010000000 ETH</td></tr></tbody></table>",
+    "TokenType": "ETH (ERC20)",
+    "WebsiteLink": "http://rheatoken.io/",
+    "FundingCap": "50000 ETH",
+    "FundingTarget": "5500 ETH",
+    "Date": 1506952800,
+    "EndDate": 1507557600,
+    "FundsRaisedList": "61295 RHT sold",
+    "FundsRaisedUSD": "N/A",
+    "StartPrice": "0.0008145",
+    "StartPriceCurrency": "ETH",
+    "Jurisdiction": "N/A",
+    "BlogLink": "https://medium.com/@rheatoken",
+    "WhitePaperLink": "http://rheatoken.io/documentation/WhitePaper.pdf"
+  },
+  "ccId": "311516"
+}

@@ -1,0 +1,58 @@
+{
+  "General": {
+    "Symbol": "NXE",
+    "Name": "NXEcoin",
+    "Description": "<p>NXEcoin is a PoW/PoS hybrid cryptocurrency that was swapped for DCX 1-1. NXE focuses on domain and alias creation.</p>",
+    "Features": null,
+    "Technology": "<p><span>Blocks: 0-20 : Airdrop</span><br /><span>Block: 20-100: 0 VIP</span><br /><span>Block: 100-1000: 500 VIP</span><br /><span>Block: 1000-30000: 450 VIP</span><br /><span>Block: 30000-60000: 300 VIP</span><br /><span>Block: 60000-100000: 250 VIP</span><br /><span>Block: 100000-150000: 150 VIP</span><br /><span>Block: 150000-200000: 110 VIP</span></p>",
+    "TotalCoinSupply": "2200000",
+    "Algorithm": "NIST5",
+    "ProofType": "PoW/PoS",
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "05/01/2016",
+    "TotalCoinsMined": null,
+    "Twitter": "@nxeprotocol",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "http://www.nxeprotocol.co/",
+    "GitHub": null,
+    "OnMarkets": [
+      "Yobit"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "N/A",
+    "Description": null,
+    "TokenType": null,
+    "WebsiteLink": null,
+    "FundingCap": null,
+    "FundingTarget": null,
+    "Date": null,
+    "EndDate": null,
+    "FundsRaisedList": null,
+    "FundsRaisedUSD": null,
+    "StartPrice": null,
+    "StartPriceCurrency": null,
+    "Jurisdiction": null,
+    "BlogLink": null,
+    "WhitePaperLink": null
+  },
+  "ccId": "22240"
+}

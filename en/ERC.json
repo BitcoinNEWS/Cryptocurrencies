@@ -1,0 +1,58 @@
+{
+  "General": {
+    "Symbol": "ERC",
+    "Name": "EuropeCoin",
+    "Description": "<p><span>EuropeCoin was designed to inspire mass-adoption in European Countries and to empower charity organizations. 25% of the ERC IPO funds ere destributed through various charities</span><span>. </span></p>",
+    "Features": "<p><span>Darksend: Anonymous Transactions</span></p><p>InstantX: Faster Payments</p>",
+    "Technology": null,
+    "TotalCoinSupply": "384000000",
+    "Algorithm": "X11",
+    "ProofType": "PoW/PoS",
+    "BlockReward": 1.0146957598626614,
+    "Explorer": null,
+    "StartDate": "09/05/2015",
+    "TotalCoinsMined": 10044160.38933972,
+    "Twitter": "@EuropeCoinERC",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "-",
+    "GitHub": null,
+    "OnMarkets": [
+      "BitTrex"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "N/A",
+    "Description": null,
+    "TokenType": null,
+    "WebsiteLink": null,
+    "FundingCap": null,
+    "FundingTarget": null,
+    "Date": null,
+    "EndDate": null,
+    "FundsRaisedList": null,
+    "FundsRaisedUSD": null,
+    "StartPrice": null,
+    "StartPriceCurrency": null,
+    "Jurisdiction": null,
+    "BlogLink": null,
+    "WhitePaperLink": null
+  },
+  "ccId": "20748"
+}

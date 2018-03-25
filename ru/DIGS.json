@@ -1,0 +1,58 @@
+{
+  "General": {
+    "Symbol": "DIGS",
+    "Name": "Diggits",
+    "Description": "<div class=\"wpb_text_column wpb_content_element \"><div class=\"wpb_wrapper\"><p>Diggits is a crypto-currency that rewards users for posts on our web platform dedicated to crypto and everything between. </p><p>Micro transactions have proven to be pivotal in creating active communities. Diggits rewards users for posting content that everybody digs! </p><p>The website will allow users to decide which articles remain at the top meanwhile, reward those contributors with precious diggits!</p></div></div>",
+    "Features": "<p>Diggits is a crypto-currency that rewards users for posts on our web platform dedicated to crypto and everything between. Sites such as Reddit / Digg / Slashdot have a dedicated community and even their own tipping mechanisms. Diggits combines these concepts and brings together a website for the crypto community. Micro transactions have proven to be pivotal in creating active communities. Diggits rewards users for posting content that everybody digs! The website will allow users to decide which articles remain at the top meanwhile, reward those contributors with precious diggits!</p><p><strong>Content</strong> Users can post any kind of content they want, not just crypto-related! Posts are ordered by their popularity which are decided by the community through digs! Content quality is preserved through the incentive of creating popular posts.</p><p><strong>Social Media</strong> You can dig content from a plethora of content provider websites and have that content appear on diggits. Social integration enables broader reach to audiences outside of crypto.</p><p><strong>Rewards</strong> Posters are rewarded for their content through popularity voting mechanism. Each dig is tallied and are ranked on the main page. The poster of the content will then earn 1 Diggit for every dig on their posted content. To dig posts, users must have sufficient balance. Top posters are periodically rewarded diggits by the website. These come from a proportion of the advertising revenue that is used to buy Diggits. Diggits will earn advertising revenue through targeted ads, as well as paid sticky content. A proportion of the revenue ~30% will be used to buy Diggits from the market, and then distributed to top posters.</p>",
+    "Technology": "<p>- <span class=\"counter  zero executed\">100 </span>Million Coins</p><p><span class=\"counter  zero executed\">- 1 </span>Hour Min. Coin Age</p><p><span class=\"counter  zero executed\">- 64 </span>Second Block Time</p><p><span class=\"counter  zero executed\">- 10 </span>Percent POS</p>",
+    "TotalCoinSupply": "100000000",
+    "Algorithm": "Scrypt",
+    "ProofType": "PoS",
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "03/07/2015",
+    "TotalCoinsMined": "100000000",
+    "Twitter": "@diggitsquad",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "http://www.diggits.co/",
+    "GitHub": null,
+    "OnMarkets": [
+      "BitTrex"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "N/A",
+    "Description": null,
+    "TokenType": null,
+    "WebsiteLink": null,
+    "FundingCap": null,
+    "FundingTarget": null,
+    "Date": null,
+    "EndDate": null,
+    "FundsRaisedList": null,
+    "FundsRaisedUSD": null,
+    "StartPrice": null,
+    "StartPriceCurrency": null,
+    "Jurisdiction": null,
+    "BlogLink": null,
+    "WhitePaperLink": null
+  },
+  "ccId": "12192"
+}

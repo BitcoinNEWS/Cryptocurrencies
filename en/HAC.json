@@ -1,0 +1,60 @@
+{
+  "General": {
+    "Symbol": "HAC",
+    "Name": "Hackspace Capital",
+    "Description": "<p>Hackspace Capital is a platform established in 2017 for the purpose of investing in technology hardware and connected hardware startups. These investments will be identified by its strategic partner, EnCata (engineering/prototyping company for hi-tech). The partnership is expected to bring to the public both a new cryptocurrency and blockchain eco-system as well as an ongoing series of hardware products and related services on which to spend the currency.</p><p>Token holders will be able to:</p><p>Exchange HAC tokens for goods and services produced by the HACKSPACE network of companies, and also for engineering services with minimal contracts and paperwork.</p><p>Users can also freely exchange HAC tokens for other crypto or fiat currencies on liquid exchanges or sell HAC tokens via the HackSpace platform to buyers interested in acquiring HackSpace goods and services.</p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "1000000000",
+    "Algorithm": null,
+    "ProofType": null,
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "19/09/2017",
+    "TotalCoinsMined": 1000000000,
+    "Twitter": "@hackspacecap",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": null,
+    "GitHub": null,
+    "OnMarkets": [
+      "Cryptopia",
+      "HitBTC",
+      "Yobit"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Ongoing",
+    "Description": "<p>Hackspace Capital is a platform established in 2017 for the purpose of investing in technology hardware and connected hardware startups. These investments will be identified by its strategic partner, EnCata (engineering/prototyping company for hi-tech). The partnership is expected to bring to the public both a new cryptocurrency and blockchain eco-system as well as an ongoing series of hardware products and related services on which to spend the currency.</p><p>Token holders will be able to:</p><p>Exchange HAC tokens for goods and services produced by the HACKSPACE network of companies, and also for engineering services with minimal contracts and paperwork.</p><p>Users can also freely exchange HAC tokens for other crypto or fiat currencies on liquid exchanges or sell HAC tokens via the HackSpace platform to buyers interested in acquiring HackSpace goods and services.</p><p><strong>Team</strong>:</p><ul><li><strong>Mikhail Zhyvets</strong>: CEO at Hackspace Capital. </li><li><strong>Oleg Kondrashov</strong>: CTO at Hackspace Capital, CEO at EnCata. </li><li><strong>Michael Tavis</strong>: CFO at Hackspace Capital. </li><li><strong>Dr. Petr Dudin</strong>: CCO at Hackspace Capital, Partner and СSO at EnCata. </li><li><strong>Petr Sidelnikov</strong>: Financial Manager at Hackspace Capital. </li><li><strong>Fedor Mukin</strong>: CIO at Hackspace Capital. </li><li><strong>Michael Vaga</strong>: <span>Marketing Manager at Hackspace Capital, CEO at HandEnergy</span>.</li></ul><p>Hackspace Capital has authorized the issuance of up to 1.000.000.000 (one billion) HAC tokens, with 51% to be issued directly to the public in 12 monthly sessions of 24 hours each. The first issuing session took place on September 19, 2017. HAC TOKENS will be sold in an auction format, with the price of the HAC tokens fixed at the completion of the auction. Each monthly HAC Token Sale session will issue 50% of tokens issued the previous month in line with the schedule shown below:</p><p><img style=\"width: 194px; height: 378px;\" src=\"/media/12318183/hac-ico-structure.png?width=194&amp;height=378\" alt=\"\" data-id=\"322843\"></p><p> </p><p> </p><p><strong>Token Reserve Split (49%):</strong></p><ul><li>39% <span>for current and future Hackspace Capital projects (startups)</span>;</li><li>5% <span>or marketing, bounties, advisors, bonuses</span>;</li><li>5% <span>founders and employees</span>;</li></ul><p><strong>Bonus Structure:</strong></p><ul><li>50% HAC token bonus during the first 2 hours</li><li>30% HAC token  bonus during the next 4 hours</li><li>10% HAC token bonus during the next 16 hours</li></ul>",
+    "TokenType": "ETH (ERC20)",
+    "WebsiteLink": "https://hackspace.capital/invest",
+    "FundingCap": "N/A",
+    "FundingTarget": "N/A",
+    "Date": 1505829600,
+    "EndDate": 1537452000,
+    "FundsRaisedList": "17,226 ETH",
+    "FundsRaisedUSD": "5014660.9",
+    "StartPrice": "N/A",
+    "StartPriceCurrency": "N/A",
+    "Jurisdiction": "N/A",
+    "BlogLink": "https://medium.com/@hackspacecap",
+    "WhitePaperLink": "https://hackspace.capital/whitepaper_hackspace_EN.pdf"
+  },
+  "ccId": "321347"
+}

@@ -1,0 +1,59 @@
+{
+  "General": {
+    "Symbol": "CIR",
+    "Name": "CircuitCoin",
+    "Description": "<p>CircuitCoin is a Proof of Work/Proof of Stake hybrid. It uses de SHA256D algorithm and it has a dynamic PoS reward system in which the rewards gets smaller every year for three years:</p><p>1st year: 30%</p><p><span>2nd year: 20%</span></p><p>3rd year: <span>5%</span></p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "3125000000",
+    "Algorithm": "SHA256D",
+    "ProofType": "PoW/PoS",
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "05/12/2016",
+    "TotalCoinsMined": null,
+    "Twitter": null,
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "-",
+    "GitHub": null,
+    "OnMarkets": [
+      "Cryptopia",
+      "Novaexchange"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "N/A",
+    "Description": null,
+    "TokenType": null,
+    "WebsiteLink": null,
+    "FundingCap": null,
+    "FundingTarget": null,
+    "Date": null,
+    "EndDate": null,
+    "FundsRaisedList": null,
+    "FundsRaisedUSD": null,
+    "StartPrice": null,
+    "StartPriceCurrency": null,
+    "Jurisdiction": null,
+    "BlogLink": null,
+    "WhitePaperLink": null
+  },
+  "ccId": "43598"
+}

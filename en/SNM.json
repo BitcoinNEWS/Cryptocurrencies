@@ -1,0 +1,65 @@
+{
+  "General": {
+    "Symbol": "SNM",
+    "Name": "SONM",
+    "Description": "<p>SONM is a <span>a multi-purpose decentralized</span> supercomputer for general purpose computing, allowig users to monetize their idle hardware and providing services that range from site hosting to scientific calculations. The SONM project implements a fog computing structure instead of a costly cloud structure, reducing middlemen fees. The SNM token is required to buy and sell computational power in the SONM network.</p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "444000000",
+    "Algorithm": null,
+    "ProofType": null,
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "24/01/2017",
+    "TotalCoinsMined": 444000000,
+    "Twitter": "@sonmdevelopment",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "https://sonm.io/",
+    "GitHub": null,
+    "OnMarkets": [
+      "OKEX",
+      "Liqui",
+      "Yobit",
+      "Tidex",
+      "Novaexchange",
+      "Kucoin",
+      "Binance",
+      "HitBTC"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Finished",
+    "Description": "<p><span>A universal fog supercomputer – ethereum-based network for globally distributed computing power. The bonus during the ICO started at 15% slowly dropping to 0%. 117,337 ETH was raised that was worth approximately $26 Million at the close of sale. The token reserve has been split in the following manner 5.46% Pre-ICO, 10% Eco-fund, 9.01% Team.</span></p><p> </p>",
+    "TokenType": "ETH (ERC20)",
+    "WebsiteLink": "https://ico.sonm.io/",
+    "FundingCap": "237,399 ETH",
+    "FundingTarget": "N/A",
+    "Date": 1497528000,
+    "EndDate": 1497873600,
+    "FundsRaisedList": "117,337 ETH",
+    "FundsRaisedUSD": "26000000",
+    "StartPrice": "0.0585",
+    "StartPriceCurrency": "USD",
+    "Jurisdiction": "N/A",
+    "BlogLink": "https://medium.com/@sonm/",
+    "WhitePaperLink": "https://sonm.io/Sonm1.pdf"
+  },
+  "ccId": "136244"
+}

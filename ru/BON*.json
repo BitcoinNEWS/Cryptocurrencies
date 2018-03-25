@@ -1,0 +1,58 @@
+{
+  "General": {
+    "Symbol": "BON*",
+    "Name": "Bonpay",
+    "Description": "<p>Bonpay is a full-fledged Blockchain service, including a wide range of solutions, from Bitcoin storage to plastic or virtual card. BON is an Ethereum-based token that provides token holders with incentive rewards and cashback bonuses.</p><p> </p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "21745688.353416168378405037",
+    "Algorithm": null,
+    "ProofType": null,
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "01/10/2017",
+    "TotalCoinsMined": null,
+    "Twitter": "@Bonpay_com",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": null,
+    "GitHub": null,
+    "OnMarkets": [
+      "Cryptopia"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Finished",
+    "Description": "<p><span>Bonpay is a full-fledged Blockchain service<span>, including</span><span> a wide range of solutions, from Bitcoin storage to plastic or virtual card. </span><span>BON is an Ethereum-based token that provides token holders with incentive rewards and cashback bonuses.</span></span></p><p><strong>Team</strong>:</p><ul><li><strong>Alex Blazhevych:</strong> CEO <a href=\"https://www.linkedin.com/in/alex-blazhevych-939034116/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Oleg Boykov:</strong> CTO <a href=\"https://www.linkedin.com/in/oleg-boykov-50076269/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Valentin Kaduchenko:</strong> CPO <a href=\"https://www.linkedin.com/in/valentinkad/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Julya Bashtannik:</strong> CFO <a href=\"https://www.linkedin.com/in/julya-bashtannik/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li></ul><p>The Bonpay ICO will start on the 31st of October and will last until the 28th of November. The ICO allocation represents 51% of the total supply. BON tokens will be available for a 0.002 ETH starting price. The ICO funding cap/target is 200000 ETH.</p><p><strong>Token Reserve Split:</strong></p><ul><li><span>51% for public ICO</span></li><li>34% for business development,</li><li>15% for early investors, founders, employees</li></ul><p>The Bonpay ICO will feature a bonus and bounty campaign as well as an escrow agent.</p><p><strong>Bonus Structure:</strong></p><ul><li>24h - 20%</li><li>first 2-3 days - 15%</li><li>day 4-7 - 10%</li><li>second week - 5% </li></ul><div class=\"freebirdFormviewerViewItemsItemItem freebirdFormviewerViewItemsTextTextItem\" data-required=\"true\" data-item-id=\"1077776534\"><div class=\"freebirdFormviewerViewItemsItemItemHeader\"><div class=\"freebirdFormviewerViewItemsItemItemTitleContainer\"></div></div></div>",
+    "TokenType": "ETH (ERC20)",
+    "WebsiteLink": "https://tokensale.bonpay.com/",
+    "FundingCap": "200000 ETH",
+    "FundingTarget": "200000 ETH",
+    "Date": 1509454800,
+    "EndDate": 1511874000,
+    "FundsRaisedList": "20,472 ETH",
+    "FundsRaisedUSD": "9728908.56",
+    "StartPrice": "0.002",
+    "StartPriceCurrency": "ETH",
+    "Jurisdiction": "UK",
+    "BlogLink": null,
+    "WhitePaperLink": "https://bonpay.com/whitepaper"
+  },
+  "ccId": "346775"
+}

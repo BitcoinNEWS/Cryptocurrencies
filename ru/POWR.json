@@ -1,0 +1,65 @@
+{
+  "General": {
+    "Symbol": "POWR",
+    "Name": "Power Ledger",
+    "Description": "<p><span>Power Ledger is a decentralized energy exchange platform. It incorporates <span>energy applications, such as a P2P energy trading application that allows businesses to host trading on the platform. </span></span><span>This technology enables the sale of surplus renewable energy generated at residential and commercial developments (including multi-unit/multi-tenanted) connected to existing electricity distribution networks, or within micro-grids. </span></p><p><span>POWR is an Ethereum-based token that </span>fuels the Power Ledger Ecosystem. POWR tokens serve as access permisson tokens, <span>allowing the Application Hosts and their consumers to gain access to the P2P trading features and other Power Ledger applications. To synchronize the ecosystem globally and create cross-market electricity compatibility, a second token, Sparkz, is used in Power Ledger&#39;s ecosystem transactions. Applications Hosts may convert their POWR tokens to Sparks when the ecosystem has been accessed.</span></p><p> </p><p> </p><p> </p><p> </p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "1000000000",
+    "Algorithm": null,
+    "ProofType": null,
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "05/07/2017",
+    "TotalCoinsMined": 1000000000,
+    "Twitter": "@PowerLedger_io",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": null,
+    "GitHub": null,
+    "OnMarkets": [
+      "BitTrex",
+      "EtherDelta",
+      "Kucoin",
+      "Cryptopia",
+      "HuobiPro",
+      "Gateio",
+      "Binance",
+      "LAToken"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Finished",
+    "Description": "<p>Power Ledger is a decentralized energy exchange platform. It incorporates energy applications, such as a P2P energy trading application that allows businesses to host trading on the platform. This technology enables the sale of surplus renewable energy generated at residential and commercial developments (including multi-unit/multi-tenanted) connected to existing electricity distribution networks, or within micro-grids.</p><p>POWR is an Ethereum-based token that fuels the Power Ledger ecosystem. POWR tokens serve as access permisson tokens, allowing the Application Hosts and their consumers to gain access to the P2P trading features and other Power Ledger applications. To synchronize the ecosystem globally and create cross-market electricity compatibility, a second token, Sparkz, is used in Power Ledger&#39;s ecosystem transactions. Applications Hosts may convert their POWR tokens to Sparks when the access to the ecosystem has been gained.</p><p><strong>Team</strong>:</p><ul><li><strong>Dr. Jemma Green</strong>: Co-founder and Chair.</li><li><strong>David Martin</strong>: Co-founder and Managing Director. </li><li><strong>John Bulich</strong>: Co-founder and Director. </li><li><strong>Dr. Gov van Ek</strong>: Co-founder and Director. </li><li><strong>Jenni Conroy</strong>: Co-founder and Director. </li><li><strong>Vinod Tiwari</strong>: Manager Sales and Business Development. </li><li><strong>Nuno Martins</strong>: Chief Technology Officer. </li><li><strong>Garry Hasler</strong>: Senior Software Engineer. </li><li><strong>Sheree Ip</strong>: Legal and Compliance. </li><li><strong>Marc Griffiths</strong>: Ethereum Engineer. </li><li><strong>Alasdair Penman</strong>: Systems Engineer. </li><li><strong>Federico Tan</strong>: Software Engineer. </li><li><strong>Kristian Myhre</strong>: Energy Systems Specialist. </li><li><strong>James Eggleston</strong>: Analyst.</li><li><strong>Meagan Cojocar</strong>: Analyst. </li><li><strong>Bill Tai: </strong>Board Advisor.</li></ul><p><strong>Token Reserve Split (65%):</strong></p><ul><li>15% Developers and Founders;</li><li>25% Power Ledger Escrow;</li><li>1.5% Bounty Campaign;</li><li>24.5% Growth Pool (Platform Hosts).</li></ul>",
+    "TokenType": "ETH (ERC20)",
+    "WebsiteLink": null,
+    "FundingCap": "N/A",
+    "FundingTarget": "N/A",
+    "Date": 1503446400,
+    "EndDate": 1507248000,
+    "FundsRaisedList": "34,000,000 USD",
+    "FundsRaisedUSD": "34000000",
+    "StartPrice": "N/A",
+    "StartPriceCurrency": "N/A",
+    "Jurisdiction": "Australia",
+    "BlogLink": "https://medium.com/power-ledger",
+    "WhitePaperLink": "https://tge.powerledger.io/media/Power-Ledger-Whitepaper-v3.pdf"
+  },
+  "ccId": "339617"
+}

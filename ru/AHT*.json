@@ -1,0 +1,56 @@
+{
+  "General": {
+    "Symbol": "AHT*",
+    "Name": "Bowhead Health",
+    "Description": "<p>Bowhead is a company with a team of medical doctors, biochemistry and data scientists, software and robotics engineers, designers and wellness coaches.</p><p><span>B</span>y using Blockchain, health records can be inter-operable across different <span>platforms, hospital systems and services</span>, while remaining secure and up to date.</p><p><span>Bowhead </span>believes that health data is some of the most valuable data in the world. Bowhead will use anonymized customer health data to add value, while ensuring data is protected using cryptography. Customers gain access to healthcare and may also benefit financially by leasing access to their data in an anonymized manner.</p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "100000000",
+    "Algorithm": null,
+    "ProofType": null,
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "30/06/2017",
+    "TotalCoinsMined": 100000000,
+    "Twitter": "@Bowheadhealth",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": null,
+    "GitHub": null,
+    "OnMarkets": [],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Ongoing",
+    "Description": "<p>Bowhead is a company with a team of medical doctors, biochemistry and data scientists, software and robotics engineers, designers and wellness coaches.</p><p><span>B</span>y using Blockchain, health records can be inter-operable across different<span> </span><span>platforms, hospital systems and services</span>, while<span> </span>remaining secure and up to date.</p><p><span>Bowhead </span>believes that health data is some of the most valuable data in the world. Bowhead will use<span> </span>anonymized customer health data to add value, while ensuring data is protected using<span> </span>cryptography. Customers gain access to healthcare and may also benefit<span> </span>financially by leasing access to their data in an anonymized manner.</p><p><span>Bowhead </span>will be holding its ICO on July 17, 2017. There will be a total of 40,000,000 coins available at the offering.</p><p><strong>Bonuses:</strong></p><p><img style=\"width: 462px; height: 195px;\" src=\"/media/1383804/bonus-aht.png?width=462&amp;height=195\" alt=\"\" data-id=\"186874\"></p>",
+    "TokenType": "WAVES",
+    "WebsiteLink": "https://tokens.bowheadhealth.com/#title_token_sale",
+    "FundingCap": "40000000 AHT",
+    "FundingTarget": "N/A",
+    "Date": 1500249600,
+    "EndDate": 1504137600,
+    "FundsRaisedList": "350,000 USD",
+    "FundsRaisedUSD": "350000",
+    "StartPrice": "0.65",
+    "StartPriceCurrency": "USD",
+    "Jurisdiction": "Singapore",
+    "BlogLink": null,
+    "WhitePaperLink": "https://drive.google.com/drive/u/1/folders/0B2CimLH8gflNMzY0WEFhRlBxSlU"
+  },
+  "ccId": "186064"
+}

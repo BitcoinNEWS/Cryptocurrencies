@@ -1,0 +1,61 @@
+{
+  "General": {
+    "Symbol": "KURT",
+    "Name": "Kurrent",
+    "Description": "<p>Kurrent is a Proof of Work cryptocurrency that uses zero knowledge proofs to provide anonymous transactions. It&#39;s the first zk cryptocurrency to add random bonus blocks in order to create a fun mining enviroment. Kurrent uses the X11 algorithm.</p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "228000000",
+    "Algorithm": "X11",
+    "ProofType": "PoW",
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "06/12/2016",
+    "TotalCoinsMined": 61364813,
+    "Twitter": "@Kurrent_Project",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "http://kurrentproject.com/",
+    "GitHub": null,
+    "OnMarkets": [
+      "Cryptopia",
+      "Novaexchange",
+      "TradeSatoshi",
+      "Yobit"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "N/A",
+    "Description": null,
+    "TokenType": null,
+    "WebsiteLink": null,
+    "FundingCap": null,
+    "FundingTarget": null,
+    "Date": null,
+    "EndDate": null,
+    "FundsRaisedList": null,
+    "FundsRaisedUSD": null,
+    "StartPrice": null,
+    "StartPriceCurrency": null,
+    "Jurisdiction": null,
+    "BlogLink": null,
+    "WhitePaperLink": null
+  },
+  "ccId": "34602"
+}

@@ -1,0 +1,58 @@
+{
+  "General": {
+    "Symbol": "SCT*",
+    "Name": "Soma",
+    "Description": "<p><span>Soma is a decentralized social marketplace incorporating a rewards system. Soma Community Token is an Ethereum-based ERC 20 token that powers Soma&#39;s ecosystem. SCT is used to reward content creators and to facilitate trading within Soma&#39;s platform.</span></p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "60000000",
+    "Algorithm": null,
+    "ProofType": null,
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "28/08/2017",
+    "TotalCoinsMined": 14418075.139310727,
+    "Twitter": "@SomaToken",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": null,
+    "GitHub": null,
+    "OnMarkets": [
+      "EtherDelta"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Ongoing",
+    "Description": "<p>Soma is a decentralized social marketplace incorporating a rewards system. Soma Community Token is an Ethereum-based ERC 20 token that powers Soma&#39;s ecosystem. SCT is used to reward content creators and to facilitate trading within Soma&#39;s platform.</p><p><strong>Team</strong>:</p><ul><li><strong><span>Jukka Hilmola</span></strong>: <span>Co-Founder</span>. <a href=\"https://www.linkedin.com/in/jukka-hilmola-a0127249/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong><span>Joseph al Sharif</span></strong>: <span>Co-Founder</span>.<span> </span><a href=\"https://www.linkedin.com/in/joseph-al-sharif-461874ab/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong><span>Sami Suosalo</span></strong>: <span>CFO</span>.<span> </span><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></li><li><strong><span>Ville Valkonen</span></strong>: <span>Legal advisor</span>.<span> </span><a href=\"https://www.linkedin.com/in/villevvalkonen/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong><span>Sylwia Rogowicz</span></strong>: <span>Project manager</span>.<span> </span><a href=\"https://www.linkedin.com/in/sylwiarogowicz/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong><span>Tomasz Cichowicz</span></strong>: <span>Senior Developer</span>.<span> </span><a href=\"https://www.linkedin.com/in/tcichowicz/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong><span>Anna Makowska</span></strong>: <span>Senior Developer</span>.<span> </span><a href=\"https://www.linkedin.com/in/anna-makowska-programista/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong><span>Vladimir Serbin</span></strong>: <span>Senior developer</span>.<span> </span><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></li><li><strong><span>Tomasz Klim</span></strong>: <span>Security specialist</span>.<span> </span><a href=\"https://www.linkedin.com/in/tomaszklim/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong><span>Johannes Eret</span></strong>: <span>Creative manager</span>.<span> </span><a href=\"https://www.linkedin.com/in/johannes-eret-a0ba4362/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong><span>John Salinero</span></strong>: <span>Design director</span>.<span> </span><a href=\"https://www.linkedin.com/in/john-salinero-232b52b/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li></ul><p>Soma will be holding its ICO on September 26, 2017. The ICO token supply represents 90% of the total token supply, so there will be a total of 54,000,000 tokens available, for 0.0022 ETH each at the offering. The ICO funding target is 8,000 ETH, the funding cap is 120,000 ETH and is expected to end on October 26, 2017, or when the funding cap is reached.</p><p><strong>Token Reserve Split (10%):</strong></p><ul><li>10% growing, marketing and rewarding active participants of ICO campaign;</li></ul>",
+    "TokenType": "ETH (ERC20)",
+    "WebsiteLink": "https://soma.co/token-sale/",
+    "FundingCap": "120,000 ETH",
+    "FundingTarget": "8,000 ETH",
+    "Date": 1506384000,
+    "EndDate": 1509019200,
+    "FundsRaisedList": "N/A",
+    "FundsRaisedUSD": "N/A",
+    "StartPrice": "0.00222222222",
+    "StartPriceCurrency": "ETH",
+    "Jurisdiction": "N/A",
+    "BlogLink": "https://medium.com/@social_83855",
+    "WhitePaperLink": "https://soma.co/wp-content/uploads/2017/07/SOMA-whitepaper_v.2.1.pdf"
+  },
+  "ccId": "348278"
+}

@@ -1,0 +1,60 @@
+{
+  "General": {
+    "Symbol": "PRE",
+    "Name": "Premium",
+    "Description": "<p><span>Premium is a lite version of Bitcoin using scrypt as a Proof of Work algorithm similar to Litecoin, except the total supply is considerably lower – only 20 million coins. Premium is coin designed to offer cryptocurrency an entrance into the premium and bespoke products industry in the United Kingdom.</span></p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "20000000",
+    "Algorithm": "Scrypt",
+    "ProofType": "PoW",
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "22/05/2015",
+    "TotalCoinsMined": null,
+    "Twitter": "@PremiumCoinDev",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "-",
+    "GitHub": null,
+    "OnMarkets": [
+      "BitTrex",
+      "Yobit",
+      "HitBTC"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "N/A",
+    "Description": null,
+    "TokenType": null,
+    "WebsiteLink": null,
+    "FundingCap": null,
+    "FundingTarget": null,
+    "Date": null,
+    "EndDate": null,
+    "FundsRaisedList": null,
+    "FundsRaisedUSD": null,
+    "StartPrice": null,
+    "StartPriceCurrency": null,
+    "Jurisdiction": null,
+    "BlogLink": null,
+    "WhitePaperLink": null
+  },
+  "ccId": "30024"
+}

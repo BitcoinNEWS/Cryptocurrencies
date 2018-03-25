@@ -1,0 +1,65 @@
+{
+  "General": {
+    "Symbol": "SDC",
+    "Name": "ShadowCash",
+    "Description": "<p>ShadowCash (SDC) is a scrypt hybrid Proof of work and proof of stake coin with a 2% staking interest per annum.</p><p>An entire privacy-based platform which aims to establish an anonymous economy, with multiple features that give people all the financial freedom and privacy they should have.</p><p>Shadow is a decentralized anonymous communication, commerce and currency platform through which the virtual currency, ShadowCash, can be transferred. One of the significant advantages of Shadow is its deep integration with the rest of Shadow&#39;s features as well as offering native TOR support for IP obfuscation.</p>",
+    "Features": "<p>The ShadowSend protocol combines:</p><p><strong>Dual-key stealth addresses</strong></p><p>-- Unlinkability</p><p>-- Severs links between the sender and receiver</p><p><strong>Ring signatures</strong></p><p>-- Signature obfuscation</p><p>-- Signatures are grouped with other signatures to hide the real sender</p><p><strong>NIZK (Non-Interactive Zero Knowledge) proofs</strong></p><p> -- Untraceability</p><p> -- Separates the transaction inputs and outputs</p>",
+    "Technology": "<p>Specification</p><p>- Block Time: 60 seconds</p><p>- Difficulty Re-target: every block</p><p>- Nominal Stake Interest: 2% annually</p><p>- Min Transaction Fee: 0.0001 SDC</p><p>- Confirmations: 10 - Maturity: 500</p><p>- Min Stake Age: 8 hours - no max age</p><p>- P2P Port: 51737</p><p>- RPC Port: 51736</p>",
+    "TotalCoinSupply": null,
+    "Algorithm": "Scrypt",
+    "ProofType": "PoW/PoS",
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "18/06/2014",
+    "TotalCoinsMined": 6728479.39318618,
+    "Twitter": "@SDCoin",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "http://www.aboutshadow.com/",
+    "GitHub": null,
+    "OnMarkets": [
+      "Novaexchange",
+      "Yobit",
+      "Poloniex",
+      "TradeSatoshi",
+      "BitSquare",
+      "Cryptsy",
+      "BitTrex",
+      "Cryptopia"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "N/A",
+    "Description": null,
+    "TokenType": null,
+    "WebsiteLink": null,
+    "FundingCap": null,
+    "FundingTarget": null,
+    "Date": null,
+    "EndDate": null,
+    "FundsRaisedList": null,
+    "FundsRaisedUSD": null,
+    "StartPrice": null,
+    "StartPriceCurrency": null,
+    "Jurisdiction": null,
+    "BlogLink": null,
+    "WhitePaperLink": null
+  },
+  "ccId": "4600"
+}

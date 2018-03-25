@@ -1,0 +1,58 @@
+{
+  "General": {
+    "Symbol": "BS",
+    "Name": "BlackShadowCoin",
+    "Description": "<p>BlackShadow is a X11 Proof of Work/Proof of Stake cryptocurrency allowing fast transactions, anonymity, a stable exchange rate against the currencies of the world.<br />Development of the coin is divided into steps (roadmap). The ultimate goal of development is to release terminals exchange and implementation in the online stores as payment method.</p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "2100000000",
+    "Algorithm": "X11",
+    "ProofType": "PoW/PoS",
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "27/09/2016",
+    "TotalCoinsMined": null,
+    "Twitter": null,
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "-",
+    "GitHub": null,
+    "OnMarkets": [
+      "Yobit"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "N/A",
+    "Description": null,
+    "TokenType": null,
+    "WebsiteLink": null,
+    "FundingCap": null,
+    "FundingTarget": null,
+    "Date": null,
+    "EndDate": null,
+    "FundsRaisedList": null,
+    "FundsRaisedUSD": null,
+    "StartPrice": null,
+    "StartPriceCurrency": null,
+    "Jurisdiction": null,
+    "BlogLink": null,
+    "WhitePaperLink": null
+  },
+  "ccId": "30175"
+}

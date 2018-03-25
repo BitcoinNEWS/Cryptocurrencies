@@ -1,0 +1,58 @@
+{
+  "General": {
+    "Symbol": "ILT",
+    "Name": "iOlite",
+    "Description": "<p>iOlite is a community-driven knowledge base for naturalized languages which allows an easier human-machine interfacing. iOlite is constantly learning how to communicate with machines. It <span>receives text as an input in any language, programming or natural (English, Russian, etc.), and migrates it to the target machine’s programming language, e.g. Solidity smart contracts in Ethereum. ILT is an ERC20 token based on Ethereum used as a means for value-transfer inside the iOlite network and is required to pay author fees to use a smart contracts.</span></p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "1000000000",
+    "Algorithm": "Ethash",
+    "ProofType": "PoW",
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "23/02/2018",
+    "TotalCoinsMined": null,
+    "Twitter": "@iOliteLabs",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": null,
+    "GitHub": null,
+    "OnMarkets": [
+      "BitTrex"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Ongoing",
+    "Description": "<p><span>iOlite is a community-driven knowledge base for naturalized languages which allows an easier human-machine interfacing. iOlite is <span>constantly learning</span><span> how to communicate with machines</span><span>. It </span><span>receives text as an input in any language, programming or natural (English, Russian, etc.), and migrates it to the target machine’s programming language, e.g. Solidity smart contracts in Ethereum. ILT is an ERC20 token based on Ethereum used as a means for value-transfer inside the iOlite network and is required to pay author fees to use a smart contracts.</span></span></p><p><strong>Team</strong>:</p><ul><li><strong>Alfred Shaffir:</strong> Co-Founder, CEO <a href=\"https://www.linkedin.com/in/alfredshaffir/\" target=\"_blank\"><img src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Dmitry Kuzminov:</strong> Co-Founder, CTO <a href=\"https://www.linkedin.com/in/dmitry-kuzminov-90a60a1/\" target=\"_blank\"><img src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Vladyslav Makarian:</strong> VP R&amp;D <a href=\"https://www.linkedin.com/in/vldmkr/\" target=\"_blank\"><img src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Artem Gorbachev:</strong> Blockchain Expert, PHD<span> </span><img src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></li><li><strong>Hosam Mazawi:</strong> Marketing Manager <a href=\"https://www.linkedin.com/in/hosam-mazawi/\" target=\"_blank\"><img src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Richard Sanders:</strong> Operations and Community Manager <a href=\"https://www.linkedin.com/in/richasanders\" target=\"_blank\"><img src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li></ul><p><span>The iOlite </span><span>Public presale will start: 10-March-2018 and will end on the 21-March-2018.</span></p><p>The iOlite ICO will start on the 21st of March, 2018 and will last until the 14th of April, 2018. The ICO token allocation represents 65% of the total token supply and will be available for a <span>$0.0221 starting price. The ICO funding target is set at $1000000 and the cap is set at $12500000. </span></p><p><strong>Token Reserve Split (35%):</strong></p><ul><li>Marketing, R&amp;D, operations - 10%</li><li>Team - 15%</li><li>Bounties, partners and Service providers - 10%</li></ul><p>The ILT ICO will feature a bonus and bounty campaign. The token will be mineable, with its supply increasing on an inflation model similar to that of Ethereum.</p><p> </p>",
+    "TokenType": "New Blockchain",
+    "WebsiteLink": "https://iolite.io/?utm_medium=tbanner&utm_source=cryptocompare&utm_campaign=newsletter",
+    "FundingCap": "$12500000",
+    "FundingTarget": "$1000000",
+    "Date": 1521633600,
+    "EndDate": 1523707200,
+    "FundsRaisedList": "911.56 ETH",
+    "FundsRaisedUSD": "N/A",
+    "StartPrice": "0.0221",
+    "StartPriceCurrency": "USD",
+    "Jurisdiction": "Estonia",
+    "BlogLink": "https://medium.com/@iolite ",
+    "WhitePaperLink": "https://www.iolite.io/docs/iolite_witepaper_rev3.pdf"
+  },
+  "ccId": "769483"
+}

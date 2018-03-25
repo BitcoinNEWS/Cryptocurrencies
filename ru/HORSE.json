@@ -1,0 +1,58 @@
+{
+  "General": {
+    "Symbol": "HORSE",
+    "Name": "Ethorse ",
+    "Description": "<p>Ethorse is an Ethereum Smart Contract based DApp for betting on the price of Cryptocurrencies. Users can bet if the price increases or decreases and win their share from everyone who bets against. Bets are placed and rewards are claimed using Metamask plugin for Chrome/Firefox or the Ethereum based Mist browser. Being completely secured by the blockchain, no one has control over the race or user funds once a contract is deployed and a race is announced.</p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "125000000",
+    "Algorithm": null,
+    "ProofType": null,
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "12/12/2017",
+    "TotalCoinsMined": 125000000,
+    "Twitter": "@EthorseTeam",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": null,
+    "GitHub": null,
+    "OnMarkets": [
+      "EtherDelta"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "N/A",
+    "Description": null,
+    "TokenType": null,
+    "WebsiteLink": null,
+    "FundingCap": null,
+    "FundingTarget": null,
+    "Date": null,
+    "EndDate": null,
+    "FundsRaisedList": null,
+    "FundsRaisedUSD": null,
+    "StartPrice": null,
+    "StartPriceCurrency": null,
+    "Jurisdiction": null,
+    "BlogLink": null,
+    "WhitePaperLink": null
+  },
+  "ccId": "716736"
+}

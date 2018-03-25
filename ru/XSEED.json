@@ -1,0 +1,58 @@
+{
+  "General": {
+    "Symbol": "XSEED",
+    "Name": "BitSeeds",
+    "Description": "<p>Bitseeds is a Proof of Work and Proof of Stake alternative Crypto currency based on Shas-256. The prrof of stake is 10% per annum. <span>For every coin emitted on the BitSeeds network, the Rainforest Foundation and the BitSeeds Foundation has committed to planting one tree.</span></p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "0",
+    "Algorithm": "SHA256",
+    "ProofType": "PoW/PoS",
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "17/04/2015",
+    "TotalCoinsMined": null,
+    "Twitter": "@BitSeeds",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "http://bitseeds.org/",
+    "GitHub": null,
+    "OnMarkets": [
+      "BitTrex"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "N/A",
+    "Description": null,
+    "TokenType": null,
+    "WebsiteLink": null,
+    "FundingCap": null,
+    "FundingTarget": null,
+    "Date": null,
+    "EndDate": null,
+    "FundsRaisedList": null,
+    "FundsRaisedUSD": null,
+    "StartPrice": null,
+    "StartPriceCurrency": null,
+    "Jurisdiction": null,
+    "BlogLink": null,
+    "WhitePaperLink": null
+  },
+  "ccId": "8683"
+}

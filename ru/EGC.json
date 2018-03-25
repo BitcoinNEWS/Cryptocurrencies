@@ -1,0 +1,61 @@
+{
+  "General": {
+    "Symbol": "EGC",
+    "Name": "EverGreenCoin",
+    "Description": "<p>Evergreencoin — виртуальная криптовалюта, которая пытается быть в зеленом тренде. По утверждениям основателей, они разработали технологию, которая имеет нулевое воздействие на окружающую среду, в основном питается от солнечных панелей. Также фонд планирует финансировать восстановление лесов и природоохранные обьекты. EverGreenCoin — это PoW/PoS монета с использованием X15 алгоритма, и 7%-м вознаграждением.</p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "26298000",
+    "Algorithm": "X15",
+    "ProofType": "PoW/PoS",
+    "BlockReward": 1.7696095923893154,
+    "Explorer": null,
+    "StartDate": "01/12/2015",
+    "TotalCoinsMined": 13530556.41807532,
+    "Twitter": "@EverGreenCoin_",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "https://evergreencoin.org",
+    "GitHub": null,
+    "OnMarkets": [
+      "Cryptopia",
+      "Yobit",
+      "CCEX",
+      "BitTrex"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "N/A",
+    "Description": null,
+    "TokenType": null,
+    "WebsiteLink": null,
+    "FundingCap": null,
+    "FundingTarget": null,
+    "Date": null,
+    "EndDate": null,
+    "FundsRaisedList": null,
+    "FundsRaisedUSD": null,
+    "StartPrice": null,
+    "StartPriceCurrency": null,
+    "Jurisdiction": null,
+    "BlogLink": null,
+    "WhitePaperLink": null
+  },
+  "ccId": "15885"
+}

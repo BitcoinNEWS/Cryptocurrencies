@@ -1,0 +1,62 @@
+{
+  "General": {
+    "Symbol": "CDT",
+    "Name": "CoinDash",
+    "Description": "<p>Coindash​ is an operating system for blockchain-based assets, it has the goal of making handling and trading easy and accessible for both new and experienced users in the cryptoshpere. The CoinDash’s ecosystem includes three synergistic components: Software-as-a-Service (Saas), Social Networking and the Marketplace.</p><p><strong>SaaS:</strong> CoinDash provides analytics that give users deep insight into the performance of their investments and help them make data driven decisions.</p><p><strong>Social Network:</strong> CoinDash provides social trading features that remove barriers for new and existing crypto users by letting them follow and copy-trade top investors.</p><p><strong>Marketplace:</strong> CoinDash’s marketplace is built around opportunity discovery and streamlined trading UX with features like real-time social trading signals, an ICO dashboard, trending assets, real-time market price tables and 3rd party integration. ​</p><p>Every action within the CoinDash platform requires the user to pay a fee which is paid in the CoinDash (CDT), an Ethereum-based token Every user who facilitates the use of a feature which in turn gives financial value will be entitled to a payment, creating a creator-consumer relationship between users in the system.</p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "1000000000",
+    "Algorithm": "N/A",
+    "ProofType": "N/A",
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "28/03/2017",
+    "TotalCoinsMined": 1000000000,
+    "Twitter": "@coindashio",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "https://www.coindash.io",
+    "GitHub": null,
+    "OnMarkets": [
+      "HitBTC",
+      "Gateio",
+      "Gatecoin",
+      "Binance",
+      "EtherDelta"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Finished",
+    "Description": "<p>Blox is an operating system for blockchain-based assets, it has the goal of making handling and trading easy and accessible for both new and experienced users in the cryptoshpere. The Blox&#39;s ecosystem includes three synergistic components: Software-as-a-Service (Saas), Social Networking and the Marketplace.</p><p><strong>SaaS:</strong><span> </span>Blox provides analytics that gives users deep insight into the performance of their investments and helps them make data-driven decisions.</p><p><strong>Social Network:</strong><span> </span><span>Blox<span> </span></span>provides social trading features that remove barriers for new and existing crypto users by letting them follow and copy-trade top investors.</p><p><strong>Marketplace: </strong><span><span>Blox&#39;s<span> </span></span></span>marketplace is built around opportunity discovery and streamlined trading UX with features like real-time social trading signals, an ICO dashboard, trending assets, real-time market price tables and 3rd party integration.</p><p>Every action within the Blox platform requires the user to pay a fee which is paid in the CDT token, an Ethereum-based token Every user who facilitates the use of a feature which in turn gives financial value will be entitled to a payment, creating a creator-consumer relationship between users in the system.</p><p>Coindash Bonuses:</p><ul><li>First day bonus - 30%</li><li>First week bonus - 20%</li><li>Second week bonus - 10%</li><li>Rest of the Token Sale period bonus - 0%</li></ul><p>Token reserve split</p><ul><li>29% For Future Product Development, Customer Acquisition, Marketing &amp; PR (Locked for 1 year)</li><li>20% Team and Early Contributors (10% liquid for early contributors, 10% vested for 1 year with 6 months cliff for the core team)</li><li>1% Bounty Campaign</li></ul>",
+    "TokenType": "ETH (ERC20)",
+    "WebsiteLink": "https://www.coindash.io/token-sale/",
+    "FundingCap": "12000000 USD",
+    "FundingTarget": "N/A",
+    "Date": 1500303600,
+    "EndDate": 1502982000,
+    "FundsRaisedList": "N/A",
+    "FundsRaisedUSD": "7500000",
+    "StartPrice": "N/A",
+    "StartPriceCurrency": "ETH",
+    "Jurisdiction": "N/A",
+    "BlogLink": "https://www.coindash.io/blog/",
+    "WhitePaperLink": "https://www.coindash.io/wp-content/uploads/2017/05/CoinDashwhitepaper-v0.3-051317.pdf"
+  },
+  "ccId": "177139"
+}

@@ -1,0 +1,56 @@
+{
+  "General": {
+    "Symbol": "LUC",
+    "Name": "Play 2 Live",
+    "Description": "<p>Driven by blockchain technology, Play2Live creates an ecosystem for streamers, viewers, tournament organizers, and product/service partners. Play2Live introduces a unique mixture of 15 interactive features and monetizing tools for the users of the platform versus 4-5 available on the existing solutions. Play2Live allows viewers to earn a token reward by just watching gaming streams, sharing internet channel via P2P CDN service, enabling advertising and much more. Streamers can fine-tune the properties of economy between them and the users. The utility token (Level Up Coin) is a fuel that allows for this degree of heightened interaction.</p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "1308800000",
+    "Algorithm": null,
+    "ProofType": null,
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "12/02/2018",
+    "TotalCoinsMined": null,
+    "Twitter": "@play_2_live",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": null,
+    "GitHub": null,
+    "OnMarkets": [],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Ongoing",
+    "Description": "<p>Driven by blockchain technology, Play2Live creates an ecosystem for streamers, viewers, tournament organizers, and product/service partners. Play2Live introduces a unique mixture of 15 interactive features and monetizing tools for the users of the platform versus 4-5 available on the existing solutions. Play2Live allows viewers to earn a token reward by just watching gaming streams, sharing internet channel via P2P CDN service, enabling advertising and much more. Streamers can fine-tune the properties of the economy between them and the users. The utility token (Level Up Coin) is a fuel that allows for this degree of heightened interaction.</p><p><strong>Team</strong>:</p><ul><li><strong>Alexey Burdyko</strong><span>: CEO.</span></li><li><span><strong>Dmitry Kochnev</strong><span>: COO.</span></span></li><li><strong>Inna Moroz</strong><span>: CBDO.</span></li><li><span><strong>Peidy Hung</strong><span>: BDD Asia.</span></span></li><li><strong>Orhan Zeynalli</strong><span>: Blockchain CTO.</span></li><li><span><strong>Alexey Kuznetsov</strong><span>: Lead Developer Streaming Core.</span></span></li></ul><p><span>Play2Live </span>will be holding its ICO on the 21st of February, 2018. The ICO token supply represents 62.5% of the total token supply, so there will be a total of 818,000,000<span> </span>tokens available, for $0.05 each at the offering. The ICO funding target is 3,000,000 USD, the funding cap is 30,000,000 USD and is expected to end on the 14th of March, 2018 or when the funding cap is reached.</p><p><strong>Token Reserve Split (37.5%):</strong></p><ul><li><span>Reserve fund (11.1%);</span></li><li>Founders and project team (10.4%);</li><li>Partners of the project (7.8%)</li><li>Advisory Board (7.2%)</li><li>Bounty campaign (1%)</li></ul>",
+    "TokenType": "ETH (ERC20)",
+    "WebsiteLink": "https://click.runcpa.com/getoffer/38228-222e5a96a8953d7d26bc6ce354be339b-1046",
+    "FundingCap": "30,000,000 USD",
+    "FundingTarget": "3,000,000 USD",
+    "Date": 1519232400,
+    "EndDate": 1521046800,
+    "FundsRaisedList": "29,527,451 USD",
+    "FundsRaisedUSD": "29527451",
+    "StartPrice": "0.05",
+    "StartPriceCurrency": "USD",
+    "Jurisdiction": "Malta",
+    "BlogLink": "https://medium.com/@play2live.project",
+    "WhitePaperLink": "https://play2live.io/storage/b/2/Whitepaper_eng.pdf"
+  },
+  "ccId": "694313"
+}

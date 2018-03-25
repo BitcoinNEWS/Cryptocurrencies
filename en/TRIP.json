@@ -1,0 +1,56 @@
+{
+  "General": {
+    "Symbol": "TRIP",
+    "Name": "Trippki",
+    "Description": "<p><span>Trippki is a decentralized Travel rewards platform. In the Trippki, guests are rewarded for completing their stay with the TRIP token, an ERC20 token based on the Ethereum blockchain. TRIP is also used in the platform as a payment method along with other crypto and fiat currencies.</span></p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "200000000",
+    "Algorithm": null,
+    "ProofType": null,
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "14/11/2017",
+    "TotalCoinsMined": null,
+    "Twitter": "@Trippki_",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": null,
+    "GitHub": null,
+    "OnMarkets": [],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Upcoming",
+    "Description": "<p>Trippki is a decentralized Travel rewards platform. In the Trippki, guests are rewarded for completing their stay with the TRIP token, an ERC20 token based on the Ethereum blockchain. TRIP is also used in the platform as a payment method along with other crypto and fiat currencies.</p><p><strong>Team</strong>:</p><ul><li><strong>Ed Cunningham</strong>: <span>Chief Executive Officer</span>. <a href=\"https://twitter.com/BigEdTrippki\" target=\"_blank\"><img style=\"width: 13px; height: 13px;\" src=\"/media/1383932/twitter_logo_final.png?width=13&amp;height=13\" alt=\"\" data-id=\"202868\"></a></li><li><strong>Bill Purves</strong>: <span>Chief Financial Officer</span><span> </span><a href=\"https://www.linkedin.com/in/william-purves-600260133/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Mark Croston</strong>: <span>Chief Commercial Officer</span>.<span> </span><a href=\"https://www.linkedin.com/in/markcroston/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Israel Levin</strong>: <span>Senior Developer</span>.</li><li><strong>Oren Gampel:</strong> <span>Technical Architect</span>.<span> </span><a href=\"https://www.linkedin.com/in/orengampel/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Edan Yago</strong>: Payment Specialist.<span> </span><a href=\"https://twitter.com/edanyago\" target=\"_blank\"><img style=\"width: 13px; height: 13px;\" src=\"/media/1383932/twitter_logo_final.png?width=13&amp;height=13\" alt=\"\" data-id=\"202868\"></a></li><li><strong>Vera Tochetti</strong>: <span>Business Development, Latin America</span>.<span> </span><a href=\"https://www.linkedin.com/in/veratochetti/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Stephen Taylor</strong>: <span>Community Manager</span>.<span> </span><a href=\"https://twitter.com/stephend_taylor\" target=\"_blank\"><img style=\"width: 13px; height: 13px;\" src=\"/media/1383932/twitter_logo_final.png?width=13&amp;height=13\" alt=\"\" data-id=\"202868\"></a></li><li><strong>Ksenya Bellman</strong>: <span>Business Development, Europe &amp; Russia</span>.<span> </span><a href=\"https://twitter.com/j32804\" target=\"_blank\"><img style=\"width: 13px; height: 13px;\" src=\"/media/1383932/twitter_logo_final.png?width=13&amp;height=13\" alt=\"\" data-id=\"202868\"></a></li><li><strong>Daniela Duque S.</strong>: <span>Graphic Designer</span>.<span> </span><a href=\"https://twitter.com/danieladuque_s\" target=\"_blank\"><img style=\"width: 13px; height: 13px;\" src=\"/media/1383932/twitter_logo_final.png?width=13&amp;height=13\" alt=\"\" data-id=\"202868\"></a></li></ul><p>Trippki will be holding its ICO on Nobember 14, 2017. The ICO token supply represents 40% of the total token supply, so there will be a total of <span>80,000,000 </span>tokens available each at the offering. The ICO funding target is 26,000 ETH, the funding cap is 36,000 ETH and is expected to end on November 28, 2017 or when the funding cap is reached.</p><p><strong>Token Reserve Split (60%):</strong></p><ul><li>40% held in The Vault smart contract;</li><li>10% Legal Entity;</li><li>10% Bounties and Early Contributors;</li></ul>",
+    "TokenType": "ETH (ERC20)",
+    "WebsiteLink": "https://trippki.com/assets/docs/TrippkiTokenSaleSummary_Sept17.pdf",
+    "FundingCap": "36,000 ETH",
+    "FundingTarget": "26,000 ETH",
+    "Date": 1510671600,
+    "EndDate": 1511881200,
+    "FundsRaisedList": "N/A",
+    "FundsRaisedUSD": "N/A",
+    "StartPrice": "N/A",
+    "StartPriceCurrency": "N/A",
+    "Jurisdiction": "Gibraltar",
+    "BlogLink": "https://blog.trippki.com/",
+    "WhitePaperLink": "https://trippki.com/assets/docs/TrippkiWhitePaper_Sept17.pdf"
+  },
+  "ccId": "329767"
+}

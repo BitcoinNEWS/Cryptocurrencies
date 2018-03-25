@@ -1,0 +1,58 @@
+{
+  "General": {
+    "Symbol": "GRT",
+    "Name": "Grantcoin",
+    "Description": "<p>Grantcoin wants to provide a basic income for everyone in the world. It&#39;s the dev team&#39;s belief that everyone is entitled to a basic income in order to provide a minimum life quality standard.</p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "10031749627.87000084",
+    "Algorithm": "SHA256",
+    "ProofType": "Pow",
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "01/05/2015",
+    "TotalCoinsMined": null,
+    "Twitter": "@grantcoin",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "http://www.grantcoin.org/",
+    "GitHub": null,
+    "OnMarkets": [
+      "BitTrex"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "N/A",
+    "Description": null,
+    "TokenType": null,
+    "WebsiteLink": null,
+    "FundingCap": null,
+    "FundingTarget": null,
+    "Date": null,
+    "EndDate": null,
+    "FundsRaisedList": null,
+    "FundsRaisedUSD": null,
+    "StartPrice": null,
+    "StartPriceCurrency": null,
+    "Jurisdiction": null,
+    "BlogLink": null,
+    "WhitePaperLink": null
+  },
+  "ccId": "20438"
+}

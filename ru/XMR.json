@@ -1,0 +1,76 @@
+{
+  "General": {
+    "Symbol": "XMR",
+    "Name": "Monero",
+    "Description": "<p>Monero (XMR) - это альтернативная криптовалюта, основанная на криптональном алгоритме. Монета основана на доказательстве работы и имеет вознаграждение за добычу блока, которое плавно изменяется. Сложность пересчета каждого блок изменяется раз в шестьдесят секунд. Monero использует систему Ring Signature для защиты вашей конфиденциальности, позволяя пользователям совершать непрослеживаемые транзакции.</p>",
+    "Features": "<ul><li><strong>Конфиденциальность (непрерывные платежи, несвязываемые транзакции)<br /></strong>Monero использует исходный протокол CryptoNote, за исключением начальных изменений (как время блока и скорость эмиссии). Сам протокол основан на кольцевых подписях и скрытности адресов. Конечным результатом является пассивное децентрализованное микширование на основе сильно проверенных алгоритмов.</li><li><strong>Децентрализация<br /></strong>Функция интеллектуального майнинга позволяет достаточно просто использовать CPU компьютера пользователя, находясь в отдалении от майнинговх ферм, соответствую первоначальному видению настоящей p2p валюты от Сатоши Накамото.</li><li><strong>Масштабируемость</strong><br />Monero не имеет жесткого ограничения, что означает, что он не имеет ограничение размера блока 1 МБ, предотвращающее масштабируемость.</li></ul>",
+    "Technology": null,
+    "TotalCoinSupply": "0",
+    "Algorithm": "CryptoNight",
+    "ProofType": "PoW",
+    "BlockReward": 5.02559556044,
+    "Explorer": null,
+    "StartDate": "02/06/2014",
+    "TotalCoinsMined": 15861915.027747922,
+    "Twitter": "@monerocurrency",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "http://getmonero.org/",
+    "GitHub": null,
+    "OnMarkets": [
+      "Cryptsy",
+      "Poloniex",
+      "Kraken",
+      "HitBTC",
+      "BitSquare",
+      "BitTrex",
+      "Gateio",
+      "Cryptopia",
+      "Bitfinex",
+      "OKEX",
+      "Binance",
+      "Abucoins",
+      "BTER",
+      "Coinroom",
+      "Bithumb",
+      "TuxExchange",
+      "LiveCoin",
+      "Exmo",
+      "CryptoX"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "N/A",
+    "Description": null,
+    "TokenType": null,
+    "WebsiteLink": null,
+    "FundingCap": null,
+    "FundingTarget": null,
+    "Date": null,
+    "EndDate": null,
+    "FundsRaisedList": null,
+    "FundsRaisedUSD": null,
+    "StartPrice": null,
+    "StartPriceCurrency": null,
+    "Jurisdiction": null,
+    "BlogLink": null,
+    "WhitePaperLink": null
+  },
+  "ccId": "5038"
+}

@@ -1,0 +1,61 @@
+{
+  "General": {
+    "Symbol": "FIBRE",
+    "Name": "FIBRE",
+    "Description": "<p>Fibre is an interesting crypto currency. It gives users the option to use ToR privacy enhanced features or not for transactions. The difficulty retargets using Dark Gravity Wave. The PoS rate is 5% per annum and the PoW supply is 624,000. The block time is set to 60 seconds.</p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "624000",
+    "Algorithm": "NIST5",
+    "ProofType": "PoW/PoS",
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "06/06/2014",
+    "TotalCoinsMined": null,
+    "Twitter": "@fibrecoin",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "http://www.fibrecoin.com/",
+    "GitHub": null,
+    "OnMarkets": [
+      "Cryptsy",
+      "Cryptopia",
+      "Poloniex",
+      "BitTrex"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "N/A",
+    "Description": null,
+    "TokenType": null,
+    "WebsiteLink": null,
+    "FundingCap": null,
+    "FundingTarget": null,
+    "Date": null,
+    "EndDate": null,
+    "FundsRaisedList": null,
+    "FundsRaisedUSD": null,
+    "StartPrice": null,
+    "StartPriceCurrency": null,
+    "Jurisdiction": null,
+    "BlogLink": null,
+    "WhitePaperLink": null
+  },
+  "ccId": "4448"
+}

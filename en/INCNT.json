@@ -1,0 +1,63 @@
+{
+  "General": {
+    "Symbol": "INCNT",
+    "Name": "Incent",
+    "Description": "<p>Incent is a crypto asset issued on the Waves blockchain. It to provides mechants with a universal currency of reward for loyalty points. Incent is based on the premise that restricting customers&#39; options as a way to ensure repeat business is a faulty method. Instead, Incent provides a reward that is universal and ensures that customers return to get more of these rewards.</p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": null,
+    "Algorithm": null,
+    "ProofType": null,
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "01/01/0001",
+    "TotalCoinsMined": 46016602,
+    "Twitter": "@IncentLoyalty",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "http://www.incentloyalty.com/",
+    "GitHub": null,
+    "OnMarkets": [
+      "WavesDEX",
+      "Tidex",
+      "LiveCoin",
+      "Liqui",
+      "BitTrex",
+      "Cryptopia"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Finished",
+    "Description": "<p><span>Incents plug-in allows users to build and manage a powerful loyalty reward program from within your existing platform so you can issue Incent as rewards for purchases and accept it in redemption for future purchases. Your customers receive their rewards in a mobile app that connects their wallet to your products, offers and promotions, which can be purchased in-app, online or in-person. Merchants issue them Incent to customers, who can hold them, give them away, trade them, or eventually redeem them for goods from participating merchants.</span></p><p><span>The ICO raised 1,094 BTC and 1,148,558 WAVES (total value at the time, around $1.1 million) from 824 investors, giving an average investment size of $1334. The bonus rate started at 10,000 INCNT per BTC which dropped to 6,000 per BTC.</span></p><p><span>Escrow signatories will be:</span></p><ul><li><span>Rob Wilson CEO BitScan - Lead signatory</span></li><li>Paul Klanschek CEO Bitpanda - Escrow</li><li>Fran Strajnar CEO of Brave New Coin - Escrow</li></ul><p>Paul Klanschek and Fran Strajnar received 0.5% of the amount raised at ICO in BTC as payment for their Escrow services.</p><p><a href=\"https://www.incentloyalty.com/media/IncentICO-InformationPack.pdf\" target=\"_blank\">ICO terms</a> </p>",
+    "TokenType": "WAVES",
+    "WebsiteLink": "https://www.incentloyalty.com/",
+    "FundingCap": "N/A",
+    "FundingTarget": "5,000,000 USD",
+    "Date": 1475283600,
+    "EndDate": 1483531200,
+    "FundsRaisedList": "1,094 BTC, 1,148,558 WAVES",
+    "FundsRaisedUSD": "1100000",
+    "StartPrice": "0.047",
+    "StartPriceCurrency": "USD",
+    "Jurisdiction": "N/A",
+    "BlogLink": "https://medium.com/incent-loyalty-blog",
+    "WhitePaperLink": "https://www.incentloyalty.com/frontend_js_css/assets/whitepaper/UsingBlockchaintoBoostCommerce.pdf"
+  },
+  "ccId": "35823"
+}

@@ -1,0 +1,60 @@
+{
+  "General": {
+    "Symbol": "BLC",
+    "Name": "BlakeCoin",
+    "Description": "<p>BlakeCoin is based on the Blake-256 algorithm. The coin is merge mined and has a block reward, that varies based on the difficulty (25 coins + inflation(square root(difficulty * block height). The block time is 3 minutes and the block retargetting occurs every twenty successful hashing attempts. There are a total of 7 billion coins to be mined.</p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "7000000000",
+    "Algorithm": "Blake",
+    "ProofType": "PoW",
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "07/10/2013",
+    "TotalCoinsMined": 15122697,
+    "Twitter": "@BlakeCoin",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "https://blakecoin.org/",
+    "GitHub": null,
+    "OnMarkets": [
+      "Cryptopia",
+      "CCEX",
+      "BitTrex"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "N/A",
+    "Description": null,
+    "TokenType": null,
+    "WebsiteLink": null,
+    "FundingCap": null,
+    "FundingTarget": null,
+    "Date": null,
+    "EndDate": null,
+    "FundsRaisedList": null,
+    "FundsRaisedUSD": null,
+    "StartPrice": null,
+    "StartPriceCurrency": null,
+    "Jurisdiction": null,
+    "BlogLink": null,
+    "WhitePaperLink": null
+  },
+  "ccId": "5362"
+}

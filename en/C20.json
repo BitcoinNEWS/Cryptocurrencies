@@ -1,0 +1,59 @@
+{
+  "General": {
+    "Symbol": "C20",
+    "Name": "Crypto20",
+    "Description": "<p>CRYPTO20 is an autonomous cryptocurrency-only portfolio composed by utilizing an index strategy. CRYPTO20 cuts out the middleman, the platform, and is thus able to offer significantly lower fees.</p><p>CRYPTO20 is not a platform, it is a fully functioning product. CRYPTO20’s utility token is called C20. It can be traded at any time, holdings are fully transparent and there are no legacy banking fees or expensive fund managers. C20 tokens are directly tied to the underlying assets with a novel liquidation option that can be exercised via the smart contract.</p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "40656081.980167189594966596",
+    "Algorithm": null,
+    "ProofType": null,
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "16/10/2017",
+    "TotalCoinsMined": null,
+    "Twitter": "@CRYPTOtwenty",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": null,
+    "GitHub": null,
+    "OnMarkets": [
+      "HitBTC",
+      "EtherDelta"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Ongoing",
+    "Description": "<p>CRYPTO20 is an autonomous cryptocurrency-only portfolio composed by utilizing an index strategy. CRYPTO20 cuts out the middleman, the platform, and is thus able to offer significantly lower fees.</p><p>CRYPTO20 is not a platform, it is a fully functioning product. CRYPTO20’s utility token is called C20. It can be traded at any time, holdings are fully transparent and there are no legacy banking fees or expensive fund managers. C20 tokens are directly tied to the underlying assets with a novel liquidation option that can be exercised via the smart contract.</p><p><strong>Team</strong>:</p><ul><li><strong>Daniel Schwartzkopff</strong>: Business Development and Marketing Operations.</li><li><strong>Luke Schwartzkopff</strong><span>: Back-End Development and Data Engineering.</span></li><li><span><strong>Raymond Botha</strong><span>: Systems Engineering.</span></span></li><li><strong>Bobby Jonker</strong><span>: Automated Trading and Financial Markets.</span></li><li><span><strong>Matthew Finlayson</strong><span>: Blockchain Development.</span></span></li><li><strong>Frans Cronje</strong><span>: Statistical Finance.</span></li></ul><p><span>CRYPTO20 </span>will be holding its ICO on the 16th of October, 2017. The ICO token supply represents 87% of the total token supply and the tokens will be available for $1 each at the offering. The ICO funding target is $2,000,000 and is expected to end on the 30th of November, 2017.</p><p><strong>Token Reserve Split (13%):</strong></p><ul><li>7.5% Team;</li><li>0.5% Advisory Team;</li><li>2.5% Marketing;</li><li>1.0% Legal;</li><li>1.0% Security;</li><li>0.5% Bounty;</li></ul><p><strong>Sale Prices:</strong></p><ul><li>$0.95 Pre-sale</li><li>$1,00 First 48 Hours;</li><li>$1.05 48 hrs to Week 4 of ICO;</li><li>$1,10 Week 4-6 of ICO</li></ul>",
+    "TokenType": "ETH (ERC20)",
+    "WebsiteLink": "https://crypto20.com/en/accounts/login/?next=/en/users/",
+    "FundingCap": "N/A",
+    "FundingTarget": "2,000,000 USD",
+    "Date": 1508176800,
+    "EndDate": 1512086400,
+    "FundsRaisedList": "25,864,025 C20 sold",
+    "FundsRaisedUSD": "34271681",
+    "StartPrice": "1",
+    "StartPriceCurrency": "USD",
+    "Jurisdiction": "N/A",
+    "BlogLink": "https://medium.crypto20.com/?_ga=2.117638593.970179461.1508407304-985633164.1508407304",
+    "WhitePaperLink": "https://static.crypto20.com/pdf/c20-whitepaper.pdf?_ga=2.117638593.970179461.1508407304-985633164.1508407304"
+  },
+  "ccId": "339632"
+}

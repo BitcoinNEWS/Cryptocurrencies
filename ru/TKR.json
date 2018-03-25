@@ -1,0 +1,59 @@
+{
+  "General": {
+    "Symbol": "TKR",
+    "Name": "CryptoInsight",
+    "Description": "<p>CryptoInsight<span> </span>is initially a mobile application that will leverage the Ethereum blockchain to implement a fully fledged web platform.<span> </span>Trackr<span> </span>aims to provide a real-time alert on cryptocurrency market shifts and an interface to view and manage the portfolio. In addition,<span> </span>Trackr<span> </span>will also use historical data models and apply machine learning to obtain prediction models.</p><p>Trackr<span> </span>token in an ERC-20 token, that will be used as a subscription fee to access certain features of the platform.</p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "12529747",
+    "Algorithm": null,
+    "ProofType": null,
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "26/07/2017",
+    "TotalCoinsMined": 12529746.948150305,
+    "Twitter": "@cryptoinsightio",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": null,
+    "GitHub": null,
+    "OnMarkets": [
+      "EtherDelta",
+      "HitBTC"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Finished",
+    "Description": "<p>Trackr is initially a mobile application that will leverage the Ethereum blockchain to implement a fully fledged web platform. Trackr aims to provide a real-time alert on cryptocurrency market shifts and an interface to view and manage the portfolio. In addition, Trackr will also use historical data models and apply machine learning to obtain prediction models.</p><p>Trackr token in an ERC-20 token, that will be used as a subscription fee to access certain features of the platform.</p><p><strong>Team</strong>:</p><ul><li><strong>Nabeel Amjad</strong>: Co-Founder. <a href=\"https://uk.linkedin.com/in/nabeel-amjad-171659a5\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Waleed Amjad</strong>: Co-Founder.<span> </span><a href=\"https://uk.linkedin.com/in/waleed-amjad\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li></ul><p>Trackr held its ICO on the 16th of August, 2017. The ICO token supply represents 90% of the total token supply, so there was a total of 12,529,746 tokens available, for 0,04 USD each at the offering. The ICO funding target was FUNDING_TARGET, the funding cap was FUNDING_CAP and ended on 15th of September,2017.</p><p><strong>Token Reserve Split (10%):</strong></p><ul><li>5% to the team;</li><li>5% to bounties;</li></ul><p><span>Trackr ICO featured a bounty campaign and a bonus program, and the token will not be mineable.</span></p><p><strong>Bonus Structure:</strong></p><ul><li>20% First 48 hours of the ICO;</li><li>10% After the first 48 hours until the end of the second week;</li><li>5% During the third week;</li></ul>",
+    "TokenType": "ETH (ERC20)",
+    "WebsiteLink": null,
+    "FundingCap": "N/A",
+    "FundingTarget": "N/A",
+    "Date": 1502884800,
+    "EndDate": 1505433600,
+    "FundsRaisedList": "1169.6 ETH",
+    "FundsRaisedUSD": "354388.8",
+    "StartPrice": "0.04",
+    "StartPriceCurrency": "USD",
+    "Jurisdiction": "N/A",
+    "BlogLink": "https://medium.com/@cryptoinsight/",
+    "WhitePaperLink": "https://www.trackr.im/media/whitepaper.pdf"
+  },
+  "ccId": "360229"
+}

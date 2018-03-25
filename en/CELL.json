@@ -1,0 +1,58 @@
+{
+  "General": {
+    "Symbol": "CELL",
+    "Name": "SolarFarm",
+    "Description": "<p>Long-term investment project under Cryptomining Farm is suitable for investors who want to earn a long-term and stable without the impact of price fluctuated violently of Cryptocurrencies. The revenue on the first 1st –3rd years is earned from using the generated electricity to bitcoin and burstcoin mining, and purchasing of cheap electricity during off-peak for using to reduce the maintenance fee. And the revenue on during 4th -25th year is earned from the sale of electricity to the Electricity Generating Authority (EGA) which has a long-term contract with fixed price, or if bitcoin and burstcoin mining have better profits, it will also be continued to dig</p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "1000000000",
+    "Algorithm": null,
+    "ProofType": "PoW",
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "02/02/2015",
+    "TotalCoinsMined": "1000000000",
+    "Twitter": "@miningfarm",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "http://asset.cryptomining.farm/",
+    "GitHub": null,
+    "OnMarkets": [
+      "CCEX"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "N/A",
+    "Description": null,
+    "TokenType": null,
+    "WebsiteLink": null,
+    "FundingCap": null,
+    "FundingTarget": null,
+    "Date": null,
+    "EndDate": null,
+    "FundsRaisedList": null,
+    "FundsRaisedUSD": null,
+    "StartPrice": null,
+    "StartPriceCurrency": null,
+    "Jurisdiction": null,
+    "BlogLink": null,
+    "WhitePaperLink": null
+  },
+  "ccId": "5297"
+}

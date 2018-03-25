@@ -1,0 +1,56 @@
+{
+  "General": {
+    "Symbol": "ACAT",
+    "Name": "Alphacat",
+    "Description": "<p><span>Alphacat is a quantitative investment platform for cryptocurrencies. The goal of Alphacat is to make it easy for the average person to invest while on the comfort of their homes. It will also feature a predictive robot-advisor marketplace with various AI trading robots and big data for trading. </span>Their ACAT token is a smart contract based on the NEO blockchain.</p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "6250000000",
+    "Algorithm": null,
+    "ProofType": null,
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "03/08/2017",
+    "TotalCoinsMined": null,
+    "Twitter": "@Alphacat_io",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": null,
+    "GitHub": null,
+    "OnMarkets": [],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Finished",
+    "Description": null,
+    "TokenType": "NEO",
+    "WebsiteLink": null,
+    "FundingCap": "100,000 NEO",
+    "FundingTarget": "N/A",
+    "Date": null,
+    "EndDate": null,
+    "FundsRaisedList": "N/A",
+    "FundsRaisedUSD": "10845000",
+    "StartPrice": "0.00020000",
+    "StartPriceCurrency": "NEO",
+    "Jurisdiction": "N/A",
+    "BlogLink": "https://www.alphacat.io/news.aspx",
+    "WhitePaperLink": "https://www.alphacat.io/A_UpLoad/upload_file/20180201/20180201134129_3437.pdf"
+  },
+  "ccId": "801364"
+}

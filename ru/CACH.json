@@ -1,0 +1,59 @@
+{
+  "General": {
+    "Symbol": "CACH",
+    "Name": "Cachecoin",
+    "Description": "<p>CACHeCoin (CACH) utilizes Proof-of-Stake (POS) mining that generates more CACHeCoins when you retain your coins for 7 days. When the coins from a particular transaction become 7 days old, they will be used by your wallet to perform Proof-of-Stake mining that will generate new coins if you solve the block. Just like a normal Proof-of-Work block, these POS blocks require 520 confirmations. Once the POS block has reached 520 confirmations, your staked coins and the reward will be made available again in your wallet. These coins will then be required to age another 7 days before they can be used in POS mining. The POS is not very CPU intense and there&#39;s no need to set anything in order to mine PoS. It&#39;s done automatically.</p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "2000000000",
+    "Algorithm": "Scrypt",
+    "ProofType": "PoW",
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "05/01/2014",
+    "TotalCoinsMined": null,
+    "Twitter": "@CACHeCoin",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "http://cachecoin.org/",
+    "GitHub": null,
+    "OnMarkets": [
+      "Cryptopia",
+      "Cryptsy"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "N/A",
+    "Description": null,
+    "TokenType": null,
+    "WebsiteLink": null,
+    "FundingCap": null,
+    "FundingTarget": null,
+    "Date": null,
+    "EndDate": null,
+    "FundsRaisedList": null,
+    "FundsRaisedUSD": null,
+    "StartPrice": null,
+    "StartPriceCurrency": null,
+    "Jurisdiction": null,
+    "BlogLink": null,
+    "WhitePaperLink": null
+  },
+  "ccId": "4405"
+}

@@ -1,0 +1,62 @@
+{
+  "General": {
+    "Symbol": "YOYOW",
+    "Name": "Yoyow",
+    "Description": "<p><span>YOYOW is a Graphene based DAC for User Generated Content(UGC), focusing on the Chinese market at the first stage. The YOYOW coin is an asset issued on the BTS blockchain.</span></p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "62000000",
+    "Algorithm": null,
+    "ProofType": null,
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "21/03/2017",
+    "TotalCoinsMined": 300000000,
+    "Twitter": "@InfoYoyow",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": null,
+    "GitHub": null,
+    "OnMarkets": [
+      "OKEX",
+      "Bitfinex",
+      "HitBTC",
+      "Binance",
+      "EtherDelta"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "N/A",
+    "Description": null,
+    "TokenType": null,
+    "WebsiteLink": null,
+    "FundingCap": null,
+    "FundingTarget": null,
+    "Date": null,
+    "EndDate": null,
+    "FundsRaisedList": null,
+    "FundsRaisedUSD": null,
+    "StartPrice": null,
+    "StartPriceCurrency": null,
+    "Jurisdiction": null,
+    "BlogLink": null,
+    "WhitePaperLink": null
+  },
+  "ccId": "322002"
+}

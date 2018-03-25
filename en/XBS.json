@@ -1,0 +1,61 @@
+{
+  "General": {
+    "Symbol": "XBS",
+    "Name": "Bitstake",
+    "Description": "<p>To create the infrastructure necessary to implement an inclusive digital economy that encourage affordable digital transactions and services. Bitstake’s vision is to make digital currencies more accessible to people unreached by traditional banking as well as drive down the costs of money transfers. Bitstake is a hybrid proof of work and proof of stake with a 5% annualised interest rate.</p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "1300000",
+    "Algorithm": "X11",
+    "ProofType": "PoW/PoS",
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "11/01/2015",
+    "TotalCoinsMined": null,
+    "Twitter": "@Bitstake",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "https://bitstake.info/",
+    "GitHub": null,
+    "OnMarkets": [
+      "Yobit",
+      "CCEX",
+      "Cryptsy",
+      "BitTrex"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "N/A",
+    "Description": null,
+    "TokenType": null,
+    "WebsiteLink": null,
+    "FundingCap": null,
+    "FundingTarget": null,
+    "Date": null,
+    "EndDate": null,
+    "FundsRaisedList": null,
+    "FundsRaisedUSD": null,
+    "StartPrice": null,
+    "StartPriceCurrency": null,
+    "Jurisdiction": null,
+    "BlogLink": null,
+    "WhitePaperLink": null
+  },
+  "ccId": "5023"
+}

@@ -1,0 +1,56 @@
+{
+  "General": {
+    "Symbol": "SFU",
+    "Name": "Saifu",
+    "Description": "<p><span>Saifu is a safe and regulated bridge between crypto and fiat currency and enable individuals, businesses and banks to seamless add cryptocurrencies to their everyday operations and have smooth transition to the digital economy. Saifu is an ERC20 token based on Ethereum.</span></p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": null,
+    "Algorithm": null,
+    "ProofType": null,
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "15/01/2018",
+    "TotalCoinsMined": null,
+    "Twitter": "@AiSaifu",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": null,
+    "GitHub": null,
+    "OnMarkets": [],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Ongoing",
+    "Description": "<p><span>Saifu </span><span>is a</span><span><span> </span></span><span>safe and regulated bridge between crypto and fiat currency and enable individuals, businesses and banks to seamless add cryptocurrencies to their everyday operations and have smooth transition to the digital economy. Saifu is an ERC20 token based on Ethereum.</span></p><p><strong>Team</strong>:</p><ul><li><strong>Alexander Legoshin:</strong> Chairman of the Supervisory Board, Co-Founder <a href=\"https://www.linkedin.com/in/legoshin/\" target=\"_blank\"><img src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Evgeny Vigovsky:</strong> COO&amp;CTO, Co-Founder <a href=\"https://www.linkedin.com/in/evgeny-vigovsky-6a0421\" target=\"_blank\"><img src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Eizens Slava:</strong> Head of Back Office <a href=\"https://www.linkedin.com/in/eizens-slava-3426b518/\" target=\"_blank\"><img src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Zach Murray:</strong> Head of Communications <a href=\"https://www.linkedin.com/in/zach-murray-b520128/\" target=\"_blank\"><img src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Victoria Kolosova:</strong> Head of Legal. <a href=\"https://www.linkedin.com/in/victoria-kolosova-40a1994b/\" target=\"_blank\"><img src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li></ul><p>The Saifu ICO began on the 15th of January and will end on the 30th of April, 2018. The ICO token allocation represents 65% of the total token supply and will be available for a 0.0001 BTC base price. The ICO funding target is set at $10,000,000 and the cap at $49,000,000.</p><p><strong>Token Reserve Split (35%):</strong></p><ul><li>25% for founders, team and advisory board,</li><li>10% Saifu reserve for loyalty program, bounties</li></ul><p>The SFU ICO features a bonus and bounty campaign.</p><p><strong>Bonus Structure:</strong></p><div class=\"bonuses-chart\"><ul><li>4.12 – 17.12: 40%</li><li>18.12 – 14.01: 30%</li><li>15.01 – 21.01: 25%</li><li>22.01 – 28.01: 15%</li><li>29.01 – 4.02: 10%</li><li>5.02 – 18.02: 5%</li><li>19.02 – 11.03: 0%</li></ul></div><p> </p>",
+    "TokenType": "ETH (ERC20)",
+    "WebsiteLink": "http://ico.saifu.ai/?utm_source=cryptocompare&utm_medium=overview&utm_campaign=listings",
+    "FundingCap": "$49,000,000 ",
+    "FundingTarget": "$10,000,000",
+    "Date": 1515974400,
+    "EndDate": 1525046400,
+    "FundsRaisedList": "539 BTC",
+    "FundsRaisedUSD": "4920256",
+    "StartPrice": "0.0001",
+    "StartPriceCurrency": "BTC",
+    "Jurisdiction": "N/A",
+    "BlogLink": null,
+    "WhitePaperLink": "http://ico.saifu.ai/Saifu-WhitePaper.pdf"
+  },
+  "ccId": "693690"
+}

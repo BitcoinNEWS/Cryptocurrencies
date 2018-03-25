@@ -1,0 +1,56 @@
+{
+  "General": {
+    "Symbol": "BAC*",
+    "Name": "LakeBanker",
+    "Description": "<p>LakeBanker is a spin off of the cryptocurrency exchange, LakeBTCD. The LakeBanker project has designed a Crowd-Banking solution in which users supply banking services to one another. This model translates in<span> </span>free basic services<span> </span>and more advanced financial services, including access to cryptocurrencies at a lower cost.</p><p>An Ethereum-based token, Banc (BAC), will be used for transactions within the LakeBanker system, where all fees and interest will be denominated by BAC.</p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "500000000",
+    "Algorithm": null,
+    "ProofType": null,
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "18/07/2017",
+    "TotalCoinsMined": null,
+    "Twitter": "@LakeBanker",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": null,
+    "GitHub": null,
+    "OnMarkets": [],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Ongoing",
+    "Description": "<p>LakeBanker is a spin off of the cryptocurrency exchange, LakeBTCD. The LakeBanker project has designed a Crowd-Banking solution in which users supply banking services to one another. This model translates in free basic services and more advanced financial services, including access to cryptocurrencies at a lower cost.</p><p>An Ethereum-based token, Banc (BAC), will be used for transactions within the LakeBanker system, where all fees and interest will be denominated by BAC.</p><p><strong>Team</strong>:</p><ul><li><strong>Thomas Xie</strong>: CEO.</li><li><strong>Andrew McCarthy</strong>: CSO.</li><li><strong>Fei Fei</strong>: VP, Corporate Alliances.</li><li><strong>E</strong>: VP, Operations.</li></ul><p>LakeBanker will be holding a 15 day ICO on October, 2017. The ICO token supply represents 50% of the total token supply, so there will be a total of 250,000,000 tokens available at the offering. The ICO funding cap will be announced when/if 80% mark is reached. Any unsold/remaining tokens will be retained by the team.</p><p><strong>Token Reserve Split (50%):</strong></p><ul><li>25% Team;</li><li>25% User Growth Fund;</li></ul><p><span>LakeBanker ICO campaign will follow a Dutch Auction guidelines, and the token will not be mineable.</span></p>",
+    "TokenType": "ETH (ERC20)",
+    "WebsiteLink": null,
+    "FundingCap": "TBA",
+    "FundingTarget": "N/A",
+    "Date": null,
+    "EndDate": null,
+    "FundsRaisedList": "N/A",
+    "FundsRaisedUSD": "N/A",
+    "StartPrice": "0.00076923076",
+    "StartPriceCurrency": "ETH",
+    "Jurisdiction": "N/A",
+    "BlogLink": null,
+    "WhitePaperLink": "https://lakebanker.com/whitepaper.pdf"
+  },
+  "ccId": "329507"
+}

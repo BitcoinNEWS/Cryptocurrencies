@@ -1,0 +1,58 @@
+{
+  "General": {
+    "Symbol": "PPY",
+    "Name": "Peerplays",
+    "Description": "<p>Peerplays is an eSports tournament and wagering platform built on the blockchain that allows users to compete against themselves with no centralized authority. Peerplays allows users to create their own buy-in games, organize and host multiplayer eSports games tournaments and competeing against their peers using various cryptocurrencies.</p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "5916684",
+    "Algorithm": "N/A",
+    "ProofType": "N/A",
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "30/04/2016",
+    "TotalCoinsMined": 3961432,
+    "Twitter": "@PeerPlays",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "http://www.peerplays.com/",
+    "GitHub": null,
+    "OnMarkets": [
+      "LiveCoin"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Finished",
+    "Description": "<p>Peerplays is an online gaming and wagering platform that utilizes open-source decentralized blockchain technology (Graphene) to enable provably fair peer-to-peer gaming. This includes a sports betting exchange and various desktop and mobile gaming applications. Game designers can also utilize Peerplays’s tournament management infrastructure to create their own games and tournaments.</p><p>The Peerplays network earns revenue from various operations like the creation and trading of digital asset tokens by users, and the performance of certain custom operations, but most notably from the rake - which is a percentage of each jackpot deducted as a fee. This model allows the network to financially benefit from the trustless arbitration of each tournament and thus prevents Peerplays from having to act as a “house” and bet against its users.</p><p><span>Peerplays has been funded twice, $4M from strategic partners and $500,000 in seed funding from a crowdsale in 2016.</span></p><p><a href=\"https://www.peerplays.com/docs/Peerplays_Bulletin-Feb_2017.pdf\" target=\"_blank\">Sale terms</a> </p><p> </p><p> </p><p> </p>",
+    "TokenType": "BTS",
+    "WebsiteLink": "http://www.peerplays.com/news/primary_crowdfund/",
+    "FundingCap": "5,000,000 USD",
+    "FundingTarget": "N/A",
+    "Date": 1488103200,
+    "EndDate": 1494774000,
+    "FundsRaisedList": "N/A",
+    "FundsRaisedUSD": "4500000",
+    "StartPrice": "4.6",
+    "StartPriceCurrency": "USD",
+    "Jurisdiction": "N/A",
+    "BlogLink": "http://www.peerplays.com/news/",
+    "WhitePaperLink": "https://www.peerplays.com/docs/Peerplays_Whitepaper.pdf"
+  },
+  "ccId": "29348"
+}

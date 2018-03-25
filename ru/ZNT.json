@@ -1,0 +1,56 @@
+{
+  "General": {
+    "Symbol": "ZNT",
+    "Name": "OpenZen",
+    "Description": "<p>OpenZen is <span>is a semi closed decentralised distributed social network, a search engine and a storage of information, where information is being created, updated and consumed directly by the users of the system. The project aims to see content (text, audio, photo, video) is distributed between the participants of the network using a p2p (f2f) model with the technologies of a distributed storage IPFS using the ZNT token as <span>a means of exchange, payments, voting and games.</span></span></p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "270000000",
+    "Algorithm": "N/A",
+    "ProofType": "N/A",
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "01/01/0001",
+    "TotalCoinsMined": null,
+    "Twitter": "@JustOpenZen",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "http://openzen.co/",
+    "GitHub": null,
+    "OnMarkets": [],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Ongoing",
+    "Description": "<p><span>OpenZen is </span><span>is a semi closed decentralised distributed social network, a search engine and a storage of information, where information is being created, updated and consumed directly by the users of the system. The project aims to see content (text, audio, photo, video) is distributed between the participants of the network using a p2p (f2f) model with the technologies of a distributed storage IPFS using the ZNT token as<span> </span><span>a means of exchange, payments, voting and games.</span></span></p><p>Team<span style=\"font-weight: 400;\">:</span></p><ul><li style=\"font-weight: 400;\">Ilya Druzhinin: Founder &amp; Software engineer (<a href=\"http://facebook.com/1523835893\" target=\"_blank\">Facebook</a>, <a href=\"http://twitter.com/IlyaDruzhinin\" target=\"_blank\">Twitter</a>);</li><li style=\"font-weight: 400;\">Alexandr Vinarskiy; Software engineer (<a href=\"https://www.facebook.com/alexandr.vinarskiy\" target=\"_blank\">Facebook</a>);</li><li style=\"font-weight: 400;\">Dima Himi: UX/UI Expert (<a href=\"https://www.facebook.com/dimahimi\" target=\"_blank\">Facebook</a>)</li></ul><p>The ZNT ICO will be held on the 15th of October and will last for a whole month or until the TBA cap is reached. 37% of the total supply (270000000) is reserved for the ICO while the remaining tokens are allocated as so:</p><p> </p><ul><li style=\"font-weight: 400;\"><p>Number of ZenTokens for PreICO: 20 000 000 ZNT</p></li><li style=\"font-weight: 400;\"><p>Number of ZenTokens for ICO: 100 000 000 ZNT</p></li><li style=\"font-weight: 400;\"><p>Number of ZenTokens for team: 50 000 000 ZNT</p></li><li style=\"font-weight: 400;\"><p>Number of ZenTokens for Zen Fund: 100 000 000 ZNT</p></li></ul><p>More information will be available in the future.</p><p> </p>",
+    "TokenType": "ETH (ERC20)",
+    "WebsiteLink": "http://openzen.co/",
+    "FundingCap": "N/A",
+    "FundingTarget": "N/A",
+    "Date": 1508025600,
+    "EndDate": 1510704000,
+    "FundsRaisedList": "N/A",
+    "FundsRaisedUSD": "N/A",
+    "StartPrice": "N/A",
+    "StartPriceCurrency": "N/A",
+    "Jurisdiction": "N/A",
+    "BlogLink": "https://medium.com/@openzen",
+    "WhitePaperLink": "https://docs.google.com/document/d/1rr6jF9IcmX-sCyL-ipIOYfObyHAMV8zCv8BbZdlP0z8/edit?usp=sharing"
+  },
+  "ccId": "197886"
+}

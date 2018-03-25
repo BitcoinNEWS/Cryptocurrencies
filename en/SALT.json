@@ -1,0 +1,65 @@
+{
+  "General": {
+    "Symbol": "SALT",
+    "Name": "Salt Lending",
+    "Description": "<p>SALT is a membership based lending and borrowing network that allows users to leverage their blockchain assets to secure cash loans. The SALT Secured Automated Lending Technology is a protocol and asset agnostic architecture designed to adapt to the constantly growing class of blockchain assets.</p><p>The SALT Platform is automated and cryptographically secure. SALT is a lending platform specifically designed for blockchain assets; operating as a second layer protocol which sits atop any public or permissioned blockchain, allowing the underlying asset to be used as collateral for access to credit.</p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "120000000",
+    "Algorithm": null,
+    "ProofType": null,
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "28/07/2017",
+    "TotalCoinsMined": 120000000,
+    "Twitter": "@SaltLending",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": null,
+    "GitHub": null,
+    "OnMarkets": [
+      "Liqui",
+      "Gateio",
+      "HuobiPro",
+      "OKEX",
+      "EtherDelta",
+      "Binance",
+      "BitTrex",
+      "LAToken"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "N/A",
+    "Description": null,
+    "TokenType": null,
+    "WebsiteLink": null,
+    "FundingCap": null,
+    "FundingTarget": null,
+    "Date": null,
+    "EndDate": null,
+    "FundsRaisedList": null,
+    "FundsRaisedUSD": null,
+    "StartPrice": null,
+    "StartPriceCurrency": null,
+    "Jurisdiction": null,
+    "BlogLink": null,
+    "WhitePaperLink": "https://membership.saltlending.com/files/abstract.pdf"
+  },
+  "ccId": "314580"
+}

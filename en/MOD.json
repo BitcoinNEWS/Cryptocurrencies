@@ -1,0 +1,60 @@
+{
+  "General": {
+    "Symbol": "MOD",
+    "Name": "Modum",
+    "Description": "<p>Modum is a platform that will use the Ethereum blockchain to provide a supply chain for the pharmacy industry assuring a high level of data integrity, security, independent verification and, flexible data ownership, just to name a few characteristics. In order to achieve this, Modum solutions enables companies to prove compliance with GDP regulations using blockchain and Internet-of-Things (IoT) technology.</p><p>The Modum token will give to users voting rights. The token holders could vote to decide either if the pre-defined milestones of the project were achieved or not. Furthermore, users will benefit as Modum shareholders.</p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "18266200",
+    "Algorithm": null,
+    "ProofType": null,
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "15/08/2017",
+    "TotalCoinsMined": 18266200,
+    "Twitter": "@modum_io",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": null,
+    "GitHub": null,
+    "OnMarkets": [
+      "EtherDelta",
+      "Kucoin",
+      "Binance"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Finished",
+    "Description": "<p>Modum is a platform that will use the Ethereum blockchain to provide a supply chain for the pharmacy industry assuring a high level of data integrity, security, independent verification and, flexible data ownership, just to name a few characteristics. In order to achieve this, Modum solutions enables companies to prove compliance with GDP regulations using blockchain and Internet-of-Things (IoT) technology.</p><p>The Modum token will give to users voting rights. The token holders could vote to decide either if the pre-defined milestones of the project were achieved or not. Furthermore, users will benefit as Modum shareholders.</p><p><strong>Team</strong>:</p><ul><li><strong>Malik El Bay</strong>: <span>Business &amp; Product Development</span>.</li><li><strong>Sacha Uhlmann</strong>: <span>Architecture &amp; Quality Assurance</span>.</li><li><strong>Dr. Stefan Weber</strong>: <span>Sensor Engineering &amp; Operations</span>.</li></ul><p>Modum held its ICO on the 1st of September, 2017 and ended on the 22nd of September. The ICO token supply represents 60% of the total token supply, so there was a total of 18,000,000 tokens available, for 0,5 USD each during the offering.</p><p><strong>Token Reserve Split (40%):</strong></p><ul><li>30% to Modum;</li><li>7% Pre-sale;</li><li>3% Token sale costs &amp; Bug Bounty;</li></ul><p><span>Modum ICO will feature a bounty campaign and a bonus program, and the token will not be mineable.</span></p><p><strong>Bonus Structure:</strong></p><ul><li>30% 1st Tier Token Sale (6,000,000 MOD);</li><li>15% 2nd Tier Token Sale (6,000,000 MOD);</li></ul>",
+    "TokenType": "ETH (ERC20)",
+    "WebsiteLink": "https://modum.io/tokensale/",
+    "FundingCap": "N/A",
+    "FundingTarget": "N/A",
+    "Date": 1504224000,
+    "EndDate": 1506038400,
+    "FundsRaisedList": "N/A",
+    "FundsRaisedUSD": "N/A",
+    "StartPrice": "0.5",
+    "StartPriceCurrency": "USD",
+    "Jurisdiction": "Switzerland",
+    "BlogLink": "https://medium.com/@modum_io",
+    "WhitePaperLink": "https://modum.io/wp-content/uploads/2017/08/modum-whitepaper-v.-1.0.pdf"
+  },
+  "ccId": "345510"
+}

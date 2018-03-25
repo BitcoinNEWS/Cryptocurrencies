@@ -1,0 +1,59 @@
+{
+  "General": {
+    "Symbol": "ZOI",
+    "Name": "Zoin",
+    "Description": "<p><span>Zoin uses the Zerocoin protocol. The Zerocoin protocol uses zero-knowledge proofs to ensure that financial transactions are anonymous.</span><br /><br /><span>The vision of Zoin is to create a coin that is evolving through the community, therefore the founder reward was removed.</span></p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "21000000",
+    "Algorithm": "Lyra2RE",
+    "ProofType": "PoW",
+    "BlockReward": 12.5,
+    "Explorer": null,
+    "StartDate": "05/11/2017",
+    "TotalCoinsMined": 17378004.375,
+    "Twitter": null,
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "http://www.zoin.space/",
+    "GitHub": null,
+    "OnMarkets": [
+      "Cryptopia",
+      "Novaexchange"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "N/A",
+    "Description": null,
+    "TokenType": null,
+    "WebsiteLink": null,
+    "FundingCap": null,
+    "FundingTarget": null,
+    "Date": null,
+    "EndDate": null,
+    "FundsRaisedList": null,
+    "FundsRaisedUSD": null,
+    "StartPrice": null,
+    "StartPriceCurrency": null,
+    "Jurisdiction": null,
+    "BlogLink": null,
+    "WhitePaperLink": null
+  },
+  "ccId": "53178"
+}

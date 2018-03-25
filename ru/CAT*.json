@@ -1,0 +1,63 @@
+{
+  "General": {
+    "Symbol": "CAT*",
+    "Name": "BitClave",
+    "Description": "<p> </p><p>BitClave is the anti-Google search enabling direct customer-to-business interaction. With BitClave customers get paid for their search request, businesses make money on personalized offers and all data is private and secured.</p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "2000000000",
+    "Algorithm": null,
+    "ProofType": null,
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "05/07/2017",
+    "TotalCoinsMined": 1685178953,
+    "Twitter": "@bitclave",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": null,
+    "GitHub": null,
+    "OnMarkets": [
+      "Tidex",
+      "HitBTC",
+      "Yobit",
+      "Kucoin",
+      "Cryptsy",
+      "EtherDelta"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Finished",
+    "Description": "<p><span style=\"font-weight: 400;\">BitClave is focusing on a distributed blockchain-based system, called the </span>BitClave Active Search Ecosystem (BASE)<span style=\"font-weight: 400;\">, which allows the storing and managing of vast amounts of data consisting of records of customer </span><span style=\"font-weight: 400;\">activities</span><span style=\"font-weight: 400;\"> from an unlimited and variegated number of </span><span style=\"font-weight: 400;\">attestation points</span><span style=\"font-weight: 400;\">.</span></p><p><span style=\"font-weight: 400;\">On top of this distributed activity data collection system, BitClave is introducing a token, called the BitClave </span>Consumer Activity Token (CAT)<span style=\"font-weight: 400;\">, to be used internally within the blockchain among the participating parties. CAT tokens will be used to facilitate rewards within the system for all sorts of services that available on the BASE. Customers and retailers can interact directly through transparent and consumer-authorized message posts and data bundles on the public blockchain, and additional parties can contribute as service providers by creating analytics capabilities that operate over the data in the blockchain. </span></p><p><strong>Team</strong>:</p><ul><li><strong><span>Alex Bessonov</span></strong>: CEO. (<a href=\"https://www.linkedin.com/in/abessonov/\" target=\"_blank\">LinkedIn</a>);</li><li><strong><span>Patrick Tague</span></strong>: CTO. (<a href=\"https://www.linkedin.com/in/patricktague/\" target=\"_blank\"><span>LinkedIn</span></a>);</li><li><strong><span>Emmanuel Owusu</span></strong>: Chief Architect. (<a href=\"https://www.linkedin.com/in/emmanuel-owusu/\" target=\"_blank\"><span>LinkedIn</span></a>);</li><li><strong><span>Vasily Trofimchuk</span></strong><span>: Project Management. (<a href=\"https://www.linkedin.com/in/vasily-trofimchuk-96544547/\" target=\"_blank\">LinkedIn</a>);</span></li></ul><p><span>The BitClave ICO will start on the 29th of November and will last until the 29th of December, 2017. The ICO token supply represents 50% of the total token supply, and each token will cost 0.05 USD at the offering. The Pre-sale funding target is $1,500,000 USD. E<span>TH and BTC are the currencies accepted in the ICO.</span></span></p><p><strong>Token Reserve Split (50%):</strong></p><ul><li>10% <span style=\"font-weight: 400;\">Community grants</span>;</li><li>10% <span style=\"font-weight: 400;\">Team</span>;</li><li>30% <span style=\"font-weight: 400;\">Long term budget</span>;</li></ul><p><img style=\"width: 323px; height: 197px;\" src=\"/media/1383842/bitclave_bonus.png?width=323&amp;height=197\" alt=\"\" data-id=\"192510\"></p><p><span style=\"font-weight: 400;\">BitClave</span><span> </span>ICO campaign will feature bounties and discounts.</p><p><strong>Discount Structure:</strong></p><ul><li><span>50% discount before soft cap</span>;</li><li><span>35% discount after soft cap for the following 48 hours;</span></li></ul>",
+    "TokenType": "ETH (ERC20)",
+    "WebsiteLink": "http://bit.ly/2tzlBam",
+    "FundingCap": "25,547,000 USD",
+    "FundingTarget": "1,500,000 USD",
+    "Date": 1511953200,
+    "EndDate": 1512039600,
+    "FundsRaisedList": "25,547,000 USD.",
+    "FundsRaisedUSD": "25547000",
+    "StartPrice": "0.10",
+    "StartPriceCurrency": "USD",
+    "Jurisdiction": "N/A",
+    "BlogLink": "https://medium.com/@BitClave",
+    "WhitePaperLink": "https://docsend.com/view/2t4zrfx"
+  },
+  "ccId": "185689"
+}

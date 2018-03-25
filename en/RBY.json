@@ -1,0 +1,62 @@
+{
+  "General": {
+    "Symbol": "RBY",
+    "Name": "RubyCoin",
+    "Description": "<p>RubyCoin is another precious gemstone coin - like Emerald or Diamond (EMD - DMD). The coin is a scrypt algorithm based currency with an average block time of 90 seconds and difficulty retargetting every block. The maximum supply is limited to 60 million, and the block reward halves each month for the first five months from 500 RBY to 50 RBY. There was a premine of 2% for bounties etc..</p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "0",
+    "Algorithm": "Scrypt",
+    "ProofType": "PoS",
+    "BlockReward": 4.000000004842877,
+    "Explorer": null,
+    "StartDate": "24/02/2014",
+    "TotalCoinsMined": 25442390.39183385,
+    "Twitter": "@RubyCoinOrg",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "http://www.rubycoin.org/",
+    "GitHub": null,
+    "OnMarkets": [
+      "Poloniex",
+      "Yobit",
+      "Cryptopia",
+      "BitTrex",
+      "Cryptsy"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "N/A",
+    "Description": null,
+    "TokenType": null,
+    "WebsiteLink": null,
+    "FundingCap": null,
+    "FundingTarget": null,
+    "Date": null,
+    "EndDate": null,
+    "FundsRaisedList": null,
+    "FundsRaisedUSD": null,
+    "StartPrice": null,
+    "StartPriceCurrency": null,
+    "Jurisdiction": null,
+    "BlogLink": null,
+    "WhitePaperLink": null
+  },
+  "ccId": "5316"
+}

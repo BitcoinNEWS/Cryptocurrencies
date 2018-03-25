@@ -1,0 +1,58 @@
+{
+  "General": {
+    "Symbol": "REC",
+    "Name": "Regalcoin",
+    "Description": "<p>Regalcoin is a PoW/PoS hybrid cryptocurrency with a 27M supply and 5m premine.</p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "27000000",
+    "Algorithm": "X11",
+    "ProofType": "PoW/PoS",
+    "BlockReward": 0.0646257393527776,
+    "Explorer": null,
+    "StartDate": "16/08/2017",
+    "TotalCoinsMined": 7244876.0952499,
+    "Twitter": "@regalcoinx",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": null,
+    "GitHub": null,
+    "OnMarkets": [
+      "Yobit"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "N/A",
+    "Description": null,
+    "TokenType": null,
+    "WebsiteLink": null,
+    "FundingCap": null,
+    "FundingTarget": null,
+    "Date": null,
+    "EndDate": null,
+    "FundsRaisedList": null,
+    "FundsRaisedUSD": null,
+    "StartPrice": null,
+    "StartPriceCurrency": null,
+    "Jurisdiction": null,
+    "BlogLink": null,
+    "WhitePaperLink": null
+  },
+  "ccId": "322013"
+}

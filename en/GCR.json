@@ -1,0 +1,60 @@
+{
+  "General": {
+    "Symbol": "GCR",
+    "Name": "Global Currency Reserve",
+    "Description": "<p>GCR is the the first home-based business opportunity with its own cryptocurrency and immediate opportunities for wealth-building and personal success.</p><p>Global Coin Reserve created their very own cryptocurrency called “GCR Coins”. GCR coins are no different then other cyyptocurrencies like litecoin, namecoin and feathercoin, the only difference is that GCR coins are not as widely used as the rest or not used at all.</p><p>Global Coin Reserve is a Multi-Level Marketing Company - similar to a pyramid scheme.</p>",
+    "Features": "<p><strong>Collect</strong> Cash Back Rewards From Any Merchant</p><p><strong>Redeem</strong> Cash Back Rewards At Any Merchant</p><p>Free Mobile System</p><p>Find Local Merchants</p><p>View Local Promotions</p>",
+    "Technology": "<p><span>Also Receive Award Points Equal to the Cash Back Reward</span></p><p><span>Redeemable Exclusively At That Merchant</span></p><p>Redeem Award Points for Additional Discounts and Fun Activities</p><p>Be Rewarded for Your Loyalty</p>",
+    "TotalCoinSupply": "0",
+    "Algorithm": null,
+    "ProofType": "PoS",
+    "BlockReward": 2.124582029879093,
+    "Explorer": null,
+    "StartDate": "28/06/2015",
+    "TotalCoinsMined": 103939728.15331867,
+    "Twitter": "@GCRWorldwide",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "-",
+    "GitHub": null,
+    "OnMarkets": [
+      "CCEX",
+      "Yobit",
+      "BitTrex"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "N/A",
+    "Description": null,
+    "TokenType": null,
+    "WebsiteLink": null,
+    "FundingCap": null,
+    "FundingTarget": null,
+    "Date": null,
+    "EndDate": null,
+    "FundsRaisedList": null,
+    "FundsRaisedUSD": null,
+    "StartPrice": null,
+    "StartPriceCurrency": null,
+    "Jurisdiction": null,
+    "BlogLink": null,
+    "WhitePaperLink": null
+  },
+  "ccId": "12217"
+}

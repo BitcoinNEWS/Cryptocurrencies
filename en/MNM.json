@@ -1,0 +1,61 @@
+{
+  "General": {
+    "Symbol": "MNM",
+    "Name": "Mineum",
+    "Description": "<div class=\"4u 12u$(medium)\"><p>Mineum is a cryptocurrency dedicated to providing mining services to a wide audience of crytpo enthusiasts, allowing users to buy mining equipment to be hosted in Mineum&#39;s mining farm located in Quebec, Canada. Users can also earn BTC by becoming a Mineum share holder as long as they have 10 000 MNM.</p><p> </p></div>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "10000000",
+    "Algorithm": "X13",
+    "ProofType": "PoW/PoS",
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "04/05/2016",
+    "TotalCoinsMined": null,
+    "Twitter": "@mineumproject",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "https://mineum.org/",
+    "GitHub": null,
+    "OnMarkets": [
+      "Cryptopia",
+      "Yobit",
+      "Bleutrade",
+      "Novaexchange"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Finished",
+    "Description": "<p><span>MINEUM is a mining farm company and the Initial Coin Offering will allow MINEUM to expand their activities by investing in more mining gear, innovative mining installations, and mining Research and Development. Our goal is to allow everyone to mine, no matter what their knowledge in programming. To do so, shareholders and clients will be able to order material to build their own mining RIGs or buy equipment hosted by Mineum. Token reserve split as follows 51% CEO&#39;s, 7.5% will be mineable, 1% for partner, advisers and 3rd parties, 0.5% for early advisors</span></p><p>10% bonus for the first week.</p><p><a href=\"https://mineum.org/documentation/mineum-ico-terms.pdf\" target=\"_blank\"><span>Sale Terms</span></a></p><p> </p>",
+    "TokenType": "N/A",
+    "WebsiteLink": "https://mineum.org/documentation/mineum-ico-terms.pdf",
+    "FundingCap": "N/A",
+    "FundingTarget": "N/A",
+    "Date": 1462622400,
+    "EndDate": 1464436800,
+    "FundsRaisedList": "117 BTC",
+    "FundsRaisedUSD": "64350",
+    "StartPrice": "0.01739",
+    "StartPriceCurrency": "USD",
+    "Jurisdiction": "N/A",
+    "BlogLink": null,
+    "WhitePaperLink": "https://mineum.org/documentation/mineum-whitepaper.pdf"
+  },
+  "ccId": "20905"
+}

@@ -1,0 +1,62 @@
+{
+  "General": {
+    "Symbol": "C2",
+    "Name": "Coin.2",
+    "Description": "<p>Coin 2.0 is a pure proof of stake coin with 60000000 total coins and an annual variable interest rate that decreases from 30% in y1 to 2% in y5.</p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": null,
+    "Algorithm": "Scrypt",
+    "ProofType": "PoW/PoS",
+    "BlockReward": 1.682234525680542,
+    "Explorer": null,
+    "StartDate": "06/05/2014",
+    "TotalCoinsMined": 133634161.03946398,
+    "Twitter": "@Coin2Crypto",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "-",
+    "GitHub": null,
+    "OnMarkets": [
+      "Novaexchange",
+      "Yobit",
+      "BTER",
+      "Cryptopia",
+      "Poloniex"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "N/A",
+    "Description": null,
+    "TokenType": null,
+    "WebsiteLink": null,
+    "FundingCap": null,
+    "FundingTarget": null,
+    "Date": null,
+    "EndDate": null,
+    "FundsRaisedList": null,
+    "FundsRaisedUSD": null,
+    "StartPrice": null,
+    "StartPriceCurrency": null,
+    "Jurisdiction": null,
+    "BlogLink": null,
+    "WhitePaperLink": null
+  },
+  "ccId": "5396"
+}

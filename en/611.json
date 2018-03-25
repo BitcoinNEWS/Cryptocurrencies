@@ -1,0 +1,60 @@
+{
+  "General": {
+    "Symbol": "611",
+    "Name": "SixEleven",
+    "Description": "<div class=\"4u 12u$(medium)\"><p>611 is a Namecoin based cryptocurrency, and it allows data sharing and storing within its blockchain, app and cloud service creation as well as fast and gobal transactions. SixEleven&#39;s name comes from its coin supply, 611000</p></div>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "611000",
+    "Algorithm": "SHA256",
+    "ProofType": "PoW",
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "21/08/2015",
+    "TotalCoinsMined": null,
+    "Twitter": null,
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "http://anti.cash/",
+    "GitHub": null,
+    "OnMarkets": [
+      "CCEX",
+      "TradeSatoshi",
+      "Cryptopia"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "N/A",
+    "Description": null,
+    "TokenType": null,
+    "WebsiteLink": null,
+    "FundingCap": null,
+    "FundingTarget": null,
+    "Date": null,
+    "EndDate": null,
+    "FundsRaisedList": null,
+    "FundsRaisedUSD": null,
+    "StartPrice": null,
+    "StartPriceCurrency": null,
+    "Jurisdiction": null,
+    "BlogLink": null,
+    "WhitePaperLink": null
+  },
+  "ccId": "20909"
+}

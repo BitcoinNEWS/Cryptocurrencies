@@ -1,0 +1,56 @@
+{
+  "General": {
+    "Symbol": "XDCE",
+    "Name": "XinFin Coin",
+    "Description": "<p><span>XDCE Protocol is an initiative of XinFin.org to built a Hybrid Blockchain architecture. The protocol purposes to eliminate the inefficiencies in global trade, financing and to enable financial institutions to provide real-time settlement as well as enabling cross-border smart contracts.</span></p><p><span>XinFin Coin (XDCE) will be used to access the project services.</span></p><p> </p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "100000000000",
+    "Algorithm": "SHA256",
+    "ProofType": "PoS",
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "28/06/2017",
+    "TotalCoinsMined": null,
+    "Twitter": "@XinfinF",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": null,
+    "GitHub": null,
+    "OnMarkets": [],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "N/A",
+    "Description": null,
+    "TokenType": null,
+    "WebsiteLink": null,
+    "FundingCap": null,
+    "FundingTarget": null,
+    "Date": null,
+    "EndDate": null,
+    "FundsRaisedList": null,
+    "FundsRaisedUSD": null,
+    "StartPrice": null,
+    "StartPriceCurrency": null,
+    "Jurisdiction": null,
+    "BlogLink": null,
+    "WhitePaperLink": null
+  },
+  "ccId": "477743"
+}

@@ -1,0 +1,61 @@
+{
+  "General": {
+    "Symbol": "B3",
+    "Name": "B3 Coin",
+    "Description": "<p>B3 Coin is a Proof of Work/Proof of Stake cryptocurrency with a 6 minute block time. B3 uses the X11 hashing algorithm, which is very popular.</p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": null,
+    "Algorithm": "X11",
+    "ProofType": "PoW/PoS",
+    "BlockReward": 5485.101096510887,
+    "Explorer": null,
+    "StartDate": "26/08/2016",
+    "TotalCoinsMined": 642901309.1696404,
+    "Twitter": null,
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "-",
+    "GitHub": null,
+    "OnMarkets": [
+      "Novaexchange",
+      "Cryptopia",
+      "Yobit",
+      "TradeSatoshi"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "N/A",
+    "Description": null,
+    "TokenType": null,
+    "WebsiteLink": null,
+    "FundingCap": null,
+    "FundingTarget": null,
+    "Date": null,
+    "EndDate": null,
+    "FundsRaisedList": null,
+    "FundsRaisedUSD": null,
+    "StartPrice": null,
+    "StartPriceCurrency": null,
+    "Jurisdiction": null,
+    "BlogLink": null,
+    "WhitePaperLink": null
+  },
+  "ccId": "28333"
+}

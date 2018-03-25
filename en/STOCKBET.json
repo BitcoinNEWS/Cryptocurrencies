@@ -1,0 +1,56 @@
+{
+  "General": {
+    "Symbol": "STOCKBET",
+    "Name": "StockBet",
+    "Description": "<p> StockBet is a platform that provides social competition on stock betting. The Stockbet token is based on the Ethereum blockchain and is used to bet on the platform. <span>StockBet has already built software that is in use.</span></p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": null,
+    "Algorithm": null,
+    "ProofType": null,
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "29/10/2017",
+    "TotalCoinsMined": null,
+    "Twitter": "@stockbet_com",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": null,
+    "GitHub": null,
+    "OnMarkets": [],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Upcoming",
+    "Description": "<p><span>StockBet is a platform that provides social competition on stock betting. The Stockbet token is based on the Ethereum blockchain and is used to bet on the platform.  <span>StockBet has already built software that is in use.</span></span></p><p>The StockBet ICO will start on the 29th of October. The ICO token allocation represents 70% of the total token supply which will be defined during the ICO, according to the funds raised. There is an hidden cap for the StockBet ICO and the starting price is 0.0001 ETH</p><p><strong>Token Reserve Split:</strong></p><div class=\"freebirdFormviewerViewItemsItemItem freebirdFormviewerViewItemsTextTextItem\" data-item-id=\"1688926117\"><div class=\"freebirdFormviewerViewItemsTextItemWrapper\"><ul><li class=\"freebirdFormviewerViewItemsTextShortText freebirdFormviewerViewItemsTextDisabledText freebirdThemedInput\">10% for founders,</li><li class=\"freebirdFormviewerViewItemsTextShortText freebirdFormviewerViewItemsTextDisabledText freebirdThemedInput\">7% for team members,</li><li class=\"freebirdFormviewerViewItemsTextShortText freebirdFormviewerViewItemsTextDisabledText freebirdThemedInput\">5% for investors,</li><li class=\"freebirdFormviewerViewItemsTextShortText freebirdFormviewerViewItemsTextDisabledText freebirdThemedInput\">5% for bounties,</li><li class=\"freebirdFormviewerViewItemsTextShortText freebirdFormviewerViewItemsTextDisabledText freebirdThemedInput\">2% for creditors</li></ul></div></div>",
+    "TokenType": "ETH (ERC20)",
+    "WebsiteLink": "https://stockbet.com/#/tokensale",
+    "FundingCap": "N/A",
+    "FundingTarget": "N/A",
+    "Date": 1509285600,
+    "EndDate": null,
+    "FundsRaisedList": "N/A",
+    "FundsRaisedUSD": "N/A",
+    "StartPrice": "0.0001",
+    "StartPriceCurrency": "ETH",
+    "Jurisdiction": "N/A",
+    "BlogLink": null,
+    "WhitePaperLink": "https://stockbet.com/tokensale/whitepaper.pdf"
+  },
+  "ccId": "313988"
+}

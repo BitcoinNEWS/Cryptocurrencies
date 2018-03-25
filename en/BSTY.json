@@ -1,0 +1,62 @@
+{
+  "General": {
+    "Symbol": "BSTY",
+    "Name": "GlobalBoost",
+    "Description": "<p>BSTY brings a completely new algorithm to the digital currency scene, and combines it with our real products, real company, and visible &amp; accountable leadership. They aim to improve the acceptance of digital money, providing a safe &amp; attractive investment using Yescrypt as POW - which is ASIC and FGPA resistant..</p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "0",
+    "Algorithm": "yescript",
+    "ProofType": "PoW",
+    "BlockReward": 50.00099999457598,
+    "Explorer": null,
+    "StartDate": "08/09/2014",
+    "TotalCoinsMined": 13973013.22807009,
+    "Twitter": "@GlobalBoost",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "https://globalboo.st/",
+    "GitHub": null,
+    "OnMarkets": [
+      "Yobit",
+      "Bleutrade",
+      "CCEX",
+      "Cryptopia",
+      "BitTrex"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "N/A",
+    "Description": null,
+    "TokenType": null,
+    "WebsiteLink": null,
+    "FundingCap": null,
+    "FundingTarget": null,
+    "Date": null,
+    "EndDate": null,
+    "FundsRaisedList": null,
+    "FundsRaisedUSD": null,
+    "StartPrice": null,
+    "StartPriceCurrency": null,
+    "Jurisdiction": null,
+    "BlogLink": null,
+    "WhitePaperLink": null
+  },
+  "ccId": "6100"
+}

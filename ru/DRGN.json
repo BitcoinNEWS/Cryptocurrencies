@@ -1,0 +1,61 @@
+{
+  "General": {
+    "Symbol": "DRGN",
+    "Name": "Dragonchain",
+    "Description": "<p>Dragonchain was originally developed at Disney’s Seattle office in 2015 and 2016 as the Disney Private Blockchain Platform. Over 20 use cases and applications were explored and documented 1 publicly via the W3C Blockchain Community Group . The platform was later released as open 2 source software under the Apache 2 license in October of 2016. Dragonchain simplifies the integration of real business applications onto a blockchain and provides features such as easy integration, protection of business data and operations, currency agnosticism, and multi-currency support.</p><p>The Dragonchain Foundation, a Non-Profit Corporation was created in January of 2017 to maintain ownership and responsibility of the open source code. The Dragonchain team is now in the process of launching a commercial entity to build a serverless architecture blockchain platform, and an incubator. The combination of serverless and blockchain technologies is unique and tremendously valuable. The timing of the Dragonchain platform launch is highly strategic to benefit from explosive growth of cloud computing over the last few years and the emerging wave of Blockchain solutions entering proof of concept stage across enterprises.</p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "433494437",
+    "Algorithm": null,
+    "ProofType": null,
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "17/08/2017",
+    "TotalCoinsMined": 433494437,
+    "Twitter": "https://twitter.com/dragonchaingang",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": null,
+    "GitHub": null,
+    "OnMarkets": [
+      "Tidex",
+      "Kucoin",
+      "Gateio",
+      "EtherDelta"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Ongoing",
+    "Description": "<p>Dragonchain was originally developed at Disney’s Seattle office in 2015 and 2016 as the Disney Private Blockchain Platform. Over 20 use cases and applications were explored and documented 1 publicly via the W3C Blockchain Community Group . The platform was later released as open 2 source software under the Apache 2 license in October of 2016. Dragonchain simplifies the integration of real business applications onto a blockchain and provides features such as easy integration, protection of business data and operations, currency agnosticism, and multi-currency support.</p><p>The Dragonchain Foundation, a Non-Profit Corporation was created in January of 2017 to maintain ownership and responsibility of the open source code. The Dragonchain team is now in the process of launching a commercial entity to build a serverless architecture blockchain platform, and an incubator. The combination of serverless and blockchain technologies is unique and tremendously valuable. The timing of the Dragonchain platform launch is highly strategic to benefit from explosive growth of cloud computing over the last few years and the emerging wave of Blockchain solutions entering proof of concept stage across enterprises.</p><p><strong>Team</strong>:</p><ul><li><strong>Joe Roets:</strong><span> </span><span>Chief Executive Officer</span>. <a href=\"https://www.linkedin.com/in/j0j0r0/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>George Sarhanis</strong>:<span> </span><span>Chief Business Officer</span><span> </span><a href=\"https://linkedin.com/in/gsarhanis/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Eileen Quenin</strong>:<span> President Dragonchain Foundation</span>.<span><span> </span></span><a href=\"https://www.linkedin.com/in/eileenquenin/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Brandon Kite</strong>:<span> </span><span>Developer</span>.</li><li><strong>Dylan Yelton:</strong><span> Developer</span>.<span><a href=\"https://linkedin.com/in/dylan-yelton-b11ba5aa/\"><img src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a> </span></li><li><strong>Alex Benedetto</strong>: <span>Developer</span>.<span> </span></li></ul><p>Dragonchain started its ICO on October 2, 2017. The ICO token supply represents 55% of the total token supply.The ICO will to end on November 2, 2017 or when the funding cap is reached.</p><p><strong>Token Reserve Split (45%):</strong></p><ul><li>20% Team;</li><li>10% Foundation;</li><li>10% Dragonchain Reserves;</li><li>05% Dragon Fund;</li></ul>",
+    "TokenType": "ETH (ERC20)",
+    "WebsiteLink": "https://dragonchain.com/tokensale-info/",
+    "FundingCap": "N/A",
+    "FundingTarget": "N/A",
+    "Date": 1506938400,
+    "EndDate": 1509616800,
+    "FundsRaisedList": "22727.67 ETH; 349.01 BTC",
+    "FundsRaisedUSD": "8927556.37",
+    "StartPrice": "N/A",
+    "StartPriceCurrency": "N/A",
+    "Jurisdiction": "N/A",
+    "BlogLink": null,
+    "WhitePaperLink": "https://dragonchain.com/assets/Dragonchain_Business_Summary.pdf"
+  },
+  "ccId": "355702"
+}

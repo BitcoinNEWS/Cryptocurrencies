@@ -1,0 +1,56 @@
+{
+  "General": {
+    "Symbol": "GTC*",
+    "Name": "Global Tour Coin",
+    "Description": "<p>GTC is a decentralized and open-source cryptocurrency that offers privacy and selective transparency of transactions. GTC payments are published on a public blockchain, but the sender, recipient, and amount of a transaction remains private.<br />GTC is based on peer-reviewed cryptographic research, and built on an open source platform based on battle-tested codebase. The ultimate goal is the addition of privacy. GTC uses advanced cryptographic techniques, namely zero-knowledge proofs, to guarantee the validity of transactions without revealing additional information about them.</p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "91000000",
+    "Algorithm": "Scrypt",
+    "ProofType": null,
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "01/01/0001",
+    "TotalCoinsMined": null,
+    "Twitter": "@globaltourcoin",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": null,
+    "GitHub": null,
+    "OnMarkets": [],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "N/A",
+    "Description": null,
+    "TokenType": null,
+    "WebsiteLink": null,
+    "FundingCap": null,
+    "FundingTarget": null,
+    "Date": null,
+    "EndDate": null,
+    "FundsRaisedList": null,
+    "FundsRaisedUSD": null,
+    "StartPrice": null,
+    "StartPriceCurrency": null,
+    "Jurisdiction": null,
+    "BlogLink": null,
+    "WhitePaperLink": null
+  },
+  "ccId": "719426"
+}

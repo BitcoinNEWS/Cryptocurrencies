@@ -1,0 +1,58 @@
+{
+  "General": {
+    "Symbol": "BFX",
+    "Name": "BitFinex Tokens",
+    "Description": "<p>BitFinex Tokens were issued by BitFinex as obligations by the exchange for the 36% haircut on customer account after the hack in August 2016. It is not fully clear what the rights are that are attached to the token and it has been suggested that there is a form of put and call option attached. </p><p>In this case the market cap figure is the total market capitalisation of the debt obligation tokens which was originally set at $72m. </p><p>40 million tokens have been exchanged for equity in Bitfinex</p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "32000000",
+    "Algorithm": null,
+    "ProofType": null,
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "10/08/2016",
+    "TotalCoinsMined": "32000000",
+    "Twitter": null,
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "-",
+    "GitHub": null,
+    "OnMarkets": [
+      "Bitfinex"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "N/A",
+    "Description": null,
+    "TokenType": null,
+    "WebsiteLink": null,
+    "FundingCap": null,
+    "FundingTarget": null,
+    "Date": null,
+    "EndDate": null,
+    "FundsRaisedList": null,
+    "FundsRaisedUSD": null,
+    "StartPrice": null,
+    "StartPriceCurrency": null,
+    "Jurisdiction": null,
+    "BlogLink": null,
+    "WhitePaperLink": null
+  },
+  "ccId": "25238"
+}

@@ -1,0 +1,63 @@
+{
+  "General": {
+    "Symbol": "GRS",
+    "Name": "Groestlcoin",
+    "Description": "<p>It is a cryptocurrency utilizing Proof of Work – No ASIC currently exists for Groestl &amp; it is unlikely that one will be developed for it anytime soon. GroestlCoin will be ASIC-free for the foreseeable future.</p><p>- Through these features GroestlCoin embodies the fairly distributed &amp; decentralized nature of Cryptocurrency. Anyone can mine effectively, with minimal resource consumption and nuisance. – With the influx of ASICs we thought decentralized mining will soon be dead, with GroestlCoin it is reborn and taken to another level.</p><p>- The extra added value of Groestl is that the “richer advantage” (owning several GPU) is less interesting with Groestl; so fairer.</p><p>- Stands for democratization of currency and mining, the ability to send and receive money immediately anywhere in the world, to not pay expensive banking fees, and to transact in an environment that is secure and anonymous.</p><p>- Through an innovative algorithm, the Groestlcoin network consumes far less energy, maintains stronger security, and rewards miners in more sustainable ways than sha256, scrypt, x11 and x13 based coins. – Grostl will be the new greener home of GPU miners as it offers greater hashing results with less energy and heat.</p><p>- They strive to make groestlcoin available to the masses. Innovative and user friendly, accessible for everyone. They highly value integrity and transparency. Digital currencies are the future and Groestlcoin will be one of the leaders in this revolution.</p><p>The name \"Grøstl\" is a multilingual play-on-words, referring to an Austrian dish usually made of leftover potatoes and pork, cut into slices. These are roasted on a pan together with onions and butterfat. The dish is often seasoned with salt, pepper, marjoram, cumin, and parsley, and served with a fried egg or kraut (cabbage). Hence, gröstl is somewhat similar to the American dish called hash. The letter ‘ö’ was replaced by ‘ø’, which is a letter in the Danish alphabet that is pronounced in the same way as ‘ö’. This way, the name, like the hash function itself, contains a mix of Austrian and Danish influences. The pronunciation of Grøstl may seem challenging. If you think so, then think of the letter ‘ø’ as the ‘i’ in \"bird\". This letter is a so-called close-mid front rounded vowel.</p><p><a href=\"http://www.groestl.info/Groestl-0.pdf\" target=\"_blank\" title=\"Groestl\">Groestl Specifications White Paper</a></p>",
+    "Features": "<p>- Is a cryptocurrency utilizing Proof of Work</p><p>- No ASIC currently exists for Groestl &amp; it is unlikely that one will be developed for it anytime soon. GroestlCoin will be ASIC-free for the foreseeable future.</p><p>- Through these features GroestlCoin embodies the fairly distributed &amp; decentralized nature of Cryptocurrency. Anyone can mine effectively, with minimal resource consumption and nuisance.</p><p>- With the influx of ASICs we thought decentralized mining will soon be dead, with GroestlCoin it is reborn and taken to another level.</p><p>- The extra added value of Groestl is that the \"richer advantage\" (owning several GPU) is less interesting with Groestl; so fairer.</p><p>- Stands for democratization of currency and mining, the ability to send and receive money immediately anywhere in the world, to not pay expensive banking fees, and to transact in an environment that is secure and anonymous.</p><p>- Through an innovative algorithm, the Groestlcoin network consumes far less energy, maintains stronger security, and rewards miners in more sustainable ways than sha256, scrypt, x11 and x13 based coins.</p><p>- Grostl will be the new greener home of GPU miners as it offers greater hashing results with less energy and heat.</p><p>- We strive to make groestlcoin available to the masses. Innovative and user friendly, accessible for everyone. We highly value integrity and transparency. Digital currencies are the future and Groestlcoin will be one of the leaders in this revolution.</p>",
+    "Technology": "<p><strong>About the algorithm:</strong></p><p>- Is an iterated hash function, where the compression function is built from two fixed, large, different permutations. The design of Grøstl is transparent and based on principles very different from those used in the SHA-family.The two permutations used are constructed using the wide trail design strategy, which makes it possible to give strong statements about the resistance of Grøstl against large classes of cryptanalytic attacks. Moreover, if these permutations are assumed to be ideal, there is a proof for the security of the hash function.</p><p>- Can and is accelerated by the hardware AES support present in most modern Intel CPUs, which helps reduce the efficiency gap between a CPU and other implementations. Groestl (old GPU/CPU) - Groestl makes wide range of trade-offs between throughput, latency, and power consumption. Because of this, groestl uses less power per hash than other algos. Due to the less complex hashing, groestl performs well on older GPU’s as well as CPU’s.</p><p>- Is the single most efficient algorithm for GPUs in the cryptocurrency market. It has been shown to have the lowest power consumption, heat and noise of recently released algorithms, allowing for a quieter and more effective mining environment. </p><p>- Is set to be the future of mining, Groestlcoin is proud to be the first to utilize this new efficient algorithm.</p><p>- Is a recently proposed cryptographic hash algorithm that has common structure and features with the Advanced Encryption Standard (AES). The objective of this paper is to present the design of a high speed joint implementation of Grøstl and AES with minimal resources using a pipelining method. The advantage of this implementation is that it efficiently provides both cryptographic hash function and block cipher. The system is targeted to the Altera Cyclone IV FPGA. The paper presents a complete description of the design and implementation, as well as an analysis of the resulting synthesis and comparison to other proposed implementations of the Grøstl hash function.</p><p>- Is a byte-oriented SP-network which borrows components from the AES. The S-box (substitution-box) used is identical to the one used in the block cipher AES and the diffusion layers are constructed in a similar manner to those of the AES. As a consequence there is a very strong confusion and diffusion in Grøstl.</p><p>- Is a so-called wide-pipe construction where the size of the internal state is significantly larger than the size of the output. This has the effect that all known, generic attacks on the hash function are made much more difficult.</p><p>- Has good performance on a wide range of different platforms and counter-measures against side-channel attacks are well-understood from similar work on the AES.</p><p><strong>About the AES acceleration:</strong></p><p>The compression function f is based on a pair of 256- or 512-bit permutation functions P and Q, and is defined as:</p><p>f(h, m) = P(h ⊕ m) ⊕ Q(m) ⊕ h</p><p>The permutation functions P and Q are heavily based on the Rijndael (AES) block cipher, but operate on 8×8 or 8×16 arrays of bytes, rather than 4×4. Like AES, each round consists of four operations:</p><p>1.AddRoundKey (the Grøstl round keys are fixed, but differ between P and Q)</p><p>2.SubBytes (this uses the Rijndael S-box, allowing sharing with AES implementations)</p><p>3.ShiftBytes (expanded compared to AES, this also differs between P and Q, and 512- and 1024-bit versions)</p><p>4.MixColumns (using an 8×8 matrix rather than Rijndael&#39;s 4×4)</p><p>Grøstl divides the input into blocks and iteratively computes hi = f(hi-1, mi). However, Grøstl maintains a hash state at least twice the size of the final output (512 or 1024 bits), which is only truncated at the end of hash computation.</p>",
+    "TotalCoinSupply": "105000000",
+    "Algorithm": "Groestl",
+    "ProofType": "PoW",
+    "BlockReward": 5,
+    "Explorer": null,
+    "StartDate": "22/03/2014",
+    "TotalCoinsMined": 69693268.8873666,
+    "Twitter": "@GroestlcoinTeam",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "http://www.groestlcoin.org/",
+    "GitHub": null,
+    "OnMarkets": [
+      "TradeSatoshi",
+      "CCEX",
+      "Cryptopia",
+      "Poloniex",
+      "LiveCoin",
+      "BitTrex"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "N/A",
+    "Description": null,
+    "TokenType": null,
+    "WebsiteLink": null,
+    "FundingCap": null,
+    "FundingTarget": null,
+    "Date": null,
+    "EndDate": null,
+    "FundsRaisedList": null,
+    "FundsRaisedUSD": null,
+    "StartPrice": null,
+    "StartPriceCurrency": null,
+    "Jurisdiction": null,
+    "BlogLink": null,
+    "WhitePaperLink": null
+  },
+  "ccId": "13070"
+}

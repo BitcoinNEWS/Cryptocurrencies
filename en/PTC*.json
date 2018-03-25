@@ -1,0 +1,56 @@
+{
+  "General": {
+    "Symbol": "PTC*",
+    "Name": "Propthereum",
+    "Description": "<p>Propthereum is a platform that wants to connect small investors with A-grade property investments. PTC is an ERC20 token used as the main currency in the platform.</p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": null,
+    "Algorithm": null,
+    "ProofType": null,
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "20/11/2017",
+    "TotalCoinsMined": null,
+    "Twitter": "@propthereum",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": null,
+    "GitHub": null,
+    "OnMarkets": [],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Ongoing",
+    "Description": "<p>Propthereum is a platform that wants to connect small investors with A-grade property invesments. PTC is an ERC20 token used as the main currency in the platform.</p><p><strong>Team</strong>:</p><ul><li><strong>Frank Engelen:</strong> CEO, Founder</li><li><strong>Brendan Cornelius:</strong> CTO, Co-Founder <a href=\"https://www.linkedin.com/in/brendan-cornelius/\" target=\"_blank\"><img src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Mark McRae:</strong> Advisor <a href=\"https://www.linkedin.com/in/markmcraecom\" target=\"_blank\"><img src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Wesley Govender:</strong> Social Media Manager <a href=\"https://www.linkedin.com/in/Wesley-Govender\" target=\"_blank\"><img src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li></ul><p>The Propethereum ICO will start on the 20th of November 12PM GMT. The ICO will run until the 19th of December 2017 or until the ICO funding cap has been reached. The ICO token allocation represents 70% of the total token supply and will be available for Ether at a 0.0007142 ETH starting price. The funding target is $5M and the funding cap is $50M. </p><p><strong>Token Reserve Split (30%):</strong></p><ul><li>10% Reserve</li><li>10% Team</li><li>10% Joint Ventures</li></ul><p>The Propthereum ICO will feeatures a bonus and bounty campaigns.</p><p><strong>Bonus Structure:</strong></p><ul><li>From Angel Day to Start of Week 1 - 9.1%</li><li>Week 1 to Week 2 - 3.33%</li><li>Week 2 to Week 3 - 1.72%</li><li>Week 3 to Week 4 - 1.75%</li></ul>",
+    "TokenType": "ETH (ERC20)",
+    "WebsiteLink": "http://www.propthereum.io",
+    "FundingCap": "50,000,000 USD",
+    "FundingTarget": "5,000,000 USD",
+    "Date": 1511179200,
+    "EndDate": 1513684800,
+    "FundsRaisedList": "139,956.20 USD",
+    "FundsRaisedUSD": "139956.20",
+    "StartPrice": "0.0007142",
+    "StartPriceCurrency": "ETH",
+    "Jurisdiction": "N/A",
+    "BlogLink": null,
+    "WhitePaperLink": "http://www.propthereum.io/Propthereum-White-Paper.pdf"
+  },
+  "ccId": "340872"
+}

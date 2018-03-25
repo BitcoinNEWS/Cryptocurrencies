@@ -1,0 +1,61 @@
+{
+  "General": {
+    "Symbol": "PRG",
+    "Name": "Paragon",
+    "Description": "<p>Paragon seeks to pull the cannabis community from marginalized to the mainstream by building blockchain into every step of the cannabis industry and by working toward full legalization.</p><p><span>Paragon&#39;s </span>strength lies in the unique blockchain/cannabis connection that uses smart contracts. More uses of cannabis are coming to light, and<span> </span><span>Paragon </span>wants to accelerate that process.<span> </span><span>Paragon wants to</span> move forward in an ethical, morally responsible, and legal way.</p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "200000000",
+    "Algorithm": null,
+    "ProofType": null,
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "15/08/2017",
+    "TotalCoinsMined": 164936602.888884,
+    "Twitter": "@ParagonCoin",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": null,
+    "GitHub": null,
+    "OnMarkets": [
+      "Tidex",
+      "HitBTC",
+      "LiveCoin",
+      "EtherDelta"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Finished",
+    "Description": "<p>Paragon seeks to pull the cannabis community from marginalized to the mainstream by building blockchain into every step of the cannabis industry and by working toward full legalization.</p><p><span>Paragon&#39;s </span>strength lies in the unique blockchain/cannabis connection that uses smart contracts. More uses of cannabis are coming to light, and <span>Paragon </span>wants to accelerate that process. <span>Paragon wants to</span> move forward in an ethical, morally responsible, and legal way.</p><p><strong>Team</strong>:</p><ul><li><strong>Jessica Versteeg</strong>: CEO. <a href=\"http://facebook.com/theversteeg/\" target=\"_blank\"><img style=\"width: 13px; height: 13px;\" src=\"/media/1383930/face_logo_final.png?width=13&amp;height=13\" alt=\"\" data-id=\"202866\"></a> <a href=\"https://twitter.com/jessversteeg\" target=\"_blank\"><img style=\"width: 13px; height: 13px;\" src=\"/media/1383932/twitter_logo_final.png?width=13&amp;height=13\" alt=\"\" data-id=\"202868\"></a> <a href=\"https://www.linkedin.com/in/jessica-versteeg-b40b0722\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Egor Lavrov</strong>: CCO.<span> </span><a href=\"http://facebook.com/elavrov\" target=\"_blank\"><img style=\"width: 13px; height: 13px;\" src=\"/media/1383930/face_logo_final.png?width=13&amp;height=13\" alt=\"\" data-id=\"202866\"></a><span> </span><a href=\"https://twitter.com/yegor_lavrov/\" target=\"_blank\"><img style=\"width: 13px; height: 13px;\" src=\"/media/1383932/twitter_logo_final.png?width=13&amp;height=13\" alt=\"\" data-id=\"202868\"></a><span> </span><a href=\"https://www.linkedin.com/in/elavrov\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Vadym Kurylovich</strong>: CTO.<span> </span><a href=\"https://ua.linkedin.com/in/vadym-kurylovych\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Julian Zegelman</strong><span>: CLO.</span><span> </span><a href=\"https://www.facebook.com/jzegelman\" target=\"_blank\"><img style=\"width: 13px; height: 13px;\" src=\"/media/1383930/face_logo_final.png?width=13&amp;height=13\" alt=\"\" data-id=\"202866\"></a><span> </span><a href=\"https://twitter.com/jzegelman\" target=\"_blank\"><img style=\"width: 13px; height: 13px;\" src=\"/media/1383932/twitter_logo_final.png?width=13&amp;height=13\" alt=\"\" data-id=\"202868\"></a><span> </span><a href=\"https://www.linkedin.com/in/jzegelman/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Giovanti Humphries</strong>: CFO. <a href=\"https://www.linkedin.com/in/giovantihumphries/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Gareth Rhodes</strong><span>: CBO EMEA.</span><span> </span><a href=\"https://www.facebook.com/lord.g.rhodes\" target=\"_blank\"><img style=\"width: 13px; height: 13px;\" src=\"/media/1383930/face_logo_final.png?width=13&amp;height=13\" alt=\"\" data-id=\"202866\"></a><span> </span><a href=\"https://www.linkedin.com/in/gareth-rhodes-9b137a17/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Alex Emelichev</strong><span>:<span> </span>CBO EMEA.</span><span> </span><a href=\"https://www.linkedin.com/in/alex-emelichev-18ab11143/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Chuck Bogorad</strong><span>: CSO.</span><span> </span><a href=\"https://www.facebook.com/bogorad\" target=\"_blank\"><img style=\"width: 13px; height: 13px;\" src=\"/media/1383930/face_logo_final.png?width=13&amp;height=13\" alt=\"\" data-id=\"202866\"></a><span> </span><a href=\"https://twitter.com/Bogorad\" target=\"_blank\"><img style=\"width: 13px; height: 13px;\" src=\"/media/1383932/twitter_logo_final.png?width=13&amp;height=13\" alt=\"\" data-id=\"202868\"></a><span> </span><a href=\"https://www.linkedin.com/in/bogorad/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>David Kalustov</strong><span>: VP of Business Development.</span><span> </span><a href=\"https://www.linkedin.com/in/david-kalustov-72540793\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Joshua Rogers</strong><span>: CAO.</span><span> </span><a href=\"https://www.facebook.com/rogers.joshua\" target=\"_blank\"><img style=\"width: 13px; height: 13px;\" src=\"/media/1383930/face_logo_final.png?width=13&amp;height=13\" alt=\"\" data-id=\"202866\"></a><span> </span><a href=\"https://www.linkedin.com/in/joshualrogers/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Robert Escobar</strong><span>: COO.</span><span> </span><a href=\"https://www.linkedin.com/in/robertescobarsf/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Kayla Booth</strong><span>: PR and Marketing Manager.</span><span> </span><a href=\"https://www.facebook.com/kaylajeanbooth\" target=\"_blank\"><img style=\"width: 13px; height: 13px;\" src=\"/media/1383930/face_logo_final.png?width=13&amp;height=13\" alt=\"\" data-id=\"202866\"></a><span> </span><a href=\"https://www.linkedin.com/in/kaylabooth/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li></ul><p><span>Paragon </span>will be holding its <span>Stage 1 Crowdsale</span> on September 15, 2017. The <span>Stage 1 Crowdsale </span>token supply represents 50% of the total token supply, so there will be a total of <span>100,000,000 </span>tokens available, for $1 each at the offering. The ICO is expected to end on October DAY, 2017.</p><p>During the first 6 hours of the <span>Stage 1 Crowdsale, <span>Paragon</span><span> </span></span>will offer an early bird 10% discount, the price will remain at $1 for the remaining of the first 24 hours and will increase $0.05 each 24 hours for 30 days or until all tokens sold.</p><p><strong>Token Reserve Split (50%):</strong></p><ul><li>25% <span>Stage 2 Crowdsale</span>;</li><li><span>20</span>% Paragon Reserve Fund;</li><li>05% Community Controlled Reserve;</li></ul>",
+    "TokenType": "ETH (ERC20)",
+    "WebsiteLink": "https://crowdsale.paragoncoin.com/?ref=27c0b4a26107667308d77e91",
+    "FundingCap": "N/A",
+    "FundingTarget": "N/A",
+    "Date": 1505491200,
+    "EndDate": 1508025600,
+    "FundsRaisedList": "Presale: 70,000,000 PRG sold\r\nCrowdsale: 3,262,454 PRG sold",
+    "FundsRaisedUSD": "N/A",
+    "StartPrice": "1",
+    "StartPriceCurrency": "USD",
+    "Jurisdiction": "N/A",
+    "BlogLink": "https://medium.com/@paragoncoin",
+    "WhitePaperLink": "https://paragoncoin.com/whitepaper.pdf"
+  },
+  "ccId": "225764"
+}

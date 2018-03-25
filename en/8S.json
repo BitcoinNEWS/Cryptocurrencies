@@ -1,0 +1,56 @@
+{
+  "General": {
+    "Symbol": "8S",
+    "Name": "Elite 888",
+    "Description": "<p>Elite 888 is an ERC20 token based on the Ethereum blockchain. It has an 888 token supply, making it a rare coin to hold.</p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "888",
+    "Algorithm": null,
+    "ProofType": null,
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "09/10/2017",
+    "TotalCoinsMined": null,
+    "Twitter": "@Elite888Token",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": null,
+    "GitHub": null,
+    "OnMarkets": [],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Ongoing",
+    "Description": "<p><span>Elite 888 is an ERC20 token based on the Ethereum blockchain. It has an 888 token supply, making it a rare coin to hold.</span></p><p>The Elite 888 ICO will <span>on October 9th, 2017 and last for one month or untill the total token supply is sold. Only 888 tokens will be created and each token is valued at 8 ETH. Users can participate with ETH only.</span></p>",
+    "TokenType": "ETH (ERC20)",
+    "WebsiteLink": "https://elite888.com/",
+    "FundingCap": "7104 ETH",
+    "FundingTarget": "7104 ETH",
+    "Date": 1507546800,
+    "EndDate": 1510052400,
+    "FundsRaisedList": "N/A",
+    "FundsRaisedUSD": "N/A",
+    "StartPrice": "8",
+    "StartPriceCurrency": "ETH",
+    "Jurisdiction": "N/A",
+    "BlogLink": null,
+    "WhitePaperLink": "https://elite888.com/docs/ELITE_888_White_Paper.pdf"
+  },
+  "ccId": "310852"
+}

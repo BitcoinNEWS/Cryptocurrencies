@@ -1,0 +1,58 @@
+{
+  "General": {
+    "Symbol": "TAU",
+    "Name": "Lamden Tau",
+    "Description": "<p>Lamden is a suite of developer tools that speed up the process of creating new and custom blockchains and apps. Lamden’s TAU token facilitates interoperability and value exchange between established cryptocurrencies and blockchain applications made with the Lamden developer suite.</p><p> </p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "500000000",
+    "Algorithm": "DPoS",
+    "ProofType": "DPoS",
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "27/11/2017",
+    "TotalCoinsMined": 288090567.4938866,
+    "Twitter": "@LamdenTau",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": null,
+    "GitHub": null,
+    "OnMarkets": [
+      "HitBTC"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Finished",
+    "Description": "<p>Lamden is a suite of developer tools that speed up the process of creating new and custom blockchains and apps. Lamden’s TAU token facilitates interoperability and value exchange between established cryptocurrencies and blockchain applications made with the Lamden developer suite.</p><p><strong>Team</strong>:</p><ul><li><strong>Stuart Farmer Chief:</strong> Executive <img src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></li><li><strong>Nick Huber Chief:</strong> of Operations <a href=\"https://www.linkedin.com/in/nicholas-huber-245594a7/\" target=\"_blank\"><img src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Sev Ladtchenko:</strong> Chief of R&amp;D</li><li><strong>Philip Barton:</strong> Chief of Finance <a href=\"https://www.linkedin.com/in/pipbarton/\" target=\"_blank\"><img src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li></ul><p>The Lamden ICO is currently ongoing and it will end on the 1st of February 2018. The ICO token allocation represents 70% of the total token supply and will be available for a $0.03 starting price. Users can participate with ETH and the funding cap is set at $10M. </p><p><strong>Token Reserve Split (30%):</strong></p><ul><li><span>20% reserve/business dev/marketing</span></li><li><span>1% bounty</span></li><li><span>9% advisory board</span></li></ul><p>The Lamden ICO features a bonus and bounty campaign.</p><p><strong>Bonus Structure:</strong></p><ul><li>Presale Bonus: 22%</li></ul>",
+    "TokenType": "New Blockchain",
+    "WebsiteLink": "https://lamden.io/",
+    "FundingCap": "10,000,000 USD",
+    "FundingTarget": "N/A",
+    "Date": 1511797129,
+    "EndDate": 1515110400,
+    "FundsRaisedList": "10,000,000 USD",
+    "FundsRaisedUSD": "10000000",
+    "StartPrice": "0.03",
+    "StartPriceCurrency": "USD",
+    "Jurisdiction": "Switzerland",
+    "BlogLink": "https://blog.lamden.io/",
+    "WhitePaperLink": "https://daks2k3a4ib2z.cloudfront.net/599f63af83acb10001bd4583/59d69f806fbb6f000123dbce_lamden-white-paper.pdf"
+  },
+  "ccId": "405291"
+}

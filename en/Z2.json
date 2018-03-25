@@ -1,0 +1,56 @@
+{
+  "General": {
+    "Symbol": "Z2",
+    "Name": "Z2 Coin",
+    "Description": "<p>Z2 Coin is a Proof of Work cryptocurrency based on the SHA256 algorithm.</p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "11000000",
+    "Algorithm": "SHA256",
+    "ProofType": "PoW",
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "29/08/2017",
+    "TotalCoinsMined": null,
+    "Twitter": "@z2_coin",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": null,
+    "GitHub": null,
+    "OnMarkets": [],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Ongoing",
+    "Description": "<p><span>Z2 Coin is a Proof of Work cryptocurrency based on the SHA256 algorithm. </span>The Z2 Coin ICO began on the 29th of August and will last until the 1st of October. During the ICO, 95% of the total Z2 supply will be sold for $0.1 starting price. Users can invest with BTC, ETH or USD</p><p><strong>Token Reserve Split (XX%):</strong></p><ul><li>5% Founders</li></ul><p>The Z2 ICO features a bonus campaign</p>",
+    "TokenType": "New Blockchain",
+    "WebsiteLink": "http://proofsuite.com/i/NeAQqZIXtJ ",
+    "FundingCap": "N/A",
+    "FundingTarget": "N/A",
+    "Date": 1503964800,
+    "EndDate": 1506816000,
+    "FundsRaisedList": "N/A",
+    "FundsRaisedUSD": "2500",
+    "StartPrice": "0.10",
+    "StartPriceCurrency": "USD",
+    "Jurisdiction": "N/A",
+    "BlogLink": null,
+    "WhitePaperLink": null
+  },
+  "ccId": "252359"
+}

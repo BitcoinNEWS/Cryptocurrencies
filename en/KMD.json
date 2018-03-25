@@ -1,0 +1,63 @@
+{
+  "General": {
+    "Symbol": "KMD",
+    "Name": "Komodo",
+    "Description": "<p><span>Komodo is a privacy-centric cryptocurrency that combines the anonymity of ZCash with the security of Bitcoin. Using a new consensus mechanism developed by the Komodo team, delayed Proof of Work, Komodo blocks can be notarized using the Bitcoin blockchain. KMD is issued through an Equihash-based PoW</span><span> protocol, and the new block information is sent to pre-voted notary nodes. These nodes insert the Komodo block information on the BTC blockchain by creating a custom transaction. This system ensures that in order to \"hack\" komodo, one would have to rewrite both chains.</span><br /><br /><span>Komodo uses Zero Knowledge Proofs to provide 100% anonymous transactions, that are now secured with Bitcoin&#39;s hash rate</span>.</p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "200000000",
+    "Algorithm": "Equihash",
+    "ProofType": "dPoW/PoW",
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "01/09/2016",
+    "TotalCoinsMined": 104030549,
+    "Twitter": "@komodoplatform",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "https://komodoplatform.com/",
+    "GitHub": null,
+    "OnMarkets": [
+      "HitBTC",
+      "Binance",
+      "TradeSatoshi",
+      "Cryptopia",
+      "CryptoX",
+      "BitTrex"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Finished",
+    "Description": "<p><span>Komodo will bring about the anonymity of Zcash along with the NXT style PoS security, the witness based consensus system inspired by Bitshares, and the security and reliability of the Proof of Work Bitcoin Blockchain, which is a tested and proven system kept by thousands of nodes. Komodo&#39;s the Delayed Proof of Work (dPoW) consensus method will make Bitcoin the center of all PoS/dPoW cryptocurrencies, allowing the energy that is used in bitcoin mining to be utilized to secure other cryptocurrencies, thus making Bitcoin more energy efficient, while making other cryptocurrencies safer. this will add value to the entire alternative cryptocurrency sphere and to bitcoin itself as it becomes a vital part of other currencies and platforms.</span></p><p><strong>Team</strong>:</p><ul><li><strong>Jl777</strong>: Lead Developer.</li><li><strong>Pbca26</strong>: Web GUI Developer.</li><li><strong>Antonleogky</strong><span>: UX and UI Designer.</span></li><li><strong>Audo</strong>: Community Manager.</li><li><strong>Yassin</strong><span>: Social Media Manager.</span></li><li><span><strong>Grewalsatinder</strong><span>: Technical Expert, Advisor.</span></span></li></ul><p><span>Komodo&#39;s ICO raised 2639 BTC with the majority being received in the first couple of days due to the initial 25% bonus. Komodo will spend the $1.98 Million on development and marketing as well as a fund to offer Bitcoin protection service. Also the ICO funds were used to fund 64 high capacity servers around the world, and to pay the Bitcoin transaction fees. The protection layer is self-sustaining as long as the Komodo price stays above 0.25 USD</span></p><p><strong>Token Reserve Split (10%):</strong></p><ul><li>10% Reserved as working capital;</li></ul><p><span>Komodo&#39;s ICO campaign featured bonus, bounties and the token is mineable.</span></p>",
+    "TokenType": "N/A",
+    "WebsiteLink": "https://komodoplatform.com/",
+    "FundingCap": "30,000 BTC",
+    "FundingTarget": "N/A",
+    "Date": 1476536400,
+    "EndDate": 1481893200,
+    "FundsRaisedList": "2639 BTC",
+    "FundsRaisedUSD": "1983000",
+    "StartPrice": "0.00014661",
+    "StartPriceCurrency": "BTC",
+    "Jurisdiction": "N/A",
+    "BlogLink": null,
+    "WhitePaperLink": "https://komodoplatform.com/downloads/Komodo_dPoW_Whitepaper_v1.pdf"
+  },
+  "ccId": "26132"
+}

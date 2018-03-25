@@ -1,0 +1,58 @@
+{
+  "General": {
+    "Symbol": "LQD",
+    "Name": "Liquid",
+    "Description": "<p>Liquid is an NXT asset that pays monthly dividends to its holders.</p><p>NXT asset ID:<strong> 4630752101777892988</strong></p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "99999.99",
+    "Algorithm": null,
+    "ProofType": null,
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "01/11/2015",
+    "TotalCoinsMined": null,
+    "Twitter": "@tech_liquid",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "www.liquidtech.info",
+    "GitHub": null,
+    "OnMarkets": [
+      "Poloniex"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "N/A",
+    "Description": null,
+    "TokenType": null,
+    "WebsiteLink": null,
+    "FundingCap": null,
+    "FundingTarget": null,
+    "Date": null,
+    "EndDate": null,
+    "FundsRaisedList": null,
+    "FundsRaisedUSD": null,
+    "StartPrice": null,
+    "StartPriceCurrency": null,
+    "Jurisdiction": null,
+    "BlogLink": null,
+    "WhitePaperLink": null
+  },
+  "ccId": "22422"
+}

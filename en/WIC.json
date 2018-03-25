@@ -1,0 +1,60 @@
+{
+  "General": {
+    "Symbol": "WIC",
+    "Name": "Wi Coin",
+    "Description": "<p>The idea behind CryptoWi is to bring cryptocurrencies to the masses and to give cryptocurrencies a real meaning and porpuse, making it an everyday manetary instrument. This will be achieved through a WiFi sharing app which is monetized so that the general public has an incentive for using it.</p><p>The user is awarded<span> </span>with CryptoWi tokens (WIC) for each correct correct password uploaded in order to grow the network initially. The user will also be able to set a custom price in WiC for each of these networks. Anybody who wants to connect to these networks will have to pay this amount and it will be credited to the original password uploader. </p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "100000000",
+    "Algorithm": null,
+    "ProofType": null,
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "24/10/2017",
+    "TotalCoinsMined": 100000000,
+    "Twitter": "@WiC_Crypto",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": null,
+    "GitHub": null,
+    "OnMarkets": [
+      "LiveCoin",
+      "Yobit",
+      "EtherDelta"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Finished",
+    "Description": "<p>The idea behind CryptoWi is to bring cryptocurrencies to the masses and to give cryptocurrencies a real meaning and porpuse, making it an everyday manetary instrument. This will be achieved through a WiFi sharing app which is monetized so that the general public has an incentive for using it.</p><p>The user is awarded with CryptoWi tokens (WIC) for each correct correct password uploaded in order to grow the network initially. The user will also be able to set a custom price in WiC for each of these networks. Anybody who wants to connect to these networks will have to pay this amount and it will be credited to the original password uploader. </p><p><strong>Team</strong>:</p><ul><li><strong>Ronald B. Sao</strong>: Founder.</li><li><strong>Catherine Oliver</strong>: Marketing.</li><li><strong><span>Deepak Kumar</span></strong>: Developer.</li></ul><p>5,000,000 WIC have been reserved for distribution to the users in the early stages of the app to grow the user base. </p><p><strong>Token Reserve Split (10%):</strong></p><ul><li>3% Team;</li><li>5% Reserved for App Distribution;</li><li>2% Bounty Campaign;</li></ul><p><strong>Bonus Structure:</strong></p><ul><li>Stage 1 15,000,000 tokens - $0.008 each</li><li><span>Stage 2 20,000,000 tokens - $0.012 each</span></li><li><span>Stage 3 10,000,000 tokens - $0.014 each</span></li><li><span>Stage 4 10,000,000 tokens - $0.016 each</span></li><li><span>Stage 5 7,500,000 tokens - $0.018 each</span></li><li><span>Stage 6 7,500,000 tokens - $0.022 each</span></li><li><span>Stage 7 20,000,000 tokens - $0.026 each</span></li></ul>",
+    "TokenType": "ETH (ERC20)",
+    "WebsiteLink": null,
+    "FundingCap": "1,480,000",
+    "FundingTarget": "N/A",
+    "Date": 1504285730,
+    "EndDate": null,
+    "FundsRaisedList": "N/A",
+    "FundsRaisedUSD": "N/A",
+    "StartPrice": "0.008",
+    "StartPriceCurrency": "USD",
+    "Jurisdiction": "N/A",
+    "BlogLink": null,
+    "WhitePaperLink": "https://docs.wixstatic.com/ugd/4d9d6c_be838c78e32747059282b4f291fa0a42.pdf"
+  },
+  "ccId": "320551"
+}

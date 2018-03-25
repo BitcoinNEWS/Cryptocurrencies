@@ -1,0 +1,59 @@
+{
+  "General": {
+    "Symbol": "ABC",
+    "Name": "AB-Chain",
+    "Description": "<p>AB-Chain is a advertisement network built specifically for ICO projects. It allows ads to be purchased and placed with cryptocurrencies, providing companies with a <span> quick and simple way to publish ads online without the need to convert to fiat. The ABC token is designed as a decentralized ERC20 token on the Ethereum blockchain.</span></p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "210000000",
+    "Algorithm": null,
+    "ProofType": null,
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "18/09/2017",
+    "TotalCoinsMined": 210000000,
+    "Twitter": "@AB_CHAIN",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": null,
+    "GitHub": null,
+    "OnMarkets": [
+      "CCEX",
+      "Cryptopia"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Ongoing",
+    "Description": "<p><span>AB-Chain is an advertisement network built specifically for ICO projects. It allows ads to be purchased and placed with cryptocurrencies, providing companies with a </span><span> quick and simple way to publish ads online without the need to convert to fiat. The ABC token is designed as a decentralized ERC20 token on the Ethereum blockchain.</span></p><p><strong>Team</strong>:</p><ul><li><p><strong>Vladimir Dyakov:</strong> Founder, CEO <a href=\"https://www.facebook.com/vvdyakov\" target=\"_blank\"><img style=\"width: 13px; height: 13px;\" src=\"/media/1383930/face_logo_final.png?width=13&amp;height=13\" alt=\"\" data-id=\"202866\"></a><span> </span><a href=\"https://www.linkedin.com/in/vdyakov/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></p></li><li><p><strong>David Pomies: </strong>Co-founder, Business Development Director <a href=\"https://www.facebook.com/profile.php?id=17132228\" target=\"_blank\"><img style=\"width: 13px; height: 13px;\" src=\"/media/1383930/face_logo_final.png?width=13&amp;height=13\" alt=\"\" data-id=\"202866\"></a><span> </span><a href=\"https://www.linkedin.com/in/david-pomies-808a54a\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></p></li><li><p><strong>Ivan Pshenitsyn: </strong>Co-founder, CTO <a href=\"https://www.facebook.com/ipshon\" target=\"_blank\"><img style=\"width: 13px; height: 13px;\" src=\"/media/1383930/face_logo_final.png?width=13&amp;height=13\" alt=\"\" data-id=\"202866\"></a><span> </span><a href=\"https://www.linkedin.com/in/ivan-pshenitsyn-a231713b/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></p></li><li><p><strong>Cate Lawrence: </strong>Head of Communication and PR <a href=\"https://www.facebook.com/cate.lawrence\" target=\"_blank\"><img style=\"width: 13px; height: 13px;\" src=\"/media/1383930/face_logo_final.png?width=13&amp;height=13\" alt=\"\" data-id=\"202866\"></a> <a href=\"https://www.linkedin.com/in/lawrencecate/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></p></li></ul><p>The pre-sale is now live (timer is set according to presale)</p><p>The Ab-Chain ICO will take place on the 23rd of October 2017 and will last until the 25th of December or until the hard cap is reached. There is a total of 100000000 ABC tokens, 68.5% of which will be distributed during the ICO. <span>The ICO funding target is 10M, the funding cap is 20.55M.</span></p><p><strong>Token Reserve Split (XX%):</strong></p><ul><li>1.5% presale</li><li>16% Founders</li><li>6% Employees</li><li>4% Company Reserve</li><li>3% External Consultants</li><li>1% Bounty-program</li></ul><p>The ABC ICO features escrow and audit agents along with a bounty program.</p>",
+    "TokenType": "ETH (ERC20)",
+    "WebsiteLink": "https://ab-chain.com/",
+    "FundingCap": "20550000",
+    "FundingTarget": "10000000",
+    "Date": 1505714400,
+    "EndDate": 1506837600,
+    "FundsRaisedList": "N/A",
+    "FundsRaisedUSD": "N/A",
+    "StartPrice": "0.001",
+    "StartPriceCurrency": "ETH",
+    "Jurisdiction": "N/A",
+    "BlogLink": "https://medium.com/ab-chain/",
+    "WhitePaperLink": "https://ab-chain.com/storage/whitepapers/AB-CHAIN_whitepaper_EN.pdf"
+  },
+  "ccId": "303943"
+}

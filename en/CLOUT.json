@@ -1,0 +1,58 @@
+{
+  "General": {
+    "Symbol": "CLOUT",
+    "Name": "Clout",
+    "Description": "<p>The Clout Network is a decentralized social media platform where users are rewarded for writing, sharing and upvoting the highest-quality posts. The platform is cryptocurrency and blockchain-specific, giving cryptocurrency enthusiasts and investors an information hub with incentivized curation. The CLOUT token is an ERC223 token that allows the user to receive period airdrops of the CLC token, a utility token used to pay the platform fees and to reward writers and curators.</p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "100000000",
+    "Algorithm": null,
+    "ProofType": null,
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "27/10/2017",
+    "TotalCoinsMined": 18678289.275655363,
+    "Twitter": "@clout_media",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": null,
+    "GitHub": null,
+    "OnMarkets": [
+      "EtherDelta"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Ongoing",
+    "Description": "<p><span>The Clout Network is a decentralized social media platform where users are rewarded for writing, sharing and upvoting the highest-quality posts. The platform is cryptocurrency and blockchain-specific, giving cryptocurrency enthusiasts and investors an information hub with incentivized curation. The CLOUT token is an ERC223 token that allows the user to receive period airdrops of the CLC token, a utility token used to pay the platform fees and to reward writers and curators.</span></p><p><strong>Team</strong>:</p><ul><li><strong>Sean Kirtz:</strong> Founder and President <a href=\"https://www.linkedin.com/in/sean-kirtz-b8aba9149\" target=\"_blank\"><img src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Frank Lucido:</strong> Co-founder and vice president <a href=\"https://www.linkedin.com/in/frank-lucido-244816a2/\" target=\"_blank\"><img src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Dean James:</strong> Co-founder and COO <a href=\"https://www.linkedin.com/in/dean-langas-bb5a7759/\" target=\"_blank\"><img src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Simon Josef:</strong> Co-founder and Design Lead <a href=\"https://www.linkedin.com/in/simonjosef/\" target=\"_blank\"><img src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li></ul><p>The Clout Network ICO will start on the 27th of October and will last for one month until the 27th of November or until the cap is reached. The total ICO allocation represents 7% of the total token supply and will be available for ETH and BTC. The ICO funding cap is $33M. </p><p><strong>Token Reserve Split (XX%):</strong></p><ul><li>3% Pre-sale</li><li>30% developers and bounties</li><li>20% CLOUT Fund </li><li>25% developers and executives overtime</li><li>10% will be retained by the founders</li><li>5% to be released every 1 year over the next 5 years</li></ul><p>The Clout ICO features a bounty campaign.</p>",
+    "TokenType": "ETH (ERC223)",
+    "WebsiteLink": "http://clout.io/crowdsale.html",
+    "FundingCap": "33000000 USD",
+    "FundingTarget": "N/A",
+    "Date": 1510927200,
+    "EndDate": 1513519200,
+    "FundsRaisedList": "2,528,087 CLOUT sold.",
+    "FundsRaisedUSD": "N/A",
+    "StartPrice": "N/A",
+    "StartPriceCurrency": "USD",
+    "Jurisdiction": "N/A",
+    "BlogLink": "https://medium.com/@CLOUT.IO",
+    "WhitePaperLink": "http://clout.io/assets/v.6-clout-final-wp-oct.6.pdf"
+  },
+  "ccId": "340816"
+}

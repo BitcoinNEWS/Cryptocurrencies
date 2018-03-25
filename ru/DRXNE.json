@@ -1,0 +1,58 @@
+{
+  "General": {
+    "Symbol": "DRXNE",
+    "Name": "Droxne",
+    "Description": "<p>Droxne is a peer-to-peer gaming platform. On the first release, the Droxne gaming foundation will launch four games, the Cryptobird, the Crypto Stock Market, the DroxDice, and the Rock, Papper and Scissors.</p><p>DRXNE is a PoS token that will be used to reward the users that play DROXNE games.</p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": null,
+    "Algorithm": "PoS",
+    "ProofType": "PoS",
+    "BlockReward": 128.13390366295653,
+    "Explorer": null,
+    "StartDate": "27/07/2017",
+    "TotalCoinsMined": 89964564.07920767,
+    "Twitter": "@DRXNEgaming",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": null,
+    "GitHub": null,
+    "OnMarkets": [
+      "Cryptopia"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "N/A",
+    "Description": null,
+    "TokenType": null,
+    "WebsiteLink": null,
+    "FundingCap": null,
+    "FundingTarget": null,
+    "Date": null,
+    "EndDate": null,
+    "FundsRaisedList": null,
+    "FundsRaisedUSD": null,
+    "StartPrice": null,
+    "StartPriceCurrency": null,
+    "Jurisdiction": null,
+    "BlogLink": null,
+    "WhitePaperLink": null
+  },
+  "ccId": "384953"
+}

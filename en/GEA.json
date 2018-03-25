@@ -1,0 +1,56 @@
+{
+  "General": {
+    "Symbol": "GEA",
+    "Name": "Goldea",
+    "Description": "<p>Goldea is a gold mining operation in which proceeds are destributed to all GEA holders. GEA is an ERC20 token.</p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "3000000",
+    "Algorithm": null,
+    "ProofType": null,
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "01/12/2017",
+    "TotalCoinsMined": null,
+    "Twitter": "@GOLDEA_io",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": null,
+    "GitHub": null,
+    "OnMarkets": [],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Ongoing",
+    "Description": "<p><span>Goldea is a gold mining operation in which proceeds are destributed to all GEA holders. GEA is an ERC20 token.</span></p><p><strong>Team</strong>:</p><ul><li>Draško Jocić: Founder and CEO <a href=\"https://www.facebook.com/drasko.jocic\" target=\"_blank\"><img src=\"/media/1383930/face_logo_final.png?width=13&amp;height=13\" alt=\"\" data-id=\"202866\"></a></li><li>Dr.Uroš Herlec: Main Geologist <a href=\"https://www.facebook.com/uros.herlec\" target=\"_blank\"><img src=\"/media/1383930/face_logo_final.png?width=13&amp;height=13\" alt=\"\" data-id=\"202866\"></a></li><li>Ing. Vital Dittrich: Mine Engineer</li><li>Nadiorou Dabo: Country Manager <a href=\"https://www.facebook.com/nadiourou\" target=\"_blank\"><img src=\"/media/1383930/face_logo_final.png?width=13&amp;height=13\" alt=\"\" data-id=\"202866\"></a></li></ul><p>The Goldea ICO will start on the 1st of December 2017 and will end on the 31st of March 2018. The ICO token allocation is set at 77% of the total supply. The tokens will be available for a $12 starting price and can be bought with BTC and ETH. The funding soft cap is set at 20000 ETH and the hard cap is set at 60000 ETH.</p><p><strong>Token Reserve Split (23%):</strong></p><ul><li><span>20% Team, </span></li><li><span>2% Bounty, </span></li><li><span>1% Pre-ICO</span></li></ul><p>The Goldea ICO features an escrow agent and also a bonus and bounty campaigns.</p><p><strong>Bonus Structure:</strong></p><ul><li>1st week of each round - 15%,</li><li>2nd of each round - 10%,</li><li>3rd of each round - 5%.</li></ul>",
+    "TokenType": "ETH (ERC20)",
+    "WebsiteLink": "https://www.goldea.io/",
+    "FundingCap": "60000 ETH",
+    "FundingTarget": "20000 ETH",
+    "Date": 1512086400,
+    "EndDate": 1522454400,
+    "FundsRaisedList": "1,501,239 USD \r\n77.35443 ETH\r\n0.52460 BTC",
+    "FundsRaisedUSD": "1501239",
+    "StartPrice": "12",
+    "StartPriceCurrency": "USD",
+    "Jurisdiction": "United Arab Emirates",
+    "BlogLink": "https://medium.com/@Goldea/",
+    "WhitePaperLink": "https://www.goldea.io/docs/goldea/actual/GOLDEA-WhitePaperEng.pdf"
+  },
+  "ccId": "421896"
+}

@@ -1,0 +1,58 @@
+{
+  "General": {
+    "Symbol": "TOM",
+    "Name": "Tomahawkcoin",
+    "Description": "<p>Tomahawkcoin is a Waves-based token created to bridge the two worlds of trading virtual currency and the equity ownership in Tomahawk Exploration LLC.</p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "200000000",
+    "Algorithm": "N/A",
+    "ProofType": "N/A",
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "30/07/2017",
+    "TotalCoinsMined": null,
+    "Twitter": "@Tomahawkcoin",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "http://www.tomahawkcoin.com/",
+    "GitHub": null,
+    "OnMarkets": [
+      "WavesDEX"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Ongoing",
+    "Description": "<p>Tomahawkcoin is a Waves-based token created to bridge the two worlds of trading virtual currency and the equity ownership in Tomahawk Exploration LLC.</p><p><strong>Team</strong>:</p><ul><li><strong>David Laurance:</strong> CEO</li><li><strong>Rick Shaddock:</strong> Board Member</li><li><strong>Horia Cretan:</strong> CIO</li></ul><p>The TOM ICO began on the 30th of July and will last for a month or until 50% of the total coin supply is sold for $5000000. </p><p><strong>Token Reserve Split (XX%):</strong></p><ul><li>50% Marketing/Advertising/Employees/Aquisitions/Escrow</li></ul>",
+    "TokenType": "WAVES",
+    "WebsiteLink": "http://www.tomahawkcoin.com/",
+    "FundingCap": "$5000000",
+    "FundingTarget": "$5000000",
+    "Date": 1501452008,
+    "EndDate": 1504130416,
+    "FundsRaisedList": "N/A",
+    "FundsRaisedUSD": "N/A",
+    "StartPrice": "0.05",
+    "StartPriceCurrency": "USD",
+    "Jurisdiction": "N/A",
+    "BlogLink": "https://medium.com/@tomahawkcoin",
+    "WhitePaperLink": "https://drive.google.com/file/d/0B3p647q2sdaEVGRCUVZBUURNbzQ/view"
+  },
+  "ccId": "215602"
+}

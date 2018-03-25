@@ -1,0 +1,58 @@
+{
+  "General": {
+    "Symbol": "SDAO",
+    "Name": "Solar DAO",
+    "Description": "<p><span>Solar DAO is a closed-end investment fund on the Ethereum blockchain. It designed to reduce risks, costs and surpass technical barriers while investing in PV solar plants worldwide. It raises funds and subsidizes PV solar plants across the globe.</span></p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "80000000",
+    "Algorithm": "N/A",
+    "ProofType": "N/A",
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "27/07/2017",
+    "TotalCoinsMined": null,
+    "Twitter": "@SolarDAO",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "http://solardao.me/",
+    "GitHub": null,
+    "OnMarkets": [
+      "Yobit"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Ongoing",
+    "Description": "<p>Solar DAO is a closed-end investment fund on the Ethereum blockchain. It designed to reduce risks, costs and surpass technical barriers while investing in PV solar plants worldwide. It raises funds and subsidizes PV solar plants across the globe. 100% of the profit will be distributed among project participants with smart contact. PV solar plants produce electricity from sunlight and sell it to the grid with a dedicated tariff, which is fixed for up to 25 years. In the next 4 years <span>Solar DAO</span> will construct solar power plants in Israel, Portugal, Kazakhstan, and Ukraine. Funds for PV plants will be raised during the ICO for tokens. Tokens grant access to 100% of the project&#39;s profit and we will facilitate dividend distribution for token holders quarterly.</p><p><span>Solar DAO&#39;s</span> team has been working in photovoltaics since 1991. They implemented 70+ MW PV solar plants in Europe, developed 270 MW plants in Russia and 150 MW in Kazakhstan. <span>Solar DAO has</span> dedicated PV solar cells and modules production facilities in Russia, Spain, Germany and South Africa.</p><p><span>The ICO will be held in 2 stages:</span></p><ul><li><span>Pre-ICO: from July 27th to August 31st. Max cap $4M.</span></li><li><span>Core ICO: starts at the end of October.</span></li></ul><p><strong>Team</strong>:</p><ul><li><strong>Dmitriy Solodukha</strong>: CEO, Founder. <a href=\"https://www.facebook.com/dmitriy.solodukha\" target=\"_blank\"><img style=\"width: 13px; height: 13px;\" src=\"/media/1383930/face_logo_final.png?width=13&amp;height=13\" alt=\"\" data-id=\"202866\"></a> <a href=\"https://www.linkedin.com/in/solodukha/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Oleg Solodukha</strong>: CTO, Co-Founder.<span> </span><a href=\"https://www.facebook.com/profile.php?id=100017095211600\" target=\"_blank\"><img style=\"width: 13px; height: 13px;\" src=\"/media/1383930/face_logo_final.png?width=13&amp;height=13\" alt=\"\" data-id=\"202866\"></a></li><li><strong>Evgeny Dorofeev</strong>: CFO, Consultant.</li><li><strong>Alexander Ulanov</strong><span>: Lawyer, Expert in Internation Law.</span></li><li><strong>Andrey Podolyan</strong><span>: Crypto Trader, Analyst.</span><span> </span><a href=\"https://www.facebook.com/andrey.podolyan.83\" target=\"_blank\"><img style=\"width: 13px; height: 13px;\" src=\"/media/1383930/face_logo_final.png?width=13&amp;height=13\" alt=\"\" data-id=\"202866\"></a></li><li><strong>Engeny Arkhipov</strong><span>: Legal Affair Adviser.</span><span> </span><a href=\"https://www.linkedin.com/in/evgeny-arkhipov-03303912/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Mazov Sergey</strong><span>: .NET/Solidity Developer.</span></li><li><strong>Roman Sukhach</strong><span>: Development Team Lead.</span></li><li><strong>Vladimir Sulatskov</strong><span>: Full Stack Developer.</span></li></ul><p><span>The </span><span>Pre-I</span><span>CO will be held from July the 27th until August the 31st, and could be finished earlier if </span><span>the funding cap is reached before the ending date.</span></p><p><strong><img style=\"width: 379px; height: 240px;\" src=\"/media/1383936/sdao_bonus1.png?width=379&amp;height=240\" alt=\"\" data-id=\"203222\"></strong></p><p><strong>Token Reserve Split (25%):</strong></p><ul><li>23% Core Team;</li><li>02% Bounty Campaign;</li></ul><p><img style=\"width: 295px; height: 299px;\" src=\"/media/1383934/sdao_split.png?width=295&amp;height=299\" alt=\"\" data-id=\"203206\"></p><p> </p>",
+    "TokenType": "ETH (ERC20)",
+    "WebsiteLink": "http://solardao.me/",
+    "FundingCap": "4,000,000 USD",
+    "FundingTarget": "100,000 USD",
+    "Date": 1501113600,
+    "EndDate": 1504197954,
+    "FundsRaisedList": "403,890 USD",
+    "FundsRaisedUSD": "403890",
+    "StartPrice": "0.5",
+    "StartPriceCurrency": "USD",
+    "Jurisdiction": "N/A",
+    "BlogLink": "https://medium.com/@solar.dao",
+    "WhitePaperLink": "http://solardao.ru/files/wpeng.pdf"
+  },
+  "ccId": "203183"
+}

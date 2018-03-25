@@ -1,0 +1,60 @@
+{
+  "General": {
+    "Symbol": "VIBE",
+    "Name": "VIBEHub",
+    "Description": "<p><span>VIBEHub </span><span>unites Virtual/Augmented Reality with blockchain technology. It is an Ethereum-based Virtual reality platform which incorporates several marketplaces and hubs. </span><span>The VIBE token will serve as the common currency on all the platform&#39;s marketplaces.</span></p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "267000000",
+    "Algorithm": null,
+    "ProofType": null,
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "25/07/2017",
+    "TotalCoinsMined": 267000000,
+    "Twitter": "@VibeHubVR",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": null,
+    "GitHub": null,
+    "OnMarkets": [
+      "Binance",
+      "EtherDelta",
+      "HitBTC"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Finished",
+    "Description": "<p>VIBEHub unites Virtual/Augmented Reality with blockchain technology. It is an Ethereum-based Virtual reality platform which incorporates several marketplaces and hubs. The VIBE token will serve as the common currency on all the platform&#39;s marketplaces.</p><p><strong>Team</strong>:</p><ul><li><strong>Alession Mack</strong>: Co-Founder, Futurist, and Tech Guru. <img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></li><li><strong>Matthew Myers</strong>: Co-Founder, Crypto Expert, and Musician. <img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></li><li><strong>Fred Bender</strong>: VR/AR Reality Senior Developer and Tech Enthusiast.<span> </span><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></li><li><strong>Joakim Holmer</strong>: Advisor and Co-Founder of LIVETOURLAB. <a href=\"https://www.linkedin.com/in/joakimholmer/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Renee Isaac</strong>: Quality Assurance Lead. <img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></li><li><strong>Janggle Pong</strong>: Developer. <img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></li><li><strong>Thanh Tung Mai</strong>: Developer. <a href=\"https://www.linkedin.com/in/tung-mai-a6961214b/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Hung Nguyen Manh</strong>: Developer. <a href=\"https://www.linkedin.com/in/h%C3%B9ng-nguy%E1%BB%85n-m%E1%BA%A1nh-61860a106/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Dinh Ngoc Anh</strong>: POSITION. <a href=\"https://www.linkedin.com/in/anhdinhngoc/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Mark Koops</strong>: Advisor and Regional VP for Ericsson. <a href=\"https://www.linkedin.com/in/markkoops/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Sean Lundrigan</strong>: Cryptomarket Analyst and Developer. <img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></li><li><strong>Anders Larsson</strong><span>: Advisor and Co-Founder of LIVETOURLAB. </span><a href=\"https://www.linkedin.com/in/anders-larsson/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li></ul><p>If you are holding VIBEX, You must redeem them for VIBE <a href=\"https://www.vibehub.io/ico/\" target=\"_blank\">here</a>.</p><p>VIBE is the official currency for the platform. The redeem rate is 1 VIBEX = 255.19 VIBE.</p>",
+    "TokenType": "ETH (ERC20)",
+    "WebsiteLink": null,
+    "FundingCap": "N/A",
+    "FundingTarget": "N/A",
+    "Date": null,
+    "EndDate": 1506816000,
+    "FundsRaisedList": "N/A",
+    "FundsRaisedUSD": "N/A",
+    "StartPrice": "N/A",
+    "StartPriceCurrency": "N/A",
+    "Jurisdiction": "N/A",
+    "BlogLink": null,
+    "WhitePaperLink": "https://www.vibehub.io/VibeHubWhitepaper2017.pdf"
+  },
+  "ccId": "336538"
+}

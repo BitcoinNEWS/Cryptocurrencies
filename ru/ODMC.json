@@ -1,0 +1,56 @@
+{
+  "General": {
+    "Symbol": "ODMC",
+    "Name": "ODMCoin",
+    "Description": "<p><span>ODMCoin is the world&#39;s first blockchain investment option in the oil and gas sector. Its main goal is to manufacture the equipment designed to process oil drilling mud into the material for building roads right at the well site.</span></p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "25000",
+    "Algorithm": null,
+    "ProofType": null,
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "01/12/2017",
+    "TotalCoinsMined": null,
+    "Twitter": "@ODMCoin",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": null,
+    "GitHub": null,
+    "OnMarkets": [],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Ongoing",
+    "Description": "<p><span>ODMCoin is the world&#39;s first blockchain investment option in the oil and gas sector. Its main goal is to manufacture the equipment designed to process oil drilling mud into the material for building roads right at the well site.</span></p><p><strong>Team</strong>:</p><ul><li><strong>Aleksandr Doronin</strong>: CEO. <a href=\"https://www.facebook.com/profile.php?id=100001016342802\" target=\"_blank\"><img style=\"width: 13px; height: 13px;\" src=\"/media/1383930/face_logo_final.png?width=13&amp;height=13\" alt=\"\" data-id=\"202866\"></a></li><li><strong>Mikhail Tsekhanskii</strong>: Deputy Director of Finance.</li><li><strong>Oleg Novikov</strong>: Chief of Science.</li><li><strong>Fanil Yusupov</strong><span>: IT Chief.</span><span><span> </span></span><a href=\"https://www.facebook.com/demolit.fanil\" target=\"_blank\"><img style=\"width: 13px; height: 13px;\" src=\"/media/1383930/face_logo_final.png?width=13&amp;height=13\" alt=\"\" data-id=\"202866\"></a></li><li><strong>Vladimir Kuznetsov</strong><span>: Production Director.</span></li><li><strong>Irina Barzhak</strong><span>: Press center Director.</span><span><span> </span></span><a href=\"https://www.facebook.com/profile.php?id=100000607108358\" target=\"_blank\"><img style=\"width: 13px; height: 13px;\" src=\"/media/1383930/face_logo_final.png?width=13&amp;height=13\" alt=\"\" data-id=\"202866\"></a></li><li><strong>Vasiliy Vasilkov</strong><span>: International project support.</span><span><span> </span></span><a href=\"https://www.linkedin.com/in/vasilkoff\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li></ul><p><span>ODMCoin w</span>ill be holding its ICO on 1st of December, 2017. The ICO funding cap is 800 BTC and is expected to end on the 31st of December, 2017 or when the funding cap is reached.</p>",
+    "TokenType": "ETH (ERC20)",
+    "WebsiteLink": "https://odmcoin.com/",
+    "FundingCap": " 4,200,000 USD",
+    "FundingTarget": "1,400,000 USD",
+    "Date": 1512126000,
+    "EndDate": 1514718000,
+    "FundsRaisedList": "Presale: 200,000 USD\r\nICO: 73.627978666371281146 ETH",
+    "FundsRaisedUSD": "251266.4252656",
+    "StartPrice": "N/A",
+    "StartPriceCurrency": "N/A",
+    "Jurisdiction": "Russia",
+    "BlogLink": null,
+    "WhitePaperLink": "https://odmcoin.com/assets/files/docs/en/White_paper.pdf?4"
+  },
+  "ccId": "357404"
+}

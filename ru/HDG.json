@@ -1,0 +1,60 @@
+{
+  "General": {
+    "Symbol": "HDG",
+    "Name": "Hedge Token",
+    "Description": "<p>The Hedge platform provides users with hedge intruments designed for the cryptocurrency market. <span>crowdsale supporters, technology evangelists, and crypto investors to manage<span> their portfolios according to preferred risk exposure. The HDG is an Ethereum-based token that is used to pay fees within the platform. This token runs on a buy-back program.</span></span></p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "5774676.11",
+    "Algorithm": null,
+    "ProofType": null,
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "30/08/2017",
+    "TotalCoinsMined": null,
+    "Twitter": "@hedgetoken",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": null,
+    "GitHub": null,
+    "OnMarkets": [
+      "Yobit",
+      "EtherDelta",
+      "HitBTC"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Ongoing",
+    "Description": "<p><span>The Hedge platform provides users with hedge intruments designed for the cryptocurrency market. </span><span>crowdsale supporters, technology evangelists, and crypto investors to manage<span> their portfolios according to preferred risk exposure. The HDG is an Ethereum-based token that is used to pay fees within the platform. This token runs on a buy-back program.</span></span></p><p><strong>Team</strong>:</p><ul><li><strong>Janez Benedik <a href=\"https://www.linkedin.com/in/janez-benedik-36098121/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></strong></li><li><strong>Luka Gubo <a href=\"https://www.linkedin.com/in/lukagubo/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></strong></li><li><strong>Giovanni Lesna</strong> <a href=\"https://www.linkedin.com/in/giovanni-lesna-maranetto-70688446/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong><span>Gasper Stih</span></strong><span><span> </span></span><a href=\"https://www.linkedin.com/in/gasperstih/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong><span>Kristjan Dekleva</span></strong><span><span> </span></span><a href=\"https://www.linkedin.com/in/kristjan-dekleva-5aa95733/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong><span>Savo Lovsin</span></strong><span><span> </span></span><a href=\"https://www.hedge-crypto.com/about-us/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li></ul><p>The Hedge ICO will begin on the 15th of September, 2017 (12:00) and run for a month or until the cap of 50000ETH is reached. During the ICO, 60% of the total token supply will be available for purchase. Users will be able to participate in the campaign with ETH. The starting price for the HDG token is 0.002 ETH.</p><p>Any unsold tokens will be burnt</p><p><strong>Token Reserve Split:</strong></p><ul><li>20% team</li><li>7% advisors</li><li>5% initial investors</li><li>5% future partnerships</li><li>3% contributors </li></ul><p>The HDG Initial Coin Offering offers a Bounty campaign as well.</p><p><strong>Bonus Structure:</strong></p><ul><li>1. Day: 15 %</li><li>2. Day: 12 %</li><li>3. Day: 10 %</li><li>4. Day: 9%</li><li>5. Day: 8 %</li><li>6. Day: 7 %</li><li>7. Day: 6 %</li><li>8. Day: 5 %</li><li>9. Day: 4 %</li><li>10. Day: 3 %</li></ul><p> </p><div class=\"avia-progress-bar theme-color-bar icon-bar-no\"><div class=\"progress avia_start_animation\"><div class=\"bar-outer\"></div></div></div>",
+    "TokenType": "ETH (ERC20)",
+    "WebsiteLink": "https://www.hedge-crypto.com/crowdsale/",
+    "FundingCap": "50.000 ETH",
+    "FundingTarget": "N/A",
+    "Date": 1505469600,
+    "EndDate": 1508061600,
+    "FundsRaisedList": "2929 ETH",
+    "FundsRaisedUSD": "896244.71",
+    "StartPrice": "0.002",
+    "StartPriceCurrency": "ETH",
+    "Jurisdiction": "N/A",
+    "BlogLink": "https://medium.com/@hedgetoken",
+    "WhitePaperLink": "https://www.hedge-crypto.com/whitepaper"
+  },
+  "ccId": "237407"
+}

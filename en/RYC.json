@@ -1,0 +1,58 @@
+{
+  "General": {
+    "Symbol": "RYC",
+    "Name": "RoyalCoin",
+    "Description": "<p>RoyalCoin is a new scrypt based coin created by three Montreal based developers. The block time is set to 3 minutes and the subsidy halves very 600,000 blocks. Difficulty retargets once per day. There was no premine and the orignal block reward was set to 100 RYC with a hard cap limit of 140,000,000.</p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "140000000",
+    "Algorithm": "Scrypt",
+    "ProofType": "PoW",
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "09/05/2013",
+    "TotalCoinsMined": null,
+    "Twitter": null,
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "http://royalcoin.org/",
+    "GitHub": null,
+    "OnMarkets": [
+      "Cryptsy"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "N/A",
+    "Description": null,
+    "TokenType": null,
+    "WebsiteLink": null,
+    "FundingCap": null,
+    "FundingTarget": null,
+    "Date": null,
+    "EndDate": null,
+    "FundsRaisedList": null,
+    "FundsRaisedUSD": null,
+    "StartPrice": null,
+    "StartPriceCurrency": null,
+    "Jurisdiction": null,
+    "BlogLink": null,
+    "WhitePaperLink": null
+  },
+  "ccId": "4596"
+}

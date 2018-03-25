@@ -1,0 +1,62 @@
+{
+  "General": {
+    "Symbol": "XCN",
+    "Name": "Cryptonite",
+    "Description": "<p>Cryptonite was developed by the Mini-blockchain Project over a period of almost four months. Cryptonite is a fork of the Bitcoin core but the code has been extensively modified and expanded upon.</p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "1840000000",
+    "Algorithm": "M7 POW",
+    "ProofType": "PoW",
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "12/06/2014",
+    "TotalCoinsMined": 402061024,
+    "Twitter": "@CryptoniteCoin",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "http://cryptonite.info/",
+    "GitHub": null,
+    "OnMarkets": [
+      "BTC38",
+      "Novaexchange",
+      "BTER",
+      "BXinth",
+      "Poloniex"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "N/A",
+    "Description": null,
+    "TokenType": null,
+    "WebsiteLink": null,
+    "FundingCap": null,
+    "FundingTarget": null,
+    "Date": null,
+    "EndDate": null,
+    "FundsRaisedList": null,
+    "FundsRaisedUSD": null,
+    "StartPrice": null,
+    "StartPriceCurrency": null,
+    "Jurisdiction": null,
+    "BlogLink": null,
+    "WhitePaperLink": null
+  },
+  "ccId": "5386"
+}

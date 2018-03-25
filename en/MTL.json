@@ -1,0 +1,65 @@
+{
+  "General": {
+    "Symbol": "MTL",
+    "Name": "Metal",
+    "Description": "<p>Metal is a blockchain-based system utilizing Proof-of-Processed-Payments to identify users, rewarding them for converting legacy fiat currency into cryptocurrency<span>, acting as a bridge to the cryptocurrency world. Metal&#39;s system uses provable payments attached to verified identities to distribute currency. Anyone can participate to earn METAL as a reward for converting fiat to cryptocurrency. The Metal project aims</span><span><span> to provide all of the financial services small to medium sized businesses (SMB) might need.</span></span></p><p><span><span>The MTL token is the native currency within the Metal system and it&#39;s distributed through a Proof of Processed Payments (PoPP) in which users earn MTL for sending money or making purchases.</span></span></p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "66588888",
+    "Algorithm": "N/A",
+    "ProofType": "PoPP",
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "09/06/2017",
+    "TotalCoinsMined": 66588888,
+    "Twitter": "@metalpaysme",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "https://www.metalpay.com/",
+    "GitHub": null,
+    "OnMarkets": [
+      "OKEX",
+      "Tidex",
+      "Binance",
+      "LiveCoin",
+      "Cryptopia",
+      "BitTrex",
+      "EtherDelta",
+      "HuobiPro"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Finished",
+    "Description": "<p><span>The </span><span>MTL</span><span> token is the native currency within the Metal system and it&#39;s distributed through a </span><span>Proof of Processed Payments (PoPP) in which users earn MTL for </span><span>sending money or mak</span><span>ing</span><span><span> </span>purchases. Metal projects $2,951,000 will provide over two years of operating expenses with a team of ten<span> </span>people. Furthermore, Metal expects to be revenue positive in its first year. Additionally, Metal<span> </span>has raised $556,000 in equity from venture firms Alphabit Fund, G2 Ventures, Gateway, Erik<span> </span>Voorhees, Andrew Lee, among others. This funding was completed prior to the token sale,<span> </span>which has allowed Metal to make crucial hires and expenditures.</span></p><p><span>Metal held its ICO on <span>June 9</span><span>, 2017. The ICO token supply represents<span> </span></span><span>71,4</span><span>% of the total token supply</span><span> at the time</span><span>.</span></span></p><p><strong>Team</strong>:</p><ul><li><strong><span>Marshall Hayner</span></strong><span>: CEO, Founder.</span></li><li><strong><span>Oscar Munoz</span></strong>: <span>Chief Compliance</span>.</li><li><strong><span>Madisyn Li</span></strong>: <span>Creative Director</span>.</li><li><strong><span>Andy Goldstein</span></strong>:<span> </span><span>Chief Strategy.</span></li></ul><p><strong>Token Reserve Split (28,6%):</strong></p><ul><li><span>20%  - Operation Pool for Metal Project;</span></li><li><span>5,6</span><span>% - Employees/Advisors;</span></li><li><span>03%  - Metal Foundation;</span></li></ul><p>Metal ICO campaign featured bonus, bounties, escrow and the token is mineable.</p>",
+    "TokenType": "ETH (ERC20)",
+    "WebsiteLink": "https://www.metalpay.com/",
+    "FundingCap": "N/A",
+    "FundingTarget": "N/A",
+    "Date": 1496966400,
+    "EndDate": 1499515200,
+    "FundsRaisedList": "N/A",
+    "FundsRaisedUSD": "9000000",
+    "StartPrice": "0.18",
+    "StartPriceCurrency": "USD",
+    "Jurisdiction": "N/A",
+    "BlogLink": "https://blog.metalpay.com/",
+    "WhitePaperLink": "https://www.metalpay.com/assets/pdf/whitepaper.pdf"
+  },
+  "ccId": "179164"
+}

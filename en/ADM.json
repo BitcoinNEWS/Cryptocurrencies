@@ -1,0 +1,56 @@
+{
+  "General": {
+    "Symbol": "ADM",
+    "Name": "Adamant",
+    "Description": "<p>Adamant is a blockchain-based system for data and message transfers that acts alongside an integrated payment system, providing users with a secure and encrypted source for business and personal communications.  <span>Adamant </span>features a messenger available for any device, and a corporate system for data and message transfers with an ability to digitally-sign documents and an integrated payment system that allows a company to reduce its internal transactional costs. ADM is a DPoS cryptocurrency used on the platform for secure payments and as an incentive layer.</p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "200000000",
+    "Algorithm": "DPoS",
+    "ProofType": "DPoS",
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "01/01/2018",
+    "TotalCoinsMined": null,
+    "Twitter": "@adamant_im",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": null,
+    "GitHub": null,
+    "OnMarkets": [],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Ongoing",
+    "Description": "<p><span>Adamant is a blockchain-based system for data and message transfers that acts alongside an integrated payment system, providing users with a secure and encrypted source for business and personal communications.  </span><span>Adamant </span><span>features a messenger available for any device, and a corporate system for data and message transfers with an ability to digitally-sign documents and an integrated payment system that allows a company to reduce its internal transactional costs. ADM is a<span> </span></span>DPoS<span><span> </span>cryptocurrency used on the platform for secure payments and as an incentive layer.</span></p><p>The Admant ICO began on the 30th of January and will last until the 30th of June. The ICO token allocation represents 75% of the total token supply which will be available at a 0.0004 base price. The ICO funding target is set at 500,000 USD and the cap at 8,000,000 USD.</p><p><strong>Token Reserve Split (15%):</strong></p><ul><li>4% (3,920,000 ADM) — reserve for system development and infrastructure<br />support;</li><li>4% (3,920,000 ADM) — ADAMANT Business Service marketing reserve;</li><li>9% (8,820,000 ADM) — initial Investors’ and founders’ rewards;</li><li>8% (7,840,000 ADM) — Adoption wallet for Bounty Campaigns and initial user</li></ul><p>The ADM ICO features a bonus and bounty campaign. The ADM token will be mineable through a DPoS system.</p><p><strong>Bonus Structure:</strong></p><ul><li>4% (3,920,000 ADM) — reserve for system development and infrastructure support; </li><li>4% (3,920,000 ADM) — ADAMANT Business Service marketing reserve;</li><li>9% (8,820,000 ADM) — initial Investors’ and founders’ rewards;</li><li>8% (7,840,000 ADM) — Adoption wallet for Bounty Campaigns and initial user assessments.</li></ul>",
+    "TokenType": "New Blockchain",
+    "WebsiteLink": "https://rdr.achivanetwork.com/click?pid=1276&offer_id=207",
+    "FundingCap": "8,000,000 USD",
+    "FundingTarget": "500,000 USD",
+    "Date": 1517270400,
+    "EndDate": 1530316800,
+    "FundsRaisedList": "N/A",
+    "FundsRaisedUSD": "N/A",
+    "StartPrice": "0.0004",
+    "StartPriceCurrency": "ETH",
+    "Jurisdiction": "N/A",
+    "BlogLink": null,
+    "WhitePaperLink": "https://adamant.im/whitepaper/adamant-whitepaper-en.pdf"
+  },
+  "ccId": "833028"
+}

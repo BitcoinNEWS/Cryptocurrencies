@@ -1,0 +1,60 @@
+{
+  "General": {
+    "Symbol": "XID",
+    "Name": "International Diamond Coin",
+    "Description": "<p>XID coin can be exchanged for loose diamonds on the International Diamond Coin official website.</p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "30820620.1838",
+    "Algorithm": null,
+    "ProofType": null,
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "18/08/2015",
+    "TotalCoinsMined": null,
+    "Twitter": null,
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "http://xidcoin.com/en",
+    "GitHub": null,
+    "OnMarkets": [
+      "Liqui",
+      "Cryptopia",
+      "CCEX"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Finished",
+    "Description": "<p>SPHRE aims to be an information technology firm focused on blockchain projects. SPHRE is pursuing the development of more secure online services by applying new insights and developments in application design and methodology. Their project pipeline is centred around improving upon the legacy systems. 50 Million tokens were offered to investors, in addition 2.5% were created for founders reward to be held in escrow for 12 months. <span>6.5% of the maximum Crowdsale will be created for large bug and significant development bounties which will be published during the Air Platform project cycle.</span><br /><span>A fixed amount equivalent to 1% of the total Crowdsale, will be created for community bounties during the Crowdsale period. The sale took 1 month and raised 2,059 BTC from 1,090 participants.</span></p><p><span style=\"text-decoration: underline;\">The Team</span><br />Daren Seymour - CEO<br />Alison Fawcett - Chair of the Board <br />Kuldip Pardesi - Software and Technical Director <br />Mat Birch - Business Development <br />Jake Vartanian - Community and Strategic Advisor <br />Fran Strajnar - Principal Advisory <br />Patrick Dugan - Advisory OMNI Foundation <br />Michael Terpin - Advisor and Marketing <br />Marc Godard - Technical Advisor </p>",
+    "TokenType": "ETH (ERC20)",
+    "WebsiteLink": "http://www.sphre.co/",
+    "FundingCap": "10,000,000",
+    "FundingTarget": "N/A",
+    "Date": 1496332800,
+    "EndDate": 1498838400,
+    "FundsRaisedList": "2,059 BTC",
+    "FundsRaisedUSD": "5110000",
+    "StartPrice": "0.188",
+    "StartPriceCurrency": "USD",
+    "Jurisdiction": "N/A",
+    "BlogLink": "https://medium.com/sphre",
+    "WhitePaperLink": "http://www.sphre.co/cs/downloads/Air_Platform_Whitepaper.pdf"
+  },
+  "ccId": "20387"
+}

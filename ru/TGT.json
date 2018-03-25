@@ -1,0 +1,59 @@
+{
+  "General": {
+    "Symbol": "TGT",
+    "Name": "TargetCoin",
+    "Description": "<p><span>Target Coin is a tokenised long-short Cryptocurrency Fund which invests and trades in the CryptoCurrency market by utilizing machine learning and algorithmic trading strategies.</span></p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "2000100000",
+    "Algorithm": null,
+    "ProofType": null,
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "01/01/0001",
+    "TotalCoinsMined": 2000100000,
+    "Twitter": "@TargetCoin",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": null,
+    "GitHub": null,
+    "OnMarkets": [
+      "HitBTC",
+      "EtherDelta"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Finished",
+    "Description": "<p><span>Target Coin is a tokenised long-short Cryptocurrency Fund which invests and trades in the CryptoCurrency market by utilizing machine learning and algorithmic trading strategies</span><span>.</span></p>",
+    "TokenType": "ETH (ERC20)",
+    "WebsiteLink": null,
+    "FundingCap": "N/A",
+    "FundingTarget": "N/A",
+    "Date": null,
+    "EndDate": null,
+    "FundsRaisedList": "N/A",
+    "FundsRaisedUSD": "N/A",
+    "StartPrice": "N/A",
+    "StartPriceCurrency": "N/A",
+    "Jurisdiction": "N/A",
+    "BlogLink": null,
+    "WhitePaperLink": "https://docs.wixstatic.com/ugd/c281dc_6e00ec5ef9534f81b78bffc4ff24700d.pdf"
+  },
+  "ccId": "472769"
+}

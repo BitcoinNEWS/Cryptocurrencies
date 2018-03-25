@@ -1,0 +1,61 @@
+{
+  "General": {
+    "Symbol": "GP",
+    "Name": "GoldPieces",
+    "Description": "<p>GoldPieces is an X11 crypto currency that moves from proof of work to proof of stake with a 500% rate.</p><p>GoldPieces [GP] are an expandable digital currency to be utilized within the browser based gaming industries games themselves. Browser based games come in all shapes and sizes but one common principle they all share is the use of some monetary unit within the games walls. We think it would add a fun and interesting dimension to the browser gaming industry if the games took advantage of the blockchain digital currency technology used in the <strong>GoldPieces</strong> software.</p><p>Browser based games are strategy or turn based games that you can play in your browser in most cases. Some popular browser based game themes include Virtual pet sites where the player can raise a pet, equip it with weapons, feed it, and grow its stats over time.</p><p>Mafia based gameplay is another crowd favorite. You must complete missions and take over parts of the city to rise to the top of the family.</p><p>We will be launching and maintaining several browser based games that will use GoldPieces as the monetary unit within the game.</p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "0",
+    "Algorithm": "X11",
+    "ProofType": "PoW/PoS",
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "06/01/2015",
+    "TotalCoinsMined": 2881123.13248498,
+    "Twitter": "@Gold_Pieces",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "http://gpieces.com/",
+    "GitHub": null,
+    "OnMarkets": [
+      "Cryptopia",
+      "Yobit",
+      "BitTrex",
+      "CCEX"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "N/A",
+    "Description": null,
+    "TokenType": null,
+    "WebsiteLink": null,
+    "FundingCap": null,
+    "FundingTarget": null,
+    "Date": null,
+    "EndDate": null,
+    "FundsRaisedList": null,
+    "FundsRaisedUSD": null,
+    "StartPrice": null,
+    "StartPriceCurrency": null,
+    "Jurisdiction": null,
+    "BlogLink": null,
+    "WhitePaperLink": null
+  },
+  "ccId": "7625"
+}

@@ -1,0 +1,56 @@
+{
+  "General": {
+    "Symbol": "ET4",
+    "Name": "Eticket4",
+    "Description": "<div class=\"freebirdFormviewerViewItemsItemItem freebirdFormviewerViewItemsTextTextItem\" data-required=\"true\" data-item-id=\"534092066\"><div class=\"freebirdFormviewerViewItemsTextLongText freebirdFormviewerViewItemsTextDisabledText freebirdThemedInput\">Eticket4 is a blockchain-based P2P event ticket distribution and exchange platform with powerful analytical tools and an automated flexible loyalty program. ET4 is an Ethereum-based ERC20 token used for all transactions within the platform.</div></div>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "30000000",
+    "Algorithm": null,
+    "ProofType": null,
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "01/01/0001",
+    "TotalCoinsMined": null,
+    "Twitter": "@ET4_Official",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": null,
+    "GitHub": null,
+    "OnMarkets": [],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Ongoing",
+    "Description": "<p><span>Eticket4 </span><span>is a</span><span> blockchain-based P2P event ticket distribution and exchange platform with powerful analytical tools and an automated flexible loyalty program. ET4 is an Ethereum-based ERC20 token used for all transactions within the platform.</span></p><p><strong>Team</strong>:</p><ul><li>Daniil Kruchinin: Cofounder / Marketing <a href=\"https://www.facebook.com/daniil.krychinin\" target=\"_blank\"><img src=\"/media/1383930/face_logo_final.png?width=13&amp;height=13\" alt=\"\" data-id=\"202866\"></a></li><li>Dmitry Fedorovich: Cofounder / Chief Developer</li><li>Jevgenijs Vainsteins: Strategy director advisor <a href=\"https://www.linkedin.com/in/feranicus/\" target=\"_blank\"><img src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li>Ilya Stechkin: Adviser <a href=\"https://www.linkedin.com/in/ilyastechkin/\" target=\"_blank\"><img src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a> <a href=\"https://www.facebook.com/istechkin\" target=\"_blank\"><img src=\"/media/1383930/face_logo_final.png?width=13&amp;height=13\" alt=\"\" data-id=\"202866\"></a></li></ul><p>The Eticket4 ICO will start on the 30th of February and will last until the 23rd of March. The ICO token allocations represents  54% of the total token supply and will be available for a 0.001 ETH starting price. The ICO funding target/cap is set at 13800 ETH. </p><p><strong>Token Reserve Split (54%):</strong></p><ul><li><span>20% - Eticket4 team, </span></li><li><span>10% - Private offer, </span></li><li><span>10% - Mining, </span></li><li><span>7% - Growth fund, </span></li><li><span>4% - Advisers, </span></li><li><span>3% - Bounty</span></li></ul><p>The ET4 ICO features a bonus and bounty campaign.</p><p><strong>Bonus Structure:</strong></p><ul><li>5 Days: 8%</li><li>6 - 10 Days: 6%</li><li>11 - 20 Days: 4%</li><li>21 - 30 Days: 2<span>%</span></li></ul>",
+    "TokenType": "ETH (ERC20)",
+    "WebsiteLink": "http://et4.io",
+    "FundingCap": "13800 ETH",
+    "FundingTarget": "13800 ETH",
+    "Date": 1520208000,
+    "EndDate": 1522983600,
+    "FundsRaisedList": "2 143 000 ET4 sold\r\n679,617 USD",
+    "FundsRaisedUSD": "679617",
+    "StartPrice": "0.001",
+    "StartPriceCurrency": "ETH",
+    "Jurisdiction": "British Virgin Islands",
+    "BlogLink": "https://medium.com/@Eticket4_ICO",
+    "WhitePaperLink": "http://et4.io/ET4_Whitepaper_ENG.pdf"
+  },
+  "ccId": "685306"
+}

@@ -1,0 +1,56 @@
+{
+  "General": {
+    "Symbol": "DTT",
+    "Name": "DreamTeam Token",
+    "Description": "<p>DreamTeam is an eSports and gaming recruitment and management network, allowing users to build, grow, manage and monetize their teams. The DTT is an Ethereum-based token that acts as an the sole currency of the platform, used to pay players, teams, sponsors and tournament prizes.</p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": null,
+    "Algorithm": null,
+    "ProofType": null,
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "20/11/2017",
+    "TotalCoinsMined": null,
+    "Twitter": "@DreamTeam_Token",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": null,
+    "GitHub": null,
+    "OnMarkets": [],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Upcoming",
+    "Description": "<p><span>DreamTeam is an eSports and gaming recruitment and management network, allowing users to build, grow, manage and monetize their teams. The DTT is an Ethereum-based token that acts as an the sole currency of the platform, used to pay players, teams, sponsors and tournament prizes.</span></p><p><strong>Team</strong>:</p><ul><li>Alexander Kokhanovsky: CEO &amp; Founder <a href=\"https://www.linkedin.com/in/kokhanovskyy/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li>Volodymyr Panchenko: Co-Founder <a href=\"https://www.linkedin.com/in/volodymyr-panchenko-a8b906146/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li>Andriy Khavryuchenko: Blockchain Architect <a href=\"https://www.linkedin.com/in/akhavr/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li>Alexandr Baseda: Lead Architect <a href=\"https://www.linkedin.com/in/alexandr-beseda-499a0775/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li></ul><p>The Dream Team ICO will begin on the 20th of November and will last for four days. The ICO allocation represents 75% of the total DTT token supply which will be available at a 0.0005 ETH starting price. The ICO funding cap is $75M.</p><p><strong>Token Reserve Split:</strong></p><ul><li class=\"freebirdFormviewerViewItemsTextShortText freebirdFormviewerViewItemsTextDisabledText freebirdThemedInput\">75% TOKEN SALE,</li><li class=\"freebirdFormviewerViewItemsTextShortText freebirdFormviewerViewItemsTextDisabledText freebirdThemedInput\">10% DREAMTEAM RESERVE,</li><li class=\"freebirdFormviewerViewItemsTextShortText freebirdFormviewerViewItemsTextDisabledText freebirdThemedInput\">10% TEAM AND EARLY INVESTORS SHARE, VESTED IN 2 YEARS;</li><li class=\"freebirdFormviewerViewItemsTextShortText freebirdFormviewerViewItemsTextDisabledText freebirdThemedInput\">5% ADVISORY BOARD &amp; PARTNERS</li></ul><p>The Dream Team ICO features a bonus campaign</p><p><strong>Bonus Structure:</strong></p><ul><li><span>Day 1 - 5%, </span></li><li><span>Day 2 - 3%</span></li></ul>",
+    "TokenType": "ETH (ERC20)",
+    "WebsiteLink": "https://token.dreamteam.gg?utm_source=cryptocompare&utm_medium=list&utm_campaign=crypto_lt2909",
+    "FundingCap": "75000000",
+    "FundingTarget": "N/A",
+    "Date": 1512604800,
+    "EndDate": 1513209600,
+    "FundsRaisedList": "3,372,214 USD",
+    "FundsRaisedUSD": "3372214",
+    "StartPrice": "0.0005",
+    "StartPriceCurrency": "ETH",
+    "Jurisdiction": "N/A",
+    "BlogLink": null,
+    "WhitePaperLink": "https://token.dreamteam.gg/documents/DreamTeam_Whitepaper_ENG.pdf"
+  },
+  "ccId": "313176"
+}

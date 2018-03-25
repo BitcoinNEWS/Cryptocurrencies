@@ -1,0 +1,58 @@
+{
+  "General": {
+    "Symbol": "FLLW",
+    "Name": "Follow Coin",
+    "Description": "<p><span>Follow Coin is an Ethereum-based platform that gives novice traders the opportunity to follow experienced cryptocurrency traders. FLLW is an ERC223 token that allows users to access and use the services of the platform and app. It also serves as the reward given to the traders whenever a trade is deemed successful.</span></p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "1000000000",
+    "Algorithm": null,
+    "ProofType": null,
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "26/10/2017",
+    "TotalCoinsMined": 515547535.1739591,
+    "Twitter": "@FollowCoinbv",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": null,
+    "GitHub": null,
+    "OnMarkets": [
+      "EtherDelta"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Ongoing",
+    "Description": "<p><span>Follow Coin is an Ethereum-based platform that gives novice traders the opportunity to follow experienced cryptocurrency traders. FLLW is an ERC223 token that allows users to access and use the services of the platform and app. It also serves as the reward given to the traders whenever a trade is deemed successful.</span></p><p><strong>Team</strong>:</p><ul><li><strong>Thomas van der Bijl</strong>: CEO and co-founder.</li><li><strong>Joren Frielink<span>: </span></strong>CTO &amp; Co-Founder.</li><li><strong>Jamal Boykin</strong><span>: Ambassador.</span></li><li><span><strong>Jan Krasl</strong><span>: CCO &amp; Co-Founder.</span></span></li><li><strong>Sieuwert van Otterloo</strong><span>: Information Security Officer.</span></li><li><strong>Veronica van Hoogdalem</strong><span>: Spokesperson.</span></li><li><span><strong>Tim Wong</strong><span>: Trading Expert.</span></span></li><li><strong>Joep Winters</strong><span>: Ambassador.</span></li><li><span><strong>Roosmarijn van Haneghem</strong><span>: Account manager.</span></span></li><li><strong>Rosa-May Postma: </strong><span>Blockchain consultant.</span></li></ul><p>Follow Coin will be holding its ICO on October 27th, 2017. The ICO token supply represents 49% of the total token supply, so there will be a total of 49<span>0,000,000 </span>tokens available, for 0.0001 ETH each at the offering. The ICO the funding cap is 49,000 ETH and is expected to end on November 24, 2017, or when the funding cap is reached.</p><p><strong>Token Reserve Split (51%):</strong></p><ul><li>33% Retained by Follow Coin;</li><li>18% allocated for distribution to incentivize participation in the ecosystem;</li></ul><p><span>Follow Coin ICO campaign will feature Multi-sig Wallets, and the token will not be mineable.</span></p>",
+    "TokenType": "ETH (ERC20)",
+    "WebsiteLink": "https://tokensale.followcoin.io",
+    "FundingCap": "49,000 ETH",
+    "FundingTarget": "N/A",
+    "Date": 1509120000,
+    "EndDate": 1511542800,
+    "FundsRaisedList": "532.4738859477685 ETH",
+    "FundsRaisedUSD": "217808.443047",
+    "StartPrice": "0.0001",
+    "StartPriceCurrency": "ETH",
+    "Jurisdiction": "Netherlands",
+    "BlogLink": "https://medium.com/followcoin/follow-coin-goes-erc-223-54b23972cac6",
+    "WhitePaperLink": "https://followcoin.io/docs/followcoin-whitepaper.pdf"
+  },
+  "ccId": "350394"
+}

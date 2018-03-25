@@ -1,0 +1,61 @@
+{
+  "General": {
+    "Symbol": "ARDR",
+    "Name": "Ardor",
+    "Description": "<p><span>Ardor is a Blockchain-as-a-Service (BaaS) Platform that will allow users to create their own child chains with specific settings for asset issuance. Ardor is the evolution of the NXT blockchain and offers many advantages over its predecessor, both in functionality and in scalability.</span></p><p><span>ARDR, the Main Chain tokens are the backbone of the platform, they will be used maintain the blockchain and forge tokens from tx fees, which is the equivalent of Mining in the NXT Proof of Stake (PoS) protocol.</span></p><p><span>The distribution process for Ardor started on the 14th of July and lasted until 12th of October. During this time hourly snapshots of NXT Balances were taken and averaged, the balance was then given to holders on a 1 to 1 scale. ARDR issued as an asset on the NXT 1.9 Blockchain until the full release of the Ardor Platform in Q3 of 2017.</span></p><p>A second set of tokens <span>will be given to users according to their NXT holding on the day the first block of Ardor is mined, meaning that the balance won’t be measured and averaged over a period of time, but will instead be given on a 0.5 – 1 scale according to the one snapshot taken at the moment of the Genesis Block. These tokens will house the features of the first Ardor child chain.</span></p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "1000000000",
+    "Algorithm": null,
+    "ProofType": "PoS",
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "13/10/2016",
+    "TotalCoinsMined": "1000000000",
+    "Twitter": "@ArdorPlatform",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "https://www.ardorplatform.org/",
+    "GitHub": null,
+    "OnMarkets": [
+      "BitTrex",
+      "BTC38",
+      "Poloniex",
+      "HitBTC"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "N/A",
+    "Description": null,
+    "TokenType": null,
+    "WebsiteLink": null,
+    "FundingCap": null,
+    "FundingTarget": null,
+    "Date": null,
+    "EndDate": null,
+    "FundsRaisedList": null,
+    "FundsRaisedUSD": null,
+    "StartPrice": null,
+    "StartPriceCurrency": null,
+    "Jurisdiction": null,
+    "BlogLink": null,
+    "WhitePaperLink": null
+  },
+  "ccId": "30173"
+}

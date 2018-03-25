@@ -1,0 +1,59 @@
+{
+  "General": {
+    "Symbol": "PRIX",
+    "Name": "Privatix",
+    "Description": "<p><span>Privatix is a decentralized autonomous P2P VPN network on blockchain with its own crypto-economy which will serve the exchange marketplace. Based on blockchain, the network will contain exit nodes around the world and will provide a way for developers to build products, like the consumer VPN industry, cyber protection, CDN, business intelligence and even software and mobile apps monetization.</span></p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "1275455.31177803",
+    "Algorithm": null,
+    "ProofType": null,
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "01/09/2017",
+    "TotalCoinsMined": null,
+    "Twitter": "@Privatix1",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": null,
+    "GitHub": null,
+    "OnMarkets": [
+      "Yobit",
+      "EtherDelta"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Ongoing",
+    "Description": "<p>Privatix is a decentralized autonomous P2P VPN network on blockchain with its own crypto-economy which will serve the exchange marketplace. Based on blockchain, the network will contain exit nodes around the world and will provide a way for developers to build products, like the consumer VPN industry, cyber protection, CDN, business intelligence and even software and mobile apps monetization.</p><p><strong>Team</strong>:</p><ul><li><strong>Dima Rusakov</strong>: CEO and Co-Founder. <a href=\"https://www.facebook.com/rusakov.dima\" target=\"_blank\"><img style=\"width: 13px; height: 13px;\" src=\"/media/1383930/face_logo_final.png?width=13&amp;height=13\" alt=\"\" data-id=\"202866\"></a> <a href=\"https://twitter.com/DimaRusakov\" target=\"_blank\"><img style=\"width: 13px; height: 13px;\" src=\"/media/1383932/twitter_logo_final.png?width=13&amp;height=13\" alt=\"\" data-id=\"202868\"></a> <a href=\"https://www.linkedin.com/in/dima-rusakov/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Nikita Kuznetsov</strong><span>: CTO and Co-Founder.</span><span> </span><a href=\"https://www.facebook.com/kalloc\" target=\"_blank\"><img style=\"width: 13px; height: 13px;\" src=\"/media/1383930/face_logo_final.png?width=13&amp;height=13\" alt=\"\" data-id=\"202866\"></a><span> </span><a href=\"https://www.linkedin.com/in/kalloc/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Rubtsov Dmitriy</strong><span>: COO and Co-Founder..</span><span> </span><a href=\"https://www.linkedin.com/in/dmitriy-rubtsov-1b8b44149/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Vitaly Hnidenko</strong><span>: Head of Development.</span></li><li><strong>Viacheslav Yakushev</strong><span>: Head of Infrastructure.</span><span> </span><a href=\"https://www.linkedin.com/in/%D0%B2%D1%8F%D1%87%D0%B5%D1%81%D0%BB%D0%B0%D0%B2-%D1%8F%D0%BA%D1%83%D1%88%D0%B5%D0%B2-b51b1584/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Viktor Lahman</strong><span>: Full Stack Developer.</span><span> </span><a href=\"https://www.facebook.com/profile.php?id=100002254237587\" target=\"_blank\"><img style=\"width: 13px; height: 13px;\" src=\"/media/1383930/face_logo_final.png?width=13&amp;height=13\" alt=\"\" data-id=\"202866\"></a><span> </span><a href=\"https://www.linkedin.com/in/lahmanvictor/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Timur Appaev</strong><span>: Senior full-stack / JS developer.</span><span> </span><a href=\"https://www.facebook.com/timur.appaev.1\" target=\"_blank\"><img style=\"width: 13px; height: 13px;\" src=\"/media/1383930/face_logo_final.png?width=13&amp;height=13\" alt=\"\" data-id=\"202866\"></a><span> </span><a href=\"https://www.linkedin.com/in/timur-appaev-630662b0/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Alexander Shishkin</strong><span>: PPC and media buying.</span></li><li><strong>Mykola Lysiy</strong><span>: Head of QA.</span><span> </span><a href=\"https://www.linkedin.com/in/mykola-lysyi-0a053242/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Yaroslav Krimets</strong><span>: Traffic acquisition specialist.</span><span> </span><a href=\"https://www.linkedin.com/in/%D1%8F%D1%80%D0%BE%D1%81%D0%BB%D0%B0%D0%B2-%D0%BA%D1%80%D0%B8%D0%BC%D0%B5%D1%86-33824586/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Andrew Beilyk</strong><span>: Senior android developer.</span><span> </span><a href=\"https://www.linkedin.com/in/%D0%B0%D0%BD%D0%B4%D1%80%D1%96%D0%B9-%D0%B1%D0%B5%D0%B9%D0%BB%D0%B8%D0%BA-21a7447a/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li></ul><p>Privatix will divide its crowdsale into 2 diferente sales: the pre-ICO and the main ICO.</p><p><span>Privatix will be holding its pre-ICO on September 14, 2017. The pre-ICO token supply represents 3% of the total token supply, so there will be a total of 300,000 tokens available, for 0.01 ETH each at the offering. The pre-ICO the funding cap is 1,875 ETH and is expected to end on September 28, 2017 or when the funding cap is reached. A 60% bonus (1 PRIXY = 1.6 PRIXY) will be offered during the pre-ICO.</span></p><p>The main ICO will start on October 19, 2017. The ICO token supply represents 80% of the total token supply, so there will be a total of 8,000,000 tokens available, for <span>0.01 ETH </span>each at the offering. The ICO funding target is 3,350 ETH, the funding cap is 57,142 ETH and is expected to end on November 16, 2017 or when the funding cap is reached.</p><p><strong>Token Reserve Split (20%):</strong></p><ul><li>07% Founders (locked for 12 months);</li><li><span>07</span>% Team and future employees;</li><li><span>03</span>% Presale (pre-ICO);</li><li><span>03% Bounty, advisors and cost covering;</span></li></ul>",
+    "TokenType": "ETH (ERC20)",
+    "WebsiteLink": "https://privatix.io/#tokenSale",
+    "FundingCap": "57,142 ETH",
+    "FundingTarget": "3,350 ETH",
+    "Date": 1508421600,
+    "EndDate": 1510840800,
+    "FundsRaisedList": "6,465 ETH",
+    "FundsRaisedUSD": "2105138",
+    "StartPrice": "0.01",
+    "StartPriceCurrency": "ETH",
+    "Jurisdiction": "N/A",
+    "BlogLink": null,
+    "WhitePaperLink": "https://s3-us-west-2.amazonaws.com/privatix-dist/whitepaper/PRIVATIX-WHITEPAPER.pdf"
+  },
+  "ccId": "257772"
+}

@@ -1,0 +1,59 @@
+{
+  "General": {
+    "Symbol": "CYG",
+    "Name": "Cygnus",
+    "Description": "<p>Cygnus was developed in order to provide a stable, and easy to use cryptocurrency for the community. Cygnus is a PoS/Hybrid coin that allows users to earns rewards by mining or by staking CYG coins owned. In order to provide a totally <span>egalitarian and fair distribution process, a bounty and airdrop process was developed before the launch.</p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "25885320",
+    "Algorithm": "X11",
+    "ProofType": "PoW/PoS",
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "23/02/2016",
+    "TotalCoinsMined": null,
+    "Twitter": "@Project_Cygnus",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "http://cygnus.online/",
+    "GitHub": null,
+    "OnMarkets": [
+      "Yobit",
+      "CCEX"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "N/A",
+    "Description": null,
+    "TokenType": null,
+    "WebsiteLink": null,
+    "FundingCap": null,
+    "FundingTarget": null,
+    "Date": null,
+    "EndDate": null,
+    "FundsRaisedList": null,
+    "FundsRaisedUSD": null,
+    "StartPrice": null,
+    "StartPriceCurrency": null,
+    "Jurisdiction": null,
+    "BlogLink": null,
+    "WhitePaperLink": null
+  },
+  "ccId": "21213"
+}

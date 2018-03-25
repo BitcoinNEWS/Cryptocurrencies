@@ -1,0 +1,59 @@
+{
+  "General": {
+    "Symbol": "XCASH",
+    "Name": "Xcash",
+    "Description": "<p>xCash is a unique and rare altcoin that offers stealth at all times. It not only hides where the xCash is going to, but also where it came from, making it impossible to trace transactions through the block chain. The coin is a scrypt altcoin with a proof of stake rate a 5% per annum.</p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "2400000",
+    "Algorithm": "Scrypt",
+    "ProofType": "PoW/PoS",
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "01/09/2014",
+    "TotalCoinsMined": null,
+    "Twitter": "@xCashcoin",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "http://www.xgenstudios.com/xcash/",
+    "GitHub": null,
+    "OnMarkets": [
+      "Cryptsy",
+      "BitTrex"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "N/A",
+    "Description": null,
+    "TokenType": null,
+    "WebsiteLink": null,
+    "FundingCap": null,
+    "FundingTarget": null,
+    "Date": null,
+    "EndDate": null,
+    "FundsRaisedList": null,
+    "FundsRaisedUSD": null,
+    "StartPrice": null,
+    "StartPriceCurrency": null,
+    "Jurisdiction": null,
+    "BlogLink": null,
+    "WhitePaperLink": null
+  },
+  "ccId": "5025"
+}

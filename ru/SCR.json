@@ -1,0 +1,56 @@
+{
+  "General": {
+    "Symbol": "SCR",
+    "Name": "Scorum",
+    "Description": "<div>Scorum is a blockchain powered sports media platform that rewards its active users with the Scorum Coin tokens. Authors get rewarded for adding their publications, comments and photos while readers gain by casting their votes for quality sports-related content. The SCR is a DPoS cryptocurrency used to reward users within the platform.</div><div></div><div></div>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "20000000",
+    "Algorithm": "DPoS",
+    "ProofType": "DPoS",
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "14/01/2018",
+    "TotalCoinsMined": null,
+    "Twitter": "@scorum_en",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": null,
+    "GitHub": null,
+    "OnMarkets": [],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Ongoing",
+    "Description": "<div>Scorum is a blockchain powered sports media platform that rewards its active users with the Scorum Coin tokens. Authors get rewarded for adding their publications,<span> </span>comments<span> </span>and photos while readers gain by casting their votes for quality sports-related content. The SCR is a<span> </span>DPoS<span> </span>cryptocurrency used to reward users within the platform.</div><p> </p><p><strong>Team</strong>:</p><ul><li><strong>Vladislav Artemyev:</strong> Co-Founder, CEO <a href=\"https://www.linkedin.com/in/vladislav-artemyev-14b67b10b/\" target=\"_blank\"><img src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Nikolai Pobol:</strong> Co-Founder, Operations Manager <a href=\"https://www.linkedin.com/in/mikalai-pobal-140a94128\" target=\"_blank\"><img src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Andrei Filipovich:</strong> Co-Founder, User Experience Director <a href=\"https://www.linkedin.com/in/andrey-filipovich/\" target=\"_blank\"><img src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Alexei Belov:</strong> Co-Founder, Chief Sports Analyst <a href=\"https://www.linkedin.com/in/alexei-belov-55779487/\" target=\"_blank\"><img src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Alex Shkor:</strong> CTO, Blockchain Architect <a href=\"https://www.linkedin.com/in/alexshkor\" target=\"_blank\"><img src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Andrew Avdeev:</strong> Head of Web Development <a href=\"https://www.linkedin.com/in/andrewavdeev/\" target=\"_blank\"><img src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li></ul><p>The Scorum ICO will start on the 14th of January 16:00 GMT and will last until the 11th of February 2018. The ICO token allocation represents 93% of the total token supply and will be available for a $1 price. Users can participate with BTC and ETH. The ICO funding cap is set at $17M.</p><p><strong>Token Reserve Split (7%):</strong></p><ul><li>930K will go to the Affiliate Program (the unused SCR Tokens will be burned),</li><li>470K will be distributed among the project team.</li></ul><p>The Scorum ICO features an affiliate program. U.S. Citizens can participate in the SCR token sale.</p>",
+    "TokenType": "New Blockchain",
+    "WebsiteLink": "https://scorumcoins.com/en-us/affiliate/MbHvgxf",
+    "FundingCap": "17000000 USD",
+    "FundingTarget": "N/A",
+    "Date": 1515945600,
+    "EndDate": 1518364800,
+    "FundsRaisedList": "5,550,000 USD",
+    "FundsRaisedUSD": "5550000",
+    "StartPrice": "1",
+    "StartPriceCurrency": "USD",
+    "Jurisdiction": "Belarus",
+    "BlogLink": "https://medium.com/@scorum",
+    "WhitePaperLink": "https://scorumcoins.com/scorum_white_paper.pdf"
+  },
+  "ccId": "393742"
+}

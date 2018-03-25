@@ -1,0 +1,56 @@
+{
+  "General": {
+    "Symbol": "STAC",
+    "Name": "STAC",
+    "Description": "<p>CoinStarters is a ICO platform that provides a user-friendly ​and ​intuitive ​platform fundraising ​tool for ​entrepreneurs, ​innovators ​and ​creators. StarterCoin is an Ethereum-based token that gives ​rights ​and ​privileges ​to ​their ​owners ​when ​using the ​CoinStarter ​platform ​and ​its ​family ​of ​services. It can be used to launch a crowdsale campaign.</p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "301128956",
+    "Algorithm": null,
+    "ProofType": null,
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "23/11/2017",
+    "TotalCoinsMined": null,
+    "Twitter": "@realCoinStarter",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": null,
+    "GitHub": null,
+    "OnMarkets": [],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Ongoing",
+    "Description": "<p><span>CoinStarters is a ICO platform that provides a </span><span>user-friendly and intuitive platform fundraising tool<span> </span></span><span>for entrepreneurs, innovators and creators. </span><span>StarterCoin is an Ethereum-based token that </span><span>gives rights and privileges to their owners when using the CoinStarter platform and its family of services. </span><span>It can be used to launch a crowdsale campaign.</span></p><p><strong>Team</strong>:</p><ul><li><strong>Cornell Holloway:</strong> Founder &amp; CEO <a href=\"https://www.linkedin.com/in/cornellholloway/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Cal Evans:</strong> ICO Compliance Attorney <a href=\"https://www.linkedin.com/in/calevans1/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Peter Shuper:</strong> Financial Market Advisor <a href=\"https://www.linkedin.com/in/peter-shuper-429744/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Jonah Price:</strong> Front-end Developer <a href=\"https://www.linkedin.com/in/jonahprice/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Balazs Kelemen:</strong> Lead Developer <a href=\"https://www.linkedin.com/in/balazs-kelemen-052206a4/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Manny Bailey:</strong> Chief Marketing Strategist <a href=\"https://www.linkedin.com/in/emmanuel-bailey-a830746b/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li></ul><p>The CoinStarters ICO will start on the 20th of January 2017 and will last until the 17th of February 2018. The ICO token allocation represents 60% of the total supply and will be available for a 0.00022 ETH starting price. The ICO soft cap is set at 25,000 ETH and the hard cap at 154,622 ETH. Users will be able to participate with BTC, ETH, BCH, LTC, XRP, DASH and NEO. Any u<span>nsold tokens will be burned.</span></p><p><strong>Token Reserve Split (40%):</strong></p><ul><li>Bounty &amp; Lottery: 8%</li><li>Development Fund: 8%</li><li>Founders: 6%</li><li>Team: 4%</li><li>Advisors 3%</li><li>Pre-ICO: 11% </li></ul><p>The STC ICO features a bonus campaign.</p><p><strong>Bonus Structure:</strong></p><div class=\"bubble-r-line\"><div class=\"bubble-r-box\"><div class=\"bubble-element Group\"><div class=\"bubble-r-line\"><div class=\"bubble-r-box\"><div class=\"bubble-element Text\"><div class=\"content\"><ul><li>Pre-ICO = 30% Bonus</li><li>1st ~ 7th Day = 25% bonus</li><li>8th ~ 14th Day = 20% bonus</li><li>15th ~ 22nd Day = 15% bonus</li><li>23rd ~ 30th Day = 10% bonus</li><li>31st ~ 35th Day = 5% bonus</li></ul></div></div></div></div></div></div></div><p> </p>",
+    "TokenType": "ETH (ERC20)",
+    "WebsiteLink": "http://bit.ly/2F5B6YP",
+    "FundingCap": "58000000",
+    "FundingTarget": "4000000",
+    "Date": 1515262939,
+    "EndDate": 1518891741,
+    "FundsRaisedList": "Pre-ICO:  3,539,571.59 USD\r\nMain ICO: 4,562,345.99 USD",
+    "FundsRaisedUSD": "8101917.58",
+    "StartPrice": "0.000222222222",
+    "StartPriceCurrency": "ETH",
+    "Jurisdiction": "British Virgin Islands",
+    "BlogLink": null,
+    "WhitePaperLink": "https://s3.amazonaws.com/appforest_uf/f1510612675283x708868375048041300/CoinStarter%20WhitePaper%20v9.80.pdf"
+  },
+  "ccId": "396716"
+}

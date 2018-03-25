@@ -1,0 +1,59 @@
+{
+  "General": {
+    "Symbol": "LDM",
+    "Name": "Ludum token",
+    "Description": "<p>Privateers.life is a MMO (<span>massively multiplayer online)</span> pirate game with blockchain based economics. Ludum token (LDM) is an ERC20 token that serves as the ingame currency. It can also be used as form of payment in friendly stores and Privateers&#39; services opened within the framework.</p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "404926.7576",
+    "Algorithm": null,
+    "ProofType": null,
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "17/08/2017",
+    "TotalCoinsMined": null,
+    "Twitter": "@Alienter2",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": null,
+    "GitHub": null,
+    "OnMarkets": [
+      "Yobit",
+      "EtherDelta"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "N/A",
+    "Description": null,
+    "TokenType": null,
+    "WebsiteLink": null,
+    "FundingCap": null,
+    "FundingTarget": null,
+    "Date": null,
+    "EndDate": null,
+    "FundsRaisedList": null,
+    "FundsRaisedUSD": null,
+    "StartPrice": null,
+    "StartPriceCurrency": null,
+    "Jurisdiction": null,
+    "BlogLink": null,
+    "WhitePaperLink": null
+  },
+  "ccId": "409363"
+}

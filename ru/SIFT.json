@@ -1,0 +1,58 @@
+{
+  "General": {
+    "Symbol": "SIFT",
+    "Name": "Smart Investment Fund Token",
+    "Description": "<p>Smart Investment Fund Token (SIFT) is an ERC20-compliant smart contract within the Ethereum blockchain that pays dividends in ether monthly. Each SIFT represents a single share in a volume-trading investment fund for cryptocurrencies including Bitcoin, Ethereum, Ripple, Dash and Litecoin. In addition to monthly dividends, shareholders will also be able to trade their tokens at market rates allowing them to cash-out as the fund value increases over time.</p><p><br />The SIFT ICO will release an unlimited amount of SIFT tokens for a period of 45 days at an exchange rate of 0.01ETH per SIFT. Each SIFT will represent a single share in the fund directly proportional to the number of issued tokens giving no shareholder more priority than others. The majority of raised funds will be used for trading purposes, with a small percentage of the fund being held back for prudent reserves and administration. This means that whether the fund launches with 100,000 SIFT or 1,000,000 SIFT the percentage return for an individual will stay the same.</p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "722,935",
+    "Algorithm": null,
+    "ProofType": null,
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "15/09/2017",
+    "TotalCoinsMined": 722935,
+    "Twitter": "https://twitter.com/smartift",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": null,
+    "GitHub": null,
+    "OnMarkets": [
+      "EtherDelta"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Ongoing",
+    "Description": "<p>Smart Investment Fund is a new high yield dividend fund that will trade blockchain assets using a proprietary method of financial trading called Smart Volume Analysis (Smart VSA) and offers up to 40% per year ROI to investors through dividends and asset value appreciation. </p><p>Investors will receive 1 Smart Investment Fund Token (SIFT) for each 0.01 ether that they invest. Each SIFT is not only tradeable, allowing investors to freely buy and sell SIFT in the open market, the fund also pays monthly dividends to its investors based on the fund&#39;s trading performance. Investing in SIFT allows you to easily become involved in the complicated crypto asset markets without the risk and technical barriers that are otherwise present. Even with a small investment it also allows clients to receive what we expect to be a fairly large monthly dividend payout each month.</p><p>The Ether raised will be liquidated to fiat currencies.</p><p><strong>Team</strong>:</p><ul><li>Guy Powell: CTP</li><li>James May:<strong> </strong>Trade systems. Chart and volatility analysis</li></ul>",
+    "TokenType": "ETH (ERC20)",
+    "WebsiteLink": "https://smartift.com/",
+    "FundingCap": "N/A",
+    "FundingTarget": "N/A",
+    "Date": 1501592400,
+    "EndDate": 1505433600,
+    "FundsRaisedList": "532.45 ETH",
+    "FundsRaisedUSD": "203337",
+    "StartPrice": "0.01",
+    "StartPriceCurrency": "ETH",
+    "Jurisdiction": "UK",
+    "BlogLink": null,
+    "WhitePaperLink": "https://smartift.com/sift_whitepaper.pdf"
+  },
+  "ccId": "229420"
+}

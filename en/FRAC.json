@@ -1,0 +1,59 @@
+{
+  "General": {
+    "Symbol": "FRAC",
+    "Name": "FractalCoin",
+    "Description": "<p>Fractal Coin intends to distribute 90% of its 1 million coins in the initial 28 days of mining. The coin features a new difficulty adjustment mechanism known as slingshot - the aim of which is to increase the % of controlled hashrate required for a 51% attack to over 70%. The idea is that block rewards will be based solely on transaction fees. Otherwise the coin has a 6o second block time and has a 0.5% premine.</p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "1000000",
+    "Algorithm": "X11",
+    "ProofType": "PoW",
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "12/06/2014",
+    "TotalCoinsMined": null,
+    "Twitter": "@fractalcoin",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "http://fractalco.in/",
+    "GitHub": null,
+    "OnMarkets": [
+      "Poloniex",
+      "Cryptsy"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "N/A",
+    "Description": null,
+    "TokenType": null,
+    "WebsiteLink": null,
+    "FundingCap": null,
+    "FundingTarget": null,
+    "Date": null,
+    "EndDate": null,
+    "FundsRaisedList": null,
+    "FundsRaisedUSD": null,
+    "StartPrice": null,
+    "StartPriceCurrency": null,
+    "Jurisdiction": null,
+    "BlogLink": null,
+    "WhitePaperLink": null
+  },
+  "ccId": "4450"
+}

@@ -1,0 +1,59 @@
+{
+  "General": {
+    "Symbol": "BT1",
+    "Name": "Bitfinex Bitcoin Future",
+    "Description": "<p>BT1 is a ChainSplit Token (<a href=\"https://www.bitfinex.com/posts/221​\">CST</a>) issued by Bitfinex which is a token that resembles the price of BTC after the SegWit2x hardfork that is occuring block 494784 (Mid November, 2017). Traders are using this token to speculate on the success of the B2X hard fork. The SegWit2x version of Bitcoin has been given the BT2 symbol by bitfinex and resembles the future price of B2X after the hardfork.</p><p>Bitfinex describes the Bitfinex Bitcoin Future as &#39;Incumbent Bitcoin Blockchain&#39; as <span>the currently existing Bitcoin blockchain that is exclusively used based on the consensus protocol as set out from time to time in the repository https://github.com/bitcoin/bitcoin;</span></p><p>Learn more about bitcoin forks <a href=\"https://www.cryptocompare.com/coins/guides/a-guide-to-bitcoin-forks/\">here</a> and about BTC  <a href=\"https://www.cryptocompare.com/coins/btc/overview\">here</a></p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": null,
+    "Algorithm": null,
+    "ProofType": null,
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "05/10/2017",
+    "TotalCoinsMined": null,
+    "Twitter": null,
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "-",
+    "GitHub": null,
+    "OnMarkets": [
+      "OKEX",
+      "Bitfinex"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "N/A",
+    "Description": null,
+    "TokenType": null,
+    "WebsiteLink": null,
+    "FundingCap": null,
+    "FundingTarget": null,
+    "Date": null,
+    "EndDate": null,
+    "FundsRaisedList": null,
+    "FundsRaisedUSD": null,
+    "StartPrice": null,
+    "StartPriceCurrency": null,
+    "Jurisdiction": null,
+    "BlogLink": null,
+    "WhitePaperLink": null
+  },
+  "ccId": "364317"
+}

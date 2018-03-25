@@ -1,0 +1,62 @@
+{
+  "General": {
+    "Symbol": "1337",
+    "Name": "1337",
+    "Description": "<p>1337 coin was created as an experimental Proof-of-Stake coin, with high rewards and inflation control system. It&#39;s a fun driven cryptocurrency that develops games for users and plans to be used as an ingame currency for online games.</p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "314159265359",
+    "Algorithm": "X13",
+    "ProofType": "PoW/PoS",
+    "BlockReward": 4.0017552693684895,
+    "Explorer": null,
+    "StartDate": "08/01/2016",
+    "TotalCoinsMined": 28913748541.2368,
+    "Twitter": null,
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "-",
+    "GitHub": null,
+    "OnMarkets": [
+      "CCEX",
+      "Novaexchange",
+      "Cryptopia",
+      "TradeSatoshi",
+      "Yobit"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "N/A",
+    "Description": null,
+    "TokenType": null,
+    "WebsiteLink": null,
+    "FundingCap": null,
+    "FundingTarget": null,
+    "Date": null,
+    "EndDate": null,
+    "FundsRaisedList": null,
+    "FundsRaisedUSD": null,
+    "StartPrice": null,
+    "StartPriceCurrency": null,
+    "Jurisdiction": null,
+    "BlogLink": null,
+    "WhitePaperLink": null
+  },
+  "ccId": "20824"
+}

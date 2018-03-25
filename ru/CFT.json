@@ -1,0 +1,59 @@
+{
+  "General": {
+    "Symbol": "CFT",
+    "Name": "CryptoForecast",
+    "Description": "<p>Cryptoforecast is a trading/invesment tool build both for new and experienced users. It helps usersidentify <span> the inversions of trend and ride them from the beginning. This is done through the use of the forecast PILLAR algorithm, which is constantly evolvng, being able to adapt to new markets and in different time frames for any type of trading and at the same time adapting to the characteristics of each Trader. CFT is a token issued on the Bitcoin blockchain through the OMNI Layer. This token allows users to subscribe to the platform.</span></p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "50000000",
+    "Algorithm": "N/A",
+    "ProofType": "N/A",
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "15/04/2017",
+    "TotalCoinsMined": 46000000,
+    "Twitter": null,
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "https://cryptoforecast.com/",
+    "GitHub": null,
+    "OnMarkets": [
+      "Cryptopia",
+      "BitGrail"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Finished",
+    "Description": "<p><span>Cryptoforecast is a trading/invesment tool build both for new and experienced users. It helps</span><span> users</span><span>identify </span><span> the inversions of trend and ride them from the beginning. CFT is a token issued on the Bitcoin blockchain through the OMNI Layer. This token allows users to subscribe to the platform.</span></p><p><span>The CryptoForecast ICO started on the 15h of April and lasted until the 19th of May. During this period, CrytoForecast sold 92% of its total 50000000 CFT token supply.  The ICO had both a Bounty and a Bonus campaign. An Escrow team was also used to hold the ICO funds. </span></p>",
+    "TokenType": "BTC",
+    "WebsiteLink": "https://cryptoforecast.com/",
+    "FundingCap": "250 BTC",
+    "FundingTarget": "100 BTC",
+    "Date": 1492268400,
+    "EndDate": 1495206000,
+    "FundsRaisedList": "N/A",
+    "FundsRaisedUSD": "250000",
+    "StartPrice": "0.00555",
+    "StartPriceCurrency": "USD",
+    "Jurisdiction": "N/A",
+    "BlogLink": null,
+    "WhitePaperLink": "https://cryptoforecast.com/static/static/WhitePaper_V1.0.pdf"
+  },
+  "ccId": "182258"
+}

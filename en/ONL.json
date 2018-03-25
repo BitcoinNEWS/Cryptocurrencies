@@ -1,0 +1,56 @@
+{
+  "General": {
+    "Symbol": "ONL",
+    "Name": "On.Live",
+    "Description": "<div class=\"freebirdFormviewerViewItemsItemItem freebirdFormviewerViewItemsTextTextItem\" data-required=\"true\" data-item-id=\"534092066\"><div class=\"freebirdFormviewerViewItemsTextLongText freebirdFormviewerViewItemsTextDisabledText freebirdThemedInput\">On.Live is a a decentralized marketplace for paid advice, live broadcasts, and computing power. Anyone can contribute to the system if they have the processing power and bandwidth. Smart incentivisation of these contributions guarantees decentralisation and creates a new economy driven by ONL tokens. ONL is an ERC20 token based on Ethereum.</div></div><div class=\"freebirdFormviewerViewItemsItemItem\" data-required=\"true\" data-input=\"L9xHkb\" data-item-id=\"2128727222\"><div class=\"freebirdFormviewerViewItemsItemItemHeader\"><div class=\"freebirdFormviewerViewItemsItemItemTitleContainer\"><div class=\"freebirdFormviewerViewItemsItemItem\" data-required=\"true\" data-input=\"L9xHkb\" data-item-id=\"2128727222\"><div class=\"freebirdFormviewerViewItemsItemItemHeader\"><div class=\"freebirdFormviewerViewItemsItemItemTitleContainer\"></div></div></div></div><div class=\"freebirdFormviewerViewItemsItemItemTitleContainer\"></div></div></div>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "111000000",
+    "Algorithm": null,
+    "ProofType": null,
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "22/01/2018",
+    "TotalCoinsMined": null,
+    "Twitter": "@on_live",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": null,
+    "GitHub": null,
+    "OnMarkets": [],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Ongoing",
+    "Description": "<p>On.Live is a a decentralized marketplace for paid advice, live broadcasts, and computing power. Anyone can contribute to the system if they have the processing power and bandwidth. Smart incentivisation of these contributions guarantees decentralisation and creates a new economy driven by ONL tokens. ONL is an ERC20 token based on Ethereum.</p><p><strong>Team</strong>:</p><ul><li><strong>Chris Rybka:</strong> FOUNDER <a href=\"https://www.linkedin.com/in/rybkacom/\" target=\"_blank\"><img src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Anna Rybka: </strong>DIRECTOR <a href=\"https://www.linkedin.com/in/anna-rybka-krysiak/\" target=\"_blank\"><img src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Daniel Bayer:</strong> CEO <a href=\"https://www.linkedin.com/in/anna-rybka-krysiak/\" target=\"_blank\"><img src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li></ul><p>The On.Live ICO will start on the 22 nd of January (pre-sale) and will last until the 22 th of April, 2018. The Pre-ICO and ICO token allocation represents 66% of the total token supply. The Pre ICO funding target is set at 14,000 ETH and the total cap Pre ICO and ICO at 140,000 ETH.</p><p><strong>Token Reserve Split (45%):</strong></p><ul><li>Pre Ico: 11%</li><li>Onl Wallet (Reserve)<span>:</span> 11%</li><li>Founders (Lock)<span>:</span> 11%</li><li>Bounty Marketing<span>:</span> 6%</li><li>Advisors<span>:</span> 5%</li><li>Legal Insurance<span>:</span> 1%</li></ul><p>The ONL ICO features a bonus and bounty campaign as well as an Escrow.</p>",
+    "TokenType": "ETH (ERC20)",
+    "WebsiteLink": "https://on.live/",
+    "FundingCap": "100,000 ETH",
+    "FundingTarget": "14,000 ETH",
+    "Date": 1516579200,
+    "EndDate": 1523404800,
+    "FundsRaisedList": "12,210,000 ONL Sold in the Pre-sale;\r\n4,498,172 ONL tokens sold\r\n\r\n5157.60415015 ICO ETH contributed\r\n\r\n2733530.19958 USD",
+    "FundsRaisedUSD": "2733530.19958",
+    "StartPrice": "0.00114660003",
+    "StartPriceCurrency": "ETH",
+    "Jurisdiction": "UK",
+    "BlogLink": null,
+    "WhitePaperLink": "https://on.live/documents/OnLive_Whitepaper.pdf"
+  },
+  "ccId": "684364"
+}

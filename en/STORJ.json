@@ -1,0 +1,69 @@
+{
+  "General": {
+    "Symbol": "STORJ",
+    "Name": "Storj",
+    "Description": "<p>Storj is a decentralized cloud storage platform that allows anyone to rent their idle hard drive space and to earn a revenue by doing so. Endusers can use Storj to store their files at competitive prices and within a p2p network that is secure from sever downtime, censorship and hacks. Payments within the Sotrj network and conducted with the STORJ token, an ERC20 Ethereum-based token.</p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "424999998",
+    "Algorithm": "N/A",
+    "ProofType": "N/A",
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "19/07/2017",
+    "TotalCoinsMined": "424999998",
+    "Twitter": "@storjproject",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "https://storj.io/",
+    "GitHub": null,
+    "OnMarkets": [
+      "HuobiPro",
+      "Liqui",
+      "Gateio",
+      "BTER",
+      "LiveCoin",
+      "OKEX",
+      "EtherDelta",
+      "Yobit",
+      "BitTrex",
+      "Binance",
+      "Poloniex",
+      "Tidex"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Finished",
+    "Description": "<p>Storj<span><span> </span>is a<span> </span></span>decentralized<span><span> </span>cloud storage platform that allows anyone to rent their idle hard drive space and to earn a revenue by doing so.<span> </span></span>Endusers<span><span> </span>can use<span> </span></span>Storj<span><span> </span>to store their files at competitive prices and within a p2p network that is secure from<span> </span></span>sever<span><span> </span>downtime, censorship and hacks. Payments within the Sotrj network and conducted with the STORJ token, an ERC20 Ethereum-based token.</span></p><p><span>Storj held a second ICO which also counted with the migration of the Storj token from the Bitcoin onto the Ethereum blockchain, this token was previously known as SCJX. The Initial Coin Offering campaign was held from the 19th of May until the 25th, during which time, 17.23% of the total token supply as sold. The Storj token can be mined with an HDD.</span></p>",
+    "TokenType": "ETH (ERC20)",
+    "WebsiteLink": "https://storj.io/tokensale",
+    "FundingCap": "N/A",
+    "FundingTarget": "N/A",
+    "Date": 1495152000,
+    "EndDate": 1495670400,
+    "FundsRaisedList": "N/A",
+    "FundsRaisedUSD": "30000000",
+    "StartPrice": "N/A",
+    "StartPriceCurrency": "ETH",
+    "Jurisdiction": "N/A",
+    "BlogLink": "http://blog.storj.io/",
+    "WhitePaperLink": "https://storj.io/storj.pdf"
+  },
+  "ccId": "187347"
+}

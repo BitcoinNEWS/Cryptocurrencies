@@ -1,0 +1,56 @@
+{
+  "General": {
+    "Symbol": "AVE",
+    "Name": "Avesta",
+    "Description": "<p><span>Avesta is a Proof of Work cryptocurrency using Avesta hash as its algorithm. Avesta´s blockchain is customized to work directly with Point-of-Sales and also allows public mining on any device. It is a cryptocurrency tailor-made<span><span> </span>for Point-of-Sales and direct payments into payment processors.  It also features a 2-factor mandatory security, account recovery, coin inheritance, smart contract UI, debit card and a mobile payment platform.</span></span></p><div>testnet blockexplorer:</div><div><a href=\"https://explorer.avesta.io/\" target=\"_blank\" data-saferedirecturl=\"https://www.google.com/url?hl=en&amp;q=https://explorer.avesta.io/&amp;source=gmail&amp;ust=1510203921484000&amp;usg=AFQjCNGw38ZehXwoCZEZddAp0NS_Vq3ikw\">https://explorer.avesta.io/</a></div><p> </p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "200000000",
+    "Algorithm": "Avesta hash",
+    "ProofType": "PoW",
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "01/11/2017",
+    "TotalCoinsMined": null,
+    "Twitter": "@Avesta_io",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": null,
+    "GitHub": null,
+    "OnMarkets": [],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Ongoing",
+    "Description": "<p><span>Avesta is a Proof of Work cryptocurrency using Avesta hash as its algorithm. Avesta´s blockchain is customized to work directly with Point-of-Sales and also allows public mining on any device. It is a cryptocurrency tailor-made</span><span><span> </span>for Point-of-Sales and direct payments into payment processors.  It also features a 2-factor mandatory security, account recovery, coin inheritance, smart contract UI, debit card and a mobile payment platform. </span></p><p><strong>Team</strong>:</p><ul><li><strong><span>Aydin Farhoudi</span></strong>: CEO.</li><li><strong>Jan Van Melle</strong>: CTO.</li><li><strong>Kondpop Wongrung</strong>: Mining specialist, hardware and software solutions.</li><li><strong>Luis:</strong> Blockchain developer.</li><li><strong>Ashwini Khemlani</strong>: VP marketing.</li><li><span>and more...</span></li></ul><p>Avesta will be holding its ICO on November 12th, 2017. The ICO token supply represents 47.5% of the total token supply, so there will be a total of <span>95,000,000 </span>tokens available, for <span>0,16€ </span>each at the offering. The ICO funding target is 10,000 ETH, the funding cap is 63,800 ETH and is expected to end on 4th of January, 2018 or when the funding cap is reached. <span>During the ICO users will be given access to the test-net and see the blockchain live working.</span></p><p><strong>Token Reserve Split (52.5%):</strong></p><ul><li>2.5% Reserved for the community;</li><li>50% To be mined over 30+ years;</li></ul><p>Avesta ICO campaign will feature Bounty campaign, and the token will be mineable.</p><p><strong>Bonus Structure:</strong></p><p><span>Level 1 10.000.000 € 0,16</span><br /><span>Level 2 15.000.000 € 0,19</span><br /><span>Level 3 16.000.000 € 0,22</span><br /><span>Level 4 23.000.000 € 0,25</span><br /><span>Level 5 26.000.000 € 0,27</span></p>",
+    "TokenType": "New Blockchain",
+    "WebsiteLink": null,
+    "FundingCap": "63,800 ETH",
+    "FundingTarget": "10,000 ETH",
+    "Date": 1510491600,
+    "EndDate": 1515078000,
+    "FundsRaisedList": "24,201,887 AVE sold.",
+    "FundsRaisedUSD": "N/A",
+    "StartPrice": "0.16",
+    "StartPriceCurrency": "EUR",
+    "Jurisdiction": "Thailand",
+    "BlogLink": null,
+    "WhitePaperLink": "https://www.avesta.io/pdf/Avesta-Whitepaper-en.pdf"
+  },
+  "ccId": "362627"
+}

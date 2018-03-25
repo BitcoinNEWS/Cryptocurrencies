@@ -1,0 +1,56 @@
+{
+  "General": {
+    "Symbol": "AMT",
+    "Name": "Acumen",
+    "Description": "<p>The Acumen Network is the world’s first global decentralised patent ecosystem. The Acumen platform aims to technology simplifies the process of submitting patents. Patents will be stored on<br />the blockchain, making them immutable and secure. Licensing patents will be done through<br />smart contracts, ensuring that all parties meet the agreed upon terms.<br /><br /></p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": null,
+    "Algorithm": null,
+    "ProofType": null,
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "20/11/2017",
+    "TotalCoinsMined": null,
+    "Twitter": "https://twitter.com/AcumenNetwork/",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": null,
+    "GitHub": null,
+    "OnMarkets": [],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Ongoing",
+    "Description": "<p>The AMT will be token will used to interact with the ecosystem. AMT holders will also receive 20%<br />of the Acumen Network’s revenue, to be paid out yearly. This rewards are original supporters<br />for helping us setup the world’s global patent system. They aim to make money by charging 0.5% to 2% fee of the cost of every patent.</p><p><br />Acumen plans to expand the network with the following strategy:</p><ul><li>Build a strong community on our test net</li><li>License the technology to countries</li><li>Reform judicial systems to allow for<br />community consensus in patent trials</li></ul><p>Team:</p><ul><li><strong>Emre Cakir: </strong>Founder</li><li><strong>Mihir Dutta: </strong>Founder </li></ul><p><strong>Reserve Token Distribution:</strong></p><ul><li>43% Retained by the Acumen network</li><li>20% Allocated for test net bounties</li><li>5% Allocated for founders</li><li>2% Pre-Sale</li></ul><p>Budget:</p><ul><li>40% Operational</li><li>30%Core Developement</li><li>20%Legal and Compliance</li><li>10% marketing and Sales</li></ul><p> </p>",
+    "TokenType": "ETH (ERC20)",
+    "WebsiteLink": "https://acumen.network/contribute.html",
+    "FundingCap": "30,000,000 USD",
+    "FundingTarget": "N/A",
+    "Date": 1508486400,
+    "EndDate": 1511164800,
+    "FundsRaisedList": "N/A",
+    "FundsRaisedUSD": "N/A",
+    "StartPrice": "0.06",
+    "StartPriceCurrency": "USD",
+    "Jurisdiction": "N/A",
+    "BlogLink": "https://medium.com/acumen-network",
+    "WhitePaperLink": "https://acumen.network/Whitepaper-English.pdf"
+  },
+  "ccId": "243045"
+}

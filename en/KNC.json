@@ -1,0 +1,68 @@
+{
+  "General": {
+    "Symbol": "KNC",
+    "Name": "Khancoin",
+    "Description": "<p><span>Khancoin empowers both businesses and employees thorugh decentralized cryptocurrency.</span></p><p>KNC mobile application allows users to shop online and share informatiom, gifts and donations.</p><p>Khancoin&#39;s financial platform (KHANprime) provides users with financial investment and trading tools.</p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "226000000",
+    "Algorithm": null,
+    "ProofType": null,
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "18/08/2015",
+    "TotalCoinsMined": 215623958.21352142,
+    "Twitter": null,
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "http://khancoin.com/",
+    "GitHub": null,
+    "OnMarkets": [
+      "LiveCoin",
+      "EtherDelta",
+      "Tidex",
+      "Liqui",
+      "Gateio",
+      "Kucoin",
+      "CCEX",
+      "Cryptopia",
+      "Binance",
+      "OKEX",
+      "HuobiPro"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Finished",
+    "Description": "<p>KyberNetwork is an on-chain protocol which allows instant exchange and conversion of digital assets (e.g. crypto tokens) and cryptocurrencies (e.g. Ether, Bitcoin, ZCash) with high liquidity.</p><p>KyberNetwork wants to implement several ideal operating properties of an exchange including trustless, decentralized execution, instant trade and high liquidity. Besides serving as an exchange, KyberNetwork also provides payment APIs that will allow Ethereum accounts to easily receive payments from any crypto tokens.</p>",
+    "TokenType": "ETH (ERC20)",
+    "WebsiteLink": "https://tokensale.kyber.network/",
+    "FundingCap": "N/A",
+    "FundingTarget": "200,000 ETH",
+    "Date": null,
+    "EndDate": null,
+    "FundsRaisedList": "N/A",
+    "FundsRaisedUSD": "N/A",
+    "StartPrice": "N/A",
+    "StartPriceCurrency": "ETH",
+    "Jurisdiction": "N/A",
+    "BlogLink": "https://blog.kyber.network/",
+    "WhitePaperLink": "https://kyber.network/assets/KyberNetworkWhitepaper.pdf"
+  },
+  "ccId": "20211"
+}

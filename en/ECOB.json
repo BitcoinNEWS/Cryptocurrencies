@@ -1,0 +1,59 @@
+{
+  "General": {
+    "Symbol": "ECOB",
+    "Name": "EcoBit",
+    "Description": "<p>EcoBit is a NEM-based token. The fund gathered during the ICO are to be used<span> to participate in green-related projects.  The returns from the projects are reinvested in developing more green projects, which benefit the communities and token holders, plus provides an income stream to token holders.</span></p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "N/A",
+    "Algorithm": "N/A",
+    "ProofType": "N/A",
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "09/04/2017",
+    "TotalCoinsMined": 444444444,
+    "Twitter": "@EcoBit_io",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "https://www.ecobit.io/",
+    "GitHub": null,
+    "OnMarkets": [
+      "Cryptopia",
+      "Yobit"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Finished",
+    "Description": null,
+    "TokenType": "N/A",
+    "WebsiteLink": "https://www.ecobit.io/",
+    "FundingCap": "N/A",
+    "FundingTarget": "N/A",
+    "Date": 1491739200,
+    "EndDate": 1497528000,
+    "FundsRaisedList": "N/A",
+    "FundsRaisedUSD": "4500000",
+    "StartPrice": "0.01",
+    "StartPriceCurrency": "USD",
+    "Jurisdiction": "N/A",
+    "BlogLink": null,
+    "WhitePaperLink": "https://www.ecobit.io/technology.html"
+  },
+  "ccId": "171390"
+}

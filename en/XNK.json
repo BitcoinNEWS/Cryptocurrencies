@@ -1,0 +1,56 @@
+{
+  "General": {
+    "Symbol": "XNK",
+    "Name": "Ink Protocol",
+    "Description": "<p>Ink Protocol was developed by Listia, a P2P marketplace for buying and selling used goods online. The Listia aims to introduce a new decentralized reputation and payment system system called Ink Protocol, which is based on the Ethereum blockchain and will be powered by the Ink Protocol token (XNK). Ink main objective is to provide users a safe enviorment for sending and receiveing payments in P2P marketplaces while earning public reputation for the completed transactions.</p><p>The Ink Protocol token (XNK) is a utility token.</p><p> </p><p> </p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "500000000",
+    "Algorithm": null,
+    "ProofType": null,
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "15/11/2017",
+    "TotalCoinsMined": null,
+    "Twitter": "@PayWithInk",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": null,
+    "GitHub": null,
+    "OnMarkets": [],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "N/A",
+    "Description": null,
+    "TokenType": null,
+    "WebsiteLink": null,
+    "FundingCap": null,
+    "FundingTarget": null,
+    "Date": null,
+    "EndDate": null,
+    "FundsRaisedList": null,
+    "FundsRaisedUSD": null,
+    "StartPrice": null,
+    "StartPriceCurrency": null,
+    "Jurisdiction": null,
+    "BlogLink": null,
+    "WhitePaperLink": "https://paywithink.com/wp-content/uploads/2018/02/Ink_Protocol_Whitepaper_V8_Listia_Inc.pdf"
+  },
+  "ccId": "794362"
+}

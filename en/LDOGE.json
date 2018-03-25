@@ -1,0 +1,63 @@
+{
+  "General": {
+    "Symbol": "LDOGE",
+    "Name": "LiteDoge",
+    "Description": "<p>LiteDoge is a fork of Dogecoin. The coin has a block time of 64 seconds and is based on scrypt. The proof of stake rate depends on the block height.</p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "35000000000",
+    "Algorithm": "Scrypt",
+    "ProofType": "PoW/PoS",
+    "BlockReward": 499.9999991522895,
+    "Explorer": null,
+    "StartDate": "11/03/2015",
+    "TotalCoinsMined": 14969326541.014685,
+    "Twitter": "@LiteDoge",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "http://www.litedoge.org/",
+    "GitHub": null,
+    "OnMarkets": [
+      "Novaexchange",
+      "CCEX",
+      "Yobit",
+      "Cryptopia",
+      "TradeSatoshi",
+      "BitTrex"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "N/A",
+    "Description": null,
+    "TokenType": null,
+    "WebsiteLink": null,
+    "FundingCap": null,
+    "FundingTarget": null,
+    "Date": null,
+    "EndDate": null,
+    "FundsRaisedList": null,
+    "FundsRaisedUSD": null,
+    "StartPrice": null,
+    "StartPriceCurrency": null,
+    "Jurisdiction": null,
+    "BlogLink": null,
+    "WhitePaperLink": null
+  },
+  "ccId": "5339"
+}

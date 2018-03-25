@@ -1,0 +1,56 @@
+{
+  "General": {
+    "Symbol": "LOAN*",
+    "Name": "Lendoit",
+    "Description": "<p><span>Lendoit is a decentralized P2P Lending platform that provides all elements lending markets need to function. These include: Professional scoring and verification APIs for each country, a loan marketplace, where lenders bid interest rates on loan applications and a default market where failed loans can be traded. The Landoit smart loan contract also offers functions like syndicated loans and the ability to sell a loan to another lender if needed. LOAN is an ERC20 token based on the Ethereum blockchain. It is used as the main currency in the platform.</span></p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": null,
+    "Algorithm": null,
+    "ProofType": null,
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "02/09/2017",
+    "TotalCoinsMined": null,
+    "Twitter": "@Lend0it",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": null,
+    "GitHub": null,
+    "OnMarkets": [],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Ongoing",
+    "Description": "<p><span>Lendoit is a decentralized P2P Lending platform</span><span> that</span><span> provides all elements lending markets need to function. These include: Professional scoring and verification APIs for each country, a loan marketplace, where lenders bid interest rates on loan applications and a default market where failed loans can be traded. The Landoit smart loan contract</span><span> also o</span><span>ffers functions like syndicated loans and the ability to sell a loan to another lender if needed.<span> </span></span><span>LOAN</span><span> is an ERC20 token based on the Ethereum blockchain. It is used as the main currency in the platform.</span></p><p> <strong>Team</strong>:</p><ul><li><strong>Ori Erez:</strong> Co-Founder &amp; CEO <a href=\"https://www.linkedin.com/in/orierez\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Vlad Amirov:</strong> Co-Founder &amp; CTO <a href=\"https://www.linkedin.com/in/vladamirov/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Yoav Pinkas:</strong> Co-Founder &amp; COO <a href=\"https://www.linkedin.com/in/yoav-pinkas-7a251011/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a> </li><li><strong>Avi Ben David:</strong> Co-Founder &amp; President <a href=\"https://www.linkedin.com/in/avi-ben-david-bb3651110/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li></ul><p>The Lendoit Pre-sale will start on November 7th and the main ICO will run from the 13th December until the 13th of January. The ICO token allocation represents 60% of the total token supply. Participants will be able to support the Landoit project with BTC and ETH.</p><p><strong>Token Reserve Split (100%):</strong></p><ul><li>Team &amp; Advisors: 15%</li><li>Early Contributors, Bounty &amp; Loan reserve pool: 15%</li><li>Development: 10% Sale: 60%</li></ul><p>The Lendoit ICO features a bonus and bounty campaign.</p>",
+    "TokenType": "ETH (ERC20)",
+    "WebsiteLink": "https://lendoit.com",
+    "FundingCap": "TBA",
+    "FundingTarget": "TBA",
+    "Date": 1513123200,
+    "EndDate": 1515801600,
+    "FundsRaisedList": "N/A",
+    "FundsRaisedUSD": "N/A",
+    "StartPrice": "N/A",
+    "StartPriceCurrency": "N/A",
+    "Jurisdiction": "Gibraltar",
+    "BlogLink": "https://blog.lendoit.com",
+    "WhitePaperLink": "https://goo.gl/rDYnr8"
+  },
+  "ccId": "363006"
+}

@@ -1,0 +1,56 @@
+{
+  "General": {
+    "Symbol": "IMV",
+    "Name": "ImmVRse",
+    "Description": "<p>ImmVRse is a decentralised (hybrid) VR content sharing platform where brands, content creators, viewers and advertisers will collaborate to produce VR contenT. It functions as a marketplace for content creators, where brands will be able to hire them on the platform. The creators will be able to showcase their talent to the VR users, while advertisers can take the opportunity to promote their businesses to those users. </p><p>IMV is an ERC20 token based on the Ethereum network. The ImmVRse token will be utilized as a form of payments and rewards on the platform.</p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "300000000",
+    "Algorithm": null,
+    "ProofType": null,
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "01/01/0001",
+    "TotalCoinsMined": null,
+    "Twitter": "@immvrseUK",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": null,
+    "GitHub": null,
+    "OnMarkets": [],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Upcoming",
+    "Description": "<p>ImmVRse is a decentralised (hybrid) VR content sharing platform where brands, content creators, viewers and advertisers will collaborate to produce VR contenT. It functions as a marketplace for content creators, where brands will be able to hire them on the platform. The creators will be able to showcase their talent to the VR users, while advertisers can take the opportunity to promote their businesses to those users. </p><p>IMV is an ERC20 token based on the Ethereum network. The ImmVRse token will be utilized as a form of payments and rewards on the platform.</p><p><strong>Team</strong>:</p><ul><li>FARABI SHAYOR Co-Founder &amp; CEO <a href=\"https://www.linkedin.com/in/farabishayor/\" target=\"_blank\"><img src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li>LIMON RAHMAN Co-Founder &amp; COO <a href=\"https://www.linkedin.com/in/limon-rahman-1a156638\" target=\"_blank\"><img src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li>ADRIAN CHAN Head of Marketing <a href=\"https://www.linkedin.com/in/adrian-chan-1a290060/\" target=\"_blank\"><img src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li>MARK HIGGINS Chief Information Officer <a href=\"https://www.linkedin.com/in/mark-higgins-66962237/\" target=\"_blank\"><img src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li>PETER GOSTINCAR Chief Technical Officer <a href=\"https://www.linkedin.com/in/petergostincar\" target=\"_blank\"><img src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li>ROBIN WARE Chief Solutions Architect <a href=\"https://www.linkedin.com/in/robinjware/\" target=\"_blank\"><img src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li></ul><p>The ImmVRse ICO start and finish date are yet to be announced. The ICO token allocation represents 33% of the total token supply and will be available for a $0.20 base price. The ICO funding target/cap is set at $20,000,000. </p><p><strong>Token Reserve Split (66.66%):</strong></p><ul><li>52.7% Reserved by ImmVRse,</li><li>10% Team and Advisors,</li><li>4% Bounty and Rewards</li></ul><p> </p><p>The IMV ICO features a bonus and bounty campaign.</p>",
+    "TokenType": "ETH (ERC20)",
+    "WebsiteLink": "https://immvr.se/ico/",
+    "FundingCap": "$20,000,000",
+    "FundingTarget": "$20,000,000",
+    "Date": null,
+    "EndDate": null,
+    "FundsRaisedList": "N/A",
+    "FundsRaisedUSD": "N/A",
+    "StartPrice": "0.20",
+    "StartPriceCurrency": "USD",
+    "Jurisdiction": "UK",
+    "BlogLink": "https://medium.com/immvrse-updates",
+    "WhitePaperLink": "https://immvr.se/whitepaper/"
+  },
+  "ccId": "708401"
+}

@@ -1,0 +1,65 @@
+{
+  "General": {
+    "Symbol": "TIME",
+    "Name": "Time",
+    "Description": "<p>Time is an Ethereum-based token issued by Chronobank. It allows users to receive dividends from the fees and issuance of Labor-Hour Tokens (LHT) in the Chronobank system.</p><p>Chronobank is a system designed to tokenize labour-hours using blockchain technology. The system leverages smart contract techniques to automate a process whereby a country-specific ‘labour-hour’ token may be redeemed for real labour-hours via legally binding (traditional) contracts with labour-offering companies. The proposed ‘stable-coin’ LHT implementation provides a non-volatile, inflation-resistant digital asset transfer system.</p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "710113",
+    "Algorithm": null,
+    "ProofType": null,
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "08/12/2016",
+    "TotalCoinsMined": 710112.8108,
+    "Twitter": "@ChronobankNews",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "http://chronobank.io/",
+    "GitHub": null,
+    "OnMarkets": [
+      "Lykke",
+      "Liqui",
+      "Yobit",
+      "LiveCoin",
+      "HitBTC",
+      "Tidex",
+      "BitTrex",
+      "EtherDelta"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Finished",
+    "Description": "<p><span>The vision of ChronoBank (CBE) is to launch a stable cryptocurrency, Labor Hour Tokens (LHT) backed by an agreement to redeem tokens for one hours worth of labor at the Australian national average wage. </span>Over the course of two months, ChronoBank collected a total of $5.4 million in a number of different currencies. This included:</p><p id=\"4374\" class=\"graf graf--p graf-after--p\">· 3,123 BTC<br />· 14,385 LTC<br />· 48,945 ETH<br />· 33,043 ETC<br />· 13,587,411 NEM<br />· 385,963 WAVES<br />· 416,566 EMC<br />· $1,108,180</p><p class=\"graf graf--p graf-after--p\">12% of tokens have been allocated to the team and the remaining 88% distributed to ICO investors.</p><p class=\"graf graf--p graf-after--p\"><a href=\"https://blog.chronobank.io/%20 https://chronobank.io/files/business_outline.pdf\" target=\"_blank\">Business plan</a></p>",
+    "TokenType": "ETH (ERC20)",
+    "WebsiteLink": "https://chronobank.io/#top",
+    "FundingCap": "N/A",
+    "FundingTarget": "20,000 BTC",
+    "Date": 1481803200,
+    "EndDate": 1487160000,
+    "FundsRaisedList": "3,123 BTC, 14,385 LTC, 48,945 ETH, 33,043 ETC, 13,587,411 NEM, 385,963 WAVES, 416,566 EMC, $1,108,180",
+    "FundsRaisedUSD": "5400000",
+    "StartPrice": "7.6",
+    "StartPriceCurrency": "USD",
+    "Jurisdiction": "N/A",
+    "BlogLink": "https://blog.chronobank.io/@Chronobank",
+    "WhitePaperLink": "https://chronobank.io/files/whitepaper.pdf"
+  },
+  "ccId": "33914"
+}

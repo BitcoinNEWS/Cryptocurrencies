@@ -1,0 +1,65 @@
+{
+  "General": {
+    "Symbol": "MGO",
+    "Name": "MobileGo",
+    "Description": "<p>MobileGo is a dual-blockchain token that will “gamify” the GameCredits Mobile Store which currently has over 300 games from 150 different developers. The MobileGo token will be the first dual-blockchain asset ever issued, as users will be able to transfer it seamlessly between the Ethereum and Waves blockchain. This is achieved by using locked wallets and smart contracts. MGO will be used to implement decentralized features on the <span>GameCredits</span> Moblie platform through Ethereum and Waves.</p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "100000000",
+    "Algorithm": null,
+    "ProofType": null,
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "16/02/2017",
+    "TotalCoinsMined": 100000000,
+    "Twitter": "@MobileGoIco",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "http://mobilego.io/",
+    "GitHub": null,
+    "OnMarkets": [
+      "Liqui",
+      "Gatecoin",
+      "Cryptopia",
+      "Yobit",
+      "LiveCoin",
+      "Tidex",
+      "WavesDEX",
+      "EtherDelta"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Finished",
+    "Description": "<p><span>MobileGo is a dual-blockchain token that will “gamify” the GameCredits Mobile Store which currently has over 300 games from 150 different developers. The MobileGo token will be the first dual-blockchain asset ever issued, as users will be able to transfer it seamlessly between the Ethereum and Waves blockchain. This is achieved by using locked wallets and smart contracts. MGO will be used to implement decentralized features on the </span><span>GameCredits</span><span> Moblie platform through Ethereum and Waves.</span></p><p><strong>Team</strong>:</p><ul><li><strong>Sergey Sholom.</strong> (<a href=\"https://twitter.com/sergeysholom?lang=en\" target=\"_blank\">Twitter</a>);</li><li><strong>Maxim Sholom.</strong> (<a href=\"https://twitter.com/maximsholom\" target=\"_blank\">Twitter</a>);</li><li><strong>Vesselin Peev.</strong></li><li><strong>Fran Strajnar.</strong><span> (<a href=\"https://twitter.com/Techemist?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor\" target=\"_blank\">Twitter</a></span><span>);</span></li><li><span><strong>Nikola Djoke.</strong></span></li><li><strong>Chafik Abdellaoui.</strong><span> (<a href=\"https://twitter.com/chafikabdellaou\" target=\"_blank\">Twitter</a></span><span>);</span></li><li><span><strong>Bok Khoo.</strong></span></li><li><span><strong>Stefan Crnojevic. </strong>(<a href=\"https://twitter.com/zarnoevic?lang=en\" target=\"_blank\">Twitter</a>);</span></li></ul><p>MobileGo held its ICO on April 25, 2017. The ICO token supply represents 70% of the total token supply, so there was a total of 70,000,000 tokens available at the offering. The ICO raised a total of <span>$53 million</span>. The ICO ended on May 24, 2017.</p><p><strong>Token Reserve Split (30%):</strong></p><p>30% retained by the MobileGo Foundation for crowdsale marketing, mobile platform partnerships, employee expansion and future development over the next 5 years. These tokens will be held in a multi-signature wallet.</p><p>From the 30,000,000 tokens reserve, a m<span>inimum of 50% is going towards direct marketing for gamer installs. 20% for development of decentralized virtual marketplace, decentralized gamer vs. gamer match wagering, and decentralized tournament environment. Up to 30% retained for legal, payment processing float, future development related to gamification of the mobile gaming platform and expansion related to marketing.</span></p><p><span>MobileGo </span>ICO campaign featured the following bonus structure.</p><p id=\"df3a\" class=\"graf graf--p graf-after--p\"><strong>Bonus Structure:</strong></p><ul class=\"postList\"><li id=\"c41e\" class=\"graf graf--li graf-after--p\">1st week: 15% discount on all currencies + 7% discount for investments made with GAME;</li><li id=\"7ac1\" class=\"graf graf--li graf-after--li\">2nd week: 10% discount on all currencies + 7% discount for investments made with GAME;</li><li id=\"9a72\" class=\"graf graf--li graf-after--li\">3rd week: 5% discount on all currencies + 7% discount for investments made with GAME;</li><li id=\"7083\" class=\"graf graf--li graf-after--li\">4th week: Only a 10% discount on investments made with GAME;</li></ul>",
+    "TokenType": "ETH (ERC20)",
+    "WebsiteLink": "https://mobilego.io/",
+    "FundingCap": "N/A",
+    "FundingTarget": "N/A",
+    "Date": 1493132400,
+    "EndDate": 1495627200,
+    "FundsRaisedList": "9918 BTC; 37,037 ETH; 1,578629 WAVES; 6,741175 GAME; 136,487 ANS",
+    "FundsRaisedUSD": "53069235",
+    "StartPrice": "0.53",
+    "StartPriceCurrency": "USD",
+    "Jurisdiction": "N/A",
+    "BlogLink": "https://mobilego.io/blog/",
+    "WhitePaperLink": "https://mobilego.io/pdf/MobileGo-Whitepaper.pdf"
+  },
+  "ccId": "55650"
+}

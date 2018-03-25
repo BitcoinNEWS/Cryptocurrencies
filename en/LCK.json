@@ -1,0 +1,56 @@
+{
+  "General": {
+    "Symbol": "LCK",
+    "Name": "Luckbox",
+    "Description": "<p><span>Luckbox is creating a fully licensed betting platform dedicated to serving the global esports community, where fans are able to bet, watch and chat in a safe environment using cryptocurrencies, in-game items and cash. Luckbox’s dual token structure offers contributors a chance to share in the company’s long-term success with the option to hold a ‘profit share’ token. The esports field is growing fast but operators fail to provide players with a comprehensive, secure/regulated and innovative platform. This lack of compliance from operators prevents them to access app stores and provide players with easy payment method options. Our priority is to be fully licensed and regulated first to guarantee a fantastic player experience and guarantee sustainability of our business no matter the regulatory changes.</span></p><p><span>Luckbox is partnering with Google top tier&#39;s program and its managing team is former PokerStars and have tremendous experience in the sector. Luckbox counts with advisors such as a permanent Google advisor or the founder of Sigwo Technologies as our blockchain expert.</span></p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "600000000",
+    "Algorithm": null,
+    "ProofType": null,
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "15/02/2018",
+    "TotalCoinsMined": null,
+    "Twitter": "@luckboxgg",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": null,
+    "GitHub": null,
+    "OnMarkets": [],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Upcoming",
+    "Description": "<p><span>Luckbox is creating a fully licensed betting platform dedicated to serving the global esports community, where fans are able to bet, watch and chat in a safe environment using cryptocurrencies, in-game items and cash. Luckbox’s dual token structure offers contributors a chance to share in the company’s long-term success with the option to hold a ‘profit share’ token. The esports field is growing fast but operators fail to provide players with a comprehensive, secure/regulated and innovative platform. This lack of compliance from operators prevents them to access app stores and provide players with easy payment method options. Our priority is to be fully licensed and regulated first to guarantee a fantastic player experience and guarantee sustainability of our business no matter the regulatory changes.</span></p><p><span>Luckbox is <span>partnering with Google top tier&#39;s program and its managing team is former PokerStars and have tremendous experience in the sector. </span><span>Luckbox counts with</span><span> advisors such as a permanent Google advisor or the founder of Sigwo Technologies as our blockchain expert.</span></span></p><p><strong>Team</strong>:</p><ul><li><strong>Lars Lien:</strong> CEO, co-founder</li><li><strong>Mike Stevens:</strong> Co-founder</li><li><strong>Archie Watt:</strong> CFO</li><li><strong>Lee Hills:</strong> Licensing and Regulatory Affairs</li><li><strong>Boris Mihov:</strong> VP of Product</li></ul><p><span>Registration for the Luckbox presale opened at 3 pm GMT / UTC on Tuesday, January 23 and the ICO will last until the 1st of May 2018. The ICO token allocation represents 34% of the total token supply. The ICO funding target/cap is set at $20000000.</span></p><p><strong>Token Reserve Split (66%):</strong></p><ul><li>Strategic Investors 27%</li><li>Company Reserve 10%</li><li>User adoption pool 20%</li><li>Team 3%</li><li>Advisors 3%</li><li>Influencers / Promotion 3%</li></ul><p>The Luckbox ICO features a bounty campaign.</p>",
+    "TokenType": "ETH (ERC20)",
+    "WebsiteLink": "https://luckbox.com/",
+    "FundingCap": "$20000000",
+    "FundingTarget": "$20000000",
+    "Date": 1522854000,
+    "EndDate": 1523404800,
+    "FundsRaisedList": "N/A",
+    "FundsRaisedUSD": "N/A",
+    "StartPrice": "N/A",
+    "StartPriceCurrency": "N/A",
+    "Jurisdiction": "IOM",
+    "BlogLink": "https://blog.luckbox.com/",
+    "WhitePaperLink": "https://luckbox.com/docs/1181/lb-wp.pdf"
+  },
+  "ccId": "680484"
+}

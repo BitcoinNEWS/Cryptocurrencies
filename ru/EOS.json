@@ -1,0 +1,75 @@
+{
+  "General": {
+    "Symbol": "EOS",
+    "Name": "EOS",
+    "Description": "<p>EOS.IO - это программное обеспечение, которое вводит архитектуру blockchain, предназначенную для вертикального и горизонтального масштабирования децентрализованных приложений («EOS.IO Software»). Это достигается с помощью конструкции, подобной операционной системе, на которой могут быть созданы приложения. Программное обеспечение предоставляет учетные записи, аутентификацию, базы данных, асинхронную связь и планирование приложений на нескольких ядрах и/или кластерах ЦП. Результом будет — блокчейн, который может масштабироваться до миллионов транзакций в секунду, исключая плату пользователей и позволяющая быстро и просто развертывать децентрализованные приложения. Для получения дополнительной информации ознакомьтесь с технической технической информацией  <a href=\"https://github.com/EOSIO/Documentation/blob/master/TechnicalWhitePaper.md\" target=\"_blank\">EOS.IO Technical White Paper.</a></p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "1000000000",
+    "Algorithm": "DPoS",
+    "ProofType": "DPoS",
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "26/06/2017",
+    "TotalCoinsMined": 1000000000,
+    "Twitter": "@eos_io",
+    "Telegram": null,
+    "Youtube": "UNOrgvbYG2A",
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "https://eos.io/",
+    "GitHub": null,
+    "OnMarkets": [
+      "HuobiPro",
+      "Kucoin",
+      "BTER",
+      "Bitfinex",
+      "Liqui",
+      "BitFlip",
+      "EXX",
+      "OKEX",
+      "Gateio",
+      "Yobit",
+      "Yunbi",
+      "Binance",
+      "HitBTC",
+      "LiveCoin",
+      "Kraken",
+      "Tidex",
+      "BitZ",
+      "EtherDelta"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Ongoing",
+    "Description": "<p><span>EOS tokens are ERC-20 compatible tokens distributed on the Ethereum blockchain pursuant to a related ERC-20 smart contract (the “EOS Tokens”).</span></p><p><span>The founders tokens represent 10% of the aggregate EOS Token and are currently held in Smart Contracts.</span></p><p><span>The ICO is divided into two phases, period 1 offers 20% of total supply and period 2 offers 70% to investors, Phase 2 is split into 350 consecutive 23 hours periods, selling 2 mln EOS tokens each period.. 10% is held by the team in smart contracts.</span></p><p><span style=\"text-decoration: underline;\"><strong>Team</strong></span></p><p><strong>Brendan Blumer, CEO</strong>: Involved in the Blockchain industry since 2014, Brendan is a serial entrepreneur who has built businesses including trading of virtual currencies in MMORPGs in the US, okay.com in Hong Kong and 1Group in India.</p><p><strong>Daniel Larimer, CTO</strong>: A serial entrepreneur focusing on innovative technologies ranging from virtual reality simulators to second-generation crypto currencies, most notably BitShares. Dan is a specialist in software development and the inventor of the widely adopted “Proof of Stake” and “Decentralized Autonomous Corporations” concepts.</p><p><strong>Brock Pierce, Partner</strong>: A venture capitalist and entrepreneur who pioneered the market for digital currency in games and has raised more than $200 million for companies he founded. Brock is the Chairman of the Bitcoin Foundation, and co-founder of Blockchain Capital, among others.</p><p><strong>Ian Grigg, Partner:</strong> A financial cryptographer who has been building cryptographic ledger platforms for over 20 years, Ian is the inventor of the Ricardian Contract and the co-inventor of Triple-Entry Accounting.</p>",
+    "TokenType": "ETH (ERC20)",
+    "WebsiteLink": "https://eos.io/information",
+    "FundingCap": "N/A",
+    "FundingTarget": "N/A",
+    "Date": 1498482000,
+    "EndDate": 1527858000,
+    "FundsRaisedList": "848,000,000 EOS sold.",
+    "FundsRaisedUSD": "N/A",
+    "StartPrice": "N/A",
+    "StartPriceCurrency": "N/A",
+    "Jurisdiction": "N/A",
+    "BlogLink": "https://steemit.com/@eosio",
+    "WhitePaperLink": "https://github.com/EOSIO/Documentation/blob/master/TechnicalWhitePaper.md"
+  },
+  "ccId": "166503"
+}

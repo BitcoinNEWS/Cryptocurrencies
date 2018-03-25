@@ -1,0 +1,58 @@
+{
+  "General": {
+    "Symbol": "VLT",
+    "Name": "Veltor",
+    "Description": "<p><span>Valtor is a cryptocurrency that focuses on stability, efficiency and long term scaling implementing a Lightning </span><span>Network like feature, providing viable transaction privacy without bloating the blockchain and eliminating the drawbacks of longer block time. VLT has a 30 minute block tiem and i</span>t uses the custom hashing algorithm \"Thor&#39;s secret\".</p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": null,
+    "Algorithm": null,
+    "ProofType": "PoW",
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "12/08/2016",
+    "TotalCoinsMined": 554855,
+    "Twitter": "@j_veltor",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "http://veltor.org/",
+    "GitHub": null,
+    "OnMarkets": [
+      "Yobit"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "N/A",
+    "Description": null,
+    "TokenType": null,
+    "WebsiteLink": null,
+    "FundingCap": null,
+    "FundingTarget": null,
+    "Date": null,
+    "EndDate": null,
+    "FundsRaisedList": null,
+    "FundsRaisedUSD": null,
+    "StartPrice": null,
+    "StartPriceCurrency": null,
+    "Jurisdiction": null,
+    "BlogLink": null,
+    "WhitePaperLink": null
+  },
+  "ccId": "28225"
+}

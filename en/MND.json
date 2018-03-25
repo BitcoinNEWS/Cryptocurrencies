@@ -1,0 +1,60 @@
+{
+  "General": {
+    "Symbol": "MND",
+    "Name": "MindCoin",
+    "Description": "<p>MindCoin is being launched to raise awareness of Mental Health Issues that many people face and to release a positive and charitable Crypto Currency.<br /><br />About one quarter of people will experience some kind of mental health problem in the course of a year, with mixed anxiety and depression. Mental health problems are found in people of all ages, regions, states, countries and societies. Did you know suicide remains the most common cause of death in men under the age of 35?<br /><br />When people talk about mental health problems, most people jump the gun and think of Depression and Anxiety, Whilst these are two of the most common problems there are many more. To list a few.<br /><br />Bipolar Disorder, Eating Disorders (Bulimia), Anorexia, PTSD, OCD, Schizophrenia, Autism, ADHD, Tourettes, Insomnia, Narcolepsy, Dementia, Social, Conduct and Panic disorders.</p><p>Coin added by <a href=\"http://chopcoin.io\" target=\"_blank\">@chopcoin</a> Team</p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "16000000",
+    "Algorithm": "X11",
+    "ProofType": "PoW",
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "04/10/2015",
+    "TotalCoinsMined": 15867695,
+    "Twitter": "@MindCoinCrypto",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "-",
+    "GitHub": null,
+    "OnMarkets": [
+      "Yobit",
+      "BitTrex",
+      "CCEX"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "N/A",
+    "Description": null,
+    "TokenType": null,
+    "WebsiteLink": null,
+    "FundingCap": null,
+    "FundingTarget": null,
+    "Date": null,
+    "EndDate": null,
+    "FundsRaisedList": null,
+    "FundsRaisedUSD": null,
+    "StartPrice": null,
+    "StartPriceCurrency": null,
+    "Jurisdiction": null,
+    "BlogLink": null,
+    "WhitePaperLink": null
+  },
+  "ccId": "15888"
+}

@@ -1,0 +1,59 @@
+{
+  "General": {
+    "Symbol": "RVT",
+    "Name": "Rivetz",
+    "Description": "<p>Rivetz works through the Trusted Execution Environment: a private hardware “vault” on your phone that is completely independent from the operating system. Inside of this vault, everything is isolated – so no apps or software or operating system can see what’s inside. This is where Rivetz works to securely manage your secrets, your passwords, keys, and other private information.</p><p>RvT Tokens power Rivetz: RvT is an Ethereum-based token that works with the blockchain to cryptographically prove that the vault in your phone is secure, all the way from the manufacturer to your pocket. The RvT blockchain can perform a health check, verifying that your vault’s integrity is intact, and that transactions you send are exactly the ones you intended.</p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "200000000",
+    "Algorithm": "N/A",
+    "ProofType": "N/A",
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "25/07/2017",
+    "TotalCoinsMined": 200000000,
+    "Twitter": "@rivetzcorp",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "https://rivetzintl.com",
+    "GitHub": null,
+    "OnMarkets": [
+      "HitBTC",
+      "EtherDelta"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Ongoing",
+    "Description": "<p><span>RvT Tokens power Rivetz: RvT is an Ethereum-based token that works with the blockchain to cryptographically prove that the vault in your phone is secure, all the way from the manufacturer to your pocket. The RvT blockchain can perform a health check, verifying that your vault’s integrity is intact and that transactions you send are exactly the ones you intended.</span></p><p><span>Token reserve split:</span></p><ul><li><span>30% allocated for distribution to incentivize participation in the ecosystem</span></li><li><span>35% reserved for future use. </span></li></ul>",
+    "TokenType": "ETH (ERC20)",
+    "WebsiteLink": "https://rivetzintl.com/sale",
+    "FundingCap": "50000000",
+    "FundingTarget": "5000000",
+    "Date": 1502388000,
+    "EndDate": 1505062800,
+    "FundsRaisedList": "50412.77 ETH",
+    "FundsRaisedUSD": "19711393.07",
+    "StartPrice": "N/A",
+    "StartPriceCurrency": "USD",
+    "Jurisdiction": "N/A",
+    "BlogLink": "https://rivetz.com/index.php/blog",
+    "WhitePaperLink": "http://rivetzintl.com/2017site/wp-content/uploads/2017/07/rvt-white-paper-1.01.pdf"
+  },
+  "ccId": "176280"
+}

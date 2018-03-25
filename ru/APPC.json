@@ -1,0 +1,60 @@
+{
+  "General": {
+    "Symbol": "APPC",
+    "Name": "AppCoins",
+    "Description": "<div>AppCoins is a cryptocurrency for app stores that gives users new app purchasing power, unleashes monetization potential for developers and increases app safety.</div><div><div><span>This project provides developers a transparent and efficient way to monetise their apps and build a reputation across app stores; provides users a trusted environment with new purchasing possibilities and incentives to discover apps; and creates an app economy with a new universal language that ensures trust, transparency, and openness.</span></div></div>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "246203093",
+    "Algorithm": null,
+    "ProofType": null,
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "06/11/2017",
+    "TotalCoinsMined": null,
+    "Twitter": "@AppCoinsProject",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": null,
+    "GitHub": null,
+    "OnMarkets": [
+      "Binance",
+      "HuobiPro",
+      "EtherDelta"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Finished",
+    "Description": "<div>AppCoins is a cryptocurrency for app stores that gives users new app purchasing power, unleashes monetization potential for developers and increases app safety.</div><div><div><span>This project provides developers a transparent and efficient way to monetise their apps and build a reputation across app stores; provides users a trusted environment with new purchasing possibilities and incentives to discover apps; and creates an app economy with a new universal language that ensures trust, transparency, and openness.</span></div></div><p><strong>Team</strong>:</p><ul><li><strong>Paulo Trezentos:</strong> CEO / FOUNDER <a href=\"https://www.linkedin.com/in/paulotrezentos/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Alvaro Pinto:</strong> COO / FOUNDER <a href=\"https://www.linkedin.com/in/alvaro-pinto-2b06585//\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Tiago C. Alves:</strong> VP ASIA PACIFIC <a href=\"https://www.linkedin.com/in/tiagoalves/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Ren Tang 唐人:</strong> VP OF PRODUCT <a href=\"https://www.linkedin.com/in/rentang/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Carolina Marçalo:</strong> HEAD OF PARTNERSHIPS <a href=\"https://www.linkedin.com/in/carolina-mar%C3%A7alo-4333a41/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>João Casal:</strong> HEAD OF R&amp;D <a href=\"https://www.linkedin.com/in/joaocasal/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li></ul><p>The Appcoins ICO will start on the 13th of December of 2017 and will end on the 15th of January 2018. The ICO token supply represents 40% of the total supply and will be available for a 0.0003339 ETH starting price. APPC can be acquired with ETH only. The ICO has a <span>18000000</span> USD funding target/cap. </p><p><strong>Token Reserve Split:</strong></p><ul><li>40% for Pre-Sale and public Sale;</li><li>15% App Store Foundation;</li><li>20% Bootstrap initiatives (Developers, OEMs, users);</li><li>10% Key Contributors</li><li>15% Aptoide</li></ul><p>The Appcoins ICO features a bonus campaign of 30% during its pre-sale.</p><p> </p>",
+    "TokenType": "ETH (ERC20)",
+    "WebsiteLink": "https://appcoins.io/presale",
+    "FundingCap": "18000000 USD ",
+    "FundingTarget": "18000000 USD ",
+    "Date": 1513123200,
+    "EndDate": 1513900800,
+    "FundsRaisedList": "15,300,000 USD",
+    "FundsRaisedUSD": "15300000",
+    "StartPrice": "0.0003339",
+    "StartPriceCurrency": "ETH",
+    "Jurisdiction": "Singapore",
+    "BlogLink": null,
+    "WhitePaperLink": " https://appcoins.io/pdf/appcoins_whitepaper.pdf"
+  },
+  "ccId": "346812"
+}

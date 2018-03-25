@@ -1,0 +1,62 @@
+{
+  "General": {
+    "Symbol": "XSPEC",
+    "Name": "Spectre",
+    "Description": "<p>The Spectreproject comprises the anonymous, untraceable and secure cryptocurrency. The anonymous currency will be integrated with a mobile platform for small remittance, cash transfers. This is currently being developed for Android and later for iOS and other mobile platforms.</p><p>Spectrecoin is an anonymous, untraceable and un-linkable, energy efficient, Proof-of-Stake v3 cryptocurrency. SPEC also has an advanced hierarchical deterministic wallet (HD wallet) with multiple functions and configuration options.</p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": null,
+    "Algorithm": "POS 3.0",
+    "ProofType": "PoS",
+    "BlockReward": 2.1652735536918044,
+    "Explorer": null,
+    "StartDate": "04/12/2016",
+    "TotalCoinsMined": 21243963.81598699,
+    "Twitter": "@SpectreCash",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "https://spectreproject.io/",
+    "GitHub": null,
+    "OnMarkets": [
+      "TradeSatoshi",
+      "Cryptopia",
+      "Novaexchange",
+      "LiveCoin",
+      "CCEX"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Finished",
+    "Description": "<p><span>20,000,000 XSPEC was created in a &#39;</span>genesis transaction<span>&#39; and 95% of the XSPEC supply was sold to investors in late 2016.<span> Just over 16 BTC was raised and the 19,000,000 XSPEC coins were distributed to investors in January 2017. </span></span></p><p>XSpec is a privacy focused currency that aims to be unique by implementing tor intergration.</p>",
+    "TokenType": "N/A",
+    "WebsiteLink": "https://spectreproject.io/",
+    "FundingCap": "No Cap",
+    "FundingTarget": "N/A",
+    "Date": 1479643200,
+    "EndDate": 1483876800,
+    "FundsRaisedList": "16 BTC",
+    "FundsRaisedUSD": "15000",
+    "StartPrice": "0.00000082",
+    "StartPriceCurrency": "BTC",
+    "Jurisdiction": "N/A",
+    "BlogLink": "https://blog.spectreproject.io/",
+    "WhitePaperLink": "https://eprint.iacr.org/2016/1159.pdf"
+  },
+  "ccId": "42598"
+}

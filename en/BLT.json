@@ -1,0 +1,58 @@
+{
+  "General": {
+    "Symbol": "BLT",
+    "Name": "Bloom Token",
+    "Description": "<p>Bloom is a decentralized credit protocol that aims to address the existing limitations of the actual credit scoring system. The Bloom protocol will use the Ethereum blockchain to provide a novel approach to the credit risk assessment allowing both traditional fiat lenders and digital asset lenders to issues compliant loans on the blockchain while providing lower fees and improve borrower experience at the credit issuance process.</p><p>The Bloom platform will feature a BloomID (a global secure identity, allowing lenders to offer compliant loans globally), BloomIQ (a system for reporting and tracking<br />current and historical debt obligations that are tied to a user’s BloomID), and BloomScore (a metric of consumers’ creditworthiness).</p><p>Bloom token (BLT) is an ERC-20 token that will be used to participate in evaluating user identities and creditworthiness. Furthermore, it will give users voting rights on future developments on the Bloom credit scoring system.</p><p><span>Click <a href=\"https://masternodes.online/currencies/BLT/\" target=\"_blank\">here</a> for Masternode stats.</span></p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "150000000",
+    "Algorithm": null,
+    "ProofType": null,
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "10/11/2017",
+    "TotalCoinsMined": 150000000,
+    "Twitter": "@BloomToken",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": null,
+    "GitHub": null,
+    "OnMarkets": [
+      "EtherDelta"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "N/A",
+    "Description": null,
+    "TokenType": null,
+    "WebsiteLink": null,
+    "FundingCap": null,
+    "FundingTarget": null,
+    "Date": null,
+    "EndDate": null,
+    "FundsRaisedList": null,
+    "FundsRaisedUSD": null,
+    "StartPrice": null,
+    "StartPriceCurrency": null,
+    "Jurisdiction": null,
+    "BlogLink": null,
+    "WhitePaperLink": null
+  },
+  "ccId": "638634"
+}

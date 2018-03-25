@@ -1,0 +1,59 @@
+{
+  "General": {
+    "Symbol": "MCI",
+    "Name": "Musiconomi",
+    "Description": "<p>Musiconomi is a decentralized platform that allows artists, DJs, bloggers, promoters, listeners, and other entrepreneurial music enthusiasts to share and promote music. MIC it an Ethereum-based utility token used as the payment mechanism within the Musiconomi&#39;s platform. MIC is also used as a reward for users that contribute to the ecosystem. <span>It is also used as a ‘staking’ mechanism whereby token holders are able to access tools and features of the platform.</span></p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "100000000",
+    "Algorithm": null,
+    "ProofType": null,
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "10/07/2017",
+    "TotalCoinsMined": 100000000,
+    "Twitter": "@Musiconomi",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": null,
+    "GitHub": null,
+    "OnMarkets": [
+      "EtherDelta",
+      "Cryptopia"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Finished",
+    "Description": "<p><span>Musiconomi is a decentralized platform that allows artists, DJs, bloggers, promoters, listeners, and other entrepreneurial music enthusiasts to share and promote music. MIC it an Ethereum-based utility token used as the payment mechanism within the Musiconomi&#39;s platform. MIC is also used as a reward for users that contribute to the ecosystem. </span><span>It is also<span> </span>used as a ‘staking’ mechanism whereby token holders are able to access tools and features of the platform.</span></p><p><strong>Team</strong>:</p><ul><li><strong>Dan Phifer</strong>: <span>Co-founder, Chief Technology Officer</span>. <a href=\"https://www.linkedin.com/in/danphifer/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Brian Byrne</strong>: <span>Co-founder, Chief Musician Ambassador</span>.<span> </span><a href=\"https://www.linkedin.com/in/brian-byrne-3636778a/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong><span>Elio Di Iorio</span></strong>: <span>Co-founder, Chief Organizer and Spokesperson</span>.<span> </span><a href=\"https://www.linkedin.com/in/elio-david-di-iorio/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong><span>Jared Griego</span></strong>: <span>Co-founder, Blockchain Engineer and Operations</span>.<span> </span><a href=\"https://www.linkedin.com/in/jared-griego-10a9079/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Peter Mooney</strong>: <span>Senior Application Architect</span>.<span> </span><a href=\"https://www.linkedin.com/in/pjmooney/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong><span>Mayank Jain</span></strong>: <span>Community Ambassador</span>.<span> </span><a href=\"https://www.linkedin.com/in/firesofmay\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li></ul><p><strong>Token Reserve Split (75%):</strong></p><ul><li>22% Team</li><li>28% Strategic Partnership Reserve</li><li>25% Future Release (2018/2019)</li></ul><p> </p><p> </p>",
+    "TokenType": "ETH (ERC20)",
+    "WebsiteLink": null,
+    "FundingCap": "6,000,000 USD",
+    "FundingTarget": "3,000,000 USD",
+    "Date": null,
+    "EndDate": 1504137600,
+    "FundsRaisedList": "17648 ETH",
+    "FundsRaisedUSD": "N/A",
+    "StartPrice": "0.00070592",
+    "StartPriceCurrency": "ETH",
+    "Jurisdiction": "N/A",
+    "BlogLink": "https://medium.com/musiconomi",
+    "WhitePaperLink": "https://cofound.it/en/projects/musiconomi/"
+  },
+  "ccId": "338415"
+}

@@ -1,0 +1,61 @@
+{
+  "General": {
+    "Symbol": "IOP",
+    "Name": "Internet of People",
+    "Description": "<p>Internet of People - это набор сетей P2P, предназначенных для прямого подключения к устройству P2P-связи с использованием приложений P2P. Основная цель сети - позволить моему устройству напрямую подключаться к вашему устройству без использования каких-либо услуг какой-либо компании в процессе установления соединения или во время взаимодействия. <br>Одна из этих сетей P2P - это блокчейн, который запускает систему токенов, необходимую для стимулирования операторов к запуску всех компонентов других сетей P2P, которые формируют «Internet of People». Токен «IOP» — это токен PoW/PoS с лимитом в 21M.</p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "21000000",
+    "Algorithm": "SHA256",
+    "ProofType": "PoW/PoS",
+    "BlockReward": 50,
+    "Explorer": null,
+    "StartDate": "01/08/2014",
+    "TotalCoinsMined": 2526078.47525448,
+    "Twitter": "@Fermat_ORG",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "http://fermat.org/",
+    "GitHub": null,
+    "OnMarkets": [
+      "TradeSatoshi",
+      "CCEX",
+      "BitSquare",
+      "BitTrex"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "N/A",
+    "Description": null,
+    "TokenType": null,
+    "WebsiteLink": null,
+    "FundingCap": null,
+    "FundingTarget": null,
+    "Date": null,
+    "EndDate": null,
+    "FundsRaisedList": null,
+    "FundsRaisedUSD": null,
+    "StartPrice": null,
+    "StartPriceCurrency": null,
+    "Jurisdiction": null,
+    "BlogLink": null,
+    "WhitePaperLink": null
+  },
+  "ccId": "42596"
+}

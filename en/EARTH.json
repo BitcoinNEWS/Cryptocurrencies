@@ -1,0 +1,56 @@
+{
+  "General": {
+    "Symbol": "EARTH",
+    "Name": "Earth Token",
+    "Description": "<p><span>The Earth Token is the native currency used in the Natural Asset Exchange blockchain platform which allows certified Natural Capital Asset project developers to list their products with no middlemen fees involved.<span> EARTH is an Ethereum-based ERC20 token.</span></span></p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "1000000000",
+    "Algorithm": null,
+    "ProofType": null,
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "23/10/2017",
+    "TotalCoinsMined": null,
+    "Twitter": "@earthtokens",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": null,
+    "GitHub": null,
+    "OnMarkets": [],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Ongoing",
+    "Description": "<p><span>The Earth Token is the native currency used in the Natural Asset Exchange blockchain platform </span><span>which allows certified Natural Capital Asset project developers to list their products with no middlemen fees involved.</span><span> EARTH is an Ethereum-based ERC20 token.</span></p><p><strong>Team</strong>:</p><ul><li><strong>Angus Rowe:</strong> Co-founder, Chairman <a href=\"https://www.linkedin.com/in/angus-rowe-231aa212\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Leonard Harley:</strong> Co-founder, Managing Director, IT Director <a href=\"https://www.linkedin.com/in/leonardharley/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Peter Newell:</strong> Operations Director, Acting Financial Director <a href=\"https://www.linkedin.com/in/peter-newell-8a3361147/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Allan Saunders:</strong> Marketing Director, Product Development Director <a href=\"https://www.linkedin.com/in/allan-saunders-1386491/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li></ul><p>The Earth Token ICO will start on the 24th of November 2017 and it will last until the 15th of March 2018. The ICO token supply represents 50% of the total token supply. The EARTH token will be available for ETH and BTC and for a 0.00025 ETH starting price. The ICO funding cap is 200,000 ETH.</p><p><strong>Token Reserve Split 50%):</strong></p><ul><li><span>50% for 3rd party service providers to Token Sale, Token Sale logistics and technology platform partners, founders, stakeholders, advisors, early contributors, Earth Token reserve, market making, liquidity, incentives for contractors and suppliers.</span></li></ul><p>The Earth Token ICO features a bonus and bounty campaign.</p><p><strong>Bonus Structure:</strong></p><ul><li>Pre-sale: 5200 <span>per 1 ETH : 0.0625 BTC</span> (30% bonus)</li><li>Stage 1: 4800 per 1 ETH : 0.0625 BTC (20% bonus)</li><li>Stage 2: 4400 per 1 ETH : 0.0625 BTC (10% bonus)</li><li>Stage 3: 4000 per 1 ETH : 0.0625 BTC</li></ul>",
+    "TokenType": "ETH (ERC20)",
+    "WebsiteLink": "https://earth-token.com",
+    "FundingCap": "68 000 ETH",
+    "FundingTarget": "N/A",
+    "Date": 1511524800,
+    "EndDate": 1521115200,
+    "FundsRaisedList": "217,797,684 EARTH tokens sold",
+    "FundsRaisedUSD": "N/A",
+    "StartPrice": "0.00025",
+    "StartPriceCurrency": "ETH",
+    "Jurisdiction": "Malta",
+    "BlogLink": "https://medium.com/earthtokens",
+    "WhitePaperLink": "https://earth-token.com/pdf/impactChoice-Earth-Token-Whitepaper.pdf"
+  },
+  "ccId": "324012"
+}

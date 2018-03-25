@@ -1,0 +1,70 @@
+{
+  "General": {
+    "Symbol": "LSK",
+    "Name": "Lisk",
+    "Description": "<p>Lisk — это криптовалютная и децентрализованная платформа приложений. Как криптовалюта, так же как биткойн и другие альтернативы, она обеспечивает децентрализованную платежную систему и сеть цифровых денег. Сама сеть работает с использованием высокоэффективной модели консенсуса с делегированным подтверждением (DPoS), которая обеспечивается 101 демократически избранными делегатами. Децентрализованная платформа приложений Lisk, это самый мощный компонент, позволяет развертывать, распространять и монетизировать децентрализованные приложения и настраиваемые блокировки (боковые цепи) на блок-цепочку Lisk. Уровень инфляции составляет 5 LISK за блок, который уменьшается на 1 каждый год, пока не достигнет стабильного выигрыша в размере 1 LISK за блок.</p><p>Lisk сотрудничает с Microsoft, чтобы интегрировать Lisk в свою программу Azure Blockchain как услугу (BaaS), что означает, что разработчики во всем мире могут разрабатывать, тестировать и развертывать приложения с использованием облачной вычислительной платформы и инфраструктуры компании Azure.</p>",
+    "Features": "<p>Сеть Lisk является децентрализованной и недоверчивой. Это означает, что ни один объект не находится под прямым контролем. Сеть обеспечена 101 демократически избранными делегатами. Чья основная ответственность заключается в подтверждении и трансляции действительности транзакций. Все учетные записи Lisk в сети имеют право голосовать за делегатов, зарегистрированных в блоке Lisk. 101 делегат с большинством голосов избирается с ответственностью за подтверждение действительности трансакций в сети. Они также получают 100% всех сборов, взимаемых сетью, и всех поощрений.</p>",
+    "Technology": "<p>Во время ICO 100 000 000 LISK были представлены участникам ICO, основной команде, третьим лицам и активным членам сообщества. Каждые 3 000 000 блоков (~ 1 год) наград уменьшается на 1 LISK, заканчиваясь на 1 LISK за блок, где он остается таким навсегда.</p><p>Коучинг-вознаграждение будет равномерно распределяться между всеми активными (101 и выше) делегатами, такими же, как и сетевые сборы. Мы внедрили этот механизм, чтобы создать стимул для запуска делегата и обеспечения безопасности сети. Кроме того, это позволяет Lisk финансировать себя в будущем.</p><p>Lisk написан на JavaScript с использованием NodeJS.</p>",
+    "TotalCoinSupply": "159918400",
+    "Algorithm": "DPoS",
+    "ProofType": "DPoS",
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "24/05/2016",
+    "TotalCoinsMined": " 100199025",
+    "Twitter": "@LiskHQ",
+    "Telegram": null,
+    "Youtube": "Rk_0TjP1gjY",
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "https://lisk.io",
+    "GitHub": null,
+    "OnMarkets": [
+      "HitBTC",
+      "LiveCoin",
+      "BitSquare",
+      "Yobit",
+      "BitGrail",
+      "BitBay",
+      "Poloniex",
+      "HuobiPro",
+      "Binance",
+      "Jubi",
+      "Gateio",
+      "BitZ",
+      "BitTrex"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Finished",
+    "Description": "<p><span>Lisk is a crypto-currency and decentralized application platform. As a crypto-currency, much like Bitcoin and other alternatives, it provides a decentralized payment system and digital money network. The network itself, operates using a highly efficient Delegated-Proof-of-Stake (DPoS) consensus model, that is secured by 101 democratically elected delegates. The Lisk decentralized application platform, it&#39;s most powerful component, allows the deployment, distribution and monetisation of decentralized applications and custom blockchains (sidechains) onto the Lisk blockchain. The inflation rate is 5 LISK per block, which gets lowered by 1 every year until it reaches a stable block reward of 1 LISK per block. </span></p><p><span>Lisk partnered with Microsoft to integrate Lisk into its Azure Blockchain as a Service (BaaS) program — meaning developers worldwide can develop, test, and deploy Lisk blockchain applications using Microsoft&#39;s Azure cloud computing platform and infrastructure.  </span><a href=\"https://blog.lisk.io/lisk-development-roadmap-5afc4cd0612e\" target=\"_blank\">Roadmap</a></p><p><strong>Team</strong>:</p><ul><li><strong><span>Max Kordek</span></strong>: President, Founder. (<a href=\"https://twitter.com/MaxKordek\" target=\"_blank\">Twitter</a>, <a href=\"https://www.linkedin.com/in/maxkordek?locale=en_US\" target=\"_blank\">LinkedIn</a>);</li><li><strong><span>Oliver Beddows</span></strong>: Vice-<span>President, Founder.</span> (<span><a href=\"https://twitter.com/Karmacrypto\" target=\"_blank\">Twitter</a>, <a href=\"https://www.linkedin.com/in/oliver-beddows-19aa09107\" target=\"_blank\">LinkedIn</a></span>);</li><li><strong><span>Guido Schmitz-Krummacher</span></strong>: <span>Legal &amp; Financials.</span> (<a href=\"https://www.linkedin.com/in/guidos1\" target=\"_blank\"><span>LinkedIn</span></a>);</li></ul><p><span>Lisk&#39;s </span><span>ICO collected approximately 14,009 BTC and 80,742,575 XCR. Which placed the Lisk ICO as the second most successful crypto-currency crowd-fund at the time. There were 3908 unique participants with an average investment of 3.96BTC. The bonus structure was as follows:</span></p><p><span><strong>Bonus Structure:</strong></span></p><ul><li id=\"b85b\" class=\"graf graf--li graf-after--p\">First week: 15% bonus</li><li id=\"e267\" class=\"graf graf--li graf-after--li\">Second week: 10% bonus</li><li id=\"89d7\" class=\"graf graf--li graf-after--li\">Third week: 5% bonus</li><li id=\"041f\" class=\"graf graf--li graf-after--li\">Fourth week: 0% bonus</li></ul><p>85% of tokens went to ICO investors, 8% to the LISK core team, 4% for LISK campaigns and bounties, 2% for advisors, partners and 3rd parties, 1% for early supporters.</p><p><strong>Token Reserve Split (15%):</strong></p><ul><li>08% Lisk core team;</li><li>04% <span>Lisk campaigns and bounties</span>;</li><li>02% A<span>dvisors, partners and 3rd parties</span>;</li><li>01% Early supporters;</li></ul><p>Lisk ICO campaign featured bonus, bounties and escrow. <span>BTC raised was sent to a 2-of-3 multi-signature Coinbase vault. That means the money can only be withdrawn if two of the three signees agree. T<span>he<span> </span></span><span>token<span> </span></span><span>is not minable.</span></span></p>",
+    "TokenType": "N/A",
+    "WebsiteLink": "https://lisk.io/",
+    "FundingCap": "N/A",
+    "FundingTarget": "N/A",
+    "Date": 1456142400,
+    "EndDate": 1458561600,
+    "FundsRaisedList": "15,480.52 BTC",
+    "FundsRaisedUSD": "6346800",
+    "StartPrice": "0.00018212",
+    "StartPriceCurrency": "BTC",
+    "Jurisdiction": "N/A",
+    "BlogLink": "https://blog.lisk.io/?gi=e760c431f27d",
+    "WhitePaperLink": "https://github.com/slasheks/lisk-whitepaper"
+  },
+  "ccId": "19745"
+}

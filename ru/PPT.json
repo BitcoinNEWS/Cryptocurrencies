@@ -1,0 +1,64 @@
+{
+  "General": {
+    "Symbol": "PPT",
+    "Name": "Populous",
+    "Description": "<p>Populous is an invoice and trade finance platform built on the Ethereum network. Populous uses XBRL, Z Score formula, Smart Contracts, Stable tokens and other technologies in the cryptoshpere to create a unique trading environment for investors and invoice sellers.</p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "53252246",
+    "Algorithm": "N/A",
+    "ProofType": "N/A",
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "12/04/2017",
+    "TotalCoinsMined": 53252246,
+    "Twitter": "@bitpopulous",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "http://populous.co/",
+    "GitHub": null,
+    "OnMarkets": [
+      "HitBTC",
+      "Kucoin",
+      "Gateio",
+      "Binance",
+      "LAToken",
+      "OKEX",
+      "EtherDelta"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Finished",
+    "Description": "<p><span>Populous is an invoice and trade finance platform built on the Ethereum network. Populous uses XBRL, Z Score formula, Smart Contracts, Stable tokens and other technologies in the cryptoshpere to create a unique trading environment for investors and invoice sellers.</span></p><p>The Populous ICO was held from the 24th of June until it reached its funding cap of 58577 ETH. 67.6% of the total 53252246 PPT supply was allocated for investors. The ICO counted with the participation of an escrow agent and bounty hunters. No bonuses were given during this ICO.</p>",
+    "TokenType": "ETH (ERC20)",
+    "WebsiteLink": "http://populous.co/",
+    "FundingCap": "No Cap",
+    "FundingTarget": "N/A",
+    "Date": 1498344939,
+    "EndDate": 1500936946,
+    "FundsRaisedList": "33,619.7 ETH",
+    "FundsRaisedUSD": "9000000",
+    "StartPrice": "0.0011",
+    "StartPriceCurrency": "ETH",
+    "Jurisdiction": "UK",
+    "BlogLink": null,
+    "WhitePaperLink": "http://populous.co/populous_whitepaper.pdf"
+  },
+  "ccId": "179896"
+}

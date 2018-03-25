@@ -1,0 +1,60 @@
+{
+  "General": {
+    "Symbol": "DCT",
+    "Name": "Decent",
+    "Description": "<p><a href=\"https://decent.ch/\">Decent</a> is a decentralized open source content distribution platform that allows anyone to buy, sell, or share content without unnecessary middleman fees or manipulation. Using Decent, authors can share their content directly with consumers using blockchain technology and a modified version of the Bittorrent protocol, without any cultural, geographical or political limitations.</p><p>Decent holds multiple advantages over traditional platforms, such censorship resistance, which is ensured by Decent&#39;s decentralized nature where no single server can be targetted or shut down (It is also impossible to target specific nodes with one piece of content in mind). It allows consumers to acquire content for a cheaper price, while the content creators can keep 100% of the profits. Furthermore, there is no central authority that dictates what content is worth downloading, meaning that content creators are free to express themselves completely and to succeed (or fail) in their craft, regardless of what corporations or governments see fit. The reputation, recommendation, and feedback systems will give every user an equal opportunity.</p><p>Decent will host an ICO starting on the 10th of September in which 70% of the DCT tokens&#39; total supply will be sold for ETH and BTC. The remaining 30% will be used for mining rewards. DCT tokens are used to fuel the Decent Platform and is required to publish and buy content. Users can choose to set the price for their published content.</p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "73197775",
+    "Algorithm": null,
+    "ProofType": "PoS",
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "10/09/2016",
+    "TotalCoinsMined": null,
+    "Twitter": "@DECENTplatform",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "http://decent.ch/",
+    "GitHub": null,
+    "OnMarkets": [
+      "HitBTC",
+      "Liqui",
+      "BitTrex"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Finished",
+    "Description": "<p>Decent is designed for creative people, writers, bloggers, journalists and their fans and followers. The platform enables users to publish any posts, images, video or music content with no restrictions.</p><p><strong>Team</strong>:</p><ul><li><strong>Matej Michalko</strong>: CEO, Founder.</li><li><strong>Matej Boda</strong>: CMO, Founder.</li><li><strong>Wayman Kwan</strong>: Non-Executive Director, Founder.</li><li><strong>Tibor Tarabek</strong>: CTO.</li><li><strong>Xiaomin Wang</strong>: General Manager China.</li><li><strong>Peter Dendis</strong>: Head of Marketing.</li><li><strong>Martin Smolka</strong>: Head of Product Development.</li><li><strong>Josef Sevcik</strong>: Chief Architect.</li></ul><p><strong>Decent has three functional roles: </strong></p><ul><li>Authors: content producers, writers, music producers etc.</li><li>Consumers: readers, listeners and viewers</li><li>Publishers: miners</li></ul><p><strong>Token distribution</strong> – 30% via mining and 70% is distributed during the crowdsale, some of them will go to pre-mine funds to be distributed in the following way: </p><ul><li>10% — DECENT Foundation</li><li>2% — the Investment fund</li><li>1,000,000 DCT — campaign bounty</li><li>3,000,000 DCT — pre-launch marketing programme</li></ul><p>On the crowdsale page, next to the conditions, we see a message that the project is supported by Google, though it does not correspond to the project&#39;s primary activity. Decent enters the content distribution market where such projects as Steemit, Synereo and LBRY already operate. The ICO <span>began on 11th September, and continued for 8-weeks, concluding on 6th November with final collected BTC amount of 5881.45 with ICO generated DCTs around 38.5 mil. (38,510,759.76750000). The number of individual deposits was 4265 which meant the average investment size was approx 0.725 BTC. The total USD raised at ICO close was equal to $4,126,290.77</span></p><p><a href=\"https://decent.ch/en/blog/\" target=\"_blank\"><span>Blog</span></a></p>",
+    "TokenType": "N/A",
+    "WebsiteLink": "https://decent.ch/",
+    "FundingCap": "N/A",
+    "FundingTarget": "N/A",
+    "Date": 1473595200,
+    "EndDate": 1478433600,
+    "FundsRaisedList": "N/A",
+    "FundsRaisedUSD": "4126290.77",
+    "StartPrice": "0.00015272",
+    "StartPriceCurrency": "BTC",
+    "Jurisdiction": "N/A",
+    "BlogLink": "https://decent.ch/en/blog/",
+    "WhitePaperLink": "http://www.the-blockchain.com/docs/Decentralized%20Open-Source%20Content%20Distribution%20(DECENT)%20whitepaper.pdf"
+  },
+  "ccId": "25721"
+}

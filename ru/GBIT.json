@@ -1,0 +1,58 @@
+{
+  "General": {
+    "Symbol": "GBIT",
+    "Name": "GravityBit",
+    "Description": "<p><span>GravityBits is a new digital currency for generation x y z.  For now we are just launching GBIT and will be updating this thread with more information after launch.</span><br /><br /><span>GravityBits Specs:</span><br /><span>SHA-256</span><br /><span>PoW/hiPos</span><br /><span>Total coin supply: 5,333,000</span><br /><br /><span>After block 300,000 14% Interest Yearly</span></p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "5333000",
+    "Algorithm": "Scrypt",
+    "ProofType": "PoW/PoS",
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "27/01/2016",
+    "TotalCoinsMined": null,
+    "Twitter": null,
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "-",
+    "GitHub": null,
+    "OnMarkets": [
+      "Yobit"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "N/A",
+    "Description": null,
+    "TokenType": null,
+    "WebsiteLink": null,
+    "FundingCap": null,
+    "FundingTarget": null,
+    "Date": null,
+    "EndDate": null,
+    "FundsRaisedList": null,
+    "FundsRaisedUSD": null,
+    "StartPrice": null,
+    "StartPriceCurrency": null,
+    "Jurisdiction": null,
+    "BlogLink": null,
+    "WhitePaperLink": null
+  },
+  "ccId": "42103"
+}

@@ -1,0 +1,56 @@
+{
+  "General": {
+    "Symbol": "PROOF",
+    "Name": "PROVER",
+    "Description": "<p><span>PROVER is an Ethereum-based video content authenticator platform. It is an i</span><span>ndependent assistant that helps authenticate and verify video content. The platform was created to eliminate forgery of video materials, and confirm their authenticity. </span><span>PROVER can work either as a stand-alone web/mobile app, or as an integrated solution into 3rd party platforms using APIs and extensions.</span></p><p>PROOF is an ERC20 token that powers Prover&#39;s ecosystem.</p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "1000000000",
+    "Algorithm": null,
+    "ProofType": null,
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "11/01/2018",
+    "TotalCoinsMined": null,
+    "Twitter": "@prover_io",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": null,
+    "GitHub": null,
+    "OnMarkets": [],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Ongoing",
+    "Description": "<p><span>PROVER is an Ethereum-based video content authenticator platform. It is an i</span><span>ndependent assistant that helps authenticate and verify video content. The platform was created to eliminate forgery of video materials, and confirm their authenticity. </span><span>PROVER can work either as a stand-alone web/mobile app or as an integrated solution into 3rd party platforms using APIs and extensions.</span></p><p>PROOF is an ERC20 token that powers Prover&#39;s ecosystem.</p><p><strong>Team</strong>:</p><ul><li><strong>Ilya Svirin</strong>: Founder, CEO.</li><li><strong>Vyacheslav Voronin</strong>: Machine Vision and Video Analytics.</li><li><strong>Alexey Rytikov</strong>: CTO.</li><li><strong>Nadezhda Nabilskaya</strong><span>: Co-founder, Operations.</span></li><li><span><strong>Ivan Pisarev</strong><span>: Co-founder, Marketing and Product development.</span></span></li><li><strong>Vitaly Suprun</strong><span>: Mobile development.</span></li><li><span><strong>Elena Yuferova</strong><span>: Talent Management.</span></span></li></ul><p>PROVER will be holding its ICO on January 30th, 2018. The ICO token supply represents 50% of the total token supply, so there will be a total of <span>500,000,000 </span>tokens available, for 0.01 USD each at the offering. The ICO funding target is 5,700 ETH, the funding cap is 11,400 ETH and is expected to end on March 31st, 2018 or when the funding cap is reached.</p><p><strong>Token Reserve Split (50%):</strong></p><ul><li>28% Team;</li><li>10% A<span>dvisors</span>;</li><li>10% Partners;</li><li>2% Bounty campaign.</li></ul>",
+    "TokenType": "ETH (ERC20)",
+    "WebsiteLink": "https://prover.io",
+    "FundingCap": "11,400 ETH",
+    "FundingTarget": "5,700 ETH",
+    "Date": 1517337755,
+    "EndDate": 1522521761,
+    "FundsRaisedList": "2685754.41 USD",
+    "FundsRaisedUSD": "2685754.41",
+    "StartPrice": "0.01",
+    "StartPriceCurrency": "USD",
+    "Jurisdiction": "British Virgin Islands",
+    "BlogLink": "https://medium.com/prover",
+    "WhitePaperLink": "https://prover.io/assets/White_Paper_en.pdf?0125"
+  },
+  "ccId": "791305"
+}

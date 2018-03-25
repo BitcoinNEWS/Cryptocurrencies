@@ -1,0 +1,61 @@
+{
+  "General": {
+    "Symbol": "OTX",
+    "Name": "Octanox",
+    "Description": "<p><span>Octanox is decentralized open source cryptocurrency with x11 algorithm and using POW and POS hybrid systems. They founded in April 2017 and aim to release a suite of 6 products over the following 6 months. MiddleX, OctaGUI, OTXPay, SmartWeb Wallet, OctaneX and Octalk. <span>The miners will be able to earn about 0.8 Octanox per transaction fees and blocked mined. And in every ten million blocks, that reward will reduce until Octanox gets a point where the fess of the transaction is enough to sustain its miners. Meanwhile, the reward of POS system or proof of stake mining will be given to those who have a large of Octanox. The more Octanox you have, your earnings will be bigger through POS system.</span></span></p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "7905634",
+    "Algorithm": "X11",
+    "ProofType": "Hybrid (POS/POW)",
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "25/06/2017",
+    "TotalCoinsMined": null,
+    "Twitter": "@OctanoxPlatform",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "https://octanox.org/",
+    "GitHub": null,
+    "OnMarkets": [
+      "CCEX",
+      "Cryptopia",
+      "HitBTC",
+      "LiveCoin"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Finished",
+    "Description": "<p><span>Octanox was founded in April 2017 and aims to carve its niche in the crypotocurrency markets as a hybrid PoS/PoW system. They have plans to release 5 products this year; MidfdleX, OctaGUI, OTXPay, Smart Web Wallet, OctaneX. MiddleX is an escrow service that would be based off of Octanox. Which aims to reduce the ability for scamming due to the anonymity that crypto provides. OctaGUI is a smart application that can be used to create multiple features for Octanox for example their web wallets. Octanex will be the decentralised exchange for cryptocurrency assets. Octalk is their final planned product that aims to be a decentralised social media platform that will style itself in a similar fashion to BTCtalk. </span></p><p>The ICO was launched on Livecoin exchange and had a maximum of 100,000,000 coins available. 7,905,634 coins were sold over the ICO period for $0.085/OTX.</p><p><span style=\"text-decoration: underline;\"><strong>Team</strong></span></p><ul><li>Dhimas Pambudi - CEO &amp; Founder</li><li>Dr. Adeel - Developer, Project Manager</li><li>Benjamin Holmes - Community Manager</li><li>Miguel Landicho - Campaign Manager</li></ul>",
+    "TokenType": "N/A",
+    "WebsiteLink": "https://www.livecoin.net/en/news/view/364",
+    "FundingCap": "N/A",
+    "FundingTarget": "N/A",
+    "Date": 1495800000,
+    "EndDate": 1498392000,
+    "FundsRaisedList": "106 BTC; 112 ETH; 4742 USDT",
+    "FundsRaisedUSD": "260000",
+    "StartPrice": "0.085",
+    "StartPriceCurrency": "USD",
+    "Jurisdiction": "N/A",
+    "BlogLink": null,
+    "WhitePaperLink": "https://octanox.org/whitepaper.pdf"
+  },
+  "ccId": "188294"
+}

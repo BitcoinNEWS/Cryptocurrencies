@@ -1,0 +1,59 @@
+{
+  "General": {
+    "Symbol": "XLR",
+    "Name": "Solaris",
+    "Description": "<p>Solaris is a Hybrid PoW/PoS cryptocurrency based on the Nist5 algorithm. It has a 100M coin supply and a 5% APY in staing rewards.</p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": null,
+    "Algorithm": "XEVAN",
+    "ProofType": "PoW/PoS",
+    "BlockReward": 2.247332160011865,
+    "Explorer": null,
+    "StartDate": "17/03/2017",
+    "TotalCoinsMined": 1265197.76405355,
+    "Twitter": "@SolarisCoin",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "http://solariscoin.com/",
+    "GitHub": null,
+    "OnMarkets": [
+      "Cryptopia",
+      "Kucoin"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "N/A",
+    "Description": null,
+    "TokenType": null,
+    "WebsiteLink": null,
+    "FundingCap": null,
+    "FundingTarget": null,
+    "Date": null,
+    "EndDate": null,
+    "FundsRaisedList": null,
+    "FundsRaisedUSD": null,
+    "StartPrice": null,
+    "StartPriceCurrency": null,
+    "Jurisdiction": null,
+    "BlogLink": null,
+    "WhitePaperLink": null
+  },
+  "ccId": "61061"
+}

@@ -1,0 +1,61 @@
+{
+  "General": {
+    "Symbol": "URO",
+    "Name": "UroCoin",
+    "Description": "<p>UroCoin (URO) is an X11 PoW based alternative crypto currency. Uro&#39;s focus is to try and provide a means for efficient international trade of Urea - they wish to provide a backing to the coins market capitalisation by holding Urea itself. The coin has a block time of 3 minutes and retargets using the safe gravity well. There was no premine and the recommended transaction fee is 0.1%. The total coin supply will be 1 million URO in the first six months and then 10% growth per annum to coincide with the projected growth rate of the global Urea market - as such the block reward will drop from 12 URO after the first six months to 1 URO per block in perpetuity.</p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "0",
+    "Algorithm": "X11",
+    "ProofType": "PoW",
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "12/06/2014",
+    "TotalCoinsMined": 1207310,
+    "Twitter": "@UroFoundation",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "http://uro.io/",
+    "GitHub": null,
+    "OnMarkets": [
+      "Yobit",
+      "Poloniex",
+      "BitTrex",
+      "Cryptsy"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "N/A",
+    "Description": null,
+    "TokenType": null,
+    "WebsiteLink": null,
+    "FundingCap": null,
+    "FundingTarget": null,
+    "Date": null,
+    "EndDate": null,
+    "FundsRaisedList": null,
+    "FundsRaisedUSD": null,
+    "StartPrice": null,
+    "StartPriceCurrency": null,
+    "Jurisdiction": null,
+    "BlogLink": null,
+    "WhitePaperLink": null
+  },
+  "ccId": "4631"
+}

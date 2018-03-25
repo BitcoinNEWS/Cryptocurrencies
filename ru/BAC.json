@@ -1,0 +1,60 @@
+{
+  "General": {
+    "Symbol": "BAC",
+    "Name": "BitalphaCoin",
+    "Description": "<p>Bitalpha &mdash; это простая в использовании криптовалютна идеально подходящая для подарков и микроплатежей.</p>",
+    "Features": null,
+    "Technology": "<p><span>PoW Phase Duration: 150,000 blocks</span></p>",
+    "TotalCoinSupply": "7850161887.50",
+    "Algorithm": null,
+    "ProofType": "PoW",
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "17/10/2015",
+    "TotalCoinsMined": null,
+    "Twitter": "@bitalphacoin",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "http://bitalphacoin.com/wp/",
+    "GitHub": null,
+    "OnMarkets": [
+      "CCEX",
+      "LakeBTC",
+      "Yobit"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "N/A",
+    "Description": null,
+    "TokenType": null,
+    "WebsiteLink": null,
+    "FundingCap": null,
+    "FundingTarget": null,
+    "Date": null,
+    "EndDate": null,
+    "FundsRaisedList": null,
+    "FundsRaisedUSD": null,
+    "StartPrice": null,
+    "StartPriceCurrency": null,
+    "Jurisdiction": null,
+    "BlogLink": null,
+    "WhitePaperLink": null
+  },
+  "ccId": "20348"
+}

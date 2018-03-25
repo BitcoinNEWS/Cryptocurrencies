@@ -1,0 +1,56 @@
+{
+  "General": {
+    "Symbol": "FLX*",
+    "Name": "BitFlux",
+    "Description": "<p>Bitflux is a Ethereum-based <span>content creation and streaming platform. </span>FLX is a ERC20 compliant token that serves as a medium of exchange on Bitflux&#39; platform. <span>The tokens were</span><span> distributed via airdrops and Bounties.</span></p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "100000000",
+    "Algorithm": null,
+    "ProofType": null,
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "07/01/2018",
+    "TotalCoinsMined": 100000000,
+    "Twitter": "@flux_project",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": null,
+    "GitHub": null,
+    "OnMarkets": [],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "N/A",
+    "Description": null,
+    "TokenType": null,
+    "WebsiteLink": null,
+    "FundingCap": null,
+    "FundingTarget": null,
+    "Date": null,
+    "EndDate": null,
+    "FundsRaisedList": null,
+    "FundsRaisedUSD": null,
+    "StartPrice": null,
+    "StartPriceCurrency": null,
+    "Jurisdiction": null,
+    "BlogLink": null,
+    "WhitePaperLink": "https://fluxproject.xyz/gallery/whitepaper_2.1_eng.pdf"
+  },
+  "ccId": "781071"
+}

@@ -1,0 +1,73 @@
+{
+  "General": {
+    "Symbol": "GNT",
+    "Name": "Golem Network Token",
+    "Description": "<p>The Golem Network is a decentralized computation network. Using Golem users can buy or sell computational power from other users in a peer to peer environment. Golem is built using Ethereum smart contracts as a transaction system for nano-payments within the network. <span>Golem Network Tokens (GNT) will serve as a secure medium for all transactions within the Golem Network.</span></p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "1000000000",
+    "Algorithm": null,
+    "ProofType": null,
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "17/11/2016",
+    "TotalCoinsMined": 1000000000,
+    "Twitter": "@golemproject",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "https://golem.network/",
+    "GitHub": null,
+    "OnMarkets": [
+      "OKEX",
+      "Yunbi",
+      "Bitfinex",
+      "Tidex",
+      "HuobiPro",
+      "Cryptopia",
+      "BitTrex",
+      "Liqui",
+      "LiveCoin",
+      "Novaexchange",
+      "Abucoins",
+      "Poloniex",
+      "Gateio",
+      "Yobit",
+      "TuxExchange",
+      "EtherDelta"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Finished",
+    "Description": "<p><span>Golem is the first truly decentralized, global market for computing power. Combined with tools to aid developers in distributing and monetizing their software, Golem altogether changes the way compute-intensive tasks are both organized and executed. Golem is set to become one of the key building blocks of future Internet by providing a platform for decentralized microservices. And, by substantially lowering the price of computations, complex applications such as CGI rendering, scientific calculation, and machine learning become more accessible to everyone. Golem is built using Ethereum smart contracts as a transaction system for nano-payments within the network. <span>Golem Network Tokens (GNT) will serve as a secure medium for all transactions within the Golem Network.</span></span></p><p><strong>Team</strong>:</p><ul><li><strong>Julian Zawistowski</strong>:<span> </span><span>CEO, Founder.</span> (<a href=\"https://pl.linkedin.com/in/julian-zawistowski-352478\" target=\"_blank\">LinkedIn</a>);</li><li><strong>Piotr Janiuk</strong>:<span> </span><span>CTO, Co-Founder</span><span>.</span><span> (</span><a href=\"https://pl.linkedin.com/in/viggith\" target=\"_blank\"><span>LinkedIn</span></a><span>);</span></li><li><strong><span>Andrzej Regulski</span></strong>:<span> </span><span>COO, Co-Founder</span><span>.</span><span> (</span><a href=\"https://www.linkedin.com/in/andrzej-regulski-5298a818\" target=\"_blank\"><span>LinkedIn</span></a><span>);</span></li><li><strong><span>Aleksandra Skrzypczak</span></strong><span>:<span> </span>Lead Software Engineer<span>,<span> </span>Co-Founder<span>.</span></span><span> (</span><a href=\"https://www.linkedin.com/in/aleksandra-skrzypczak-57016a8a\" target=\"_blank\"><span>LinkedIn</span></a><span>);</span></span></li><li><span><strong>Alex Leverington</strong><span>:<span> </span>P2P Engineer, Advisor<span>.</span><span> (</span><a href=\"https://ch.linkedin.com/in/alexleverington\" target=\"_blank\"><span>LinkedIn</span></a><span>);</span></span></span></li><li><span><strong>Paweł Bylica</strong><span>:<span> </span>Lead Ethereum Engineer<span>.</span><span> (</span><a href=\"https://www.linkedin.com/in/pawelbylica\" target=\"_blank\"><span>LinkedIn</span></a><span>);</span></span></span></li></ul><p><span>The ICO reached its cap of 820,000 ETH within 29 minutes at a rate of 1000GNT/1ETH totaling a USD value of $8,600,000. The sale terms and etherscan account can be found below. Of the 18% not allocated to investors 12% will be directly released by the Smart Contract System to the Factory for payment of future expenses as part of the development and execution of the GOLEM Project. These GNT are locked through a smart contract function and may not be transferred by the Factory for a period of 6 months starting the end of the Creation Period. And the remaining 6% of total GNT created will be directly released by the Smart Contract System to early contributors and team members who have made early financial contributions, worked to develop the ideas, implementations and supporting structures of the GOLEM Project. These GNT are locked through a smart contract function and may not be transferred by the early contributors and team members for a period of 6 months starting the end of the Creation Period.</span></p><p><span><a href=\"https://etherscan.io/token/Golem\" target=\"_blank\">Ethscan</a><span> and<span> </span></span><a href=\"https://golem.network/doc/GNTterms.pdf\" target=\"_blank\">Sale terms</a></span></p><p><strong>Token Reserve Split (18%):</strong></p><ul><li>12% for Golem Factory, <span>for payment of future expenses as part of the development and execution of the GOLEM Project;</span></li><li>06% for Golem Team;</li></ul><p>No tokens will be created or mint after the crowdfunding period.</p>",
+    "TokenType": "ETH (ERC20)",
+    "WebsiteLink": "https://golem.network/",
+    "FundingCap": "820,000 ETH",
+    "FundingTarget": "N/A",
+    "Date": 1478877000,
+    "EndDate": 1478878800,
+    "FundsRaisedList": "820,000 ETH",
+    "FundsRaisedUSD": "8600000",
+    "StartPrice": "0.104",
+    "StartPriceCurrency": "USD",
+    "Jurisdiction": "N/A",
+    "BlogLink": "https://blog.golemproject.net/",
+    "WhitePaperLink": "https://golem.network/doc/Golemwhitepaper.pdf"
+  },
+  "ccId": "33022"
+}

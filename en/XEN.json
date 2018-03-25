@@ -1,0 +1,59 @@
+{
+  "General": {
+    "Symbol": "XEN",
+    "Name": "XenixCoin",
+    "Description": "<p>XenixCoin is a cryptocurrency based not only on the mining principle, but also in a sustainable energy efficiency policies generating money. XenixCoin uses x11 as it is proof of work algorithm, making it energy efficient. It offers high levels of security, privacy, stability and speed. XenixCoin was built on a new bitcoin codebase, and scheduled to create 19 coins every ten minutes, and approximatively 1 million coins per year. Proof of stake APR at 1%, helps reward holders, while also adding additional security to the network while the users stake. It has 2MB blocks, so it can handle many transactions in a single block.</p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "3853326.77707314",
+    "Algorithm": "X11",
+    "ProofType": "PoW/PoS",
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "01/01/0001",
+    "TotalCoinsMined": "3853326.77707314",
+    "Twitter": "@XenixCoin",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "https://xenixcoin.com",
+    "GitHub": null,
+    "OnMarkets": [
+      "CCEX",
+      "Novaexchange"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "N/A",
+    "Description": null,
+    "TokenType": null,
+    "WebsiteLink": null,
+    "FundingCap": null,
+    "FundingTarget": null,
+    "Date": null,
+    "EndDate": null,
+    "FundsRaisedList": null,
+    "FundsRaisedUSD": null,
+    "StartPrice": null,
+    "StartPriceCurrency": null,
+    "Jurisdiction": null,
+    "BlogLink": null,
+    "WhitePaperLink": null
+  },
+  "ccId": "34324"
+}

@@ -1,0 +1,60 @@
+{
+  "General": {
+    "Symbol": "MMC",
+    "Name": "MemoryCoin",
+    "Description": "<p>MemoryCoin (MEM) is a POW is a modified momentum based algorithm and decentralizes currency mining. Each hash requires 1GB of Memory to perform and encrypts 50GB of data. By contrast, the verification only requires 128K and less than one 10th of a second. The coin is inflationary with a rate of 2% after the first two years of mining 10000000 coins.</p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "10000000",
+    "Algorithm": "Multiple",
+    "ProofType": "PoW",
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "15/12/2013",
+    "TotalCoinsMined": null,
+    "Twitter": null,
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "http://memorycoin.org/",
+    "GitHub": null,
+    "OnMarkets": [
+      "Novaexchange",
+      "BTER",
+      "Poloniex"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "N/A",
+    "Description": null,
+    "TokenType": null,
+    "WebsiteLink": null,
+    "FundingCap": null,
+    "FundingTarget": null,
+    "Date": null,
+    "EndDate": null,
+    "FundsRaisedList": null,
+    "FundsRaisedUSD": null,
+    "StartPrice": null,
+    "StartPriceCurrency": null,
+    "Jurisdiction": null,
+    "BlogLink": null,
+    "WhitePaperLink": null
+  },
+  "ccId": "5389"
+}

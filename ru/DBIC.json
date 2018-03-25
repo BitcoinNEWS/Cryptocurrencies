@@ -1,0 +1,61 @@
+{
+  "General": {
+    "Symbol": "DBIC",
+    "Name": "DubaiCoin",
+    "Description": "<p>DubaiCoin wants to make cryptocurrencies widely acessible and used in the Arab community. Online marketplace and payment gateway seems to be one of DBIC main focus, and mining rigs are their nº1 sold product</p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "10500000",
+    "Algorithm": "SHA256",
+    "ProofType": "PoW/PoS",
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "20/02/2016",
+    "TotalCoinsMined": 5129014,
+    "Twitter": "@DubaiCoin_org",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "https://dubaicoin.org/",
+    "GitHub": null,
+    "OnMarkets": [
+      "Cryptopia",
+      "CCEX",
+      "Yobit",
+      "LiveCoin"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "N/A",
+    "Description": null,
+    "TokenType": null,
+    "WebsiteLink": null,
+    "FundingCap": null,
+    "FundingTarget": null,
+    "Date": null,
+    "EndDate": null,
+    "FundsRaisedList": null,
+    "FundsRaisedUSD": null,
+    "StartPrice": null,
+    "StartPriceCurrency": null,
+    "Jurisdiction": null,
+    "BlogLink": null,
+    "WhitePaperLink": null
+  },
+  "ccId": "20198"
+}

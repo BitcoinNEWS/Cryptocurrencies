@@ -1,0 +1,56 @@
+{
+  "General": {
+    "Symbol": "DOR",
+    "Name": "Dorado",
+    "Description": "<div class=\"header-title\"><p>Dorado aims to transform the way goods move around cities by enabling anyone to have anything delivered on-demand. Their HyperLocal Logistics platform on blockchain connects customers with local couriers who can deliver anything from any store or restaurant in a minute.</p></div><p> </p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "510000000",
+    "Algorithm": "Ethash",
+    "ProofType": null,
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "31/01/2018",
+    "TotalCoinsMined": 83720601,
+    "Twitter": "@Dorado_ICO",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": null,
+    "GitHub": null,
+    "OnMarkets": [],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Ongoing",
+    "Description": "<div class=\"header-title\"><p>Dorado aims to transform the way goods move around cities by enabling anyone to have anything delivered on-demand. Their HyperLocal Logistics platform on blockchain connects customers with local couriers who can deliver anything from any store or restaurant in a minute.</p></div><p><strong>Team</strong>:</p><ul><li><strong>Xiaochen Zhang</strong>: President of Blockchain Frontier Group. <a href=\"https://www.linkedin.com/in/cmyidea/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Pedram Assadi</strong>: Head of Operations @ Uber Eats (Middle East).<span> </span><a href=\"https://www.linkedin.com/in/pedramassadi\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Tomas Martunas</strong>: Chairman of Foodout Group. Managing Partner of Goldfishfund.<span> </span><a href=\"https://www.linkedin.com/in/tomasmartunas/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li></ul><p>Dorado will be holding its ICO on January 7th 2018. The ICO token supply represents 51% of the total token supply, so there will be a total of 249,900,000 tokens available, starting 0.0001499925 ETH each during the offering. The ICO funding target is 3,450 ETH the funding cap is 76,500 ETH and is expected to end on May 16th 2018 or when the funding cap is reached. Any unsold/remaining tokens will be burned.</p><p><strong>Token Reserve Split (100%):</strong></p><ul><li>51% Investors;</li><li>15% Team (3 Year Lock)</li><li>8% Foodout Group;</li><li>8% Goldfish Fund and Early Investors;</li><li>7% Advisors;</li><li>5% Legal Counsel;</li><li>4% Strategic Partnerships and Mergers;</li><li>2% Bounty Program;</li></ul><p><span>The token will not be mineable.</span></p><p> </p>",
+    "TokenType": "ETH (ERC20)",
+    "WebsiteLink": "https://click.runcpa.com/getoffer/38228-397252caf13fb46f8bcc7f24ca0d2fc5-1052",
+    "FundingCap": "76,500 ETH",
+    "FundingTarget": "3,450 ETH",
+    "Date": 1517961600,
+    "EndDate": 1526428800,
+    "FundsRaisedList": "61,200 ETH",
+    "FundsRaisedUSD": "35373600",
+    "StartPrice": "0.0001499925",
+    "StartPriceCurrency": "ETH",
+    "Jurisdiction": "Switzerland",
+    "BlogLink": "https://medium.com/@doradoico/",
+    "WhitePaperLink": "https://www.dorado.tech/docs/Dorado-White-Paper.pdf"
+  },
+  "ccId": "763639"
+}

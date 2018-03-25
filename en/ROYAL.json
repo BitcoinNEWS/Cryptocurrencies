@@ -1,0 +1,59 @@
+{
+  "General": {
+    "Symbol": "ROYAL",
+    "Name": "RoyalCoin",
+    "Description": "<p>Royal Coin is an experimental X13 Proof of Stake cryptocurrency created with a solid business model on top of the robust blockchain technology to take adoption of Digital Currency to the mainstream public. Royal Coin ( ROYAL ) has been launched by a team of Crypto Traders who have years of experience in crypto trading.</p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "2500124",
+    "Algorithm": "X13",
+    "ProofType": "PoS",
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "12/10/2016",
+    "TotalCoinsMined": 2500124,
+    "Twitter": "@royalcoin2016",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "-",
+    "GitHub": null,
+    "OnMarkets": [
+      "CCEX",
+      "Yobit"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "N/A",
+    "Description": null,
+    "TokenType": null,
+    "WebsiteLink": null,
+    "FundingCap": null,
+    "FundingTarget": null,
+    "Date": null,
+    "EndDate": null,
+    "FundsRaisedList": null,
+    "FundsRaisedUSD": null,
+    "StartPrice": null,
+    "StartPriceCurrency": null,
+    "Jurisdiction": null,
+    "BlogLink": null,
+    "WhitePaperLink": null
+  },
+  "ccId": "30386"
+}

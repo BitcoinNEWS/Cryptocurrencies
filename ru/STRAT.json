@@ -1,0 +1,65 @@
+{
+  "General": {
+    "Symbol": "STRAT",
+    "Name": "Stratis",
+    "Description": "<p>Stratis is the native value currency in the Stratis Platform, it fuels the creation of private and public custom blockchains for corporate use. The Stratis Platform offers a one-click deployment system for custom blockchain deployment. These blockchains can be customized to suit the companies&#39; needs, and can even be deployed to mimic the features of popular blockchains like Ethereum or Lisk, which can be tested individually or in parallel.</p><p>The Stratis team will also function as a London Based consultancy agency that will help businesses to deploy the blockchain that best suits them.</p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": null,
+    "Algorithm": "X13",
+    "ProofType": "PoW/PoS",
+    "BlockReward": 1,
+    "Explorer": null,
+    "StartDate": "09/08/2016",
+    "TotalCoinsMined": "98000000",
+    "Twitter": "@stratisplatform",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "http://www.stratisplatform.com/",
+    "GitHub": null,
+    "OnMarkets": [
+      "Cryptopia",
+      "TradeSatoshi",
+      "Binance",
+      "BitTrex",
+      "Poloniex",
+      "LiveCoin",
+      "Abucoins",
+      "HitBTC"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Finished",
+    "Description": "<p><span></span><span>Stratis will enable organisations to provision their own private blockchains, tailored to their precise needs but secured on the parent Stratis chain. This approach means there are few unnecessary overheads whilst allowing businesses to secure the benefits of a blockchain-based solution, developing services via powerful APIs and lite web-based clients. </span><span>Stratis tokens are used to power applications on the blockchain. In addition, they can be used on private chains created by Stratis for clients. Finally, they will be used to pay transaction fees and be involved in the network consensus process.</span></p><p><strong>Team</strong>:</p><ul><li><strong>Chris Trew</strong>: CEO (Founder). (<a href=\"mailto:chris.trew@stratisplatform.com\" target=\"_blank\">Email</a>);</li><li><strong>Policarpo Guerrero</strong>: Director of Operations. (<a href=\"mailto:policarpo.guerrero@stratisplatform.com\" target=\"_blank\"><span>Email</span></a>);</li><li><strong>Krushang Patel</strong>: Head of Communications. (<a href=\"mailto:krushang.patel@stratisplatform.com\" target=\"_blank\"><span>Email</span></a>);</li></ul><p><span>The Stratis ICO ran for five weeks and raised 915 BTC in that time with 561 BTC being invested in the last two days of the ICO despite the following discount structure.</span><span> 20% for the first five days, 10% for the next ten days, 5% for the following ten days. A total of 509 investors participated with an average investment size of 1.797 BTC. </span></p><p><strong>Bonus Structure:</strong></p><ul><li>F<span>irst 5 days (20th June-24th June) – 20% bonus</span></li><li>N<span>ext 10 days (25th June-4th July) – 10% bonus</span></li><li>N<span>ext 10 days (5th July-14th July) – 5% bonus</span></li><li>L<span>ast 11 days (15th July-25th July) – 0% bonus</span></li></ul>",
+    "TokenType": "New Blockchain",
+    "WebsiteLink": "https://stratisplatform.com/",
+    "FundingCap": "N/A",
+    "FundingTarget": "N/A",
+    "Date": 1466542800,
+    "EndDate": 1469566800,
+    "FundsRaisedList": "915 BTC",
+    "FundsRaisedUSD": "590000",
+    "StartPrice": "0.00733",
+    "StartPriceCurrency": "USD",
+    "Jurisdiction": "N/A",
+    "BlogLink": "https://stratisplatform.com/blog/",
+    "WhitePaperLink": "https://stratisplatform.com/files/Stratis_Whitepaper.pdf"
+  },
+  "ccId": "24294"
+}

@@ -1,0 +1,61 @@
+{
+  "General": {
+    "Symbol": "CIRC",
+    "Name": "CryptoCircuits",
+    "Description": "<p><span>CryptoCircuits is dedicated to building a community across the crypto landscape, connecting crypto people and coin communities through their advanced Circuits trading wallet environment.</span></p><p><span><span>CryptoCircuits wallet provides a welcoming meeting place for everyone who has crypto as part of their daily lives. Social features of the Circuits wallet include chatrooms, tipping, and encrypted private video chatting. A special chill out lounge panel includes crypto video channels, and the Crypto After Dark 24 /7 in-wallet radio stream, featuring guests and guest hosts from across the crypto landscape. </span><br /><br /><span>The social features of Circuits are complemented by a sophisticated crypto toolbox that includes in-wallet charting, trading hubs, live crypto news feeds, and trading bot functionality for advanced users.</span><br /><br /><span>On the tech side CryptoCircuits represents a major leap forward in crypto technology. </span><br /><span>Circuits features the most advanced DPOS 2 iteration engineered so far in crypto, and has allowed us to build a number of advanced staking functions and features into the Circuits wallet.</span></span></p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "0",
+    "Algorithm": "vDPOS",
+    "ProofType": "PoS",
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "14/06/2015",
+    "TotalCoinsMined": null,
+    "Twitter": "@CryptoCircuits",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "-",
+    "GitHub": null,
+    "OnMarkets": [
+      "Yobit",
+      "CCEX",
+      "Cryptsy",
+      "BitTrex"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "N/A",
+    "Description": null,
+    "TokenType": null,
+    "WebsiteLink": null,
+    "FundingCap": null,
+    "FundingTarget": null,
+    "Date": null,
+    "EndDate": null,
+    "FundsRaisedList": null,
+    "FundsRaisedUSD": null,
+    "StartPrice": null,
+    "StartPriceCurrency": null,
+    "Jurisdiction": null,
+    "BlogLink": null,
+    "WhitePaperLink": null
+  },
+  "ccId": "7484"
+}

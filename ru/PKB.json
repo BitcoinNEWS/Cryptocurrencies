@@ -1,0 +1,60 @@
+{
+  "General": {
+    "Symbol": "PKB",
+    "Name": "ParkByte",
+    "Description": "<p>A crypto currency aiming to become the de facto method of payment for the parking industry. A SHA256 coin operating on proof of work and proof of stake with a coin cap of 25 million. </p><p>The idea of this coin is to lay the foundations to give car park operators the platform to integrate with cryptocurrencies with ease.</p><p>They see Bitcoin as the tool that is trying to revolutionize the Financial Industry and that it shouldn&#39;t stop there. There are many other industry&#39;s worldwide that could benefit from its technology.</p><p>ParkByte will be therefore specifically targeted at laying the foundations for processing parking transactions.</p><p>Currently Parking can be paid via many methods but there is not yet a crypto related method.</p>",
+    "Features": "<p>In the UK we are able to pay for parking via Companies like RingGo, they accept Credit Card, Premium SMS methods but not Crypto.</p><p>These type of companies have in the previous years been putting a lot of pressure on conventional coin and ticket machine manufacturers because their system is cost effective. Cobalt, RingGo&#39;s parent have now \"securely processed over £ 1 billion\" for \"4,000 sites across the UK, by more than 60 local authorities, 10 railway operators and numerous private parking operators\".</p><p>After having worked in the Parking Machine Manufacturing Industry for 5 years, the coin developers can see there being a huge amount of potential for this coin, its unique iOS / Android APPs and the backend processing servers.</p><p>The coin will provide basic functionality, they could then explore maybe a type of CMS marketplace where developers sell their own themes, plugins etc. for the backend server used by the parking companies.</p>",
+    "Technology": "<p>Algo: SHA256</p><p>Ticker: PKB</p><p>Block Time: 60seconds</p><p><strong>POW - ENDED</strong></p><p>Timeframe: ~27days</p><p>POW Coins: 3,688,710 PKB</p><p>20% Premine: 922,178 PKB </p><p>Premine Burn: 1,077,822 PKB</p><p>Total POW Supply: 4,610,888 PKB </p><p><strong>POS</strong></p><p>Min Stake time: 1hour</p><p>Year 1 - 5%</p><p>Year 2 - 4%</p><p>Year 3 and onwards 3%</p><p>25m Total Coin</p><p>RPC Port= 59060</p><p>P2P Port= 58060</p>",
+    "TotalCoinSupply": "25000000",
+    "Algorithm": "SHA256",
+    "ProofType": "PoW/PoS",
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "07/05/2015",
+    "TotalCoinsMined": null,
+    "Twitter": "@ParkByte_PKB",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "http://www.parkbyte.com/",
+    "GitHub": null,
+    "OnMarkets": [
+      "Yobit",
+      "BitTrex",
+      "CCEX"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "N/A",
+    "Description": null,
+    "TokenType": null,
+    "WebsiteLink": null,
+    "FundingCap": null,
+    "FundingTarget": null,
+    "Date": null,
+    "EndDate": null,
+    "FundsRaisedList": null,
+    "FundsRaisedUSD": null,
+    "StartPrice": null,
+    "StartPriceCurrency": null,
+    "Jurisdiction": null,
+    "BlogLink": null,
+    "WhitePaperLink": null
+  },
+  "ccId": "8764"
+}

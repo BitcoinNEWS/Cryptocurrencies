@@ -1,0 +1,58 @@
+{
+  "General": {
+    "Symbol": "INT",
+    "Name": "Internet Node Token",
+    "Description": "<p>Internet Node team aims to create a new generation of Internet of Things system to improve the interconnection within the whole network. The system will allow different types of devices to be connected to different parallel chains, meaning INT will work as a blockchain application platform which is object-oriented IoT. Furthermore, the INT team will use the Ethereum blockchain to provide a reliable data source for all kinds of distributed IoT applications and industrial ecology with a secure and private infrastructure.</p><p>Internet Node token (INT) will be used as the medium of exchange within the platform.</p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "1000000000",
+    "Algorithm": null,
+    "ProofType": null,
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "01/12/2017",
+    "TotalCoinsMined": 1000000000,
+    "Twitter": "@INTCHAIN",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": null,
+    "GitHub": null,
+    "OnMarkets": [
+      "OKEX"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "N/A",
+    "Description": null,
+    "TokenType": null,
+    "WebsiteLink": null,
+    "FundingCap": null,
+    "FundingTarget": null,
+    "Date": null,
+    "EndDate": null,
+    "FundsRaisedList": null,
+    "FundsRaisedUSD": null,
+    "StartPrice": null,
+    "StartPriceCurrency": null,
+    "Jurisdiction": null,
+    "BlogLink": null,
+    "WhitePaperLink": null
+  },
+  "ccId": "692839"
+}

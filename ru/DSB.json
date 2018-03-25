@@ -1,0 +1,58 @@
+{
+  "General": {
+    "Symbol": "DSB",
+    "Name": "DarkShibe",
+    "Description": "<p>DarkShibe is another crypto currency like Darkcoin - that takes the Dogecoin and Darkcoin elements and fuses them together. The coin is scrypt based and initially operates a proof of work phase that then shifts to a pure proof of stake with an annualised rate at 9%. You can trade DarkShibe for Bitcoin on the exchanges below.</p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "2043962",
+    "Algorithm": "Scrypt",
+    "ProofType": "PoW",
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "23/10/2014",
+    "TotalCoinsMined": null,
+    "Twitter": "@DarkShibe",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "https://bitcointalk.org/index.php?topic=833133.0",
+    "GitHub": null,
+    "OnMarkets": [
+      "Cryptsy"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "N/A",
+    "Description": null,
+    "TokenType": null,
+    "WebsiteLink": null,
+    "FundingCap": null,
+    "FundingTarget": null,
+    "Date": null,
+    "EndDate": null,
+    "FundsRaisedList": null,
+    "FundsRaisedUSD": null,
+    "StartPrice": null,
+    "StartPriceCurrency": null,
+    "Jurisdiction": null,
+    "BlogLink": null,
+    "WhitePaperLink": null
+  },
+  "ccId": "4435"
+}

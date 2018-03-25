@@ -1,0 +1,61 @@
+{
+  "General": {
+    "Symbol": "ADZ",
+    "Name": "Adzcoin",
+    "Description": "<p>Adzcoin plans to replace traditional online advertisin with a decentralized blockchain based system that will empower website administators and allow users to support content they enjoy by chosing to view certain ads instead of blocking all of them.</p>",
+    "Features": null,
+    "Technology": "<p>Block reward halving every 12 months<br />Difficulty re-targeting using the multipool-resistant DigiShield</p>",
+    "TotalCoinSupply": "84000000",
+    "Algorithm": "X11",
+    "ProofType": "PoW",
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "25/11/2015",
+    "TotalCoinsMined": 43518518,
+    "Twitter": "@ADZbuzz",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "http://adzcoin.org/",
+    "GitHub": null,
+    "OnMarkets": [
+      "LiveCoin",
+      "Yobit",
+      "CCEX",
+      "Novaexchange"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "N/A",
+    "Description": null,
+    "TokenType": null,
+    "WebsiteLink": null,
+    "FundingCap": null,
+    "FundingTarget": null,
+    "Date": null,
+    "EndDate": null,
+    "FundsRaisedList": null,
+    "FundsRaisedUSD": null,
+    "StartPrice": null,
+    "StartPriceCurrency": null,
+    "Jurisdiction": null,
+    "BlogLink": null,
+    "WhitePaperLink": null
+  },
+  "ccId": "20656"
+}

@@ -1,0 +1,59 @@
+{
+  "General": {
+    "Symbol": "IRL",
+    "Name": "IrishCoin",
+    "Description": "<p>IrishCoin is a PoW cryptocurrency based on the Scrypt algorithm. The IrishCoin will be used to promote the Irish tourism, providing the coin as a discount token vehicle and a tourist organizational branding.</p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "64000000",
+    "Algorithm": "Scrypt",
+    "ProofType": "PoW",
+    "BlockReward": 50.000000000496705,
+    "Explorer": null,
+    "StartDate": "17/05/2017",
+    "TotalCoinsMined": 39735099.33981824,
+    "Twitter": "@IrishCoin",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": null,
+    "GitHub": null,
+    "OnMarkets": [
+      "Cryptopia",
+      "Novaexchange"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "N/A",
+    "Description": null,
+    "TokenType": null,
+    "WebsiteLink": null,
+    "FundingCap": null,
+    "FundingTarget": null,
+    "Date": null,
+    "EndDate": null,
+    "FundsRaisedList": null,
+    "FundsRaisedUSD": null,
+    "StartPrice": null,
+    "StartPriceCurrency": null,
+    "Jurisdiction": null,
+    "BlogLink": null,
+    "WhitePaperLink": null
+  },
+  "ccId": "660438"
+}

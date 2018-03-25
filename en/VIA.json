@@ -1,0 +1,64 @@
+{
+  "General": {
+    "Symbol": "VIA",
+    "Name": "ViaCoin",
+    "Description": "<p>Viacoin is a digital currency similar to Bitcoin that allows the creation of applications on top of the Viacoin blockchain in a similar way that email and web are built on top of the internet protocol. This allows the building of fully decentralized exchanges, issuing of new currencies, asset tracking, betting, digital voting, reputation management and even form the basis of fully decentralized market places. Our protocol for this will be called ClearingHouse.</p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "23000000",
+    "Algorithm": "Scrypt",
+    "ProofType": "PoW",
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "18/07/2014",
+    "TotalCoinsMined": null,
+    "Twitter": "@viacoin",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "http://viacoin.org/",
+    "GitHub": null,
+    "OnMarkets": [
+      "Binance",
+      "Novaexchange",
+      "BitTrex",
+      "BTER",
+      "Yobit",
+      "Cryptsy",
+      "Poloniex"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Finished",
+    "Description": "<p>610BTC was raised from the community in July 2014 which had an approximate value of $370,000. With the largest contributor investing 12.6% of this total. 10 Million coins were offered which is 10.86% of the max supply.</p><p><a href=\"https://viacoin.org/roadmap/\" target=\"_blank\">Roadmap</a></p><p> </p>",
+    "TokenType": "N/A",
+    "WebsiteLink": "https://viacoin.org/",
+    "FundingCap": "N/A",
+    "FundingTarget": "N/A",
+    "Date": 1405515600,
+    "EndDate": 1408190400,
+    "FundsRaisedList": "610 BTC",
+    "FundsRaisedUSD": "370000",
+    "StartPrice": "0.037",
+    "StartPriceCurrency": "USD",
+    "Jurisdiction": "N/A",
+    "BlogLink": "https://medium.com/@viacoin",
+    "WhitePaperLink": null
+  },
+  "ccId": "5015"
+}

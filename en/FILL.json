@@ -1,0 +1,56 @@
+{
+  "General": {
+    "Symbol": "FILL",
+    "Name": "Fillit",
+    "Description": "<p>Fillit is a mordern cryptocurrency ecosystem that provides users with several tools like debit cards, a wallet and payment terminals. The Wallet is available for iOS and Android, allowing users to store coins and fiat securely and easily. Fillit also provides a cryptocurrency card, virtual or physical, that allows anyone to make purchases through any Point of Sale.</p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "300000000",
+    "Algorithm": null,
+    "ProofType": null,
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "01/03/2018",
+    "TotalCoinsMined": null,
+    "Twitter": "@Fillit_ICO",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": null,
+    "GitHub": null,
+    "OnMarkets": [],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Ongoing",
+    "Description": "<p><span>Fillit is a mordern cryptocurrency ecosystem that provides users with several tools like debit cards, a wallet and payment terminals. The Wallet is available for iOS and Android, allowing users to store coins and fiat securely and easily. Fillit also provides a cryptocurrency card, virtual or physical, that allows anyone to make purchases through any Point of Sale.</span></p><p><strong>Team</strong>:</p><ul><li><strong>Vironas Karvounis:</strong> CEO</li><li><strong>Despoina Daskalou:</strong> ASSISTANT MANAGER, MLRO</li><li><strong>Nick Pamlides:</strong> SOCIAL MEDIA SPECIALIST</li><li><strong>Ilias Tziolas:</strong> HEAD OF MARKETING</li><li><strong>Petros Anagnostou:</strong> PROJECT SUPERVISOR</li></ul><p>The Fillit ICO date is yet to be announced. The ICO token allocatrion represents 68% of the total supply and will be available for a 0.11 EUR base price. Tokens can be purchased with multipe cryptocurrencies and EUR. </p><p><strong>Token Reserve Split (32%):</strong></p><ul><li>12% founders</li><li>20% marketing (bounties, gifts, rewards etc.)</li></ul><p>The Fillit ICO features a Bonus campaign.</p><p><strong>Bonus Structure:</strong></p><ul><li>26th February - 31st March: 20%</li><li>1st April - 30th April: 15%</li><li>1st May - 31st May: 10%</li></ul>",
+    "TokenType": "ETH (ERC20)",
+    "WebsiteLink": "https://www.fillit.eu/ico/",
+    "FundingCap": "294,000,000 USD",
+    "FundingTarget": "3,000,000 USD",
+    "Date": 1519603200,
+    "EndDate": 1527724800,
+    "FundsRaisedList": "9,278,263 FILL tokens sold.",
+    "FundsRaisedUSD": "N/A",
+    "StartPrice": "0.11",
+    "StartPriceCurrency": "EUR",
+    "Jurisdiction": "N/A",
+    "BlogLink": null,
+    "WhitePaperLink": "https://www.fillit.eu/ico/pdf.php"
+  },
+  "ccId": "793815"
+}

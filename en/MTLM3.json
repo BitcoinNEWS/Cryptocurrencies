@@ -1,0 +1,56 @@
+{
+  "General": {
+    "Symbol": "MTLM3",
+    "Name": "Metal Music v3",
+    "Description": "<p><span>etal Music Coin is a crypto currency based on scrypt algorithm.</span><br /><br /><span>Our main goal is to be recognized as a crypto currency only for metal scene,</span><br /><span>and most important is to support underground metal scene through the use of our Metal Music Coin.</span><br />The goal of the Metal Music Coin is not profit, but the promotion of underground metal music and its artists.<br /><span>This desire and passion to spread the music is one that we can rally around and will fervently support and keep track of.</span></p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "2500000000",
+    "Algorithm": "Scrypt",
+    "ProofType": "PoW/PoS",
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "23/02/2015",
+    "TotalCoinsMined": null,
+    "Twitter": "@metalmusiccoin",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "-",
+    "GitHub": null,
+    "OnMarkets": [],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "N/A",
+    "Description": null,
+    "TokenType": null,
+    "WebsiteLink": null,
+    "FundingCap": null,
+    "FundingTarget": null,
+    "Date": null,
+    "EndDate": null,
+    "FundsRaisedList": null,
+    "FundsRaisedUSD": null,
+    "StartPrice": null,
+    "StartPriceCurrency": null,
+    "Jurisdiction": null,
+    "BlogLink": null,
+    "WhitePaperLink": null
+  },
+  "ccId": "34754"
+}

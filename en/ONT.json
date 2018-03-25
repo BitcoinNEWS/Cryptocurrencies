@@ -1,0 +1,60 @@
+{
+  "General": {
+    "Symbol": "ONT",
+    "Name": "Ontology",
+    "Description": "<p><span>Ontology Network is a public infrastructure chain project and distributed trust collaboration platform. The blockchain/distributed ledger network combines distributed identity verification, data exchange, data collaboration, procedure protocols, communities, attestation, smart contract system support, and various industry-specific modules. </span>The ONT is an NEO-based token that will serve as the utility token within the platform.</p><p> </p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "1000000000",
+    "Algorithm": null,
+    "ProofType": null,
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "10/10/2017",
+    "TotalCoinsMined": null,
+    "Twitter": "@OntologyNetwork",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": null,
+    "GitHub": null,
+    "OnMarkets": [
+      "Binance",
+      "HuobiPro",
+      "Gateio"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "N/A",
+    "Description": null,
+    "TokenType": null,
+    "WebsiteLink": null,
+    "FundingCap": null,
+    "FundingTarget": null,
+    "Date": null,
+    "EndDate": null,
+    "FundsRaisedList": null,
+    "FundsRaisedUSD": null,
+    "StartPrice": null,
+    "StartPriceCurrency": null,
+    "Jurisdiction": null,
+    "BlogLink": null,
+    "WhitePaperLink": null
+  },
+  "ccId": "808414"
+}

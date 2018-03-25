@@ -1,0 +1,56 @@
+{
+  "General": {
+    "Symbol": "SENSE",
+    "Name": "Sense Token",
+    "Description": "<p><span>Sensay provides a decentralized, transparent, interoperable messaging platform enabling anyone to chat and transact freely across centralized messaging applications. The Sense Token is based on the Ethereum blockchain and it enable users to earn rewards for their conversational contributions across the Sensay platform and other applications.</span></p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "1000000000",
+    "Algorithm": null,
+    "ProofType": null,
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "17/08/2017",
+    "TotalCoinsMined": 663636366,
+    "Twitter": "@sensay",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": null,
+    "GitHub": null,
+    "OnMarkets": [],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Upcoming",
+    "Description": "<p><span>Sensay provides a decentralized, transparent, interoperable messaging platform enabling anyone to chat and transact freely across centralized messaging applications. <span>The Sense Token is based on the Ethereum blockchain and it</span><span><span> </span>enable users to earn rewards for their conversational contributions across the Sensay platform and other applications.</span><br /></span></p><p><strong>Team</strong>:</p><ul><li><strong>Crystal Rose:</strong> Co-founder, CEO</li><li><strong>Ariel Jalali:</strong> Co-founder, CSO</li><li><strong>Angel Jose:</strong> Engineer</li><li><strong>Stef Telford</strong><span><strong>:</strong> </span>Engineer</li><li><strong>James Calhoun</strong><span><strong>:</strong> </span>Engineer</li><li><strong>Grover Light: </strong>UX / Product</li><li><strong>Shaili Jalali</strong><span><strong>:</strong> </span>Culture</li><li><strong>Kurt Kumar: </strong>Product</li><li><strong>Eyal Toledano:</strong> Growth</li></ul><p>The Sense Token ICO will begin on the 3rd of October and will end on the 10th or when the $25,000,000 cap is reached. During the ICO, <span>27.5% of the tokens will be sold to participants for a $0.1 price. Users can participate with BTC, ETH, EOS, and other cryptocurrencies through ShapeShift. </span></p><p><strong>Token Reserve Split (XX%):</strong></p><ul><li><span>27.5% sold in the token sale</span></li><li><span>27.5% retained for company</span></li><li><span>15% reserved for future development</span></li><li><span>30% retained for SDN, communities, users and contributors</span></li></ul>",
+    "TokenType": "ETH (ERC20)",
+    "WebsiteLink": "http://t.sensetoken.com/cryptocompare",
+    "FundingCap": "25,000,000 USD",
+    "FundingTarget": "N/A",
+    "Date": 1508716800,
+    "EndDate": 1510012800,
+    "FundsRaisedList": "N/A",
+    "FundsRaisedUSD": "N/A",
+    "StartPrice": "0.10",
+    "StartPriceCurrency": "USD",
+    "Jurisdiction": "Cayman Islands",
+    "BlogLink": "https://medium.com/@sensay",
+    "WhitePaperLink": "https://sensetoken.com/pdfs/sensetoken_onepager_en.pdf"
+  },
+  "ccId": "305252"
+}

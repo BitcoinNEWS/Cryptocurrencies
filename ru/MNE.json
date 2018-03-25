@@ -1,0 +1,62 @@
+{
+  "General": {
+    "Symbol": "MNE",
+    "Name": "Minereum",
+    "Description": "<p>Minereum - это первый в своем роде смарт-контрактный токен. Монеты генерируются «на лету» с помощью математической формулы. MNE - это токен, основанный на Ethereum.</p><p>В течение короткого времени MNE набрал значительные обороты и достиг высого уровня рыночной капитализации. В данный момент Minereum продолжает расти. Как гласит оф. сайт Minereum: &laquo;Все крупные криптовалюты имеют кое-что общее: у них большая майнинг-система. Minereum восходит к основам майнинга и пытается вывести новый подход к системе добычи криптовалюты. Из-за уникальной системы Minereum позиционирует себя как будущее майнинга смарт-контрактов&raquo;. Уникальная часть процесса майнинга Minereum, заключается в том, что все получают одинаковую долю монет. Нет нужды в майнинг-пулах и майнинг снаряжении, вся добыча осуществляется автоматически с помощью кода.</p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "136576000",
+    "Algorithm": null,
+    "ProofType": null,
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "14/04/2017",
+    "TotalCoinsMined": 24609738.7008,
+    "Twitter": "@minereumtoken",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "https://www.minereum.com/",
+    "GitHub": null,
+    "OnMarkets": [
+      "LiveCoin",
+      "Cryptopia",
+      "Cryptsy",
+      "BitTrex",
+      "HitBTC"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "N/A",
+    "Description": null,
+    "TokenType": null,
+    "WebsiteLink": null,
+    "FundingCap": null,
+    "FundingTarget": null,
+    "Date": null,
+    "EndDate": null,
+    "FundsRaisedList": null,
+    "FundsRaisedUSD": null,
+    "StartPrice": null,
+    "StartPriceCurrency": null,
+    "Jurisdiction": null,
+    "BlogLink": null,
+    "WhitePaperLink": null
+  },
+  "ccId": "84831"
+}

@@ -1,0 +1,69 @@
+{
+  "General": {
+    "Symbol": "XEM",
+    "Name": "NEM",
+    "Description": "<p>NEM представляет собой криптографическую платформу одноранговой сети. Он написан «с нуля» на Java и JavaScript. NEM заявила о своей цели широкой модели распределения и представила новые функции в технологии blockchain в своем алгоритме доказательства важности (POI). NEM также имеет интегрированную безопасную и зашифрованную систему P2P-обмена сообщениями, учетные записи и систему репутации Eigentrust ++.</p><p>NEM провела обширное открытое альфа-тестирование с 25 июня 2014 года, и затем продолжительное и всестороннее бета-тестирование, которое началось 20 октября 2014 года. NEM запущен 31 мая 2015 года.</p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "8999999999",
+    "Algorithm": null,
+    "ProofType": "PoI",
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "31/03/2015",
+    "TotalCoinsMined": 8999999999,
+    "Twitter": "@NEMofficial",
+    "Telegram": "https://t.me/nemred",
+    "Youtube": "3ClzvI5EFss",
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "http://www.nem.io/",
+    "GitHub": null,
+    "OnMarkets": [
+      "Yobit",
+      "LiveCoin",
+      "HuobiPro",
+      "OKEX",
+      "BitTrex",
+      "Abucoins",
+      "HitBTC",
+      "Zaif",
+      "Cryptopia",
+      "BTC38",
+      "Poloniex",
+      "BTER"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "N/A",
+    "Description": null,
+    "TokenType": null,
+    "WebsiteLink": null,
+    "FundingCap": null,
+    "FundingTarget": null,
+    "Date": null,
+    "EndDate": null,
+    "FundsRaisedList": null,
+    "FundsRaisedUSD": null,
+    "StartPrice": null,
+    "StartPriceCurrency": null,
+    "Jurisdiction": null,
+    "BlogLink": null,
+    "WhitePaperLink": null
+  },
+  "ccId": "5285"
+}

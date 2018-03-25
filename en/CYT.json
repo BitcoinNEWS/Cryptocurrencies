@@ -1,0 +1,58 @@
+{
+  "General": {
+    "Symbol": "CYT",
+    "Name": "Cryptokenz",
+    "Description": "<p>Cryptokenz is a PoS cryptocurrency that will used in product/project funding by the CYT team. Cryptokenz plans to be attatched to it&#39;s own unique brand of hard/software products.</p>",
+    "Features": null,
+    "Technology": "<p><span>PoS Rewards:<br /></span></p><p><span>1 = Premine<br />2 - 150  = 0 Coins per block<br />151 - 1000 = 150% Pos Interest<br />1001 - 2000 = 200% Pos Interest<br />2001 - 2500 = 250% Pos Interest<br />2501 - 3000 = 300% Pos Interest<br />3001 - 4000 = 10% Pos Interest<br />4001 - 4200 = 1000% Pos Interest<br />4201 Onward = 30% Pos Interest</span></p>",
+    "TotalCoinSupply": null,
+    "Algorithm": "PoS",
+    "ProofType": "PoS",
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "13/09/2015",
+    "TotalCoinsMined": null,
+    "Twitter": "@Cryptokenz",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "-",
+    "GitHub": null,
+    "OnMarkets": [
+      "Yobit"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "N/A",
+    "Description": null,
+    "TokenType": null,
+    "WebsiteLink": null,
+    "FundingCap": null,
+    "FundingTarget": null,
+    "Date": null,
+    "EndDate": null,
+    "FundsRaisedList": null,
+    "FundsRaisedUSD": null,
+    "StartPrice": null,
+    "StartPriceCurrency": null,
+    "Jurisdiction": null,
+    "BlogLink": null,
+    "WhitePaperLink": null
+  },
+  "ccId": "21706"
+}

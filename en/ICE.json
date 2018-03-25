@@ -1,0 +1,58 @@
+{
+  "General": {
+    "Symbol": "ICE",
+    "Name": "iDice",
+    "Description": "<p>iDice is a dice gambling Dapp powered by the Ethereum network. iDice allows players to, place bets in units of Ether. Bet on the house by holding iDice tokens. 100% of all profit iDice earns is distributed amongst token holders, proportional to the number of tokens they hold. iDice token holders enjoy the advantage of the house edge always being in their favor. Token holders should always return a profit according to the law of large numbers. The house edge will be set competitively and token holders have an expected value that is always equivalent to the house edge. iDice has a fully transparent source code available at etherscan.io. iDice does not require deposits nor sign ups. The payout of games is always immediate. It is the first blockchain dice game to incorporate mobile applications.</p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "2071012.8129",
+    "Algorithm": "N/A",
+    "ProofType": "N/A",
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "12/06/2017",
+    "TotalCoinsMined": 2071012.8129589988,
+    "Twitter": "@idice_io",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "https://idice.io/",
+    "GitHub": null,
+    "OnMarkets": [
+      "EtherDelta"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Finished",
+    "Description": "<p>In 2017, over 50% of their internet traffic is over mobile. At the time of ICO close there was no competition in this sector, and they appear to be the first to launch a mobile blockchain gambling app. Currently the bankroll isn&#39;t high enough to accept bets of greater than 3.5 ETH. With funds from the crowdsale, they will be able to increase the house&#39;s bankroll and player&#39;s max bet. Players will be able to bet and play more on iDice. </p><p>35% of all Ether raised during the crowdfund will become the house bankroll to pay winning bets. Token Holders as a collective receive 100% of iDice game profits. 30% of all Ether raised will be used by iDice development team to fund further development of the iDice Platform, as well as to fund the development and implementation of other game types on the iDice platform. 20% of all Ether raised will be used in the development and launch of the world’s first mobile blockchain gambling app, which will be available for both Android and IOS Devices. 15% of all Ether raised will be used for promotion and marketing purposes.</p><p>A total of 5 Million iDice tokens were offered, during the first power hour the rate was 200:1 ETH it dropped to 170:1 then 130:1 in the final week. In total 2071012.8129 tokens were created. </p>",
+    "TokenType": "ETH (ERC20)",
+    "WebsiteLink": "https://crowdsale.idice.io/sale.html",
+    "FundingCap": "6,500,000 USD",
+    "FundingTarget": "N/A",
+    "Date": 1497225600,
+    "EndDate": 1498435200,
+    "FundsRaisedList": "7,400 ETH",
+    "FundsRaisedUSD": "2500000",
+    "StartPrice": "1.1",
+    "StartPriceCurrency": "USD",
+    "Jurisdiction": "N/A",
+    "BlogLink": "https://medium.com/@iDice",
+    "WhitePaperLink": "https://crowdsale.idice.io/idice-whitepaper.pdf"
+  },
+  "ccId": "199004"
+}

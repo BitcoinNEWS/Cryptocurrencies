@@ -1,0 +1,60 @@
+{
+  "General": {
+    "Symbol": "NMR",
+    "Name": "Numerai",
+    "Description": "<p> <span>Numerai is a network of data scientists that are incentivised to forecast models to improve hedge fund returns. Numaire is the token that facilitates the reward structure that correct predictions receive. Founders described it as a</span><span> social network or software company whose business model happens to be a hedge fund. USV partner Andy Weissman says, “Network effects get more valuable with every participant that uses them. What’s an example of that in a financial institution? We’ve never seen one before except for this.”</span></p><p>Numerai has already raised $7.5 million in traditional venture capital from Union Square Ventures, Joey Krug (Augur), Juan Benet (FileCoin), Fred Ehrsam (Coinbase), and Olaf Carlson-Wee (Polychain). So the Numeraire token will not be sold in a “crowdsale” or “ICO”.</p><p>In Febuary 2017 1,000,000 NMR tokens were issued to 12,000 data scientists.</p><p><a href=\"https://numer.ai/whitepaper.pdf\" target=\"_blank\">White paper</a></p><p><a href=\"https://forum.numer.ai/\" target=\"_blank\">Forum</a></p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "2297106",
+    "Algorithm": null,
+    "ProofType": null,
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "21/06/2017",
+    "TotalCoinsMined": null,
+    "Twitter": "@numerai",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "https://numer.ai/",
+    "GitHub": null,
+    "OnMarkets": [
+      "Yobit",
+      "EtherDelta",
+      "BitTrex"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Finished",
+    "Description": null,
+    "TokenType": "ETH (ERC20)",
+    "WebsiteLink": null,
+    "FundingCap": "N/A",
+    "FundingTarget": "N/A",
+    "Date": null,
+    "EndDate": null,
+    "FundsRaisedList": "N/A",
+    "FundsRaisedUSD": "N/A",
+    "StartPrice": "N/A",
+    "StartPriceCurrency": "N/A",
+    "Jurisdiction": "N/A",
+    "BlogLink": "https://medium.com/@Numerai",
+    "WhitePaperLink": null
+  },
+  "ccId": "166594"
+}

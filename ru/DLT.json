@@ -1,0 +1,61 @@
+{
+  "General": {
+    "Symbol": "DLT",
+    "Name": "Agrello Delta",
+    "Description": "<p>Agrello has developed an AI powered interface, that allows users to easily create and manage smart-contract-based agreements which are legally binding, just like traditional contracts.</p><p>The platform provides a graphical interface, templates and wizards, allowing the user to draft legally-binding multi-party contracts with just a few clicks.</p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "130271020",
+    "Algorithm": null,
+    "ProofType": null,
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "16/07/2017",
+    "TotalCoinsMined": null,
+    "Twitter": "@AgrelloOfficial",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": null,
+    "GitHub": null,
+    "OnMarkets": [
+      "Yobit",
+      "EtherDelta",
+      "Binance",
+      "HitBTC"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Ongoing",
+    "Description": "<p>Agrello has developed an AI powered interface, that allows users to easily create and manage smart-contract-based agreements which are legally binding, just like traditional contracts.</p><p>The platform provides a graphical interface, templates and wizards, allowing the user to draft legally-binding multi-party contracts with just a few clicks.</p><p><strong>Team</strong>:</p><ul><li><strong>Hando Rand</strong>: Project Lead.</li><li><strong>Alex Norta</strong>: Chief Scientist.</li><li><strong>Anton Vedeshin:</strong><span> Implementation Lead.</span></li><li><span><strong>Addi Rull</strong><span>: Sales &amp; Development.</span></span></li><li><strong>Teddi Rull</strong><span>: Sales &amp; Development.</span></li><li><span><strong>Margus Poola</strong><span>: Development &amp; Finances.</span></span></li><li><strong>Simon Tobies</strong><span>: Scientific Developer.</span></li></ul><p>Agrello Delta&#39;s ICO began on July 16, 2017. The ICO token supply represents 66% of the total token supply. The ICO funding cap is 10,000 BTC and is expected to end on August 17, 2017 or when the funding cap is reached.</p><p><strong>Token Reserve Split (34%):</strong></p><ul><li>10% Foundation;</li><li>07% Partners;</li><li>07% Founders;</li><li><span>06% Advisors;</span></li><li><span>04% Community Pool;</span></li></ul><p><span>During the sale, DELTA tokens will be offered in 4 price tiers:</span></p><p><img style=\"width: 168px; height: 173px;\" src=\"/media/1384002/tier1.png?width=168&amp;height=173\" alt=\"\" data-id=\"220238\"> <img style=\"width: 168px; height: 173px;\" src=\"/media/1384003/tier2.png?width=168&amp;height=173\" alt=\"\" data-id=\"220239\"> <img style=\"width: 168px; height: 173px;\" src=\"/media/1384004/tier3.png?width=168&amp;height=173\" alt=\"\" data-id=\"220240\"> <img style=\"width: 168px; height: 173px;\" src=\"/media/1384005/tier4.png?width=168&amp;height=173\" alt=\"\" data-id=\"220241\"></p>",
+    "TokenType": "ETH (ERC20)",
+    "WebsiteLink": "https://token.agrello.org/",
+    "FundingCap": "10,000 BTC",
+    "FundingTarget": "N/A",
+    "Date": 1500210000,
+    "EndDate": 1502971199,
+    "FundsRaisedList": "6833 BTC",
+    "FundsRaisedUSD": "27495992",
+    "StartPrice": "N/A",
+    "StartPriceCurrency": "N/A",
+    "Jurisdiction": "N/A",
+    "BlogLink": "https://blog.agrello.org/",
+    "WhitePaperLink": "https://docs.agrello.org/Agrello-Self-Aware_Whitepaper-English.pdf"
+  },
+  "ccId": "220204"
+}

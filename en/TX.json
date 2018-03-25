@@ -1,0 +1,61 @@
+{
+  "General": {
+    "Symbol": "TX",
+    "Name": "Transfer",
+    "Description": "<p>Transfer is a new cryptocurrency that will feature a uniquely implemented and decentralized p2p anonymization feature via Proof of Stake protocol extensions. Their decentralized network aims to be a fungible and untraceable digital medium of exchange. Transactions are lightning-fast at just 60 seconds confirmation time.Their main goal is availability on all possible devices and using all kinds of Internet services. Such as email, sms, social networks.</p><p><strong>Latest Updates</strong></p><ol><li>Cross-Send was done completely custom by infernoman. (Cross-Send allows you to spend Transfercoin where Bitcoin is accepted.)</li><li><span>MAC Wallet Trading. Transfercoin is the first to do this.</span></li><li><span>Full implementation of secp256k1 for ecdsa sig&#39;s.</span></li><li><span>Dark features working based off of dash 0.12.0. (Stealth addresses, Darksend,Encrypted Messaging, Masternodes)</span></li><li><span>Staking and Masternodes in the same wallet. (If your running a masternode in your wallet) </span></li><li><span>Masternodes and Staking in an Android Wallet.</span></li></ol>",
+    "Features": "<p><strong>Stability</strong></p><p>With Transferwallet you can start using the Transfer platform immediately. Even your android device is supported.</p><p><strong>Fast transactions</strong></p><p>Every 60 sec. new block is generated. Transactions are almost instant</p><p><strong>Up to Date</strong></p><p>Transfer Block Explorer is a web tool that allows you to view information about the blocks, addresses, and transactions created by Transfer network.</p><p><strong>Full automated TOR client in wallet. </strong></p><p>Transfer utilizes the TOR network, an open-source utility trusted by millions to help protect their privacy.</p><p><strong>Stealth addresses</strong></p><p>As crypto-currencies make their way into the mainstream of the world, privacy is of an increasing concern. They aim to provide an end-to-end privacy solution </p><p><strong>Encrypted messages</strong></p><p>Encrypted messages brings an encrypted and secure messaging system to Transfer. Send messages instantly, all you need is someones Transfer address and their public key</p><p><strong>Masternodes</strong></p><p>Masternode costs 10 000 TX and earn 50% of the mining rewards.</p><p><strong>Android wallet</strong></p><p>Staking with working masternodes and encrypted messages.</p><p><strong>Made with Love</strong></p><p>Fair ditribution. TOR integration in coin, Stealth addresses, Masternodes. Staking Androind wallet with Masternodes. And more is coming.</p>",
+    "Technology": "<p><strong>Coin specifications</strong></p><p>- Hybrid POW/POS</p><p>- Algo x11</p><p>- 60 sec per block</p><p>- Difficulty adjusts every block coin maturity 80</p><p>- Min. stake age 24 hours</p><p>- POW 15 000 blocks</p><p>- POW Block reward 300 TX per block</p><p>- POS from block 1 000 to 15 000 block reward 300 TX per block</p><p>- POS From block 15 001 onward block reward 1 TX per block.</p>",
+    "TotalCoinSupply": "0",
+    "Algorithm": "X11",
+    "ProofType": "PoW/PoS",
+    "BlockReward": 1,
+    "Explorer": null,
+    "StartDate": "11/08/2015",
+    "TotalCoinsMined": 6391470.99999998,
+    "Twitter": "@Transfer_dev",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "http://www.transfercoin.io/",
+    "GitHub": null,
+    "OnMarkets": [
+      "Cryptopia",
+      "Yobit",
+      "LiveCoin",
+      "BitTrex"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "N/A",
+    "Description": null,
+    "TokenType": null,
+    "WebsiteLink": null,
+    "FundingCap": null,
+    "FundingTarget": null,
+    "Date": null,
+    "EndDate": null,
+    "FundsRaisedList": null,
+    "FundsRaisedUSD": null,
+    "StartPrice": null,
+    "StartPriceCurrency": null,
+    "Jurisdiction": null,
+    "BlogLink": null,
+    "WhitePaperLink": null
+  },
+  "ccId": "13045"
+}

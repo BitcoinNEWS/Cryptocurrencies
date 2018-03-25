@@ -1,0 +1,65 @@
+{
+  "General": {
+    "Symbol": "CTR",
+    "Name": "Centra",
+    "Description": "<p>Centra Tech has designed a multi-blockchain debit card that connects to a smart wallet that is safe, secure, and more importantly insured. Centra<span> </span><span>currently </span>supports 8+ major cryptocurrencies: Bitcoin, Ethereum, ERC20 Tokens, Litecoin, Ripple, Dash, Zcash, &amp;<span> </span>Monero<span> </span>with more to come. Centra team designed a platform to create a global account solution for anyone who<span> </span>lack<span> </span>banking resources.</p><p>Centra Tech is also launching a platform called Coin Bay (www.cBay.io) which will be the world&#39;s first Amazon style store that is designed to be cryptocurrency acceptable.</p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "100000000",
+    "Algorithm": null,
+    "ProofType": null,
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "23/07/2017",
+    "TotalCoinsMined": 99999999.5,
+    "Twitter": "@centra_card",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": null,
+    "GitHub": null,
+    "OnMarkets": [
+      "Cryptopia",
+      "HitBTC",
+      "EtherDelta",
+      "LiveCoin",
+      "Kucoin",
+      "OKEX",
+      "Binance",
+      "Gateio"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Finished",
+    "Description": "<p>Centra Tech has designed a multi-blockchain debit card that connects to a smart wallet that is safe, secure, and more importantly insured. Centra <span>currently </span>supports 8+ major cryptocurrencies: Bitcoin, Ethereum, ERC20 Tokens, Litecoin, Ripple, Dash, Zcash, &amp; Monero with more to come. Centra team designed a platform to create a global account solution for anyone who lack banking resources.</p><p>Centra Tech is also launching a platform called Coin Bay (www.cBay.io) which will be the world&#39;s first Amazon style store that is designed to be cryptocurrency acceptable.</p><p><strong>Team</strong>:</p><ul><li><strong>Sam Sharma</strong>: President, Co-Founder. <a href=\"https://www.twitter.com/s_sharma91\" target=\"_blank\"><img style=\"width: 13px; height: 13px;\" src=\"/media/1383932/twitter_logo_final.png?width=13&amp;height=13\" alt=\"\" data-id=\"202868\"></a></li><li><strong>Michael Edwards</strong>: VP, Co-Founder.<span> </span><a href=\"https://www.linkedin.com/in/michael-edwards-20b180145/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Steven Sykes</strong>: CTO.<span> </span><a href=\"https://www.twitter.com/SteveSykesCTO\" target=\"_blank\"><img style=\"width: 13px; height: 13px;\" src=\"/media/1383932/twitter_logo_final.png?width=13&amp;height=13\" alt=\"\" data-id=\"202868\"></a><span> </span><a href=\"https://www.linkedin.com/in/steven-sykes-b834852a/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Raymond Trapani</strong><span>: COO.</span><span> </span><a href=\"https://twitter.com/raymondwtrapani\" target=\"_blank\"><img style=\"width: 13px; height: 13px;\" src=\"/media/1383932/twitter_logo_final.png?width=13&amp;height=13\" alt=\"\" data-id=\"202868\"></a><span> </span><a href=\"https://www.linkedin.com/in/raymond-trapani-676535148/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Jessica Robinson</strong><span>: CFO.</span><span> </span><a href=\"https://www.linkedin.com/in/jessica-robinson-6b5291148/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Robert Farkas</strong><span>: CMO.</span><span> </span><a href=\"https://www.twitter.com/centratechbob\" target=\"_blank\"><img style=\"width: 13px; height: 13px;\" src=\"/media/1383932/twitter_logo_final.png?width=13&amp;height=13\" alt=\"\" data-id=\"202868\"></a><span> </span><a href=\"https://www.linkedin.com/in/robert-farkas-93a014122/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Martin Pejkov</strong><span>: Marketing Director.</span><span> </span><a href=\"https://twitter.com/pejkoff\" target=\"_blank\"><img style=\"width: 13px; height: 13px;\" src=\"/media/1383932/twitter_logo_final.png?width=13&amp;height=13\" alt=\"\" data-id=\"202868\"></a></li><li><strong>Andrey Nechesov</strong><span>: Blockchain Director.</span><span> </span><a href=\"https://twitter.com/avnechesov\" target=\"_blank\"><img style=\"width: 13px; height: 13px;\" src=\"/media/1383932/twitter_logo_final.png?width=13&amp;height=13\" alt=\"\" data-id=\"202868\"></a></li><li><strong>Filip Burcevski</strong><span>: Technology Director.</span><span> </span><a href=\"https://twitter.com/Filip_B12\" target=\"_blank\"><img style=\"width: 13px; height: 13px;\" src=\"/media/1383932/twitter_logo_final.png?width=13&amp;height=13\" alt=\"\" data-id=\"202868\"></a></li><li><strong>Steve Stanley</strong><span>: PR Director.</span><span> </span><a href=\"https://www.linkedin.com/in/steven-stanley-73546346/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li></ul><p>Centra ICO began on August 5, 2017. The ICO token supply represents 68% of the total token supply, so there is a total of <span>68000000 </span>tokens available for 0.0025 ETH each, at the offering. The ICO is expected to end on October 10, 2017.</p><p><span>During Centra ICOthere will be a 48 hour period where users will get a 20% bonus, followed by a 10% Bonus on days 3-7, and finally, a 5% bonus on days 8-14.</span></p>",
+    "TokenType": "ETH (ERC20)",
+    "WebsiteLink": "https://www.centra.tech/token-sale/",
+    "FundingCap": "N/A",
+    "FundingTarget": "N/A",
+    "Date": 1505779200,
+    "EndDate": 1506308400,
+    "FundsRaisedList": "2730.002 BTC; 42,503.117 LTC; 12,734.695 ETH;",
+    "FundsRaisedUSD": "17414317.26",
+    "StartPrice": "0.0025",
+    "StartPriceCurrency": "ETH",
+    "Jurisdiction": "N/A",
+    "BlogLink": "https://medium.com/@Centra/",
+    "WhitePaperLink": "https://www.centra.tech/CentraWhitePaper.pdf"
+  },
+  "ccId": "225277"
+}

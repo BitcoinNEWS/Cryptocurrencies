@@ -1,0 +1,56 @@
+{
+  "General": {
+    "Symbol": "ACT",
+    "Name": "ACT",
+    "Description": "<p>ACT is a decentralized autonomous organization (DAO) created to address social accountability by using aggregated capital that is contributed by citizens in order to fund grass roots proposals that drive change on pressing social, political or economical issues.</p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "10000000000",
+    "Algorithm": "N/A",
+    "ProofType": "N/A",
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "25/06/2017",
+    "TotalCoinsMined": null,
+    "Twitter": "@daoact_org",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "https://www.daoact.org/",
+    "GitHub": null,
+    "OnMarkets": [],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Ongoing",
+    "Description": "<p><span>ACT is a decentralized autonomous organization (DAO) created to address social accountability by using aggregated capital that is contributed by citizens in order to fund grass roots proposals that drive change on pressing social, political or economical issues.</span></p><p><span>The ACT Initial Coin Offering period will start on the 18th of November and will last until the 18th of January or until all ACT tokens are sold. During the ICO and Pre-ICO campaigns, a total of 80 billion tokens (20%) will be destributed to the campaign participants. </span></p><p>ICO cap — to be decided after WINGS.ai price forecast event (before the pre-ICO) and announced prior to the commencement of fundraising. <span>There may be small early stage bonus’ during the ICO up to 1.1x for a limited amount of time at the beginning of the event.</span></p><p> </p>",
+    "TokenType": "ETH (ERC20)",
+    "WebsiteLink": "https://www.daoact.org/",
+    "FundingCap": "N/A",
+    "FundingTarget": "N/A",
+    "Date": 1510974000,
+    "EndDate": 1516244400,
+    "FundsRaisedList": "N/A",
+    "FundsRaisedUSD": "N/A",
+    "StartPrice": "N/A",
+    "StartPriceCurrency": "ETH",
+    "Jurisdiction": "N/A",
+    "BlogLink": "https://medium.com/daoact",
+    "WhitePaperLink": "https://www.daoact.org/whitepaper/"
+  },
+  "ccId": "177157"
+}

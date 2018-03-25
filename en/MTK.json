@@ -1,0 +1,56 @@
+{
+  "General": {
+    "Symbol": "MTK",
+    "Name": "Moya Token",
+    "Description": "<p><span>Moya Networks is a project that aims </span><span>to provide submarine capacity and terrestrial capacity obtained to offer a range of lower priced world class Synchronous Digital Hierarchy (“SDH”) and Internet Protocol (“IP”) network transport services to the a wide range of African Internet Service Providers (ISP’s),international carriers, content providers, large multi-national businesses and governments. Moya Tokens</span><span> (MTK) are ERC20 tokens based on the Ethereum blockchain that</span><span> </span><span>grants </span><span>the holder the right to receive 20% of MTK&#39;s profit on an annual basis. </span></p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "125000000",
+    "Algorithm": null,
+    "ProofType": null,
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "01/10/2017",
+    "TotalCoinsMined": null,
+    "Twitter": "@MoyaNetworks",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": null,
+    "GitHub": null,
+    "OnMarkets": [],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Ongoing",
+    "Description": "<p><span>Moya Networks is a project that aims </span><span>to provide submarine capacity and terrestrial capacity obtained to offer a range of lower priced world class Synchronous Digital Hierarchy (“SDH”) and Internet Protocol (“IP”) network transport services to the a wide range of African Internet Service Providers (ISP’s),international carriers, content providers, large multi-national businesses and governments. Moya Tokens</span><span> (MTK) are ERC20 tokens based on the Ethereum blockchain that</span><span> </span><span>grants </span><span>the holder the right to receive 20% of MTK&#39;s profit on an annual basis. </span></p><p><strong>Team</strong>:</p><ul><li><strong>Carrington Phillip:</strong> CEO <a href=\"https://za.linkedin.com/in/carrington-phillip-3a671476\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Jason Berry</strong> <a href=\"http://www.linkedin.com/in/gettothefarm\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Sibusiso (Sbu) Zindela</strong> <a href=\"https://za.linkedin.com/in/sibusiso-zindela-09618322\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li></ul><p>The Moya Network ICO will start on the 15th of November and last until the 16th of January, 2018. The ICO token allocation represents 80% of the total supply and each will be available for 0.001 ETH starting price. The ICO funding goal and cap is set for 6000 BTC.</p><p><strong>Token Reserve Split:</strong></p><ul><li>80% ICO</li><li>20% Distributed to Moya Operations, Moya Labs-Marketing and Team</li></ul><p>The Moya ICO features a bonus and bounty campaign along with an escrow agent.</p><p><strong>Bonus Structure:</strong></p><ul><li><p>Week 1-2: 30% bonus</p></li><li><p>Week 3-4: 20% bonus</p></li><li><p>Week 5-6: 15% bonus</p></li><li><p>Week 7-8: 10% bonus</p></li></ul>",
+    "TokenType": "ETH (ERC20)",
+    "WebsiteLink": "https://token-sale.moyanetworks.com/",
+    "FundingCap": "6000 BTC",
+    "FundingTarget": "6000 BTC",
+    "Date": 1510747200,
+    "EndDate": 1516104000,
+    "FundsRaisedList": "N/A",
+    "FundsRaisedUSD": "N/A",
+    "StartPrice": "0.001",
+    "StartPriceCurrency": "ETH",
+    "Jurisdiction": "N/A",
+    "BlogLink": null,
+    "WhitePaperLink": "https://app.box.com/s/gojspns4vru0jtmf9oicnsm61uvbzwlr"
+  },
+  "ccId": "319238"
+}

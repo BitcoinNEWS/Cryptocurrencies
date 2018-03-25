@@ -1,0 +1,69 @@
+{
+  "General": {
+    "Symbol": "BTS",
+    "Name": "Bitshares",
+    "Description": "<p>BitShares (BTS) — это бренд программного обеспечения с открытым исходным кодом, основанная на технологии blockchain, используемой Bitcoin. В отличие от биткойнов, которые не приносят никакого дохода для их владельцев, BitShare можно использовать для запуска децентрализованных автономных компаний (ЦАП), которые выпускают акции, производят прибыль и распределяют прибыль акционерам. Таким образом, BitShares занимается созданием прибыльных компаний, для которых люди хотят владеть акциями, что создает доход для акционеров. Первый ЦАП, запущенный этими процессами, был назван BitSharesX, децентрализованным обменом активами, базирующимся в Гонконге. BitShares был первоначально запущен под названием ProtoShares (PTS); Позже он был переименован в BitShares (BTS) и «перезагружен» в ноябре 2014 года, объединив несколько продуктов в BitShares (BTS). </p>",
+    "Features": "<p>Работая вместе, это сообщество разработало и разработало платформу BitShares для включения многочисленных инновационных функций, которые не встречаются в других отраслях интеллектуальной индустрии контрактов.</p><ul><li><strong>Стабильное ценообразование </strong><br />Смарт-токены обеспечивают свободу криптовалютности с устойчивостью доллара</li><li><strong>Децентрализованный обмен активами<br /></strong>Быстрая и гибкая торговая платформа<strong><br /></strong></li><li><strong>Промышленная производительность и масштабируемость<br /></strong>Более 100 000 транзакций в секунду</li><li><strong>Повторяющиеся и запланированные платежи<br /></strong>Гибкие разрешения на вывод<strong><br /></strong></li><li><strong>Реферальная программа вознаграждений</strong><br />Рост сети благодаря вознаграждениям за принятие</li><li><strong>Гибкие разрешения для аккаунтов</strong><br />Управление корпоративной средой</li><li><strong>User-Issued Assets</strong><br />Regulation-compatible cryptoasset issuance</li><li><strong>Stakeholder-Approved Project Funding</strong><br />A self-sustaining funding model</li><li><strong>Transferable Named Accounts<br /></strong>Easy and secure transactions</li><li><strong>Delegated Proof-of-Stake Consensus<br /></strong>A robust and flexible consensus protocol<strong><br /></strong></li></ul>",
+    "Technology": "<p>Сама платформа BitShares работает и поддерживается сообществом <strong> BitShares </strong> — открытым консорциумом отдельных лиц и организаций, приверженными обеспечению всеобщего доступа к интеллектуальным контрактам.</p>",
+    "TotalCoinSupply": "2511953117",
+    "Algorithm": "SHA-512",
+    "ProofType": "PoS",
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "05/11/2014",
+    "TotalCoinsMined": "2511953117",
+    "Twitter": "@_bitshares",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "https://bitshares.org/",
+    "GitHub": null,
+    "OnMarkets": [
+      "BTC38",
+      "EXX",
+      "BTER",
+      "CCEDK",
+      "Yobit",
+      "BitTrex",
+      "Binance",
+      "LiveCoin",
+      "Tidex",
+      "Gateio",
+      "Yunbi",
+      "Poloniex"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Finished",
+    "Description": "<p>BTS raised the equivalent of 5904BTC primarily in BTC and about 400 BTC worth of protonshares (415,000PTN). At the time it was worth around $3.6 Million. More information on the history of Bitshares can be found <a href=\"http://docs.bitshares.eu/bitshares/papers/index.html\" target=\"_blank\">here</a>.</p>",
+    "TokenType": "BTS",
+    "WebsiteLink": null,
+    "FundingCap": "N/A",
+    "FundingTarget": "N/A",
+    "Date": 1405944000,
+    "EndDate": 1408622400,
+    "FundsRaisedList": "5,621 BTC; 415,000 Protoshares",
+    "FundsRaisedUSD": "3600000",
+    "StartPrice": "0.01",
+    "StartPriceCurrency": "USD",
+    "Jurisdiction": "N/A",
+    "BlogLink": "https://bitshares.org/blog/",
+    "WhitePaperLink": "http://docs.bitshares.eu/bitshares/papers/index.html"
+  },
+  "ccId": "5039"
+}

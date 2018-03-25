@@ -1,0 +1,61 @@
+{
+  "General": {
+    "Symbol": "TAJ",
+    "Name": "TajCoin",
+    "Description": "<p>TajCoin is a Proof of Work/Proof of Stake cryptocurrency based on the Blake2s algorithm. It&#39;s a personalized cryptocurrency dedicated to the youngest cryptonian on the planet, a 4 year old boy named TAJ.</p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "36900000",
+    "Algorithm": "Blake2S",
+    "ProofType": "PoW/PoS",
+    "BlockReward": 99,
+    "Explorer": null,
+    "StartDate": "09/07/2016",
+    "TotalCoinsMined": 8799942.85803011,
+    "Twitter": "@TajCoin",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "https://tajcoin.tech",
+    "GitHub": null,
+    "OnMarkets": [
+      "Cryptopia",
+      "TradeSatoshi",
+      "Novaexchange",
+      "Yobit"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "N/A",
+    "Description": null,
+    "TokenType": null,
+    "WebsiteLink": null,
+    "FundingCap": null,
+    "FundingTarget": null,
+    "Date": null,
+    "EndDate": null,
+    "FundsRaisedList": null,
+    "FundsRaisedUSD": null,
+    "StartPrice": null,
+    "StartPriceCurrency": null,
+    "Jurisdiction": null,
+    "BlogLink": null,
+    "WhitePaperLink": null
+  },
+  "ccId": "57750"
+}

@@ -1,0 +1,56 @@
+{
+  "General": {
+    "Symbol": "DNN",
+    "Name": "DNN Token",
+    "Description": "<p><span>The DNN platform will focus on facilitating the dissemination of balanced and factual observation of current political affairs. DNN&#39;s mission is to create political news content that is both empowering for its readers, as well as a representative of the integrity of its writers. DNN aspires to become the most-trusted and democratic political news alternative to the mainstream media.</span></p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "1000000000",
+    "Algorithm": null,
+    "ProofType": null,
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "02/02/2018",
+    "TotalCoinsMined": null,
+    "Twitter": "@DNN_Blockchain",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": null,
+    "GitHub": null,
+    "OnMarkets": [],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Upcoming",
+    "Description": "<p><span>The DNN platform will focus on facilitating the dissemination of balanced and factual observation of current political affairs. DNN&#39;s mission is to create political news content that is both empowering for its readers, as well as a representative of the integrity of its writers. DNN aspires to become the most-trusted and democratic political news alternative to the mainstream media.</span></p><p><strong>Team</strong>:</p><ul><li><strong>Samit Singh</strong><span>: Co-Founder &amp; CEO.<span> </span></span><a href=\"https://twitter.com/samit57\" target=\"_blank\"><img style=\"width: 13px; height: 13px;\" src=\"/media/1383932/twitter_logo_final.png?width=13&amp;height=13\" alt=\"\" data-id=\"202868\"></a><span><span> </span></span><a href=\"https://www.linkedin.com/in/singhsamit/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Dondrey Taylor</strong><span>: Co-Founder &amp; CTO.<span> </span></span><a href=\"https://twitter.com/dondreytaylor\" target=\"_blank\"><img style=\"width: 13px; height: 13px;\" src=\"/media/1383932/twitter_logo_final.png?width=13&amp;height=13\" alt=\"\" data-id=\"202868\"></a><span><span> </span></span><a href=\"https://www.linkedin.com/in/dondreytaylor\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Mališa Pušonja</strong><span>: Project Manager.</span><span><span> </span></span><a href=\"https://linkedin.com/in/%D0%BC%D0%B0%D0%BB%D0%B8%D1%88%D0%B0-%D0%BF%D1%83%D1%88%D0%BE%D1%9A%D0%B0-17604158\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Andrej Cvoro</strong><span>: Solidity Developer.</span><span><span> </span></span><a href=\"https://www.linkedin.com/in/andrejcvoro/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Uros Radovanovic</strong><span>: Solidity Developer.</span><span><span> </span></span><a href=\"https://www.linkedin.com/in/uros-radovanovic-51647584/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li></ul><p>DNN will be holding its ICO on the 3rd of April, 2018. The ICO token supply represents 40% of the total token supply, so there will be a total of 400,000,000 tokens available, for 0.00027777777 ETH each at the offering. The ICO funding cap is 70,000 ETH and is expected to end on the 1st of May, 2018 or when the funding cap is reached.</p><p><strong>Bonus Structure:</strong></p><ul><li>FIRST 10K ETH (20% Bonus) 1 ETH = 3600 DNN tokens;</li><li>10,0001 ETH - 30,000 ETH (15% Bonus) 1 ETH = 3450 DNN tokens;</li><li>30,001 ETH - FUNDING GOAL (10% Bonus) 1 ETH = 3300 DNN tokens</li></ul>",
+    "TokenType": "ETH (ERC20)",
+    "WebsiteLink": "http://crowdsale.dnn.media",
+    "FundingCap": "70,000 ETH ",
+    "FundingTarget": "N/A",
+    "Date": 1522713600,
+    "EndDate": 1525132800,
+    "FundsRaisedList": "N/A",
+    "FundsRaisedUSD": "N/A",
+    "StartPrice": "0.00027777777",
+    "StartPriceCurrency": "ETH",
+    "Jurisdiction": "U.S.A",
+    "BlogLink": "https://medium.com/@dnnmedia",
+    "WhitePaperLink": "https://dnn.media/storage/DecentralizedNewsNetworkWhitePaperDraftv1.5.0.pdf"
+  },
+  "ccId": "659681"
+}

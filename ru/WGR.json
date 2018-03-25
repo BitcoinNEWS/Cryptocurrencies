@@ -1,0 +1,60 @@
+{
+  "General": {
+    "Symbol": "WGR",
+    "Name": "Wagerr",
+    "Description": "<p>Wagerr is a decentralized sportsbook built on blockchain technology. Due to its peer-to-peer structure Wagerr brings trustless sports betting to the whole world while avoiding single hacks, scams and server downtime. Wagerr is able to escrow user stakes, verify results and pay out winners automatically, eliminating the need for third party services which charge higher fees.</p><p>In Wagerr ets are executed through the use of Application Specific Smart Contracts (ASSC), while a network of Oracle Masternodes update game results and execute smart contracts to facilitate reliable betting and payouts and receive 50% of the bet&#39;s fee while doing so. 48% of the fees are destroyed, reducing the total supply of WGR while demand is created by users who buy WGR to gamble with. The current Wagerr token is a transitionary token issued on the Waves Platform. It&#39;s a provisionary token that can be exchanged freely on the Waves decentralized exchange before the Wagerr mainnet launches.</p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "200000000",
+    "Algorithm": "PoS",
+    "ProofType": "N/A",
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "01/01/0001",
+    "TotalCoinsMined": 200000000,
+    "Twitter": "@wagerrx",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "https://www.wagerr.com/",
+    "GitHub": null,
+    "OnMarkets": [
+      "Tidex",
+      "WavesDEX",
+      "Yobit"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Finished",
+    "Description": "<p>Wagerr is a decentralized sportsbook built on blockchain technology. Due to its peer-to-peer structure Wagerr brings trustless sports betting to the whole world while avoiding single hacks, scams and server downtime. Wagerr is able to escrow user stakes, verify results and pay out winners automatically, eliminating the need for third party services which charge higher fees. </p><p>The current Wagerr token is a transitionary token issued on the Waves Platform. It&#39;s a provisionary token that can be exchanged freely on the Waves decentralized exchange before the Wagerr mainnet launches.</p><p>The Wagerr ICO started on June 1st 2017 and ran until June 25th, gathering 2360 BTC, 11703 ETH, 19600 LTC, 10406 ETC 1025, DASH 131 ZEC. The Wagerr ICO had a bonus structure that was comprised of ten stages - Learn more <a href=\"https://www.wagerr.com/ico\" target=\"_blank\">here</a>. The campaign had both an escrow and bounties.</p><p> </p><p> </p>",
+    "TokenType": "WAVES",
+    "WebsiteLink": "https://www.wagerr.com/ico",
+    "FundingCap": "N/A",
+    "FundingTarget": "N/A",
+    "Date": 1496275200,
+    "EndDate": 1498435200,
+    "FundsRaisedList": "2360 BTC\r\n11703 ETH \r\n19600 LTC \r\n10406 ETC \r\n1025 DASH \r\n131 ZEC",
+    "FundsRaisedUSD": "6375000",
+    "StartPrice": "0.0550",
+    "StartPriceCurrency": "USD",
+    "Jurisdiction": "N/A",
+    "BlogLink": "https://news.wagerr.com/",
+    "WhitePaperLink": "https://www.wagerr.com/wagerr_whitepaper_v1.pdf"
+  },
+  "ccId": "178467"
+}

@@ -1,0 +1,56 @@
+{
+  "General": {
+    "Symbol": "TKNL",
+    "Name": "Taklimakan",
+    "Description": "<p><span>The Taklimakan Network is a Blockchain-based investment and educational business platform for cryptocurrency investors, traders and analysts. The Platform offers trading signals, strategies and recommendations from professionals sent exclusively to platform users. Moreover, analytics on ICO projects and coins would be offered within a platform. Investment portfolios formed by experienced managers would be also offered to the clients. </span><span>The TKNL token is a ERC20 compliant asset in the Ethereum blockchain.</span></p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "1000000000",
+    "Algorithm": null,
+    "ProofType": null,
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "17/11/2017",
+    "TotalCoinsMined": null,
+    "Twitter": "@taklimakan_net",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": null,
+    "GitHub": null,
+    "OnMarkets": [],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Upcoming",
+    "Description": "<p><span>The Taklimakan Network is a Blockchain-based investment and educational business platform for cryptocurrency investors, traders and analysts. The Platform offers trading signals, strategies, and recommendations from professionals sent exclusively to platform users. Moreover, analytics on ICO projects and coins would be offered within a platform. Investment portfolios formed by experienced managers would be also offered to the clients. </span><span>The TKNL token is an ERC20 compliant asset in the Ethereum blockchain.</span></p><p><strong>Team</strong>:</p><ul><li><strong><span>Yong Ming Hong</span></strong>: Managing Partner, Co-founder. <a href=\"https://www.linkedin.com/in/yong-ming-hong-4a9050151/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Rustam Kairy</strong>: Managing Partner, Co-founder.<span> </span><a href=\"https://www.linkedin.com/in/rashid-yussup-4457b749/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Rashid Yussup</strong>: Managing Partner, Co-founder.<span> </span><a href=\"https://www.linkedin.com/in/rustam-kairy-3907a114b/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Gregory Zaitsev</strong>: Project Manager <a href=\"https://www.linkedin.com/in/gregory-zaitsev-95ba633/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Berik Yernazar:</strong> Business Analyst <a href=\"https://www.linkedin.com/in/berik-yernazarov-56754535/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li></ul><p>Taklimakan will be holding its ICO on April 9th, 2018. The ICO token supply represents 55% of the total token supply, so there will be a total of 5<span>50,000,000</span> tokens available, for 0.00006666666 ETH each during the offering. The ICO funding target is 3,360,000 USD, the funding cap is 27,500,000 USD and is expected to end on June 9th, 2018 or when the funding cap is reached. Any unsold/remaining tokens will be burned.</p><p>The Taklimakan ICO will feature Bonuses and bounties, and the token will not be mineable.</p><p> <strong>Token Reserve Split (45%):</strong></p><ul><li>18% Team, Advisors;</li><li>10% Pre-Sale;</li><li>10% Reserve;</li><li>5% Strategic Partners;</li><li>2% Bounty, Promo;</li></ul><p><strong>Distribution of Funds:</strong></p><ul><li>40% Software Development;</li><li>30% Marketing;</li><li>20% Administrative Expenses;</li><li>10% Legal;</li></ul><p>Berik Yernazar <br>Business Analyst</p>",
+    "TokenType": "ETH (ERC20)",
+    "WebsiteLink": "https://www.taklimakan.io/",
+    "FundingCap": "27,500,000 USD",
+    "FundingTarget": "3,360,000 USD",
+    "Date": 1523268000,
+    "EndDate": 1528538400,
+    "FundsRaisedList": "N/A",
+    "FundsRaisedUSD": "3316000",
+    "StartPrice": "0.05",
+    "StartPriceCurrency": "USD",
+    "Jurisdiction": "Singapore",
+    "BlogLink": "https://medium.com/@taklimakan",
+    "WhitePaperLink": "https://www.taklimakan.io/taklimakan-whitepaper-eng.pdf"
+  },
+  "ccId": "815269"
+}

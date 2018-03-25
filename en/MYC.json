@@ -1,0 +1,58 @@
+{
+  "General": {
+    "Symbol": "MYC",
+    "Name": "MayaCoin",
+    "Description": "<p>Maya currency, the English full name: Maya coins, called MYC. Ai Maya culture is a group of hot team effort to build a combination of virtual and physical founded based on a decentralized peer to peer network, open source payment system.</p><p>Mayan Civilization: Maya civilization is the most ancient and wise race of a tribe, the Mayan civilization, Mayan Indian named because, Amerindian and Mayans in Asia, Africa, Europe and the ancient civilization isolated conditions, independently created a great civilization whose ruins are mainly distributed in Mexico, Guatemala and Honduras and other places. Mayan civilization was born in the 10th century BC, it is divided into the pre-classical period, classical and post-classical period of three periods in which AD 3-9 century its heyday.</p><p>Maya Faith: Mayan religiosity, full of religious and cultural life. They worship the sun god, the god of rain, Inari, death, god of war, Aeolus, god of corn and the like. Titan outranked gods, revered as the incarnation of God. In addition, the line of ancestor worship, believe in immortality. Maya country also responsible for religious affairs, is the religious center of the capital.</p><p>The decline of Mayan civilization: the Mayans after this prosperous period, how rapid decline in a very short period of time, is still a mystery. Although Maya sharp reduction in a very short period of time, but the reasons for the formation of a long time. Maya decline factors are: population explosion food shortage of natural disasters alien infestation spread of the disease outside the decision-making energy shortages Star fratricidal aliens say a word, annihilation in the deserted tropical jungles to build the world super-civilization, in the golden age of the Maya mystery man suddenly disappeared, too cryptic.</p><p>Maya civilization is the civilization of Central and South America region, and legends contrary, the Maya never disappeared, there are still three million contemporary Maya living in the Yucatan Peninsula, many people are still able to speak the language of the Mayan language. Maya never had a unified powerful kingdom, the whole region is divided into hundreds of Mayan city-states, the states in the Maya language, religion, customs and traditions, but belong to the same cultural circle.</p><p>For this great culture has been able to be able to spread it, so that we learn more about the Maya history, a group of hot young Ai Maya Maya culture founded credits.</p><p>Maya currency Technically, fully absorb the advantages of Bitcoin, litecoin, Ethernet Square and other digital currencies, Bitcoin basis while some technology has been criticized on the little bit of money by means of the introduction of POS, POW + POSDE proof way to completely avoid the operator center of force may bring 51 attacks, with its own characteristics, multi-angle interpretation of the superiority of digital currency.</p><p>MYC is based on P2P technology to the center (Decentralized) using cryptography digital currency latest technology to build the block chain, MYC make up the current Bitcoin appeared double flowers (now resolved), a fork (technical issues remain unresolved), confirm a long time (not conducive to fast transaction), the block is too large (narrow block currently imperative) and other issues. Maya credits MYC program based on P2P block chain technology, while using Block-Reduce algorithm (Block-Reduce algorithm redefine the data structure block chain to ensure data in the exact premise of safety, for minimized block chain size) and the block chain technology, the area block size reduced to a minimum, so that users can easily and quickly using Maya credits MYC payment and other business practices.</p><p>Total Released: Maya has a total number of 8,000,000 credits, the development team is 100% pre-mining, post pure POS algorithm, POS interest: 2% annual interest. Maya by the management team uses, including 6 million IPO packaged using crowdfunding distribution assets, and the remaining 1 million gift to promote the use of free distribution, promotion of the development team as one million maintenance expense</p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "250000000",
+    "Algorithm": "Scrypt",
+    "ProofType": "PoW/PoS",
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "03/04/2016",
+    "TotalCoinsMined": null,
+    "Twitter": "@Gapcoin",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "http://www.mayacoin.org/",
+    "GitHub": null,
+    "OnMarkets": [
+      "CCEX"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "N/A",
+    "Description": null,
+    "TokenType": null,
+    "WebsiteLink": null,
+    "FundingCap": null,
+    "FundingTarget": null,
+    "Date": null,
+    "EndDate": null,
+    "FundsRaisedList": null,
+    "FundsRaisedUSD": null,
+    "StartPrice": null,
+    "StartPriceCurrency": null,
+    "Jurisdiction": null,
+    "BlogLink": null,
+    "WhitePaperLink": null
+  },
+  "ccId": "20661"
+}

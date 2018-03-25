@@ -1,0 +1,63 @@
+{
+  "General": {
+    "Symbol": "OPAL",
+    "Name": "OpalCoin",
+    "Description": "<p>OpalCoin is a rebranding and relaunch of OnyxCoin. The coin is a hybrid proof of work and proof of stake running on X13. The proof of stake rate is 5% per annum.</p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "15000000",
+    "Algorithm": "X13",
+    "ProofType": "PoW/PoS",
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "12/09/2014",
+    "TotalCoinsMined": null,
+    "Twitter": "@OpalCoinTeam",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "http://www.opal-coin.com/",
+    "GitHub": null,
+    "OnMarkets": [
+      "Cryptopia",
+      "Yobit",
+      "Cryptsy",
+      "Poloniex",
+      "Novaexchange",
+      "BitTrex"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "N/A",
+    "Description": null,
+    "TokenType": null,
+    "WebsiteLink": null,
+    "FundingCap": null,
+    "FundingTarget": null,
+    "Date": null,
+    "EndDate": null,
+    "FundsRaisedList": null,
+    "FundsRaisedUSD": null,
+    "StartPrice": null,
+    "StartPriceCurrency": null,
+    "Jurisdiction": null,
+    "BlogLink": null,
+    "WhitePaperLink": null
+  },
+  "ccId": "4582"
+}

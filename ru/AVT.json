@@ -1,0 +1,62 @@
+{
+  "General": {
+    "Symbol": "AVT",
+    "Name": "AventCoin",
+    "Description": "<p>Aventus – платформа, основанная на Ethereum. Его экономическая модель исключает неконтролируемую перепродажу и подделку. Aventus позволяет организаторам мероприятий создавать, управлять и продвигать свои мероприятия и билеты с резко сокращенными расходами, даже позволяя им устанавливать контроль над ценами и получать комиссионные при перепродаже билетов. Он также дает вознаграждения покупателям билетов за продвижение событий и выявление мошеннической деятельности.</p><p><span>AventCoin (AVT) является основным токеном в протоколе Aventus. Цель AVT - подпитывать экосистему Aventus и обеспечивать, чтобы протокол выполнялся автономно, децентрализованно и без каких-либо мошеннических действий. </span><span>AVT используется для взвешенного голосования и согласованных механизмов для голосования по вопросам легитимности:</span></p><ul><li><span>События в протоколе (например, глобальный пул проверенных событий) =&gt; Мошеннические события означают, что приложения, продающие свои билеты, потеряют клиентов, поэтому нам нужно предотвратить это.</span></li><li><span>Приложения (либо промоутеры, либо приложения для продажи билетов), сидящие поверх протокола =&gt; Необходимо проверить список проверенных приложений, чтобы приложения, ложно требующие использования протокола, не могли продавать мошеннические билеты.</span></li><li><span>Параметры, которые определяют, как работает протокол, например. Сборов за создание мероприятий или сборов за отчетность.</span></li></ul><p><span>Он также используется для облегчения анонимного сопоставления покупателей и продавцов билетов на вторичном рынке. «Матчеры» подобны майнерам в Ethereum/Bitcoin и получают вознаграждение за новый AVT для выполнения вычислений. Победивший «матчер» для данного билета (например, выигравший майнер данного блока) выбирается с помощью взвешенного распределения AVT.</span></p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "10000000",
+    "Algorithm": null,
+    "ProofType": null,
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "19/07/2017",
+    "TotalCoinsMined": 10000000,
+    "Twitter": "@aventussystems",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "https://aventus.io/",
+    "GitHub": null,
+    "OnMarkets": [
+      "OKEX",
+      "EtherDelta",
+      "Gatecoin",
+      "Bitfinex",
+      "HitBTC"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Finished",
+    "Description": "<p>Aventus token sale will run for a week from the 6th to the 12th of September2017 with the aim of generating 6 million AVT tokens. During the sale, AventCoin (AVT) tokens can be purchased for Ether. AVT is the underlying token in the Aventus protocol.</p><p>There will be a constant price throughout the entire period of 128 AVT per ETH. AVT will be minted as ETH is contributed in the AVT sale, and therefore there is a hard cap total supply of AVT of 10 Million tokens, 60% of which will be sold in the AVT sale. </p><p><strong>Team</strong>:</p><ul><li><strong>Alan Vey</strong>:<strong> </strong>Director, Full Stack Engineer (alan@aventus.io) </li><li><strong>Annika Monari</strong>:<strong> </strong>Director, Full Stack Engineer <span> (</span>annika@aventus.io<span>) </span></li><li><strong>Kavon Soltani</strong>:<strong> </strong>Head of Sales <span> (</span>kavon@aventus.io<span>)</span></li><li><strong>Mario Vassiliades</strong>:<strong> </strong>UI/UX Design <span> (</span>mario@aventus.io<span>)</span></li><li><strong>Arnaud Gaboury</strong>:<strong> </strong>Head of Communications <span> (</span>arnaud@aventus.io<span>)</span></li><li><strong>Benedict Lewis</strong>:<strong> </strong>Full Stack Engineer <span> (</span>ben@aventus.io<span>)</span></li></ul><p><strong>Advisers:</strong></p><ul><li><span><strong>Prof. Will Knottenbelt</strong>: Technical Adviser - Director of the Cryptocurrency Research and Engineering Centre, Imperial College.</span></li><li><span><strong>Prof. Mike Waterson</strong>: Economic Adviser - Expert in U.K. secondary ticketing after publishing a report for the government&#39;s BIS and DCMS.</span></li><li><span><strong>Diane Bowers</strong>: Business Adviser - Director, Blue Horizon Entertainment &amp; Managing Partner, Bowers Resource Group.</span></li><li><span><strong>Ryan Lanham</strong>: Strategic Adviser - Experienced finance professional, COO at Re-Gen UK and senior adviser at Bride Valley Partners.</span></li><li><span><strong>Danny Masters</strong>: Business Adviser - Chairman of the investment manager for the first fully regulated crypto fund and other group initiatives in technology ventures.</span></li><li><span><strong>Jean-Marie Mognetti</strong>: General Adviser - Head of Trading and Operation for the first fully regulated crypto fund and other group initiatives in technology ventures.</span></li><li><span><strong>Rus Newton</strong>: General Adviser - Director of Research, Global Advisors. 20+ years early stage venture capital investor.</span></li></ul><p> </p><p><strong>Token reserve split</strong> (40%) - <a href=\"https://blog.aventus.io/aventus-a-blockchain-based-event-ticketing-solution-is-pleased-to-announce-details-about-its-9a8168ae3724\" target=\"_blank\">read the full blog post here</a></p><ul><li><strong>19.5% new user incentive</strong>: given to applications building on the protocol and successful events on the protocol over a 3-5 year period</li><li><strong>2.5% bounties</strong></li><li><strong>8% Aventus company</strong> held in <strong>perpetuity</strong> for voting right on the network</li><li><strong>10 % for advisors, corporate partners, and team</strong></li></ul><p class=\"textAlignCenter\"><img src=\"/media/1383693/aventus-token-split.png?width=400&amp;height=285\" alt=\"\" data-id=\"176120\"></p>",
+    "TokenType": "ETH (ERC20)",
+    "WebsiteLink": "https://aventus.io",
+    "FundingCap": "15M USD",
+    "FundingTarget": "6M USD",
+    "Date": 1504699200,
+    "EndDate": 1504699620,
+    "FundsRaisedList": "60,000 ETH",
+    "FundsRaisedUSD": "20199582",
+    "StartPrice": "0.0108695652",
+    "StartPriceCurrency": "ETH",
+    "Jurisdiction": "Jersey",
+    "BlogLink": "https://blog.aventus.io",
+    "WhitePaperLink": "https://aventus.io/doc/whitepaper.pdf"
+  },
+  "ccId": "138642"
+}

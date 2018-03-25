@@ -1,0 +1,56 @@
+{
+  "General": {
+    "Symbol": "eFIC",
+    "Name": "FIC Network",
+    "Description": "<p>FIC Network is an end-to-end decentralized fixed income securities network that enables the listing, exchange, and securitization of fixed income financial instruments. The Fic Network team plans to build a blockchain-based fixed income market that operate in a similiar way to the traditional financial systems while mitigating the costs, operational friction, and risks along with improved auditability and transparency.</p><p>FIC Network token (EFIC) is an utility token that will give users access to the network services.</p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "316500000",
+    "Algorithm": null,
+    "ProofType": null,
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "11/11/2017",
+    "TotalCoinsMined": null,
+    "Twitter": "@ficnetwork",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": null,
+    "GitHub": null,
+    "OnMarkets": [],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Ongoing",
+    "Description": "<p>FIC Network is an end-to-end decentralized fixed income securities network that enables the<span> </span>listing, exchange, and securitization of fixed income financial instruments. The Fic Network team plans to build a blockchain-based fixed income market that operate in a similiar way to the traditional financial systems while mitigating the costs, operational friction, and risks along<span> </span>with improved auditability and transparency.</p><p>FIC Network token (EFIC) is an utility token that will give users access to the network services.</p><p><strong>Team</strong>:</p><ul><li><strong>Arturs Ivanovs</strong>: Founder/CEO. <a href=\"https://twitter.com/iArturs\" target=\"_blank\"><img style=\"width: 13px; height: 13px;\" src=\"/media/1383932/twitter_logo_final.png?width=13&amp;height=13\" alt=\"\" data-id=\"202868\"></a> <a href=\"https://www.linkedin.com/in/iarturs/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Alvar Soosaar</strong>: Co-founder/COO.<span> </span><a href=\"https://twitter.com/ASoosaar\" target=\"_blank\"><img style=\"width: 13px; height: 13px;\" src=\"/media/1383932/twitter_logo_final.png?width=13&amp;height=13\" alt=\"\" data-id=\"202868\"></a><span> </span><a href=\"https://www.linkedin.com/in/alvar-soosaar-086b35/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Aigars Staks</strong>: Co-founder.<span> </span><a href=\"https://www.linkedin.com/in/aigarsstaks/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Kalvis Kalnins</strong>: Co-founder, Software Developer.<span> </span><a href=\"https://www.linkedin.com/in/kalvis-kalni%C5%86%C5%A1-3998a45b/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Anatoly Ressin</strong>: Temporary Head of Technology.<span> </span><a href=\"https://www.linkedin.com/in/anatolyressin/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Agnese Kerubina</strong>: Chief Scientist.</li><li><strong>Peteris Ratnieks</strong>:<span> Backend &amp; Blockchain Developer</span>.</li></ul><p>FIC Network will be holding its ICO in two phases, the Pre-sale started on the 18th of January, 2018 and is planned to end on the 13th of April,2018. The public sale is set to start on the 16th of April, 2018 and is expected to end on the 4th of May, 2018 or when the funding cap is reached. The ICO token supply represents 50% of the total token supply, so there will be a total of 16,000,000 tokens available, for 0.1 USD each during the offering. The ICO funding target is 4,000,000 USD, the funding cap is 16,000,000 USD.</p><p><strong>Token Reserve Split (50%):</strong></p><ul><li>30% Reserves (locked);</li><li>20% Team (locked);</li></ul><p><span>FIC Network ICO will feature a bonus program, and the token will not be mineable.</span></p><p><strong>Bonus Structure:</strong></p><p><strong><img src=\"https://ficnetwork.com/assets/images/schemes/en/timeline-new.jpg?width=481&amp;height=241\" alt=\"\" width=\"481\" height=\"241\"></strong></p>",
+    "TokenType": "ETH (ERC20)",
+    "WebsiteLink": "https://ficnetwork.com/#token",
+    "FundingCap": "16,000,000 USD",
+    "FundingTarget": "4,000,000 USD",
+    "Date": 1516233600,
+    "EndDate": 1525474800,
+    "FundsRaisedList": "N/A",
+    "FundsRaisedUSD": "N/A",
+    "StartPrice": "0.1",
+    "StartPriceCurrency": "USD",
+    "Jurisdiction": "U.S.A",
+    "BlogLink": "https://medium.com/@ficnetwork",
+    "WhitePaperLink": "https://drive.google.com/file/d/0ByzKCCWTHkioZzRhTThXSi0zcWM/view"
+  },
+  "ccId": "756726"
+}

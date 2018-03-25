@@ -1,0 +1,58 @@
+{
+  "General": {
+    "Symbol": "VIP",
+    "Name": "VIP Tokens",
+    "Description": "<p>VIP Tokens is a Pow/Pos Hybrid cryptocurrency that uses a combination of 5 encryption algorithms know as Nist5. VIP is designed to be an exclusive coin that will deliver high quality products to its members</p>",
+    "Features": null,
+    "Technology": "<p><span>Blocks: 0-20 : Airdrop</span><br /><span>Block: 20-100: 0 VIP</span><br /><span>Block: 100-1000: 500 VIP</span><br /><span>Block: 1000-30000: 450 VIP</span><br /><span>Block: 30000-60000: 300 VIP</span><br /><span>Block: 60000-100000: 250 VIP</span><br /><span>Block: 100000-150000: 150 VIP</span><br /><span>Block: 150000-200000: 110 VIP</span></p>",
+    "TotalCoinSupply": "90000000",
+    "Algorithm": "NIST5",
+    "ProofType": "PoW/PoS",
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "05/01/2016",
+    "TotalCoinsMined": 83450403,
+    "Twitter": "@clockcoin",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "http://viptokens.club/",
+    "GitHub": null,
+    "OnMarkets": [
+      "Yobit"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "N/A",
+    "Description": null,
+    "TokenType": null,
+    "WebsiteLink": null,
+    "FundingCap": null,
+    "FundingTarget": null,
+    "Date": null,
+    "EndDate": null,
+    "FundsRaisedList": null,
+    "FundsRaisedUSD": null,
+    "StartPrice": null,
+    "StartPriceCurrency": null,
+    "Jurisdiction": null,
+    "BlogLink": null,
+    "WhitePaperLink": null
+  },
+  "ccId": "22212"
+}

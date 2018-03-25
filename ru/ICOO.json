@@ -1,0 +1,56 @@
+{
+  "General": {
+    "Symbol": "ICOO",
+    "Name": "ICO OpenLedger",
+    "Description": "<p>ICOO wants to build a platform that allows user to invest in multiple ICO&#39;s under one account in a DAO system. OpenLedger users who participate in ICOO associated crowdsales and pledge 15 Bitcoin or more will receive badges that grant special privileges on the OpenLedger platform. Whether it is access to discounted advertising or discounted goods and services from the Decentralized Conglomerate, any user who gets a badge will get life-time privileges for the OpenLedger platform.</p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "472649",
+    "Algorithm": "N/A",
+    "ProofType": "N/A",
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "01/01/0001",
+    "TotalCoinsMined": 465952,
+    "Twitter": "icoo_io",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "https://www.icoo.io/",
+    "GitHub": null,
+    "OnMarkets": [],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Finished",
+    "Description": "<p>CCEDK will charge %1 on ICO sales. Pre-launch ICO tokens that are being sold through CCEDK but not hosted by OpenLedger will have 4% commission go toward CCEDK team for their work associated with implementing the ICO token to OpenLedger. ICOO allows the holder to vote on any expenditure The DAO could make.</p><p><span style=\"text-decoration: underline;\">Bonus</span></p><ul class=\"descp list-circle\"><li>For the first 12 days: 1000 ICOO tokens for 1 bitcoin (BTC)</li><li>For the 15 subsequent days: 925 ICOO tokens for 1 bitcoin (BTC)</li><li>For the 35 successive days: 850 ICOO tokens for 1 bitcoin (BTC)</li><li>For the last 5 days: constant 775 ICOO tokens for 1 bitcoin (BTC)</li></ul>",
+    "TokenType": "N/A",
+    "WebsiteLink": "https://www.icoo.io/",
+    "FundingCap": "50,000,000 USD",
+    "FundingTarget": "N/A",
+    "Date": 1463763600,
+    "EndDate": 1467306000,
+    "FundsRaisedList": "953 BTC",
+    "FundsRaisedUSD": "2614283",
+    "StartPrice": "5.53",
+    "StartPriceCurrency": "USD",
+    "Jurisdiction": "N/A",
+    "BlogLink": null,
+    "WhitePaperLink": null
+  },
+  "ccId": "199363"
+}

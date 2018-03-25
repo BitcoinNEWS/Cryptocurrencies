@@ -1,0 +1,56 @@
+{
+  "General": {
+    "Symbol": "CCOS",
+    "Name": "CrowdCoinage",
+    "Description": "<p><span>CrowdCoinage is a Decentralized Crowdfunding Platform for ICO Campaigns. </span><span>CrowdCoinage&#39;s goal is to provide a complete solution to start and fund a business from anywhere in the world in a decentralized environment for free.</span></p><p>CCOS is an ERC20 token serving as a currency on CrowdCoinage&#39;s platform.</p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "478571428",
+    "Algorithm": null,
+    "ProofType": null,
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "15/01/2018",
+    "TotalCoinsMined": null,
+    "Twitter": "@CrowdCoinage",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": null,
+    "GitHub": null,
+    "OnMarkets": [],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Ongoing",
+    "Description": "<p><span>CrowdCoinage is a Decentralized Crowdfunding Platform for ICO Campaigns. </span><span>CrowdCoinage&#39;s goal is to provide a complete solution to start and fund a business from anywhere in the world in a decentralized environment for free.</span></p><p>CCOS is an ERC20 token serving as a currency on CrowdCoinage&#39;s platform.</p><p><strong>Team</strong>:</p><ul><li><strong>Peep Paum:</strong> Co-Founder &amp; CEO <a href=\"https://www.facebook.com/peep.paum\" target=\"_blank\"><img style=\"width: 13px; height: 13px;\" src=\"/media/1383930/face_logo_final.png?width=13&amp;height=13\" alt=\"\" data-id=\"202866\"></a><span> </span><a href=\"https://www.linkedin.com/in/peep-paum-28479568/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Tauno Poks:</strong> Co-Founder &amp; CTO <a href=\"https://www.facebook.com/taunopoks\" target=\"_blank\"><img style=\"width: 13px; height: 13px;\" src=\"/media/1383930/face_logo_final.png?width=13&amp;height=13\" alt=\"\" data-id=\"202866\"></a><span> </span><a href=\"https://www.linkedin.com/in/tauno-poks-3520377a/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Sven Kauber:</strong> Co-Founder &amp; senior backend/blockchain developer <a href=\"https://www.facebook.com/sven.kaube\" target=\"_blank\"><img style=\"width: 13px; height: 13px;\" src=\"/media/1383930/face_logo_final.png?width=13&amp;height=13\" alt=\"\" data-id=\"202866\"></a><span> </span><a href=\"https://www.linkedin.com/in/sven-kauber-0916b725/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Silver Liiv:</strong> Co-Founder &amp; frontend developer <a href=\"https://www.facebook.com/silver.liiv.3\" target=\"_blank\"><img style=\"width: 13px; height: 13px;\" src=\"/media/1383930/face_logo_final.png?width=13&amp;height=13\" alt=\"\" data-id=\"202866\"></a> <a href=\"https://www.linkedin.com/in/silver-liiv-3b11a295/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li></ul><p><em>The CCOS Pre-sale is currently ongoing.</em> The CrowdCoinage OS ICO will start on the 12th of January and will last until the 13th of March, 2018. The ICO token allocation represents 80% of the total token supply and will be available for a <span>0.0001</span> ETH. The ICO  cap at 3,900 ETH. </p><p><strong>Token Reserve Split (20%):</strong></p><ul><li>10% - team,</li><li>5% - advisors</li><li>5% - bounties</li></ul><p>The CCOS ICO will feature a bonus and bounty campaign.</p><p><strong>Bonus Structure:</strong></p><ul><li><span class=\"number__number\">30</span>% of bonus on the first two days of Pre-Sale</li></ul>",
+    "TokenType": "ETH (ERC20)",
+    "WebsiteLink": "https://crowdcoinage.com",
+    "FundingCap": "3,900 ETH",
+    "FundingTarget": "N/A",
+    "Date": 1518426000,
+    "EndDate": 1520812800,
+    "FundsRaisedList": "Presale: 122.0043 ETH\r\nMain ICO: 9,865,848 CCOS tokens sold",
+    "FundsRaisedUSD": "757776.053184",
+    "StartPrice": "0.0001",
+    "StartPriceCurrency": "ETH",
+    "Jurisdiction": "Estonia",
+    "BlogLink": "https://blog.crowdcoinage.com ",
+    "WhitePaperLink": "https://cdn.crowdcoinage.com/static/CrowdCoinage-Whitepaper-2017-12-04.pdf"
+  },
+  "ccId": "542719"
+}

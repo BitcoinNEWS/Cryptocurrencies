@@ -1,0 +1,56 @@
+{
+  "General": {
+    "Symbol": "SMT**",
+    "Name": "Social Media Market",
+    "Description": "<p>Social Media Market is a decentralized ecosystem to discover, create, perform and analyze advertising campaigns with social media influencers across any social network. Blockchain technology will simplify incorporation between advertisers and publishers and decrease costs for all engaged parties. It will create a competitive marketplace that’s 100% safe and transparent, creating opportunities for thousands of influencers and brands all over the globe to form targeted audience exposure and engaging consumers in the most relevant way.</p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "48000000",
+    "Algorithm": null,
+    "ProofType": null,
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "19/10/2017",
+    "TotalCoinsMined": null,
+    "Twitter": "@SocialMedia_io",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": null,
+    "GitHub": null,
+    "OnMarkets": [],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Ongoing",
+    "Description": "<p><span>Social Media Market is a decentralized ecosystem to discover, create, perform and analyze advertising campaigns with social media influencers across any social network. Blockchain technology will simplify incorporation between advertisers and publishers and decrease costs for all engaged parties. It will create a competitive marketplace that’s 100% safe and transparent, creating opportunities for thousands of influencers and brands all over the globe to form targeted audience exposure and engaging consumers in the most relevant way.</span></p><p><strong>Team</strong>:</p><ul><li><strong>Dmitry Shyshov</strong>: CEO, Founder. <a href=\"https://www.linkedin.com/in/dmitryshyshov/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Alexandra Morozova</strong><span>: Co-founder, Chief Marketing Officer.</span><span> </span><a href=\"https://www.linkedin.com/in/aleksandramorozova/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Anna Koval</strong><span>: Marketing Communications Expert.</span><span> </span><a href=\"https://www.linkedin.com/in/anna-koval-2145b37b/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Viktor Perekhod</strong><span>: Business Development Manager.</span><span> </span><a href=\"https://www.linkedin.com/in/viktor-perekhod-100103b1/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Maksym Churkin</strong><span>: Tech Lead.</span><span> </span><a href=\"https://www.linkedin.com/in/maksym-churkin\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li></ul><p>Social Media Market will be dividing its token sale into two phases. The first phase will be held on the 7th of December, 2017 and is expected to end on the 21th of December, 2017. The funding target is 2,000,000 SMT, and the funding cap is 10,000,000 SMT.</p><p>The second phase will start on the 9th of February, 2018 and the end date is set for the 16th March. The <span>funding target for the second phase is 2,000,000 SMT, and the funding cap is 40,000,000 SMT. Bonuses won’t be provided for 2 Phase</span></p>",
+    "TokenType": "ETH (ERC20)",
+    "WebsiteLink": "https://socialmedia.market",
+    "FundingCap": "40,000,000 SMT",
+    "FundingTarget": "2,000,000 SMT",
+    "Date": 1518177600,
+    "EndDate": 1521201600,
+    "FundsRaisedList": "Pre-Sale: 13047.86 ETH; 17.29 BTC\r\nMain ICO: 13644.91 ETH",
+    "FundsRaisedUSD": "8938688.4",
+    "StartPrice": "0.0004",
+    "StartPriceCurrency": "ETH",
+    "Jurisdiction": "N/A",
+    "BlogLink": "https://medium.com/@SocialMedia.M",
+    "WhitePaperLink": "https://socialmedia.market/assets/pdf/SMM_White-Paper_eng.pdf"
+  },
+  "ccId": "344097"
+}

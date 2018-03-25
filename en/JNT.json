@@ -1,0 +1,60 @@
+{
+  "General": {
+    "Symbol": "JNT",
+    "Name": "Jibrel Network Token",
+    "Description": "<p><span style=\"font-weight: 400;\">Jibrel Network provides currencies, equities, commodities and other financial assets and money </span> <span style=\"font-weight: 400;\">instruments as standard ERC-20 tokens on the Ethereum blockchain.  In the medium to long-term, </span> <span style=\"font-weight: 400;\">Jibrel will focus on tokenizing debt instruments and their derivatives- thereby streamlining large </span> <span style=\"font-weight: 400;\">portions of retail investment and investment banking operations.</span></p><p><span style=\"font-weight: 400;\">Jibrel are the first protocol to allow anyone to put traditional assets such as currencies, bonds, and </span> <span style=\"font-weight: 400;\">other financial instruments on the blockchain in a form of Crypto Depository Receipts (CryDRs). </span> <span style=\"font-weight: 400;\">Our CryDRs have smart regulation built in; real-world rules and regulations are translated into </span> <span style=\"font-weight: 400;\">solidity code to ensure that while decentralized, tokenized financial assets always follow real world </span> <span style=\"font-weight: 400;\">rules and regulations.</span></p><p> </p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": null,
+    "Algorithm": null,
+    "ProofType": null,
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "26/01/2018",
+    "TotalCoinsMined": 200000000,
+    "Twitter": "www.twitter.com/jibrelnetwork/",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": null,
+    "GitHub": null,
+    "OnMarkets": [
+      "Gateio",
+      "WavesDEX",
+      "Kucoin"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Ongoing",
+    "Description": "<p><span>The Jibrel Network provides currencies, equities, commodities and other financial assets and instruments as standard ERC-20 tokens on the Ethereum blockchain. The </span><span>Jibrel Network Token (JNT) is a virtual currency used to purchase / redeem CryDRs. CryptoDepository Receipts or CryDRs are tokens representing a traditional financial asset’s value, denominated in Jibrel Network Token - JNT (e.g. a USD CryDR holds 1 dollar worth of JNT). In addition, any value exchange associated with the securitized off-chain assets are transacted using Jibrel Network Token. CryDR transfers consume small amounts of JNT in the form of jGas. Given the extreme volatility of ETH and BTC, it would be difficult to hold liabilities in fiat currency (CryDRs) while holding volatile and uncorrelated crypto-assets. Using JNT, a closed system is established allowing for the system to self-balance. </span></p><p><span>Jibrel Network Token (JNT) will be publicly traded on at least five exchanges as soon as February 1st, 2018. T</span>he minimum accepted investment is US$ 100 and the maximum investment limit is US$ 850,000. $3.2 Million has been raised in the Pre-sale.</p><p><strong>Team</strong>:</p><ul><li><strong>Yazan Barghuthi</strong><span>: Co-Founder.</span><span> </span><a href=\"https://www.linkedin.com/in/yazanbarghuthi/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><span><strong>Victor Mezrin</strong>: Technical Lead &amp; Co-Founder.</span><span> </span><a href=\"https://www.linkedin.com/in/victor-mezrin-aa823634/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><span><strong>Talal Tabbaa</strong>: Business Development Lead &amp; Co-Founder.</span><span> </span><a href=\"https://www.linkedin.com/in/talaltabbaa/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><span><strong>Hamzeh</strong> <strong>Kolaghassi</strong>: Operations.</span><span> </span><a href=\"https://www.linkedin.com/in/hamzeh-kolaghassi-61505131/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Anna Bordunova</strong><span>: PR.</span><span> </span><a href=\"https://www.linkedin.com/in/anna-bordunova-54002467/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Nick Marinin</strong><span>: Developer.</span><span> </span><a href=\"https://www.linkedin.com/in/alexey-selikhov-341473b6/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><span><strong>Ivan Violentov</strong>: Developer.</span><span> </span><a href=\"https://www.linkedin.com/in/ivanviolentov/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Rust Khusyainov</strong>: Illustrator.</li><li><strong>Evgeny Erohin: </strong>Developer</li><li><strong>Yuriy Homyakov</strong>: Developer <a href=\"https://www.linkedin.com/in/yuriy-khomyakov-5203a26a\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><span><span><strong>Aleksey Selikhov</strong>: Developer </span></span><span></span><a href=\"https://www.linkedin.com/in/alexey-selikhov-341473b6/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li></ul><p><strong>Advisors</strong>:</p><ul><li><strong>Don Tapscott</strong><span>: Strategic Advisor - <span style=\"font-weight: 400;\">CEO of Tapscott Group</span></span></li><li><span><strong>Ruslan Gavrilyuk</strong>: <span style=\"font-weight: 400;\">Crypto Finance Advisor - CEO and Founder of Taas Fund</span></span></li><li><span><strong>Stephen Murphy</strong>: <span style=\"font-weight: 400;\">Fintech Advisor - CEO of Genesis Global Tech</span></span></li><li><span style=\"font-weight: 400;\"><strong>Saul Hudson</strong>: Communications Advisor - GM at Thompson Reutors</span></li><li><span style=\"font-weight: 400;\"><strong>Dr. Moe Levin</strong>: Public Sector Advisor - CEO of Keynote</span></li><li><span style=\"font-weight: 400;\"><strong>Mohammad Al Sehli</strong>: MENA advisor - CEO and Founder of Arabian Chain</span></li><li><span style=\"font-weight: 400;\"><strong>Eddy Zuaiter</strong>: Capital Markets Advisor -  Former COO of Soros Fund</span></li></ul><p>Jibrel will be holding its ICO on the 27th of November, 2017. The ICO token supply represents 60% of the total token supply. The ICO funding cap is 30,000,000 USD and is expected to end on the 26th of January, 2018 or when the funding cap is reached.</p><p><strong>Token Reserve Split (40%):</strong></p><ul><li>15% Team;</li><li>10% Advisors;</li><li>10% Presale;</li><li>5% Bounties</li></ul>",
+    "TokenType": "ETH (ERC20)",
+    "WebsiteLink": "https://sale.jibrel.network",
+    "FundingCap": "30,000,000 USD",
+    "FundingTarget": "N/A",
+    "Date": 1511784000,
+    "EndDate": 1514376000,
+    "FundsRaisedList": "181,198,673 JNT sold.",
+    "FundsRaisedUSD": "N/A",
+    "StartPrice": "0.25",
+    "StartPriceCurrency": "USD",
+    "Jurisdiction": "Switzerland",
+    "BlogLink": "https://medium.com/@jibrelnetwork",
+    "WhitePaperLink": "https://jibrel.network/assets/white_paper/Jibrel%20Network%20-%20White%20Paper%20(2nd%20Draft).pdf"
+  },
+  "ccId": "400702"
+}

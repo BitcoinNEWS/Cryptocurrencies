@@ -1,0 +1,61 @@
+{
+  "General": {
+    "Symbol": "CMT",
+    "Name": "CometCoin",
+    "Description": "<p>CometCoin is a Proof of Work cryptocurrency created to provide ease-of-access to users new to the crypto community. CMT can be send anywhere in the world, for a small fee and almost instantly.</p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "2000000",
+    "Algorithm": "Scrypt",
+    "ProofType": "PoW",
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "06/06/2016",
+    "TotalCoinsMined": 872830,
+    "Twitter": "@cometcoin",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "https://cometcoin.com/",
+    "GitHub": null,
+    "OnMarkets": [
+      "Yobit",
+      "Cryptopia",
+      "Novaexchange",
+      "EtherDelta"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "N/A",
+    "Description": null,
+    "TokenType": null,
+    "WebsiteLink": null,
+    "FundingCap": null,
+    "FundingTarget": null,
+    "Date": null,
+    "EndDate": null,
+    "FundsRaisedList": null,
+    "FundsRaisedUSD": null,
+    "StartPrice": null,
+    "StartPriceCurrency": null,
+    "Jurisdiction": null,
+    "BlogLink": null,
+    "WhitePaperLink": null
+  },
+  "ccId": "22354"
+}

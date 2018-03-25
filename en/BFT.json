@@ -1,0 +1,56 @@
+{
+  "General": {
+    "Symbol": "BFT",
+    "Name": "BF Token (BFT)",
+    "Description": "<p>BnKToTheFuture.com is an online investment platform that allows users to invest in equity and blockchain-based tokens. The BF Token (BFT) is an ERC-20 token based on the Ethereum blockchain. It acts as a membership and rewards token to create a fairer, more transparent and efficient marketplace on BnKToTheFuture.com. </p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "1000000000",
+    "Algorithm": null,
+    "ProofType": null,
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "06/02/2018",
+    "TotalCoinsMined": null,
+    "Twitter": "@BankToTheFuture",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": null,
+    "GitHub": null,
+    "OnMarkets": [],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Upcoming",
+    "Description": "<p><span>BnKToTheFuture.com is </span><span>an</span><span> online investment platform that allows users to invest in equity and blockchain-based tokens. The</span><span> BF Token (BFT)</span><span> is an ERC-20 token based on the Ethereum blockchain. It acts as<span> </span></span><span>a membership and rewards token to<span> </span></span><span>create a fairer, more transparent and efficient marketplace on BnKToTheFuture.com. </span></p><p> </p><p><strong>Team</strong>:</p><ul><li><strong>SIMON DIXON:</strong><span><span> </span></span><span>CEO &amp; Co-Founder</span> <a href=\"https://twitter.com/SimonDixonTwitt\" target=\"_blank\"><img style=\"width: 13px; height: 13px;\" src=\"/media/1383932/twitter_logo_final.png?width=13&amp;height=13\" alt=\"\" data-id=\"202868\"></a> <a href=\"https://hk.linkedin.com/in/simondixonbankingreform\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><span><strong>BLISS DIXON:</strong><span><span> </span></span><span>COO &amp; Co-Founder</span></span><span> </span><a href=\"https://www.linkedin.com/in/bliss-dixon-17ab4417/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>AHMIDA BEGUM:</strong><span><span> </span></span><span>Investor Relations</span></li><li><strong>PAWEŁ SŁOWIK:</strong> Lead Developer</li></ul><p>The <span>BnKToTheFuture.com ICO will start on the 16th of February. The ICO token allocation represents 33% of the total supply and will be available for a $0.10 price (no bonus or discounts). The ICO funding target/cap is set at $100,000,000.</span></p><p><strong>Token Reserve Split (66%):</strong></p><ul><li>2 Year lock-in Company Tokens (30%)</li><li>Rewards Pool (20%)</li><li>1 Year lock-in Shareholders, Advisors, Founders (10%)</li><li>Token Sale costs/expenses (7%)</li></ul><p><br> <br><br></p>",
+    "TokenType": "ETH (ERC20)",
+    "WebsiteLink": "https://bnktothefuture.com/bf-token",
+    "FundingCap": "100,000,000 USD",
+    "FundingTarget": "100,000,000 USD",
+    "Date": 1518818400,
+    "EndDate": null,
+    "FundsRaisedList": "N/A",
+    "FundsRaisedUSD": "N/A",
+    "StartPrice": "0.10",
+    "StartPriceCurrency": "USD",
+    "Jurisdiction": "N/A",
+    "BlogLink": "https://bnktothefuture.com/blog",
+    "WhitePaperLink": "https://s3-eu-west-1.amazonaws.com/bf-other-assets/Brochure+80+FINAL.pdf"
+  },
+  "ccId": "710240"
+}

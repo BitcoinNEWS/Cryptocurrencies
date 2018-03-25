@@ -1,0 +1,58 @@
+{
+  "General": {
+    "Symbol": "EMT",
+    "Name": "EasyMine",
+    "Description": "<p><span></span><span>EasyMine is a cryptocurrency mining platform that provides users with the purpose of providing a simple process of setting up, expanding, and managing cryptocurrency mining hardware. The EMT token is an Ethereum-based token that acts as the sole form of payment for the easyMine services.</span></p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "33000000",
+    "Algorithm": null,
+    "ProofType": null,
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "24/08/2017",
+    "TotalCoinsMined": 10729622.510517444,
+    "Twitter": "@easymineio",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": null,
+    "GitHub": null,
+    "OnMarkets": [
+      "EtherDelta"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Ongoing",
+    "Description": "<p><span>EasyMine is a cryptocurrency mining platform that provides users with the purpose of providing a simple</span><span> process of setting up,<span> </span></span><span>expanding, and managing<span> </span></span><span>cryptocurrency mining hardware. The EMT token is an Ethereum-based token that acts as<span> </span></span><span>the </span><span>sole form of payment for the easyM</span><span>ine</span><span><span> </span>services.</span></p><p><strong>Team</strong>:</p><ul><li><strong>Łukasz Żeligowski:</strong> CEO, Founder, Software Engineer</li><li><strong>Andrzej Belczak:</strong> CFO, Founder</li><li><strong>Andrzej Buller, Ph. D.:</strong> Machine Learning Expert</li><li><strong>Witold Turzański:</strong> CTO, Lead Software Developer</li></ul><p>The EasyMine ICO began on the 24th August, 2017 and will last until the 27th of September, 2017, or until the funding cap is reached. The ICO token supply represents 81.8% of the total token supply, 33000000 EMT and the starting price is set at 0.0007 ETH each. The ICO funding cap is set at 21,300 ETH and any unsold tokens will be burn. The remaining token supply (not sold on the ICO or burnt) will be devided as so:</p><p><strong>Token Reserve Split (18.2%):</strong></p><ul><li>Pre-ICO buyer bonuses: 2,000,000 EMT (approx. 6.1%)</li><li>EasyMINE development team: 1,500,000 EMT (approx. 4.6%)</li><li>Project advisors: 500,000 EMT (approx. 1.5%)</li><li>Bounty program: 1,000,000 EMT (approx. 3.0%)</li><li>EasyMINE Corporation: 1,000,000 EMT (approx. 3.0%)</li></ul><p>The EMT token sale features a bounty and a bonus campaign:</p><p><strong>Bonus Structure:</strong></p><ul><li>Tier 1: up to 2,000,000 EMT sold 1 EMT=0.0007 ETH</li><li>Tier 2: 2,000,001–4,000,000 EMT sold 1 EMT=0.00075 ETH</li><li>Tier 3: 4,000,001–27,000,000 EMT sold 1 EMT=0.0008 ETH</li></ul>",
+    "TokenType": "ETH (ERC20)",
+    "WebsiteLink": "https://ico.easymine.io/#ico",
+    "FundingCap": "21,300 ETH",
+    "FundingTarget": "N/A",
+    "Date": 1503583200,
+    "EndDate": 1506520800,
+    "FundsRaisedList": "2765 ETH",
+    "FundsRaisedUSD": "901000",
+    "StartPrice": "0.0007",
+    "StartPriceCurrency": "ETH",
+    "Jurisdiction": "N/A",
+    "BlogLink": null,
+    "WhitePaperLink": "https://ico.easymine.io/easyMINE_Whitepaper.pdf"
+  },
+  "ccId": "247322"
+}

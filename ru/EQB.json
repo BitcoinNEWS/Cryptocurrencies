@@ -1,0 +1,56 @@
+{
+  "General": {
+    "Symbol": "EQB",
+    "Name": "Equibit",
+    "Description": "<p><span>Equibit is a peer-to-peer network for creating and transferring equity. This allows issuers and investors anywhere to instantly transfer title to equity units called ‘Equibits’ without any reliance on a transfer agent, and at practically no cost.</span></p><p><span> With the use of Equibits issuers can restrict their units to prevent transfers of their equity to unauthorized parties.</span></p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "1000000",
+    "Algorithm": "N/A",
+    "ProofType": "N/A",
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "17/11/2016",
+    "TotalCoinsMined": null,
+    "Twitter": "@equibit",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "https://equibitgroup.com/",
+    "GitHub": null,
+    "OnMarkets": [],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Finished",
+    "Description": "<p><span>Equibit is a peer-to-peer network for creating and transferring equity. This allows issuers and investors anywhere to instantly transfer title to equity units called ‘Equibits’ without any reliance on a transfer agent, and at practically no cost.</span></p><p><strong>Team</strong>:</p><ul><li><strong>Chris Horlancher</strong>: Chief Executive Officer. (<a href=\"https://ca.linkedin.com/in/chrishorlacher\" target=\"_blank\">LinkedIn</a>, <a href=\"https://www.facebook.com/chris.e.horlacher\" target=\"_blank\">Facebook</a>);</li><li><strong>Brent Kievit-Kylar</strong>: <span>Chief Science Officer</span>. (<span><a href=\"https://www.linkedin.com/in/bkievitk\" target=\"_blank\">LinkedIn</a>, <a href=\"https://twitter.com/bkievitk\" target=\"_blank\">Twitter</a>, <a href=\"https://www.facebook.com/iamsqrt1\" target=\"_blank\">Facebook</a></span>);</li><li><strong>Marc Godard</strong>: <span>Chief Technology </span><span>O</span><span>fficer</span>. (<span><a href=\"https://ca.linkedin.com/in/marc-godard-4821a373\" target=\"_blank\">LinkedIn</a>, <a href=\"https://twitter.com/MarcGodard\" target=\"_blank\">Twitter</a>, <a href=\"https://www.facebook.com/mgodard3\" target=\"_blank\">Facebook</a></span>);</li><li><strong>Nathan Wosnack</strong><span>: Chief Operations <span>O</span><span>fficer</span>. (</span><span><a href=\"https://ca.linkedin.com/in/nathan-d-wosnack-208961104\" target=\"_blank\">LinkedIn</a>, <a href=\"https://twitter.com/nathanwosnack\" target=\"_blank\">Twitter</a>, <a href=\"https://www.facebook.com/nathandwosnack\" target=\"_blank\">Facebook</a></span><span>);</span></li><li><span><strong>Christian Saucier</strong><span>: Development Director. (</span><span><a href=\"https://www.linkedin.com/profile/view?id=ADEAAAACK08BXEC6KjExsIGpZJcJwCjFyqh6yyU\" target=\"_blank\">LinkedIn</a>, <a href=\"https://twitter.com/saucier_p2p\" target=\"_blank\">Twitter</a></span><span>);</span></span></li></ul><p><span>Equibit </span><span>will be holding its ICO on February 01, 2017. There will be a total of 1,000,000 coins available for $2 USD each at the offering. The ICO is expected to end on March 31, 2017.</span></p><p><span>Equibit </span>ICO campaign will feature the following bonus structure.</p><p><strong>Bonus Structure:</strong></p><p><img src=\"/media/1383818/eqb_bonus.png?width=500&amp;height=134.12698412698413\" alt=\"EQB_Bonus\" data-id=\"188315\"></p>",
+    "TokenType": "N/A",
+    "WebsiteLink": "https://ico.equibitgroup.com/",
+    "FundingCap": "6690000 USD",
+    "FundingTarget": "N/A",
+    "Date": 1485907200,
+    "EndDate": 1491004799,
+    "FundsRaisedList": "397.615313 BTC; 136,234 USD",
+    "FundsRaisedUSD": "1225490",
+    "StartPrice": "2",
+    "StartPriceCurrency": "USD",
+    "Jurisdiction": "N/A",
+    "BlogLink": "http://equibit.org/news/",
+    "WhitePaperLink": "http://equibit.org/assets/whitepaper/equibit.pdf"
+  },
+  "ccId": "188300"
+}

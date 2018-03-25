@@ -1,0 +1,56 @@
+{
+  "General": {
+    "Symbol": "WYR",
+    "Name": "Wyrify",
+    "Description": "<p><span>Wyrify is a contactless mobile payments solution leveraging blockchain tecnhnology. WYR is an Ethereum-based ERC 20 token. </span><span>30 % of the profits from the use of the system over the first five calendar years will be paid out as dividends to token holders.</span></p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "200000000",
+    "Algorithm": null,
+    "ProofType": null,
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "02/10/2017",
+    "TotalCoinsMined": 200000000,
+    "Twitter": "@wyrify",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": null,
+    "GitHub": null,
+    "OnMarkets": [],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Ongoing",
+    "Description": "<p><span>Wyrify is a contactless mobile payments solution leveraging blockchain tecnhnology. WYR is an Ethereum-based ERC 20 token. </span><span>30 % of the profits from the use of the system over the first five calendar years will be paid out as dividends to token holders. </span></p><p>Any tokens not sold during the ICO will be retained by the company for other purposes, like bonuses campaigns and developer fess. However, these tokens are not intended to be sold in the market by the company.</p><p> </p><p> </p><p><strong>Team</strong>:</p><ul><li><strong>Henrik Onarheim</strong>: Operational Director.</li><li><strong>Kenneth Olin</strong>: Platform Director.</li><li><strong>Anthony Norman</strong>: CEO.</li><li><strong>Thomas Wong</strong>: Chief Cryptology Officer.</li><li><strong>Jan Vidar Hugsted</strong>: CFO.</li><li><strong>Ivan Nenov</strong>: Wyrify Support/Logistics.</li></ul><p> </p><p> </p>",
+    "TokenType": "ETH (ERC20)",
+    "WebsiteLink": null,
+    "FundingCap": "200,000,000 USD",
+    "FundingTarget": "N/A",
+    "Date": 1508022000,
+    "EndDate": 1509235140,
+    "FundsRaisedList": "N/A",
+    "FundsRaisedUSD": "N/A",
+    "StartPrice": "1",
+    "StartPriceCurrency": "USD",
+    "Jurisdiction": "N/A",
+    "BlogLink": "https://medium.com/@wyrify",
+    "WhitePaperLink": "http://www.wyrify.com/Wyrify_ICO_Whitepaper_2017.pdf"
+  },
+  "ccId": "350395"
+}

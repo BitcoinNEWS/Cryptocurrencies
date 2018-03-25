@@ -1,0 +1,61 @@
+{
+  "General": {
+    "Symbol": "ZCL",
+    "Name": "ZClassic",
+    "Description": "<p>ZClassic is a cryptocurrency forked from Zcash. It has the exact same features as ZEC, including its private transactions protected by zero knowledge proofs and its Equihash Proof of Stake mining, but with no founder&#39;s reward. This founder&#39;s reward is currently deducted from mined zcash blocks (20% of all block rewards during the first four years of mining which will amount to 10% of the total zcash supply). By removing this founder&#39;s reward ZClassic wants to make mining fair for everyone involved.</p><p><span>Block explorer data from <a href=\"https://classic.zcha.in/\" target=\"_blank\">https://classic.zcha.in/</a></span></p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "21000000",
+    "Algorithm": "Equihash",
+    "ProofType": "PoW",
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "06/11/2016",
+    "TotalCoinsMined": 3592850,
+    "Twitter": "@ZclassicCoin",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "http://zclassic.org/",
+    "GitHub": null,
+    "OnMarkets": [
+      "TradeSatoshi",
+      "BitTrex",
+      "Cryptopia",
+      "CCEX"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "N/A",
+    "Description": null,
+    "TokenType": null,
+    "WebsiteLink": null,
+    "FundingCap": null,
+    "FundingTarget": null,
+    "Date": null,
+    "EndDate": null,
+    "FundsRaisedList": null,
+    "FundsRaisedUSD": null,
+    "StartPrice": null,
+    "StartPriceCurrency": null,
+    "Jurisdiction": null,
+    "BlogLink": null,
+    "WhitePaperLink": null
+  },
+  "ccId": "32544"
+}

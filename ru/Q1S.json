@@ -1,0 +1,56 @@
+{
+  "General": {
+    "Symbol": "Q1S",
+    "Name": "Quantum1Net",
+    "Description": "<p><span>Quantum1Net has developed a prototype quantum encryption key generator(QEKG) that utilizes quantum entanglement to generate truly random keys making our encryption immune to any cryptanalysis, quantum powered or not. Quantum1Net will guarantee the survival of the blockchain as a concept in the future as well as protecting privacy in a post-quantum world. The Q1S token is based on the Ethereum blockchain and is aimed to raise the capital needed to develop our QEKG prototype into a product that will eventually form a network of quantum safe communication channels</span></p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "30000000",
+    "Algorithm": null,
+    "ProofType": null,
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "02/02/2018",
+    "TotalCoinsMined": null,
+    "Twitter": "@quantum1net",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": null,
+    "GitHub": null,
+    "OnMarkets": [],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Ongoing",
+    "Description": "<p><span>Quantum1Net has developed a prototype quantum encryption key generator(QEKG) that utilizes quantum entanglement to generate truly random keys making our encryption immune to any cryptanalysis, quantum powered or not. Quantum1Net will guarantee the survival of the blockchain as a concept in the future as well as protecting privacy in a post-quantum world.</span><span> The Q1S<span> </span></span><span>token is based on the Ethereum blockchain and is aimed to raise the capital needed to develop our QEKG prototype into a product that will eventually form a network of quantum safe communication channels.</span></p><p><strong>Team</strong>:</p><ul><li><strong>Mattias Bergstorm:</strong> CEO</li><li><strong>Stan Miasnikov:</strong> CTO</li><li><strong>Ruth Carrillo:</strong> COO</li><li><strong>Thomas Olofsson:</strong> Security Lead</li></ul><p>The Quantum1Net ICO began on the 2nd of February 2018. The ICO token allocation represents 94% of the total supply and will be available for a 0.001 ETH starting price. The ICO funding target is set at 15000000 EUR.</p><p><strong>Token Reserve Split (6%): </strong></p><ul><li><span>3% for team, </span></li><li><span>3% for bounty campaign </span></li></ul><p>The Q1S ICO will feature a bonus and bounty campaign as well as an Escrow agent.</p>",
+    "TokenType": "ETH (ERC20)",
+    "WebsiteLink": "http://ico.quantum1net.com",
+    "FundingCap": "N/A",
+    "FundingTarget": "15000000 EUR",
+    "Date": 1517529600,
+    "EndDate": 1520553600,
+    "FundsRaisedList": "N/A",
+    "FundsRaisedUSD": "N/A",
+    "StartPrice": "0.001",
+    "StartPriceCurrency": "ETH",
+    "Jurisdiction": "Estonia",
+    "BlogLink": "https://medium.com/@quantum1net",
+    "WhitePaperLink": null
+  },
+  "ccId": "740271"
+}

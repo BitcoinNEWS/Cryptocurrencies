@@ -1,0 +1,62 @@
+{
+  "General": {
+    "Symbol": "PXI",
+    "Name": "Prime-X1",
+    "Description": "<p>Prime-X1, or PXI, is an X11 based alternative crypto currency released in July 2014. The coin supply is infinite with block time of 25 seconds and 5 PXI issued per block. The difficult adjustment operates of the Dark Gravity Wave v3. There were 30,000 PXI premined to fund further development.</p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": null,
+    "Algorithm": "X11",
+    "ProofType": "PoW",
+    "BlockReward": 5,
+    "Explorer": null,
+    "StartDate": "20/07/2014",
+    "TotalCoinsMined": 19637259.949,
+    "Twitter": "@OfficialPXI",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "http://prime-xi.com/",
+    "GitHub": null,
+    "OnMarkets": [
+      "Yobit",
+      "Cryptopia",
+      "Novaexchange",
+      "CCEX",
+      "BitTrex"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "N/A",
+    "Description": null,
+    "TokenType": null,
+    "WebsiteLink": null,
+    "FundingCap": null,
+    "FundingTarget": null,
+    "Date": null,
+    "EndDate": null,
+    "FundsRaisedList": null,
+    "FundsRaisedUSD": null,
+    "StartPrice": null,
+    "StartPriceCurrency": null,
+    "Jurisdiction": null,
+    "BlogLink": null,
+    "WhitePaperLink": null
+  },
+  "ccId": "15274"
+}

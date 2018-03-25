@@ -1,0 +1,56 @@
+{
+  "General": {
+    "Symbol": "AVA",
+    "Name": "Avalon",
+    "Description": "<p>Avalon is a premier members-only platform, and a GPO (group purchasing organization) that represents the cryptocurrency consumer-base and its purchasing power. The Avalon Platform will allow members to realize discounts on goods and services they purchase, as well as the opportunity to earn tokens by participating in promotions, scanning proof of purchases, playing games, utilizing p2p smart contracts and so much more.</p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "10000000",
+    "Algorithm": null,
+    "ProofType": null,
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "04/08/2017",
+    "TotalCoinsMined": null,
+    "Twitter": "@Avalonplatform",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": null,
+    "GitHub": null,
+    "OnMarkets": [],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Ongoing",
+    "Description": "<p><span>Avalon is a premier members-only platform, and a GPO (group purchasing organization) that represents the cryptocurrency consumer-base and its purchasing power. The Avalon Platform will allow members to realize discounts on goods and services they purchase, as well as the opportunity to earn tokens by participating in promotions, scanning proof of purchases, playing games, utilizing p2p smart contracts and so much more.</span></p><p><strong>Team</strong>:</p><ul><li><strong>Jean-Paul Vasilières</strong>: Co-founder, Lead Developer &amp; Ethereum Architect. <a href=\"https://www.linkedin.com/in/jean-paul-vasili%C3%A8res-ba3660145/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Colin Hayes</strong>: Co-founder &amp; Head Project Manager.<span> </span><a href=\"https://www.linkedin.com/in/colinrhayes/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Alex Griffin</strong>: <span>Co-founder &amp; Head of Design</span>.<span> </span><a href=\"https://www.linkedin.com/in/alex-griffin-a2716a68/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Nathan Simich</strong><span>: Co-Founder, Head Of Media &amp; Marketing.</span><span> </span><a href=\"https://www.linkedin.com/in/nathan-simich-68b8ba133/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Lachlan Greenbank</strong><span>: Core Developer.</span><span> </span><a href=\"https://www.linkedin.com/in/lachlan-g-99185789/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Alec Gutman</strong><span>: Chief of Strategic Partnerships.</span><span> </span><a href=\"https://www.linkedin.com/in/alec-gutman-67a17058/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Andrew Rangel</strong><span>: Mobile Development &amp; Strategic Partnerships.</span><span> </span><a href=\"https://www.linkedin.com/in/andrewjrangel/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Ventura Rangel</strong><span>: Marketing Strategist.</span><span> </span><a href=\"https://www.linkedin.com/in/venturalrangel/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Jared Miller</strong><span>: Treasurer &amp; Financial Markets Expert.</span><span> </span><a href=\"https://www.linkedin.com/in/jaredrmiller1/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Kristen Whelahan</strong><span>: Editor &amp; Copywriter.</span><span> </span><a href=\"https://www.linkedin.com/in/kristen-whelahan-14429045/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li></ul><p>Avalon ICO began on August 25, 2017. The ICO token supply represents 87% of the total token supply, so there is a total of 8,700,000 tokens available, for USD $1.10 each at the offering. The ICO is expected to end on September 15, 2017.</p><p><strong>Token Reserve Split (13%):</strong></p><ul><li>13% Developers Team;</li></ul>",
+    "TokenType": "ETH (ERC20)",
+    "WebsiteLink": "https://www.tokenlot.com/crowdsale/avalon/",
+    "FundingCap": "N/A",
+    "FundingTarget": "N/A",
+    "Date": 1503619200,
+    "EndDate": 1505433600,
+    "FundsRaisedList": "1,133 ETH",
+    "FundsRaisedUSD": "447379",
+    "StartPrice": "1.10",
+    "StartPriceCurrency": "USD",
+    "Jurisdiction": "N/A",
+    "BlogLink": "https://medium.com/avalon-platform",
+    "WhitePaperLink": "https://avalon.nu/whitepaper/"
+  },
+  "ccId": "248300"
+}

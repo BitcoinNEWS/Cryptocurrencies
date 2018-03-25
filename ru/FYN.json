@@ -1,0 +1,59 @@
+{
+  "General": {
+    "Symbol": "FYN",
+    "Name": "FundYourselfNow",
+    "Description": "<p>FundYourselfNow is a crowdfunding platform that <span>allows project creators to request for project help, funding and reward backers through the use of Ethereum smart contracts. FundYourselNow allows non-technical project creators to successfully seek funding for their projects. FYN is an Ethereum-based token that allows users<span> </span><span>to invest in projects listed on our FYN platform.</span> <span>70% of the profits made from FYN platform will be distributed to investors, via a token buyback program.</span></span></p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "12500000",
+    "Algorithm": "N/A",
+    "ProofType": "N/A",
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "13/05/2017",
+    "TotalCoinsMined": 12500000,
+    "Twitter": "@fundyourselfnow",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "https://www.fundyourselfnow.com",
+    "GitHub": null,
+    "OnMarkets": [
+      "EtherDelta",
+      "HitBTC"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Finished",
+    "Description": "<p><span>FundYourselfNow is a crowdfunding platform that </span><span>allows project creators to request for project help, funding and reward backers through the use of Ethereum smart contracts. FundYourselNow allows non-technical project creators to successfully seek funding for their projects.<span> </span>FYN is an Ethereum-based token that allows users<span><span> </span></span><span>to invest in projects listed on our FYN platform.</span><span> </span><span>70% of the profits made from FYN platform will be distributed to investors, via a token buyback program.</span></span></p><p><strong>Team</strong>:</p><ul><li><strong>Jack Ser</strong>: Founder.</li><li><strong>Kenneth Tan</strong>: COO, Co-Founder.</li><li><strong>Zheng Junyi</strong>: Core Ethereum &amp; Smart Contract Developer.</li><li><strong>Gary Bhatti</strong>: Solution Architect.</li><li><strong>Charlene Bautista</strong>: UI/UX Designer.</li><li><strong>Santejudean Bogdan</strong>: Business Development Manager.</li></ul><p><span>FundYouselfNow will hold its ICO from the 13th of June until the 31st of July.  During this time, 60% of the total 12500000 FYN supply will be sold for a starting price of 0.00833 ETH. The remaining supply will be allocated as so:</span></p><p><strong>Token Reserve Split (40%):</strong></p><ul><li>20% <span>Founders &amp; Employees</span>;</li><li>12% Advisors, Supporters &amp; Bounty;</li><li>08% Reserve Fund;</li></ul><p><span class=\"rte-image-full\"><img src=\"https://www.fundyourselfnow.com/wp-content/uploads/2017/06/crowdsale-pie2.jpg?width=509&amp;height=300\" alt=\"\" width=\"509\" height=\"300\" /></span></p><p><span> The campaign has a minimum funding goal of $1.5 million.</span></p>",
+    "TokenType": "ETH (ERC20)",
+    "WebsiteLink": "https://www.fundyourselfnow.com/#",
+    "FundingCap": "N/A",
+    "FundingTarget": "1500000 USD",
+    "Date": 1497313361,
+    "EndDate": 1501495200,
+    "FundsRaisedList": "5666.47 ETH",
+    "FundsRaisedUSD": "1151340.09",
+    "StartPrice": "0.00833333333",
+    "StartPriceCurrency": "ETH",
+    "Jurisdiction": "N/A",
+    "BlogLink": "http://www.fundyourselfnow.com/blog/",
+    "WhitePaperLink": "https://www.fundyourselfnow.com/wp-content/uploads/2017/04/FYN-Business_Outline-2017.pdf"
+  },
+  "ccId": "180820"
+}

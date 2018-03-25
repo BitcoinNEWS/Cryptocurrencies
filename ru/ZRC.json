@@ -1,0 +1,62 @@
+{
+  "General": {
+    "Symbol": "ZRC",
+    "Name": "ZiftrCoin",
+    "Description": "<p>ziftrCOIN (ZRC) is a decentralised, open-source cryptocurrency forked from Bitcoin and launched in February 2015. It is developed by Ziftr, a US-based company that offers various e-commerce solutions, such as a browser add-on and mobile applications. The company&#39;s goal is to enable consumers to conduct simple, secure transactions, using ziftrCOINs (as well as several other cryptocurrencies), at their favorite retailers. </p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "4988894",
+    "Algorithm": null,
+    "ProofType": null,
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "12/06/2014",
+    "TotalCoinsMined": null,
+    "Twitter": "@ziftrCOIN",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "https://www.ziftrcoin.com/",
+    "GitHub": null,
+    "OnMarkets": [
+      "HitBTC",
+      "Yobit",
+      "Tidex",
+      "WavesDEX",
+      "Cryptsy"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Finished",
+    "Description": "<p><span>ZrCoin (ZRC) is a Waves-based asset and it</span><span> represents one Kg </span><span>of Synth. ZrО2. </span><span>An Initial Coin Offering took place to fund the production and distribution of the material. The token will then be purchased at the market value of<span> </span></span><span>Zirconium Dioxide (ZrO2).</span><span> </span><span>Investors will also be able to exchange their ZrCoins for the company’s stock if the company is eligible for IPO or to exchange it for BTC, fiat or other cryptos in independent exchanges that wish to list ZrCoin.</span></p><p><span>During the ZrCoin ICO campaign, investors were to purchase ZRC with various cryptocurrencies and fiat currencies. The ICO was held from 11 May to 9 June 2017 and gathered roughly $7,000,000. The ICO started with a bonus of 6.66%. </span></p><p>The buy back of ZrCoin tokens will be made via the ZrCoin website. Token repurchase value increases at a rate of 5.5% per month.Repurchasing is expected to begin one month after production is launched, around eight months after the ICO ends. The amount of funds spent on repurchases will exceed 400,000 USD per month.</p>",
+    "TokenType": "WAVES",
+    "WebsiteLink": "https://zrcoin.io/",
+    "FundingCap": "7,000,000 USD",
+    "FundingTarget": "3,500,000 USD",
+    "Date": 1494504000,
+    "EndDate": 1497009600,
+    "FundsRaisedList": "838903 USD; 950 BTC; 670290 WAVES; 12373 LTC; 7407 ETH; 27973 ETC",
+    "FundsRaisedUSD": "7070000",
+    "StartPrice": "1.40",
+    "StartPriceCurrency": "USD",
+    "Jurisdiction": "N/A",
+    "BlogLink": "https://zrcoin.io/ablogs",
+    "WhitePaperLink": "https://zrcoin.io/files/Whitepaper_ENG.pdf"
+  },
+  "ccId": "5037"
+}

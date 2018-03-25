@@ -1,0 +1,56 @@
+{
+  "General": {
+    "Symbol": "JCR",
+    "Name": "Jincor",
+    "Description": "<p>Jincor is a compliant  platform that will allow any business to work with smart contracts and cryptocurrency payments easily with no legal, technical or operational complications and in a cost-efficient manner. With Jincor, managers and employees will be able to execute cryptocurrency transactions in a fully transparent way and meeting all the compliance requirements, as well as to carry out any corporate relations by creating smart contracts, which will be written to a private blockchain based on Hyperledger technologies. Jincor (JCR) is an ERC20 token based on the Ethereum blockchain. It&#39;s the only means of payment for Jincor&#39;s services.</p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "35000000",
+    "Algorithm": null,
+    "ProofType": null,
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "21/07/2017",
+    "TotalCoinsMined": null,
+    "Twitter": "@jincor_ico",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": null,
+    "GitHub": null,
+    "OnMarkets": [],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Ongoing",
+    "Description": "<p><span>Jincor is a compliant  platform that will allow any business to work with smart contracts and cryptocurrency payments easily with no legal, technical or operational complications and in a cost-efficient manner. With Jincor, managers and employees will be able to execute cryptocurrency transactions in a fully transparent way and meeting all the compliance requirements, as well as to carry out any corporate relations by creating smart contracts, which will be written to a private blockchain based on Hyperledger technologies. </span><span>Jincor (JCR) is an ERC20 token based on the Ethereum blockchain. It&#39;s the only means of payment for Jincor&#39;s services.</span></p><p><strong>Team</strong>:</p><ul><li><strong>Vlad Kirichenko:</strong> CEO &amp; Co-Founder <a href=\"https://www.facebook.com/vladislkr/\" target=\"_blank\"><img style=\"width: 13px; height: 13px;\" src=\"/media/1383930/face_logo_final.png?width=13&amp;height=13\" alt=\"\" data-id=\"202866\"></a><span> </span><a href=\"https://www.linkedin.com/in/vladislav-kirichenko-800a99a3\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Vagan Abelyan:</strong> COO &amp; Co-Founder <a href=\"https://www.facebook.com/abelyan.v/\" target=\"_blank\"><img style=\"width: 13px; height: 13px;\" src=\"/media/1383930/face_logo_final.png?width=13&amp;height=13\" alt=\"\" data-id=\"202866\"></a><span> </span><a href=\"https://www.linkedin.com/in/vaganabelyan/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Andrey Degtyaruk:</strong> CTO &amp; Blockchain Expert <a href=\"https://www.linkedin.com/in/degtyaruk-andrey-44042746/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li></ul><p>The Jincor ICO will start on the 1st of December and will end on the 31st of January, 2018. The ICO token allocation represents 76% of the total supply (pre-sale was 4%) and will be available for a $1 equvialent price in Ether. The funding target for Jincor is $2.5M and the cap is $26.6M</p><p><strong>Token Reserve Split (26%):</strong></p><ul><li>4% pre-ICO,</li><li>8% bounty and advisers,</li><li>12% Jincor team</li></ul><p>The Jincor ICO features a bounty campaign.</p>",
+    "TokenType": "ETH (ERC20)",
+    "WebsiteLink": "https://jincor.com",
+    "FundingCap": "26,000,000 USD",
+    "FundingTarget": "2,500,000 USD",
+    "Date": 1512086400,
+    "EndDate": 1517356800,
+    "FundsRaisedList": "12,241 JCR sold.",
+    "FundsRaisedUSD": "N/A",
+    "StartPrice": "1",
+    "StartPriceCurrency": "USD",
+    "Jurisdiction": "Switzerland",
+    "BlogLink": "https://blog.jincor.com",
+    "WhitePaperLink": "https://jincor.com/en/whitepaper"
+  },
+  "ccId": "364747"
+}

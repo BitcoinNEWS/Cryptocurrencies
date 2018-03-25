@@ -1,0 +1,58 @@
+{
+  "General": {
+    "Symbol": "FDX",
+    "Name": "fidentiaX",
+    "Description": "<p><span>fidentiaX is a marketplace for tradable insurance policies. Their vision is to create a trading marketplace and repository of insurance policies for the masses by leveraging blockchain technology.</span><span>The fidentiaX token (FDX) is a ERC20 token based on the Ethereum Network.</span></p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "130000000",
+    "Algorithm": null,
+    "ProofType": "PoS",
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "16/10/2017",
+    "TotalCoinsMined": 105000000,
+    "Twitter": "@fidentiaX",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": null,
+    "GitHub": null,
+    "OnMarkets": [
+      "EtherDelta"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Finished",
+    "Description": "<p><span>fidentiaX is a marketplace for tradable insurance policies. Their vision is to create a trading marketplace and repository of insurance policies for the masses by leveraging blockchain technology.</span><span>The fidentiaX token (FDX) is a ERC20 token based on the Ethereum Network.</span></p>",
+    "TokenType": "ETH (ERC20)",
+    "WebsiteLink": null,
+    "FundingCap": " 2,900,000 USD",
+    "FundingTarget": "N/A",
+    "Date": 1509926400,
+    "EndDate": 1512432000,
+    "FundsRaisedList": "N/A",
+    "FundsRaisedUSD": "1566283",
+    "StartPrice": "N/A",
+    "StartPriceCurrency": "N/A",
+    "Jurisdiction": "N/A",
+    "BlogLink": "https://medium.com/@fidentiaX/",
+    "WhitePaperLink": "https://static1.squarespace.com/static/5a716e92d0e628621e81c8c0/t/5a72794ce2c483babadb69ef/1517451624194/fidentiax_whitepaper_v4.2.pdf"
+  },
+  "ccId": "777557"
+}

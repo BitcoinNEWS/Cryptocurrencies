@@ -1,0 +1,63 @@
+{
+  "General": {
+    "Symbol": "KEY",
+    "Name": "KeyCoin",
+    "Description": "<p>KeyCoin is an X13 crypto currency that switches from a proof of work distribution phase to a proof of stake annualised to 20%. The block time is targettred to 1 minute.</p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "6000000000",
+    "Algorithm": null,
+    "ProofType": null,
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "15/07/2014",
+    "TotalCoinsMined": 5999999954.464072,
+    "Twitter": "@KeyCoinTeam",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "-",
+    "GitHub": null,
+    "OnMarkets": [
+      "Tidex",
+      "Cryptsy",
+      "OKEX",
+      "Gatecoin",
+      "Kucoin",
+      "BitTrex"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Finished",
+    "Description": "<p><span>SelfKey is a blockchain based digital identity system with an integrated financial services marketplace, designed to put identity owners in control of their personal data, and to allow them to request identity claims attestations and instantly apply for passports, residency and financial services in a safe, secure manner.</span></p><p><strong>Team</strong>:</p><ul><li><strong>Edmund John Lowell</strong>: Founder.<a href=\"https://www.linkedin.com/in/Edmund-Lowell/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Joonas Ruotsalainen</strong>: Technical Leader.<span> </span><a href=\"https://www.linkedin.com/in/joonasruotsalainen/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Giorgi Maisuradze</strong>: <span style=\"font-weight: 400;\">Technical Leader</span>.<a href=\"https://www.linkedin.com/in/giorgi-maisuradze-a71a0959/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><span><strong>Andre Goncalves</strong>: <span style=\"font-weight: 400;\">Technical Leader</span>. <a href=\"https://www.linkedin.com/in/andrecgoncalves/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></span></li></ul><p><strong>The Selfkey presale will take place from <span data-mce-new=\"true\">15 Dec to 24 Dec.</span></strong></p><p>SelfKey will be holding its ICO on the 14th of January, 2017. The ICO token supply represents 33% of the total token supply, so there will be a total of <span>1,980,000,000 </span>tokens available, for 0.015 USD each during the offering. The ICO funding target is 2,500,000 USD, the funding cap is 2<span>1,780,000 </span>USD and is expected to end on the 31st of January, 2017 or when the funding cap is reached.</p><p><strong>Token Reserve Split (67%):</strong></p><ul><li>33% SelfKey Foundation - Staff and Business costs;</li><li>33% SelfKey Foundation - Support and build the SelfKey Network;</li><li>1% <span style=\"font-weight: 400;\">Legal costs;</span></li></ul><p><span>The selfkey token will not be mineable.</span></p><p> </p>",
+    "TokenType": "ETH (ERC20)",
+    "WebsiteLink": "https://token.selfkey.org",
+    "FundingCap": "21,780,000 USD",
+    "FundingTarget": "2,500,000 USD",
+    "Date": 1515888000,
+    "EndDate": 1515974400,
+    "FundsRaisedList": "Pre-ICO: 15,840,000  USD\r\nMain ICO: 5,940,000 USD",
+    "FundsRaisedUSD": "21780000",
+    "StartPrice": "0.015",
+    "StartPriceCurrency": "USD",
+    "Jurisdiction": "N/A",
+    "BlogLink": "https://blog.selfkey.org/",
+    "WhitePaperLink": "https://selfkey.org/whitepaper"
+  },
+  "ccId": "4546"
+}

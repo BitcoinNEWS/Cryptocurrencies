@@ -1,0 +1,63 @@
+{
+  "General": {
+    "Symbol": "TAG",
+    "Name": "TagCoin",
+    "Description": "<p>TagCoin is a startup making a few changes in the membership and rewards sector. TagCoin will be the primary currency used within Tagbond and TagCash. Developers designed TagCoin to have universal worldwide rewards currency. </p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "1000000",
+    "Algorithm": "Scrypt",
+    "ProofType": "PoW/PoS",
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "27/10/2013",
+    "TotalCoinsMined": null,
+    "Twitter": "@TagCoin",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "http://www.tagcoin.org/",
+    "GitHub": null,
+    "OnMarkets": [
+      "Yobit",
+      "Novaexchange",
+      "BTER",
+      "Coinse",
+      "BTC38",
+      "Cryptsy"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "N/A",
+    "Description": null,
+    "TokenType": null,
+    "WebsiteLink": null,
+    "FundingCap": null,
+    "FundingTarget": null,
+    "Date": null,
+    "EndDate": null,
+    "FundsRaisedList": null,
+    "FundsRaisedUSD": null,
+    "StartPrice": null,
+    "StartPriceCurrency": null,
+    "Jurisdiction": null,
+    "BlogLink": null,
+    "WhitePaperLink": null
+  },
+  "ccId": "4619"
+}

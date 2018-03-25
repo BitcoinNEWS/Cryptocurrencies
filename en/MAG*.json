@@ -1,0 +1,56 @@
+{
+  "General": {
+    "Symbol": "MAG*",
+    "Name": "Magos",
+    "Description": "<p>Magos is a forecasting model based on a system of neural networks. Each network performs a specific task, and their collaboration produces a forecast. The backbone of Magos is its modular architecture. It allows<span> </span><span>Magos </span>to develop and implement individual forecasting modules, targeting different kinds of forecasting domains.</p><p>MAGOS fund is the core element of the project. Is applies the forecasting model to multiple platforms, and transfers the profits to a smart contract for a further distribution between the token holders.</p><p>Finally, MAGOS token (MAG) performs two types of functions in the system: it allows holders to receive dividends from all fund operations, and gives them voting rights in project&#39;s development through a voting mechanism on the blockchain.</p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "50123377",
+    "Algorithm": null,
+    "ProofType": null,
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "14/08/2017",
+    "TotalCoinsMined": null,
+    "Twitter": "@MagosNetwork",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": null,
+    "GitHub": null,
+    "OnMarkets": [],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Ongoing",
+    "Description": "<p>Magos is a forecasting model based on a system of neural networks. Each network performs a specific task, and their collaboration produces a forecast. The backbone of Magos is its modular architecture. It allows <span>Magos </span>to develop and implement individual forecasting modules, targeting different kinds of forecasting domains.</p><p>MAGOS fund is the core element of the project. Is applies the forecasting model to multiple platforms, and transfers the profits to a smart contract for a further distribution between the token holders.</p><p>Finally, MAGOS token (MAG) performs two types of functions in the system: it allows holders to receive dividends from all fund operations, and gives them voting rights in project&#39;s development through a voting mechanism on the blockchain.</p><p><strong>Team</strong>:</p><ul><li><strong>Ante Magnusson</strong>: CEO, Co-Founder;</li><li><strong>Andreas Theiss</strong><span>: CTO, Co-Founder;</span></li><li><span><strong>Daniel Kim</strong><span>: Data Engineer;</span></span></li><li><strong>Isaac Welch</strong><span>: Solidity Developer;</span></li><li><span><strong>Christopher Davison</strong><span>: Sports Statistical Analyst;</span></span></li><li><strong>Kim Seung Ho</strong><span>: E-Sports Advisor;</span></li><li><span><strong>Alessandra Taylor</strong><span>: Marketing Advisor;</span></span></li></ul><p>Magos ICO began on August 16, 2017. The ICO token supply represents 77% of the total token supply, so there is a total of <span>38,595,000 </span>tokens available, for 0.00050125313 ETH <span>each </span>(Starting Price) at the offering. The ICO funding cap is 22640 ETH and is expected to end on September 30, 2017 or when the funding cap is reached. No token creation, minting or mining will be available after the sale.</p><p><strong>Token Reserve Split (23%):</strong></p><ul><li>12% Team &amp; Advisors;</li><li>07% Foundation and Reserve;</li><li>04% Partners, Early Backers and Bounty Program;</li></ul><p><strong>Price Structure:</strong></p><ul><li>&lt; 3000 ETH – 1995 MAG/ETH</li><li>3000-6000 ETH – 1875 MAG/ETH</li><li>6000-9000 ETH – 1800 MAG/ETH</li><li>9000-12000 ETH – 1725 MAG/ETH</li><li>12000-15000 ETH – 1650 MAG/ETH</li><li>15000-22640 ETH – 1500 MAG/ETH</li></ul>",
+    "TokenType": "ETH (ERC20)",
+    "WebsiteLink": "https://magos.io/tokens/",
+    "FundingCap": "22640 ETH",
+    "FundingTarget": "N/A",
+    "Date": 1502913600,
+    "EndDate": 1506801600,
+    "FundsRaisedList": "2886.15 ETH",
+    "FundsRaisedUSD": "841053",
+    "StartPrice": "0.00050125313",
+    "StartPriceCurrency": "ETH",
+    "Jurisdiction": "N/A",
+    "BlogLink": "https://medium.com/@MAGOS",
+    "WhitePaperLink": "https://magos.io/bluepaper.pdf"
+  },
+  "ccId": "235993"
+}

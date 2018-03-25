@@ -1,0 +1,58 @@
+{
+  "General": {
+    "Symbol": "PKT",
+    "Name": "Playkey",
+    "Description": "<p>Playkey is a cloud gaming platform that allows users to run games on low-tech computers by commanding high-tech servers that run the game itself. Playkey allows gamers to access any game while also providing private/professional GPU owners with a new way to earn revenue without \"wasting\" it on Proof of Work mining. PKT is an ERC20 token based on the Ethereum blockchain. It allows users to buy and sell cloud gaming subscriptions as well as other Playkey services and future products.</p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "100000000",
+    "Algorithm": null,
+    "ProofType": null,
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "01/11/2017",
+    "TotalCoinsMined": null,
+    "Twitter": null,
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": null,
+    "GitHub": null,
+    "OnMarkets": [
+      "EtherDelta"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Ongoing",
+    "Description": "<p><span>Playkey is a cloud gaming platform that allows users to run games on low-tech computers by commanding high-tech servers that run the game itself. Playkey allows gamers to access any game while also </span><span>provid</span><span>ing</span><span><span> </span>private/professional GPU owners with a new way<span> </span></span><span>to earn<span> </span></span><span>revenue without \"wasting\" it on Proof of Work mining</span><span>. PKT is an ERC20 token based on the Ethereum blockchain. It allows users to buy and sell cloud gaming subscriptions as well as other </span><span>Playkey services and future products.</span></p><p><strong>Team</strong>:</p><ul><li>Egor Gurjev Co-founder and CEO <a href=\"https://www.facebook.com/eg0rkaplaykey\" target=\"_blank\"><img style=\"width: 13px; height: 13px;\" src=\"/media/1383930/face_logo_final.png?width=13&amp;height=13\" alt=\"\" data-id=\"202866\"></a><span> </span><a href=\"https://www.linkedin.com/in/egurjev/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Alexey Lykov:</strong> Co-founder, CTO <a href=\"https://www.facebook.com/lykovaleksey\" target=\"_blank\"><img style=\"width: 13px; height: 13px;\" src=\"/media/1383930/face_logo_final.png?width=13&amp;height=13\" alt=\"\" data-id=\"202866\"></a><span> </span><a href=\"https://www.linkedin.com/in/lykovaleksey/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Vadim Andreev:</strong> Co-founder, Director of Game Strategy <a href=\"https://www.facebook.com/vademuil\" target=\"_blank\"><img style=\"width: 13px; height: 13px;\" src=\"/media/1383930/face_logo_final.png?width=13&amp;height=13\" alt=\"\" data-id=\"202866\"></a><span> </span><a href=\"https://www.linkedin.com/in/vadim-andreev-74204717/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Roman Epishin:</strong> <span>Marketing Director <a href=\"https://www.facebook.com/roman.epishin.1\" target=\"_blank\"><img style=\"width: 13px; height: 13px;\" src=\"/media/1383930/face_logo_final.png?width=13&amp;height=13\" alt=\"\" data-id=\"202866\"></a><span> </span><a href=\"https://www.linkedin.com/in/romanepishin/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></span></li><li><strong>Maksim Kudymov:</strong> Product Manager <a href=\"https://www.facebook.com/maxim.kudymov\" target=\"_blank\"><img style=\"width: 13px; height: 13px;\" src=\"/media/1383930/face_logo_final.png?width=13&amp;height=13\" alt=\"\" data-id=\"202866\"></a></li><li><strong>Vladimir Shestakov:</strong> Development Team Leader <a href=\"https://www.facebook.com/Valdemar.rudolfovich\" target=\"_blank\"><img style=\"width: 13px; height: 13px;\" src=\"/media/1383930/face_logo_final.png?width=13&amp;height=13\" alt=\"\" data-id=\"202866\"></a> <a href=\"https://www.linkedin.com/in/vladimir-shestakov-51587659/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li></ul><p>The Playkey ICO will start on the 1st of November and will run until the 30th of November, 2017. The ICO token allocation represents 60% of the total supply and will be available for a 0.004 ETH starting price. Users can participate with ETH, USD and BTC. Any unsold/remaining tokens will be destroyed.</p><p><strong>Token Reserve Split (XX%):</strong></p><ul><li>12.5% are reserved for the Playkey Foundation,</li><li>27.5% will be distributed among team, escrow agent, bounty and ICO advisors;</li></ul><p>The Playkey ICO will feature a bounty and bonus campaigns as well as an escrow agent.</p><p><strong>Bonus Structure:</strong></p><p><strong><img src=\"https://cdn.playkey.net/img/playkeynet/ico/contribute/new_presale_sheme.png?width=555&amp;height=241\" alt=\"PKT pre-sale scheme\" width=\"555\" height=\"241\"></strong></p>",
+    "TokenType": "ETH (ERC20)",
+    "WebsiteLink": "https://playkey.io/en/contribute/",
+    "FundingCap": "N/A",
+    "FundingTarget": "N/A",
+    "Date": 1509512400,
+    "EndDate": 1512018000,
+    "FundsRaisedList": "19,009 ETH",
+    "FundsRaisedUSD": "8701183",
+    "StartPrice": "0.004",
+    "StartPriceCurrency": "ETH",
+    "Jurisdiction": "N/A",
+    "BlogLink": "https://cdn.playkey.net/img/playkeynet/ico_new/icons/monogram.svg",
+    "WhitePaperLink": "https://cdn.playkey.net/img/playkeynet/ico/Whitepaper.pdf"
+  },
+  "ccId": "344086"
+}

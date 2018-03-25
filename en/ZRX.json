@@ -1,0 +1,71 @@
+{
+  "General": {
+    "Symbol": "ZRX",
+    "Name": "0x",
+    "Description": "<p>0x is an open protocol that facilitates the decentralized exchange of Ethereum-based tokens and assets. Developers can use 0x to build their own custom exchange apps with a <span>wide variety of user-facing applications i.e. 0x OTC, a decentralized application that facilitates trustless over-the-counter trading of Ethereum-based tokens. </span></p><p><span>The 0x token (ZRX) is used <span>by Makers and Takers to pay transaction fees to Relayers (entities that host and maintain public order books). ZRX tokens are also used for decentralized governance over 0x protocol’s update mechanism which allows its underlying smart contracts to be replaced and improved over time.</span></span></p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "N/A",
+    "Algorithm": "N/A",
+    "ProofType": "N/A",
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "15/08/2017",
+    "TotalCoinsMined": 1000000000,
+    "Twitter": "@0xproject",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "https://www.0xproject.com/#home",
+    "GitHub": null,
+    "OnMarkets": [
+      "OKEX",
+      "Gateio",
+      "Poloniex",
+      "BTER",
+      "LiveCoin",
+      "HitBTC",
+      "Liqui",
+      "HuobiPro",
+      "Bitfinex",
+      "BitTrex",
+      "Tidex",
+      "EtherDelta",
+      "Binance",
+      "Gatecoin"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Finished",
+    "Description": "<p><span>0x is an open protocol that facilitates the decentralized exchange of Ethereum-based tokens and assets. Developers can use 0x to build their own custom exchange apps with a </span><span>wide variety of user-facing applications i.e. 0x OTC, a decentralized application that facilitates trustless over-the-counter trading of Ethereum-based tokens. </span></p><p><span>The 0x token (ZRX) is used<span> </span><span>by Makers and Takers to pay transaction fees to Relayers (entities that host and maintain public order books). ZRX tokens are also used for decentralized governance over 0x protocol’s update mechanism which allows its underlying smart contracts to be replaced and improved over time.</span></span></p><p><strong>Team</strong>:</p><ul><li><strong>Will Warren</strong><span>: Co-founder &amp; CEO. </span><a href=\"https://www.linkedin.com/in/will-warren-92aab62b/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Amir Bandeali</strong><span>: Co-founder &amp; CTO. </span><a href=\"https://www.linkedin.com/in/abandeali1/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Fabio Berger</strong><span>: Senior Engineer. </span><a href=\"https://www.linkedin.com/in/fabio-berger-03ab261a/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Leonid Logvinov</strong><span>: Engineer. </span><a href=\"https://www.linkedin.com/in/leonidlogvinov/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Alex Xu</strong><span>: Director of Operations. </span><a href=\"https://www.linkedin.com/in/alex-xu/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Ben Burns</strong><span>: Designer. </span><a href=\"https://www.linkedin.com/in/ben-burns-30170478/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li></ul><p><span><span>The 0x Initial Coin Offering campaign will start on the 15th of August and its ending date is yet to be announced. During the campaign, 50% of the 1 Billion ZRX supply will be sold for ETH. The remaining supply will be distributed as so:</span></span></p><ul><li><span><span>Retained by 0x (15%)<br></span></span></li><li><span><span>Developer Fund (15%)<br></span></span></li><li><span><span>Founding Team (10%)<br></span></span></li><li><span><span>Early Investors &amp; Advisors (10%)</span></span></li></ul>",
+    "TokenType": "ETH (ERC20)",
+    "WebsiteLink": "https://www.0xproject.com/token",
+    "FundingCap": "24,000,000 USD",
+    "FundingTarget": "N/A",
+    "Date": 1502755200,
+    "EndDate": 1503221776,
+    "FundsRaisedList": "N/A",
+    "FundsRaisedUSD": "N/A",
+    "StartPrice": "N/A",
+    "StartPriceCurrency": "ETH",
+    "Jurisdiction": "N/A",
+    "BlogLink": "https://medium.com/0x-project",
+    "WhitePaperLink": "https://www.0xproject.com/pdfs/0x_white_paper.pdf"
+  },
+  "ccId": "186277"
+}

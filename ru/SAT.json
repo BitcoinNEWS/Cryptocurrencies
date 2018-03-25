@@ -1,0 +1,58 @@
+{
+  "General": {
+    "Symbol": "SAT",
+    "Name": "Satisfaction Token",
+    "Description": "<p>Sandblock’s goal is to balance and redefine the relationship between businesses and their customers by building a decentralized protocol to define, measure and improve customer satisfaction in orderto benefit both sides. Sandblock’s Protocol aims at fostering crypto payments by building a reliable decentralized ecosystem thatrewards customers fortheir engagement and loyalty.</p><p>The core protocol behind Sandblock is built on top of the Ethereum blockchain. It uses the most advanced blockchain technologies to prevent fraud, malicious actions, and verify transactions to ensure that each actorin the ecosystem gets rewarded as intended.</p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "55000000",
+    "Algorithm": null,
+    "ProofType": null,
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "28/02/2018",
+    "TotalCoinsMined": null,
+    "Twitter": "@sandblock_io",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": null,
+    "GitHub": null,
+    "OnMarkets": [
+      "EtherDelta"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Upcoming",
+    "Description": "<div class=\"freebirdFormviewerViewItemsItemItem freebirdFormviewerViewItemsTextTextItem\" data-item-id=\"1688926117\"><div class=\"freebirdFormviewerViewItemsTextItemWrapper\"><div class=\"freebirdFormviewerViewItemsTextShortText freebirdFormviewerViewItemsTextDisabledText freebirdThemedInput\">Sandblock’s goal is to balance and redefine the relationship between businesses and their customers by building a decentralized protocol to define, measure and improve customer satisfaction in orderto benefit both sides. Sandblock’s Protocol aims at fostering crypto payments by building a reliable decentralized ecosystem thatrewards customers fortheir engagement and loyalty.</div></div></div><p>The core protocol behind Sandblock is built on top of the Ethereum blockchain. It uses the most advanced blockchain technologies to prevent fraud, malicious actions, and verify transactions to ensure that each actorin the ecosystem gets rewarded as intended.</p><p><strong>Team</strong>:</p><ul><li><strong>Fabrice Bascoulergue</strong>: Product Lead. <a href=\"https://www.linkedin.com/in/bascou/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Sarah-Diane Eck</strong><span>: Business &amp; Marketing.</span><span> </span><a href=\"https://www.linkedin.com/in/sarah-diane-eck-4b681720/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Jérémy Grenier</strong><span>: Engineering Lead.</span><span> </span><a href=\"https://www.linkedin.com/in/grenierjeremy/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Emmanuel Juliot</strong><span>: UX/UI Designer.</span><span> </span><a href=\"https://www.linkedin.com/in/emmanueljulliot/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Clément Dal-Palu</strong><span>: Backend Engineer.</span><span> </span><a href=\"https://www.linkedin.com/in/clementdalpalu/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Thomas André-Micolon</strong><span>: Engineer &amp; Copywriter.</span><span> </span><a href=\"https://www.linkedin.com/in/thomasam/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Matthieu Hocquart</strong><span>: Software Engineer.</span><span> </span><a href=\"https://www.linkedin.com/in/matthieu-hocquart-603051b9/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Alexandre Tuchmuntz</strong><span>: Finance &amp; Business Dev.</span><span> </span><a href=\"https://www.linkedin.com/in/alextuchmuntz/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li></ul><p>Sandblock will be holding its ICO on the 28th of March, 2018. The ICO token supply represents 50% of the total token supply, so there will be a total of 27,500,000 tokens available, for 0.00033 ETH each at the offering. The ICO funding target is 2,000 ETH, the funding cap is 8,000 ETH and is expected to end on the 15th of April, 2018, or when the funding cap is reached.</p><p>Prior to the ICO Sandblock will be holding a Pre-Sale that will start on the 28th of February, 2018 and will last until the 11th of March, 2018. The Pre-Sale bonus is 25%.</p><p><strong>Token Reserve Split (50%):</strong></p><ul><li>30% Early Partners Program</li><li>12% Advisors &amp; Team</li><li>8% Bounties &amp; App Testers</li></ul>",
+    "TokenType": "ETH (ERC20)",
+    "WebsiteLink": "https://sandblock.io/tokensale",
+    "FundingCap": "8,000 ETH",
+    "FundingTarget": "2,000 ETH",
+    "Date": 1522242000,
+    "EndDate": 1523797200,
+    "FundsRaisedList": "N/A",
+    "FundsRaisedUSD": "N/A",
+    "StartPrice": "0.00033",
+    "StartPriceCurrency": "ETH",
+    "Jurisdiction": "France",
+    "BlogLink": "https://medium.com/sandblock",
+    "WhitePaperLink": "https://sandblock.io/whitepaper?utm_source=cryptocompare&utm_medium=guide"
+  },
+  "ccId": "766212"
+}

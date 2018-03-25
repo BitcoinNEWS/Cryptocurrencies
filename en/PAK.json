@@ -1,0 +1,61 @@
+{
+  "General": {
+    "Symbol": "PAK",
+    "Name": "Pakcoin",
+    "Description": "<p>Pakcoin is premier digital currency for Pakistan. It is based on Litecoin and is 1% premined. These premined coins will be used for development and airdrop to Pakistanis.(<a href=\"http://www.pakcoin.info/airdrop/\" target=\"_blank\">http://www.pakcoin.info/airdrop/</a>)</p><p><strong>THE BENEFITS OF PAKCOIN</strong> - Nearly instant transactions with a nearly impossible risk of fraud due to the unbreakable security Cryptocurrencies have to offer Mine-able by everyone however 150,000 Pakistanis will receive 50 Pakcoins for free through airdrop Zero or very low processing fees when sending Pakcoins around the world</p><p><strong>FAIR MINING</strong> - 182 Million Pakcoins (PAK) will be created by people like you through a process called mining. 1% has been pre-mined; 75 Million of that will be divided between the first 150,000 Pakistanis. The remaining PAK will be used for further development of the coin, marketing and merchant services in Pakistan.</p><p><strong>INTEGRATION ASSISTANCE</strong> - Working on a web or software project and thinking about integrating Pakcoin? Developers are standing by to help. You may be eligible for a bounty reward, our way of thanking you. <strong>DOWNLOAD AND TRY</strong> - You can download the wallet software in our download page and then start claiming your 50 Free Pakcoins if you are a Pakistani</p><p>Wallets: <a href=\"http://www.pakcoin.info/wallets/\" target=\"_blank\">http://www.pakcoin.info/wallets/</a></p>",
+    "Features": "<p><strong>Name:</strong><span> Pakcoin</span><br /><strong>Symbol:</strong><span> PAK</span><br /><strong>PoW Algorithm:</strong><span> scrypt</span><br /><strong>Block Time:</strong><span> 60 Seconds</span><br /><strong>TX fee:</strong><span> 0 – 0.1 PAK depending on your amount</span><br /><strong>Difficulty Retarget:</strong><span> 24 Hours</span><br /><strong>P2P Port:</strong><span> 7867</span><br /><strong>RPC Port:</strong><span> 7866</span><br /><strong>Testnet: </strong><span>17866</span><br /><strong>Premine:</strong><span> 1 % for development and Airdrop</span><br /><strong>Max Coins:</strong><span> approximately 182 Million PAK</span><br />Mining Reward: <span>50 PAK per block, halving every 3 years</span></p>",
+    "Technology": null,
+    "TotalCoinSupply": "182000000",
+    "Algorithm": "Scrypt",
+    "ProofType": "PoW",
+    "BlockReward": 50,
+    "Explorer": null,
+    "StartDate": "22/06/2015",
+    "TotalCoinsMined": 51224449.9569533,
+    "Twitter": "@pakcoinofficial",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "http://www.pakcoin.info/",
+    "GitHub": null,
+    "OnMarkets": [
+      "TradeSatoshi",
+      "Cryptopia",
+      "Novaexchange",
+      "Yobit"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "N/A",
+    "Description": null,
+    "TokenType": null,
+    "WebsiteLink": null,
+    "FundingCap": null,
+    "FundingTarget": null,
+    "Date": null,
+    "EndDate": null,
+    "FundsRaisedList": null,
+    "FundsRaisedUSD": null,
+    "StartPrice": null,
+    "StartPriceCurrency": null,
+    "Jurisdiction": null,
+    "BlogLink": null,
+    "WhitePaperLink": null
+  },
+  "ccId": "17006"
+}

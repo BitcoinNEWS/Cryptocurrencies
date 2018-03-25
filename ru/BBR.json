@@ -1,0 +1,61 @@
+{
+  "General": {
+    "Symbol": "BBR",
+    "Name": "Boolberry",
+    "Description": "<p>Boolberry is a wild Keccak algorithm PoW crypto coin. The block interval, or target, is set to 120 seconds. The total number of coins is limited to approximately 18.5 million and the block reward reduces in a variable manner with shortening time spans between reductions.</p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "18450000",
+    "Algorithm": "X11",
+    "ProofType": "PoW",
+    "BlockReward": 6.66886,
+    "Explorer": null,
+    "StartDate": "17/05/2014",
+    "TotalCoinsMined": 11269475.926742,
+    "Twitter": "@BoolberryBBR",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "http://boolberry.com/",
+    "GitHub": null,
+    "OnMarkets": [
+      "Cryptopia",
+      "BitTrex",
+      "Poloniex",
+      "BTER"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "N/A",
+    "Description": null,
+    "TokenType": null,
+    "WebsiteLink": null,
+    "FundingCap": null,
+    "FundingTarget": null,
+    "Date": null,
+    "EndDate": null,
+    "FundsRaisedList": null,
+    "FundsRaisedUSD": null,
+    "StartPrice": null,
+    "StartPriceCurrency": null,
+    "Jurisdiction": null,
+    "BlogLink": null,
+    "WhitePaperLink": null
+  },
+  "ccId": "5343"
+}

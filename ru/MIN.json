@@ -1,0 +1,61 @@
+{
+  "General": {
+    "Symbol": "MIN",
+    "Name": "Minerals Coin",
+    "Description": "<p>Minerals (MIN) is a PoW/PoS X11 based crypto currency. The block time is thirty seconds and the PoW, proof of work, was designed to last for seven days. The coins main premiss was to distribute the currency evenly with 30 million coins in the PoW phase. The difficulty retargets every block and there was no premine.</p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "1000000",
+    "Algorithm": "X11",
+    "ProofType": "PoW/PoS",
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "05/06/2014",
+    "TotalCoinsMined": null,
+    "Twitter": "@Minerals_dev",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "-",
+    "GitHub": null,
+    "OnMarkets": [
+      "Cryptsy",
+      "Cryptopia",
+      "BitTrex",
+      "Coinse"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "N/A",
+    "Description": null,
+    "TokenType": null,
+    "WebsiteLink": null,
+    "FundingCap": null,
+    "FundingTarget": null,
+    "Date": null,
+    "EndDate": null,
+    "FundsRaisedList": null,
+    "FundsRaisedUSD": null,
+    "StartPrice": null,
+    "StartPriceCurrency": null,
+    "Jurisdiction": null,
+    "BlogLink": null,
+    "WhitePaperLink": null
+  },
+  "ccId": "4561"
+}

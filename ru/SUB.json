@@ -1,0 +1,63 @@
+{
+  "General": {
+    "Symbol": "SUB",
+    "Name": "Subscriptio",
+    "Description": "<p>Subscription is a Proof of Stake cryptocurrency created for the stamping and public verification of data on the blockchain.</p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "600000000",
+    "Algorithm": null,
+    "ProofType": null,
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "25/04/2017",
+    "TotalCoinsMined": 592000000,
+    "Twitter": null,
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "-",
+    "GitHub": null,
+    "OnMarkets": [
+      "Binance",
+      "Kucoin",
+      "HitBTC",
+      "Tidex",
+      "EtherDelta",
+      "OKEX"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Ongoing",
+    "Description": "<p>Substratum is developing an open-source foundation for the decentralized web, providing free and unrestricted access to content for a new Web 3.0.</p><p>The Substratum Network is a worldwide collection of nodes that uses industry-leading cryptography to deliver secure content anywhere, all without the need for VPNs or Tor. Substratum wants to revolutionize the hosting industry with per-request billing via micro transactions, all handled by blockchain technology and artificial intelligence.</p><p><strong>Team</strong>:</p><ul><li><strong>Justin Tabb</strong>: Solutions Architect. <a href=\"https://www.linkedin.com/in/justintabb/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a> <a href=\"http://twitter.com/overridepro\" target=\"_blank\"><img style=\"width: 13px; height: 13px;\" src=\"/media/1383932/twitter_logo_final.png?width=13&amp;height=13\" alt=\"\" data-id=\"202868\"></a></li><li><strong>Abram Cookson</strong>: Lead Software Developer.<span> </span><a href=\"https://www.linkedin.com/in/abramcookson/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a> <a href=\"https://www.facebook.com/abramcookson\" target=\"_blank\"><img style=\"width: 13px; height: 13px;\" src=\"/media/1383930/face_logo_final.png?width=13&amp;height=13\" alt=\"\" data-id=\"202866\"></a><span> </span><a href=\"https://twitter.com/abramcookson\" target=\"_blank\"><img style=\"width: 13px; height: 13px;\" src=\"/media/1383932/twitter_logo_final.png?width=13&amp;height=13\" alt=\"\" data-id=\"202868\"></a></li><li><strong>Jason Wollam</strong>: Senior Software Engineer.<span> </span><a href=\"https://www.linkedin.com/in/jasonwollam/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a> <a href=\"https://www.facebook.com/jasonwollam\" target=\"_blank\"><img style=\"width: 13px; height: 13px;\" src=\"/media/1383930/face_logo_final.png?width=13&amp;height=13\" alt=\"\" data-id=\"202866\"></a><span> </span><a href=\"https://twitter.com/jasonwollam\" target=\"_blank\"><img style=\"width: 13px; height: 13px;\" src=\"/media/1383932/twitter_logo_final.png?width=13&amp;height=13\" alt=\"\" data-id=\"202868\"></a></li><li><strong>Kevin Marois</strong><span>: Senior Software Engineer.</span><span> </span><a href=\"https://www.linkedin.com/in/kevin-marois-40682611/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Jason Burns</strong><span>: Design Lead. <a href=\"https://twitter.com/iamjasonburns\" target=\"_blank\"><img style=\"width: 13px; height: 13px;\" src=\"/media/1383932/twitter_logo_final.png?width=13&amp;height=13\" alt=\"\" data-id=\"202868\"></a></span></li><li><strong>Michael Stockwell</strong><span>: Advisor.</span><span> </span><a href=\"https://www.linkedin.com/in/stockwellmichael/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li></ul><p>Substratum Network will be holding its ICO on August 14, 2017. The ICO token supply represents 100% of the total token supply, so there will be a total of 600,000,000 tokens available, for 0.00033333333 ETH each at the offering. The ICO funding target is 1000 ETH, the funding cap is 150,000 ETH and is expected to end on September 14, 2017 or when the funding cap is reached.</p><p><strong>ICO Budget Allocation</strong></p><ul><li>30% Product Awareness;</li><li>60% Product Development;</li><li>10% Network Infrastructure;</li></ul><p><strong>Bonus Structure:</strong></p><ul><li>ICO WEEK 1: 3,000 SUB = 1 ETH;</li><li>ICO WEEK 2: 2,500 SUB = 1 ETH;</li><li>ICO WEEK 3: 2,050 SUB = 1 ETH;</li><li>ICO WEEK 4: 1,500 SUB = 1 ETH;</li></ul>",
+    "TokenType": "ETH (ERC20)",
+    "WebsiteLink": "https://substratum.net/ico/",
+    "FundingCap": "150,000 ETH",
+    "FundingTarget": "1000 ETH",
+    "Date": 1502683200,
+    "EndDate": 1505361600,
+    "FundsRaisedList": "123.1764 BTC; 13,421.36 ETH; 171,808.94 XRP; 377.7890 BCH; 433.2225 LTC",
+    "FundsRaisedUSD": "11430000",
+    "StartPrice": "0.00033333333",
+    "StartPriceCurrency": "ETH",
+    "Jurisdiction": "N/A",
+    "BlogLink": "https://medium.com/@SubstratumNet",
+    "WhitePaperLink": "https://substratum.net/wp-content/uploads/2017/07/substratum_whitepaper.pdf"
+  },
+  "ccId": "100944"
+}

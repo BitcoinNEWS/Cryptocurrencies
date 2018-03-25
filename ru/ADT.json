@@ -1,0 +1,61 @@
+{
+  "General": {
+    "Symbol": "ADT",
+    "Name": "AdToken",
+    "Description": "<p> AdChain is an Ethereum-based digital advertisement platform that aims to fix <span> the fraudulent environment of online advertising namely bot traffic, malvertisements, trackers, spoofed domains, lack of coordination and systemic fraud. ADT is an ERC20 token that is used in order to ver publishers who wish to join the system, employing a \"challenge period\" during which any ADT holder who believes the publisher is fraudulent can issue a challenge and match the publisher&#39;s ADT deposit. </span></p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "1000000000",
+    "Algorithm": "N/A",
+    "ProofType": "N/A",
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "26/06/2017",
+    "TotalCoinsMined": 1000000000,
+    "Twitter": "@ad_chain",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "https://adtoken.com/",
+    "GitHub": null,
+    "OnMarkets": [
+      "Yobit",
+      "BitTrex",
+      "EtherDelta",
+      "Cryptsy"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Finished",
+    "Description": "<p><span>AdChain is an Ethereum-based digital advertisement platform that aims to fix </span><span> the fraudulent environment of online advertising namely bot traffic, malvertisements, trackers, spoofed domains, lack of coordination and systemic fraud. ADT is an ERC20 token that is used in order to ver publishers who wish to join the system, employing a<span> </span>\"challenge period\" during which any ADT holder who believes the publisher is fraudulent can issue a challenge and match the publisher&#39;s ADT deposit. </span><span><br /> <br /><strong>Team:</strong><br /> <br />Ken Brook: CEO (<a href=\"https://www.linkedin.com/in/kenbrook\">LinkedIn</a>, <a href=\"https://twitter.com/cryptok3n\" target=\"_blank\">Twitter</a>);<br /></span></p><p><span>Kristen Hester: CFO (<a href=\"https://www.linkedin.com/in/kristenghester\">LinkedIn</a><span>)</span>;<br /></span></p><p><span>James Young: Engineering Lead (<a href=\"https://www.linkedin.com/in/jamessyoung\" target=\"_blank\">LinkedIn</a><span>,<span> </span></span><a href=\"https://twitter.com/jamesyoung\" target=\"_blank\">Twitter</a><span>)</span>;</span></p><p><span>Edwin Cheung: Engineering  (<a href=\"https://www.linkedin.com/in/eccheung4\">LinkedIn</a><span>,<span> </span></span><a href=\"https://twitter.com/cryptok3n\" target=\"_blank\">Twitter</a><span>)</span><br /> <br />AdToken held its ICO on on the 26th of June 2017, 16:00 UTC. The ICO coin supply represents 50% of the total coin supply, so there was a total of 500000000 coins available at the offering. The ICO funding cap was 33333 ETH and reached this cap. The ICO lasted for seconds.<br /> <br />Token Reserve Split:<br /></span></p><ul><li><span>10% is sold during pre-sale</span></li><li><span>20% will reserved for MetaX</span><br /><span></span><span></span></li><li><span>20% will reserved for ConsenSys</span></li></ul><p>The AdToken campaign featured a bounty campaign, and the token will not be minable.</p><p> </p>",
+    "TokenType": "ETH (ERC20)",
+    "WebsiteLink": "https://adtoken.com/",
+    "FundingCap": "33333 ETH",
+    "FundingTarget": "33333 ETH",
+    "Date": 1498495026,
+    "EndDate": 1498495048,
+    "FundsRaisedList": "33332.9999 ETH",
+    "FundsRaisedUSD": "7697923",
+    "StartPrice": "0.00006666666666667",
+    "StartPriceCurrency": "ETH",
+    "Jurisdiction": "N/A",
+    "BlogLink": "https://medium.com/@AdChain",
+    "WhitePaperLink": "https://adtoken.com/white-paper/"
+  },
+  "ccId": "188858"
+}

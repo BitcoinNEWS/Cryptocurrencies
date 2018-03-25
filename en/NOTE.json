@@ -1,0 +1,64 @@
+{
+  "General": {
+    "Symbol": "NOTE",
+    "Name": "Dnotes",
+    "Description": "<p>Dnotes is  a scrypt based Proof of Work algorithm crypto currency. The total number of coins is 500 million, difficulty retargetting takes place using the Kimoto gravity well, the block time is 60 seconds.</p><p>DNotes is a peer-to-peer decentralized crypto-currency transmitted over the internet  enabling instant payment to anyone in the world. It is fast and secured. With little or no  transaction fees, it is an efficient and low cost payment vehicle.</p>",
+    "Features": "<p>You can participate in the mining network and mine DNotes for free. A Block Reward starting at 250 Coins are paid until all the coins have been mined. Additionally,  a bonus of 750 coins are awarded to miners during the first thirty days covering blocks 250 to 33,250.</p><p>Help them promote their new crypto-currency and earn your share of DNotes. They need mining pools, bloggers, social media promoters, and crypto forum users. In the beginning, there will be huge giveaways and bounties. Contact them at contact@dnotescoin.com if you would like to get involved.</p><p>You may also trade for DNotes on an exchange that accepts DNotes as they become available.</p>",
+    "Technology": "<p>DNotes is a shared stake concept, placing a large percentage of the coins in the hands of many, increasing personal stake and personal interest in the coin in promoting the long term value of the currency.</p><p>A rapid acceptance by a very large number of individuals and groups generating the most liquidity and high transactional value is their goal.To ensure the best future for DNotes, their development team will remain focused, swift and agile in the relentless pursuit of technology changes and bring you the best as they become available. </p><p>The development team is currently working on mobile application integration and development.</p>",
+    "TotalCoinSupply": "500000000",
+    "Algorithm": "Scrypt",
+    "ProofType": "PoW",
+    "BlockReward": 20.36265624443005,
+    "Explorer": null,
+    "StartDate": "16/02/2014",
+    "TotalCoinsMined": 132936794.28735311,
+    "Twitter": "@DNotesCoin",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "http://dnotescoin.com/",
+    "GitHub": null,
+    "OnMarkets": [
+      "Yobit",
+      "CCEX",
+      "Poloniex",
+      "Cryptopia",
+      "Yunbi",
+      "Cryptsy",
+      "Novaexchange"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "N/A",
+    "Description": null,
+    "TokenType": null,
+    "WebsiteLink": null,
+    "FundingCap": null,
+    "FundingTarget": null,
+    "Date": null,
+    "EndDate": null,
+    "FundsRaisedList": null,
+    "FundsRaisedUSD": null,
+    "StartPrice": null,
+    "StartPriceCurrency": null,
+    "Jurisdiction": null,
+    "BlogLink": null,
+    "WhitePaperLink": null
+  },
+  "ccId": "5322"
+}

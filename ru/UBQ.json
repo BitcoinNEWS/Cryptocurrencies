@@ -1,0 +1,59 @@
+{
+  "General": {
+    "Symbol": "UBQ",
+    "Name": "Ubiq",
+    "Description": "<p>The cryptocurrency Jumbucks will be renamed as Ubiq (ticker UBQ), an Ethereum fork. Ubiq is the first Ethereum fork which brings about consensus level changes in the form of brand new code. The Digibyte&#39;s Digishield v3 difficulty adjustment algorithm has been <span> ported</span> to an Ethereum code base. Incidentally, this is the same difficulty algorithm recently chosen by the Zcash development team.</p><p><span>Coins will be swapped at a 1:10 ratio to the new chain</span>, as so ~36m UBQ will be issued. There will be 2 methods for swapping. Claiming or using an exchange which will perform a claim and adjust on-exchange balances accordingly.</p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": null,
+    "Algorithm": "Dagger-Hashimoto",
+    "ProofType": "PoW",
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "29/09/2016",
+    "TotalCoinsMined": 37986668.6977163,
+    "Twitter": null,
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "http://ubiqsmart.com",
+    "GitHub": null,
+    "OnMarkets": [
+      "Cryptopia",
+      "BitTrex"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "N/A",
+    "Description": null,
+    "TokenType": null,
+    "WebsiteLink": null,
+    "FundingCap": null,
+    "FundingTarget": null,
+    "Date": null,
+    "EndDate": null,
+    "FundsRaisedList": null,
+    "FundsRaisedUSD": null,
+    "StartPrice": null,
+    "StartPriceCurrency": null,
+    "Jurisdiction": null,
+    "BlogLink": null,
+    "WhitePaperLink": null
+  },
+  "ccId": "43044"
+}

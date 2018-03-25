@@ -1,0 +1,59 @@
+{
+  "General": {
+    "Symbol": "BTD",
+    "Name": "Bitcloud",
+    "Description": "<p><span>Bitcloud is a scrypt PoW/PoS hybrid (currently in PoS stage) cryptocurrency that wants to \"decentralize the Internet\" through a new Proof of Stake/Proof of Host protocol, where Hostnodes will provide space, cpu and ram.</span><br /><br /></p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": null,
+    "Algorithm": "Scrypt",
+    "ProofType": "PoW/PoS",
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "01/09/2016",
+    "TotalCoinsMined": 11278645.03618584,
+    "Twitter": "@Bitcloud_BTD",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "http://bit-cloud.net/",
+    "GitHub": null,
+    "OnMarkets": [
+      "Yobit",
+      "Cryptopia"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "N/A",
+    "Description": null,
+    "TokenType": null,
+    "WebsiteLink": null,
+    "FundingCap": null,
+    "FundingTarget": null,
+    "Date": null,
+    "EndDate": null,
+    "FundsRaisedList": null,
+    "FundsRaisedUSD": null,
+    "StartPrice": null,
+    "StartPriceCurrency": null,
+    "Jurisdiction": null,
+    "BlogLink": null,
+    "WhitePaperLink": null
+  },
+  "ccId": "28089"
+}

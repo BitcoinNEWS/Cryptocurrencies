@@ -1,0 +1,59 @@
+{
+  "General": {
+    "Symbol": "2GIVE",
+    "Name": "2GiveCoin",
+    "Description": "<p>2GIVE is a charity and altruism driven project designed to recieve and make donations, tips and transactions. 2GIVE is a PoW/PoS hybrid, which means users can earn 5% interest on their holdings or mine with computational power and earn transaction fees as a reward. 2GIVE can also be used to produce GiftcCards within the wallet.</p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": null,
+    "Algorithm": "Scrypt",
+    "ProofType": "PoW/PoS",
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "18/04/2016",
+    "TotalCoinsMined": 519568694.593558,
+    "Twitter": "@2GiveCoin",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "http://2give.info/",
+    "GitHub": null,
+    "OnMarkets": [
+      "Yobit",
+      "BitTrex"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "N/A",
+    "Description": null,
+    "TokenType": null,
+    "WebsiteLink": null,
+    "FundingCap": null,
+    "FundingTarget": null,
+    "Date": null,
+    "EndDate": null,
+    "FundsRaisedList": null,
+    "FundsRaisedUSD": null,
+    "StartPrice": null,
+    "StartPriceCurrency": null,
+    "Jurisdiction": null,
+    "BlogLink": null,
+    "WhitePaperLink": null
+  },
+  "ccId": "20910"
+}

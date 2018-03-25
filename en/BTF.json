@@ -1,0 +1,56 @@
+{
+  "General": {
+    "Symbol": "BTF",
+    "Name": "Blockchain Traded Fund",
+    "Description": "<p>Blockchain Traded Fund (BTF) is a Ethereum ERC20 token. The goal is<span> to provide a closed ended fund of tokens on the Ethereum Blockchain for their (Token Investment Club) members. </span></p><p>The BTF tokens represent a Net Asset Value and can be held or traded by the BTF investing club members.</p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "200000000",
+    "Algorithm": null,
+    "ProofType": null,
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "08/11/2017",
+    "TotalCoinsMined": 145000000,
+    "Twitter": "@BTFFUNDS",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": null,
+    "GitHub": null,
+    "OnMarkets": [],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "N/A",
+    "Description": null,
+    "TokenType": null,
+    "WebsiteLink": null,
+    "FundingCap": null,
+    "FundingTarget": null,
+    "Date": null,
+    "EndDate": null,
+    "FundsRaisedList": null,
+    "FundsRaisedUSD": null,
+    "StartPrice": null,
+    "StartPriceCurrency": null,
+    "Jurisdiction": null,
+    "BlogLink": null,
+    "WhitePaperLink": null
+  },
+  "ccId": "776828"
+}

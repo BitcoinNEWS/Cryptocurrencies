@@ -1,0 +1,56 @@
+{
+  "General": {
+    "Symbol": "MLT",
+    "Name": "MultiGames",
+    "Description": "<p>MultiGames is an Online Casino Ethereum-Based platform. The MLT token is an ERC20 token based on Ethereum. It is used on the platform for all transactions.</p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "10000000",
+    "Algorithm": null,
+    "ProofType": null,
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "08/01/2018",
+    "TotalCoinsMined": null,
+    "Twitter": "@MultiGamesICO",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": null,
+    "GitHub": null,
+    "OnMarkets": [],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Ongoing",
+    "Description": "<p><span>MultiGames is an Online</span><span> Casino Ethereum</span><span>-</span><span>Based platform. The MLT token is an ERC20 token based on Ethereum. It is used on the platform for all transactions.</span></p><p><strong>Team</strong>:</p><ul><li><strong>Eduardo Chapeta:</strong> CEO <a href=\"https://www.linkedin.com/in/eduardo-chapeta-73428a\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Ignacio Munarriz:</strong> CIO <a href=\"https://www.linkedin.com/in/jose-ignacio-munarriz-96881827\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Ricardo Espeche:</strong> CTO <a href=\"https://www.linkedin.com/in/ricardo-mart%C3%ADn-espeche-a75b119\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Omar Hraste:</strong> COO <a href=\"https://www.linkedin.com/in/omarhraste\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li></ul><p>The MultiGames ICO began on the 8th of January and will end on the 28th of February, 2018. The ICO token allocation reprsents 60% of the total token supply and will be avialable for a 0.01 ETH base price. The ICO funding target/cap is set at 21000 ETH. </p><p><strong>Token Reserve Split (40%):</strong></p><ul><li><span>OPEX 20%, </span></li><li><span>CAPEX 18%, </span></li><li><span>Bounty 2%</span></li></ul><p>The MLT ICO features a bonus campaign.</p><p><strong>Bonus Structure:</strong></p><table border=\"0\" cellspacing=\"0\" class=\"table dataTable no-footer\" id=\"DataTables_Table_0\"><tbody><tr class=\"odd\"><td class=\"body-item mbr-fonts-style display-7\">January 8</td><td class=\"body-item mbr-fonts-style display-7\">January 21</td><td class=\"body-item mbr-fonts-style display-7\">40%</td><td class=\"body-item mbr-fonts-style display-7\">1 ETH = 140 MLT</td></tr><tr class=\"even\"><td class=\"body-item mbr-fonts-style display-7\">January 22</td><td class=\"body-item mbr-fonts-style display-7\">January 28</td><td class=\"body-item mbr-fonts-style display-7\">30%</td><td class=\"body-item mbr-fonts-style display-7\">1 ETH = 130 MLT</td></tr><tr class=\"odd\"><td class=\"body-item mbr-fonts-style display-7\">January 29</td><td class=\"body-item mbr-fonts-style display-7\">February 4</td><td class=\"body-item mbr-fonts-style display-7\">20%</td><td class=\"body-item mbr-fonts-style display-7\">1 ETH = 120 MLT</td></tr><tr class=\"even\"><td class=\"body-item mbr-fonts-style display-7\">February 5</td><td class=\"body-item mbr-fonts-style display-7\">February 11</td><td class=\"body-item mbr-fonts-style display-7\">10%</td><td class=\"body-item mbr-fonts-style display-7\">1 ETH = 110 MLT</td></tr><tr class=\"odd\"><td class=\"body-item mbr-fonts-style display-7\">February 12</td><td class=\"body-item mbr-fonts-style display-7\">February 28</td><td class=\"body-item mbr-fonts-style display-7\">0%</td><td class=\"body-item mbr-fonts-style display-7\">1 ETH = 100 MLT</td></tr></tbody></table>",
+    "TokenType": "ETH (ERC20)",
+    "WebsiteLink": "https://multigames.mobi",
+    "FundingCap": "21000 ETH",
+    "FundingTarget": "21000 ETH",
+    "Date": 1515369600,
+    "EndDate": 1519776000,
+    "FundsRaisedList": "7770 ETH",
+    "FundsRaisedUSD": "6938765.4",
+    "StartPrice": "0.01",
+    "StartPriceCurrency": "ETH",
+    "Jurisdiction": "N/A",
+    "BlogLink": null,
+    "WhitePaperLink": "https://multigames.mobi/white%20paper.pdf"
+  },
+  "ccId": "698425"
+}

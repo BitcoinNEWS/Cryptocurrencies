@@ -1,0 +1,61 @@
+{
+  "General": {
+    "Symbol": "U",
+    "Name": "Ucoin",
+    "Description": "<p><span>UCoin is a Proof of Work/Proof of Stake cryptocurrency using the x11 algorithm. it has a 20M supply and a 1 minute block time. The U stands for \"Usable\". </span>Ucoin <span>is a usable and user-friendly digital currency. This coin has been created not only for \"geeks\" and advanced users, but also for ordinary users.</span> UCoin is usable and userfriendly digital currency. This coin has been created not only for \"geeks\", for advanced use, but even for ordinary users. </p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "20000000",
+    "Algorithm": "X11",
+    "ProofType": "PoS",
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "25/03/2015",
+    "TotalCoinsMined": 2689812,
+    "Twitter": "@ucointeam",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "http://ucoin.name/",
+    "GitHub": null,
+    "OnMarkets": [
+      "EtherDelta",
+      "CCEX",
+      "Yobit",
+      "BitTrex"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "N/A",
+    "Description": null,
+    "TokenType": null,
+    "WebsiteLink": null,
+    "FundingCap": null,
+    "FundingTarget": null,
+    "Date": null,
+    "EndDate": null,
+    "FundsRaisedList": null,
+    "FundsRaisedUSD": null,
+    "StartPrice": null,
+    "StartPriceCurrency": null,
+    "Jurisdiction": null,
+    "BlogLink": null,
+    "WhitePaperLink": null
+  },
+  "ccId": "5352"
+}

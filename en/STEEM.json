@@ -1,0 +1,65 @@
+{
+  "General": {
+    "Symbol": "STEEM",
+    "Name": "Steem",
+    "Description": "<p>STEEM это децентрализованное сообщество/соц.сеть/платформа с вознаграждениями создателям и кураторам контента. Цель сообщества - мотивация авторов на создание как можно лучшего по качеству контента и читателей на поиск (discovery) и продвижение качественного контента. Контент публикуется на блокчейне, что в теории обеспечивает защиту от цензуры и контроля со стороны больших корпораций - владельцев традиционного контета в интернете. STEEM позволяет авторам отказаться от рекламы на своих сайтах и блогах и продолжать получать доход за свои публикации.</p><p>STEEM занимает 3 место по капитализации среди всех критовалют.</p><p>Steem может быть приобретен или конвертирован в доллары на бирже или конвертирован в Steem Power.</p><p>STEEM - Стим, торгуемая монета, которую можно передать в любой момент куда угодно.</p><p>STEEM POWER - Стим сила. Грубо говоря можно сказать что это также стимы, но с той разницей что они влияют на вашу репутацию и голос (лайки или как их еще называют апвоты - upvote), также влияют на доход получаемый наградой за кураторство (поддержку других постов или curation reward). «Стим сила» может быть конвертирована в Стим в течении 104 недель (2 года). Каждую неделю равными частями на ваш баланс будут приходить Стимы в размере около 0,95 % (почти один процент).</p><p>STEEM DOLLARS — Стим доллары — токены стоимостью примерно 1 стим-доллар.</p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "99692126",
+    "Algorithm": null,
+    "ProofType": "PoW",
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "04/07/2015",
+    "TotalCoinsMined": "99692126",
+    "Twitter": "@steemit",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "https://steem.io/",
+    "GitHub": null,
+    "OnMarkets": [
+      "HitBTC",
+      "LiveCoin",
+      "BitTrex",
+      "BitSquare",
+      "Poloniex",
+      "Binance",
+      "Liqui",
+      "Tidex"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "N/A",
+    "Description": null,
+    "TokenType": null,
+    "WebsiteLink": null,
+    "FundingCap": null,
+    "FundingTarget": null,
+    "Date": null,
+    "EndDate": null,
+    "FundsRaisedList": null,
+    "FundsRaisedUSD": null,
+    "StartPrice": null,
+    "StartPriceCurrency": null,
+    "Jurisdiction": null,
+    "BlogLink": null,
+    "WhitePaperLink": null
+  },
+  "ccId": "20333"
+}

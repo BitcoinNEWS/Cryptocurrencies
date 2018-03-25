@@ -1,0 +1,62 @@
+{
+  "General": {
+    "Symbol": "CPC",
+    "Name": "CapriCoin",
+    "Description": "<p>CapriCoin, or CPC, is a crypto currency based on the X11 algorithm and is both proof of stake and proof of work. The coin has a large premine of 200,000,000 of the total supply of 208,000,000 - 25% is distributed - 50 million is reserved for staisybit and 99 million reserved for inhouse staking... and 1 million reserved for the development team. The proof of stake drops from 2% by 50% increments per year to year 24. The coin has a large premine which looks to be unethical. </p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "208000000",
+    "Algorithm": "X11",
+    "ProofType": "PoW/PoS",
+    "BlockReward": 0.31349221923772025,
+    "Explorer": null,
+    "StartDate": "20/07/2015",
+    "TotalCoinsMined": 201111596.54098907,
+    "Twitter": "@Capricoin_Team",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "http://capricoin.com/",
+    "GitHub": null,
+    "OnMarkets": [
+      "TradeSatoshi",
+      "Yobit",
+      "LiveCoin",
+      "BitTrex",
+      "Tidex"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "N/A",
+    "Description": null,
+    "TokenType": null,
+    "WebsiteLink": null,
+    "FundingCap": null,
+    "FundingTarget": null,
+    "Date": null,
+    "EndDate": null,
+    "FundsRaisedList": null,
+    "FundsRaisedUSD": null,
+    "StartPrice": null,
+    "StartPriceCurrency": null,
+    "Jurisdiction": null,
+    "BlogLink": null,
+    "WhitePaperLink": null
+  },
+  "ccId": "15282"
+}

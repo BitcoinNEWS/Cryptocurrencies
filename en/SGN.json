@@ -1,0 +1,56 @@
+{
+  "General": {
+    "Symbol": "SGN",
+    "Name": "Signals Network",
+    "Description": "<p>The <span>Signals Network p</span>latform is a decentralized platform where users can create fully customizable trading robots with no advanced technical knowledge required. Based on the Ethereum network, the SGN token allows holders to create their <span>own crypto-trading models based on premium indicators developed by data science community, perform complex machine learning experiments using super computer on historical data, or rent and copy-trade other successful strategies in Signals marketplace.</span></p><p> </p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "150000000",
+    "Algorithm": null,
+    "ProofType": null,
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "26/02/2018",
+    "TotalCoinsMined": null,
+    "Twitter": "@signals_network",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": null,
+    "GitHub": null,
+    "OnMarkets": [],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Ongoing",
+    "Description": "<p>The<span> </span><span>Signals Network p</span>latform is a decentralized platform where users can create fully customizable trading robots with no advanced technical knowledge required. Based on the Ethereum network, the SGN token allows holders to create<span> </span>their own<span> crypto-trading models based on premium indicators developed by data science community, perform complex machine learning experiments using super computer on historical data, or rent and copy-trade other successful strategies in Signals marketplace.</span></p><p><span>Short video introduction: <a href=\"https://www.youtube.com/watch?v=KY2qu0zpq-Q&amp;t\" target=\"_blank\" data-saferedirecturl=\"https://www.google.com/url?hl=en&amp;q=https://www.youtube.com/watch?v%3DKY2qu0zpq-Q%26t&amp;source=gmail&amp;ust=1516966708189000&amp;usg=AFQjCNG5USB1fSr5Xg9XPMbn8TfCiWMKCg\">https://www.youtube.com/watch?v=KY2qu0zpq-Q&amp;t</a></span></p><p><strong>Team</strong>:</p><ul><li><strong>Pavel Němec:</strong> CEO &amp; Co-founder<span> </span><a href=\"https://www.linkedin.com/in/pavel-n%C4%9Bmec-17457854\" target=\"_blank\"><img src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"> </a></li><li><strong>Pavel Volek:</strong> CTO &amp; Co-founder <a href=\"https://www.linkedin.com/in/pavelvolek\" target=\"_blank\"><img src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Jan Budík:</strong> Algorithmic Trading Expert <a href=\"https://www.linkedin.com/in/jan-bud%C3%ADk-40690171\" target=\"_blank\"><img src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Zdeňka Šeděnka:</strong> Data Scientist <a href=\"https://www.linkedin.com/in/zdenkasitova\" target=\"_blank\"><img src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li></ul><p>The Signals Platform ICO will start on the 26th of February 2018. The ICO token allocation represents 48.7% of the total token supply and will be available for a $0.3 starting price. The ICO funding target is set at 2,000,000 USD and the cap at 18,500,000 USD.</p><p><strong>Token Reserve Split (51.3%):</strong></p><ul><li>Community: 20%</li><li>Token Presale: 1.3%</li><li>Bounty Program: 2%</li><li>Advisors &amp; Partners: 10%</li><li>Signals Company Reserve: 18%</li></ul><p>The SGN ICO features a bonus and bounty campaign as well as an escrow agent.</p>",
+    "TokenType": "ETH (ERC20)",
+    "WebsiteLink": "https://signals.network/token-sale",
+    "FundingCap": "18,500,000 USD",
+    "FundingTarget": "2,000,000 USD",
+    "Date": 1520863200,
+    "EndDate": 1523282400,
+    "FundsRaisedList": "2230.76 ETH\r\n1182302.8 USD",
+    "FundsRaisedUSD": "1182302.8",
+    "StartPrice": "0.3",
+    "StartPriceCurrency": "USD",
+    "Jurisdiction": "N/A",
+    "BlogLink": "https://blog.signals.network/",
+    "WhitePaperLink": "https://cdn.signals.network/docs/Signals-Whitepaper.pdf"
+  },
+  "ccId": "715817"
+}

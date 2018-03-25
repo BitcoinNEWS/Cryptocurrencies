@@ -1,0 +1,59 @@
+{
+  "General": {
+    "Symbol": "REN",
+    "Name": "Republic Token",
+    "Description": "<p>The Republic Protocol is an open-source decentralized dark pool for trustless cross-chain atomic trading of Ether, ERC20 tokens and Bitcoin. REN is an ERC20 token built on the Ethereum network.</p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "1000000000",
+    "Algorithm": null,
+    "ProofType": null,
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "31/12/2017",
+    "TotalCoinsMined": 1000000000,
+    "Twitter": "@republicorg",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": null,
+    "GitHub": null,
+    "OnMarkets": [
+      "Tidex",
+      "OKEX"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Finished",
+    "Description": "<p>The Republic Protocol is an open-source decentralized dark pool for<span> </span>trustless<span> </span>cross-chain atomic trading of Ether, ERC20 tokens and Bitcoin. REN is an ERC20 token built on the Ethereum network.</p>",
+    "TokenType": "ETH (ERC20)",
+    "WebsiteLink": "https://republicprotocol.com/",
+    "FundingCap": "34,400,000 USD",
+    "FundingTarget": "34,400,000 USD",
+    "Date": null,
+    "EndDate": null,
+    "FundsRaisedList": "N/A",
+    "FundsRaisedUSD": "34400000",
+    "StartPrice": "0.00006",
+    "StartPriceCurrency": "ETH",
+    "Jurisdiction": "N/A",
+    "BlogLink": "https://medium.com/republicprotocol",
+    "WhitePaperLink": "https://republicprotocol.github.io/whitepaper/republic-whitepaper.pdf"
+  },
+  "ccId": "788239"
+}

@@ -1,0 +1,62 @@
+{
+  "General": {
+    "Symbol": "PLBT",
+    "Name": "Polybius",
+    "Description": "<p>Polybius is a fully-digital bank designed to acomodate the growing digital economy, incorporating electronic identification and digital banking services to serve the needs of the digital commerce market. The Polybius is an enterprise of HashCoins, the same company that brings you the Hashflare mining contracts.</p><p>In order to fund the development of this new digital bank, Polybuis hosted an Initial Coin Offering, in which PLBT tokens were distributed among users. Through the use of Blockchain Snapshots, Polybius will destribute dividends to the PLBT token holders.</p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "20000000",
+    "Algorithm": "N/A",
+    "ProofType": "N/A",
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "30/03/2017",
+    "TotalCoinsMined": 3969564.998325,
+    "Twitter": "@PolybiusBank",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "https://polybius.io/",
+    "GitHub": null,
+    "OnMarkets": [
+      "HitBTC",
+      "Yobit",
+      "EtherDelta",
+      "CCEX",
+      "LiveCoin"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Finished",
+    "Description": "<p>Polybius is a fully-digital bank designed to acomodate the growing digital economy, incorporating electronic identification and digital banking services to serve the needs of the digital commerce market. The Polybius is an enterprise of HashCoins, the same company that brings you the Hashflare mining contracts.</p><p>In order to fund the development of this new digital bank, Polybuis hosted an Initial Coin Offering, in which PLBT tokens were distributed among users. Through the use of Blockchain Snapshots, Polybius will destribute dividends to the PLBT token holders.</p><p><span style=\"text-decoration: underline;\">Polybius ICO Bonuses:</span></p><p>- Day 1-2 : +25% Tokens.</p><p><span>- Day 3-7 : +20% Tokens.</span></p><p><span>- Week 2  : +15% Tokens.</span></p><p><span>- Week 3 <span> : +</span><span>10</span><span>% Tokens.</span></span></p><p><span><span>- Week 4 <span> : +</span><span>5</span><span>% Tokens.</span></span></span></p><p><span><span><span>- Week 5 <span> : No Bonuses.</span></span></span></span></p><p> </p>",
+    "TokenType": "ETH (ERC20)",
+    "WebsiteLink": "https://polybius.io/ico",
+    "FundingCap": "N/A",
+    "FundingTarget": "N/A",
+    "Date": 1496188800,
+    "EndDate": 1498780800,
+    "FundsRaisedList": "614368 USD; 5438569 EUR; 4219.608 BTC; 832.093 DASH; 13394.437 LTC; 24535.721 ETH; 158446.331 USDT; 1165840 EMC",
+    "FundsRaisedUSD": "31645088",
+    "StartPrice": "1.70",
+    "StartPriceCurrency": "USD",
+    "Jurisdiction": "N/A",
+    "BlogLink": "https://medium.com/@PolybiusBank/",
+    "WhitePaperLink": "https://polybius.io/media/tw_en.pdf"
+  },
+  "ccId": "171884"
+}

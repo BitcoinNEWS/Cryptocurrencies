@@ -1,0 +1,61 @@
+{
+  "General": {
+    "Symbol": "MSC",
+    "Name": "MasterCoin",
+    "Description": "<p>Mastercoin is both a new type of currency (MSC) and a platform. It is a new protocol layer running on top of bitcoin like HTTP runs on top of TCP/IP. Its purpose is to build upon the core Bitcoin protocol and add new features, with a focus on a straight-forward easy to understand implementation which allow for protocol and analysis and its rapid development. Many of the functionalities are theoretical at this point (and ripple has first-mover advantage), but Mastercoin&#39;s definitely worth watching.</p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "619478",
+    "Algorithm": "Scrypt",
+    "ProofType": "PoW",
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "31/07/2013",
+    "TotalCoinsMined": "619478",
+    "Twitter": "@MSCProtocol",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "http://mastercoin.org/",
+    "GitHub": null,
+    "OnMarkets": [
+      "Poloniex",
+      "CCEX",
+      "BTER",
+      "EtherDelta"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "N/A",
+    "Description": null,
+    "TokenType": null,
+    "WebsiteLink": null,
+    "FundingCap": null,
+    "FundingTarget": null,
+    "Date": null,
+    "EndDate": null,
+    "FundsRaisedList": null,
+    "FundsRaisedUSD": null,
+    "StartPrice": null,
+    "StartPriceCurrency": null,
+    "Jurisdiction": null,
+    "BlogLink": null,
+    "WhitePaperLink": null
+  },
+  "ccId": "5394"
+}

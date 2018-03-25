@@ -1,0 +1,60 @@
+{
+  "General": {
+    "Symbol": "RBIES",
+    "Name": "Rubies",
+    "Description": "<p>Rubies is a Business and Entertainment Crypto Currency. RBIES coin is mined though bet-mining.</p><p>Bet-Mining new Rubies will help determine the price per coin, if people determine that it takes 0.015 BTC to make 1 BTC betting volume to unlock 30 Rubies via Bet-Mining, then that would put each Ruby valued at 0.0005 BTC. Markets will ultimately determine the value however.</p><p>Bet-Mining  halved on June 1st 2016<br />The next halving occurs December 1st 2016</p><p>Current reward is 200 Rubies per 1 <span class=\"BTC\">BTC</span> of volume</p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "10000000",
+    "Algorithm": null,
+    "ProofType": "PoS",
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "09/02/2016",
+    "TotalCoinsMined": null,
+    "Twitter": "@Betterbets_io",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "http://rbies.org/",
+    "GitHub": null,
+    "OnMarkets": [
+      "CCEX",
+      "Yobit",
+      "LiveCoin"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "N/A",
+    "Description": null,
+    "TokenType": null,
+    "WebsiteLink": null,
+    "FundingCap": null,
+    "FundingTarget": null,
+    "Date": null,
+    "EndDate": null,
+    "FundsRaisedList": null,
+    "FundsRaisedUSD": null,
+    "StartPrice": null,
+    "StartPriceCurrency": null,
+    "Jurisdiction": null,
+    "BlogLink": null,
+    "WhitePaperLink": null
+  },
+  "ccId": "20320"
+}

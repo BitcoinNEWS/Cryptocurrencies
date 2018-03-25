@@ -1,0 +1,58 @@
+{
+  "General": {
+    "Symbol": "UNF",
+    "Name": "Unfed Coin",
+    "Description": "<p><span>Unfed Coin is a Proof of Work cryptocurrency, it uses the Scrypt algorithm. The main target of the project is to attract more users and to become a common tool for easy, secure and fast payments over the web, aspiring to create a stable and global peer-to-peer network of users that use Unfed as a solid payment gateway with very low-cost transactions. </span><br /><br /><br /></p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "67000000",
+    "Algorithm": "Scrypt",
+    "ProofType": "PoW",
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "06/03/2016",
+    "TotalCoinsMined": null,
+    "Twitter": null,
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "http://www.unfedcurrency.byethost9.com/?i=1",
+    "GitHub": null,
+    "OnMarkets": [
+      "Yobit"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "N/A",
+    "Description": null,
+    "TokenType": null,
+    "WebsiteLink": null,
+    "FundingCap": null,
+    "FundingTarget": null,
+    "Date": null,
+    "EndDate": null,
+    "FundsRaisedList": null,
+    "FundsRaisedUSD": null,
+    "StartPrice": null,
+    "StartPriceCurrency": null,
+    "Jurisdiction": null,
+    "BlogLink": null,
+    "WhitePaperLink": null
+  },
+  "ccId": "29198"
+}

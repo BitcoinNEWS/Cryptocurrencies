@@ -1,0 +1,61 @@
+{
+  "General": {
+    "Symbol": "TSE",
+    "Name": "TattooCoin",
+    "Description": "<p>TattooCoin aims to be the cryptocurrency for the tattoo generation. Working towards partnering with tattoo shops and parlors that offer tattoo services and other merchants that tattooed and non-tattooed crypto people love, the dev team is taking altcoin and digital money from the trading sites to the actual world. A herculean task that would be achieved by taking baby steps towards the recognition of cryptocurrencies.</p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "500000000",
+    "Algorithm": "Scrypt",
+    "ProofType": "PoW/PoS",
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "08/03/2017",
+    "TotalCoinsMined": null,
+    "Twitter": "@DeveloperTattoo",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "http://tattoocoin.net/",
+    "GitHub": null,
+    "OnMarkets": [
+      "Yobit",
+      "Cryptopia",
+      "CCEX",
+      "Novaexchange"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "N/A",
+    "Description": null,
+    "TokenType": null,
+    "WebsiteLink": null,
+    "FundingCap": null,
+    "FundingTarget": null,
+    "Date": null,
+    "EndDate": null,
+    "FundsRaisedList": null,
+    "FundsRaisedUSD": null,
+    "StartPrice": null,
+    "StartPriceCurrency": null,
+    "Jurisdiction": null,
+    "BlogLink": null,
+    "WhitePaperLink": null
+  },
+  "ccId": "49610"
+}

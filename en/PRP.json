@@ -1,0 +1,56 @@
+{
+  "General": {
+    "Symbol": "PRP",
+    "Name": "Papyrus",
+    "Description": "<p><span>Papyrus is a decentralized ecosystem for digital advertising. It uses decentralized real-time bidding protocol (dRTB) for ad buying, allowing participants to interact directly, skipping middlemen and their associated fees. apyrus architecture consists of Ethereum smart contracts, scalability solutions to handle hundreds of billions of ad impressions daily and full stack of open source components for easy integration with traditional advertising platforms. PRP is an ERC20 token based on the Ethereum blockchain used in the Papyrus ecosystem for advertiser payments, publishers Compensation for publishers and users, and more, security Proof-of-Stake deposits and governance.</span></p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": null,
+    "Algorithm": null,
+    "ProofType": null,
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "16/07/2017",
+    "TotalCoinsMined": null,
+    "Twitter": "@papyrus_global",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": null,
+    "GitHub": null,
+    "OnMarkets": [],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Ongoing",
+    "Description": "<p><span>Papyrus is a decentralized ecosystem for digital advertising. It uses decentralized real-time bidding protocol (dRTB) for ad buying, allowing participants to interact directly, skipping middlemen and their associated fees. Papyrus architecture consists of Ethereum smart contracts, scalability solutions to handle hundreds of billions of ad impressions daily and a full stack of open source components for easy integration with traditional advertising platforms. PRP is an ERC20 token based on the Ethereum blockchain used in the Papyrus ecosystem for </span><span>a</span><span>dvertiser payments, p</span><span>ublishers Compensation for publishers and users, and more</span><span>, </span><span>s</span><span>ecurity Proof-of-Stake deposits and governance.</span></p><p><strong>Team</strong>:</p><ul><li><strong>Alexander Shvets:</strong> Product Director <a href=\"https://www.facebook.com/ashwets\" target=\"_blank\"><img src=\"/media/1383930/face_logo_final.png?width=13&amp;height=13\" alt=\"\" data-id=\"202866\"></a> <a href=\"https://www.linkedin.com/in/ashwets/\" target=\"_blank\"><img src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Leo Eletskikh:</strong> Technology Evangelist <a href=\"https://www.facebook.com/yeleleo\" target=\"_blank\"><img src=\"/media/1383930/face_logo_final.png?width=13&amp;height=13\" alt=\"\" data-id=\"202866\"></a> <a href=\"https://twitter.com/yeleleo_en\" target=\"_blank\"><img src=\"/media/1383932/twitter_logo_final.png?width=13&amp;height=13\" alt=\"\" data-id=\"202868\"></a> <a href=\"https://www.linkedin.com/in/yeleleo/\" target=\"_blank\"><img src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Elena Obukhova:</strong> Communications Director <a href=\"https://www.facebook.com/elena.obukhova.94\" target=\"_blank\"><img src=\"/media/1383930/face_logo_final.png?width=13&amp;height=13\" alt=\"\" data-id=\"202866\"></a> <a href=\"https://www.linkedin.com/in/elena-obukhova-9312a3a9\" target=\"_blank\"><img src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Tanya Krishtopa:</strong> Product Manager <a href=\"https://www.facebook.com/tatiana.krishtopa\" target=\"_blank\"><img src=\"/media/1383930/face_logo_final.png?width=13&amp;height=13\" alt=\"\" data-id=\"202866\"></a> <a href=\"https://www.linkedin.com/in/tatianakrishtopa/\" target=\"_blank\"><img src=\"/media/1383931/likedin_logo_final.png?width=0&amp;height=0\" alt=\"\" data-id=\"202867\"></a></li></ul><p>The Papyrus ICO will start on the 12th of October and will last until the 2nd of November or until the 5M funding cap is reached. The ICO tokens represent 80% of the total token supply and will be sold for an initial $0.8-$1 price. Users can participate in the crowdsale with BTC and ETH.</p><p><strong>Token Reserve Split :</strong></p><ul class=\"presale__tge-legend\"><li>80% will be sold during TGE Round 1;</li><li>20% will be allocated for an advisory board, bounty campaign, Papyrus partners, pilot integrations with ad platforms and the founding team.</li></ul><p>Papyrus features Bonus and Bounty campaigns.</p>",
+    "TokenType": "ETH (ERC20)",
+    "WebsiteLink": "https://papyrus.global/tokensale",
+    "FundingCap": "5000000 USD",
+    "FundingTarget": "N/A",
+    "Date": 1507766400,
+    "EndDate": 1509580800,
+    "FundsRaisedList": "1081 ETH\r\n19 BTC",
+    "FundsRaisedUSD": "429335",
+    "StartPrice": "0.8",
+    "StartPriceCurrency": "USD",
+    "Jurisdiction": "N/A",
+    "BlogLink": "https://blog.papyrus.global",
+    "WhitePaperLink": "https://papyrus.global/static/whitepaper.pdf/ "
+  },
+  "ccId": "304147"
+}

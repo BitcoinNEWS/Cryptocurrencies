@@ -1,0 +1,58 @@
+{
+  "General": {
+    "Symbol": "VVI",
+    "Name": "VV Coin",
+    "Description": "<p><span class=\"im\"><span>VVCoin team aims to create a mobile application that will use Augmented Reality to link tourists along with merchants, service providers and other tourists;</span><br /><span>thus bringing the tourists closer and bringing them into a community.</span><br /><br /><span>VVCoin mission is to facilitate tourists, traveler and the businesses associated with tourism sector. By offering VVCoin, the team aims to ensure that </span><br /></span><span><span class=\"im\">tourists avoid the transactional costs and the time taking process associated with money conversion.</span></span></p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "3000000000",
+    "Algorithm": null,
+    "ProofType": null,
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "13/12/2017",
+    "TotalCoinsMined": 3000000000,
+    "Twitter": "@VVcoin",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": null,
+    "GitHub": null,
+    "OnMarkets": [
+      "Coincap"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "N/A",
+    "Description": null,
+    "TokenType": null,
+    "WebsiteLink": null,
+    "FundingCap": null,
+    "FundingTarget": null,
+    "Date": null,
+    "EndDate": null,
+    "FundsRaisedList": null,
+    "FundsRaisedUSD": null,
+    "StartPrice": null,
+    "StartPriceCurrency": null,
+    "Jurisdiction": null,
+    "BlogLink": null,
+    "WhitePaperLink": null
+  },
+  "ccId": "781079"
+}

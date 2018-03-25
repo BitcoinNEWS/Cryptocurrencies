@@ -1,0 +1,58 @@
+{
+  "General": {
+    "Symbol": "ATKN",
+    "Name": "A-Token",
+    "Description": "<p> A-Token is a blockchain-based crypto-index, allowing users to invest in cryptocurrencies on the index without being exposed to the volatility of just one asset. The ATKN is a Waves-based asset that represents a share of the index.</p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "30000000",
+    "Algorithm": null,
+    "ProofType": null,
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "26/09/2017",
+    "TotalCoinsMined": null,
+    "Twitter": "@atoken9",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": null,
+    "GitHub": null,
+    "OnMarkets": [
+      "WavesDEX"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Ongoing",
+    "Description": "<p><span>A-Token is a blockchain-based crypto-index, allowing users to invest in cryptocurrencies on the index without being exposed to the volatility of just one asset. The ATKN is a Waves-based asset that represents a share of the index.</span></p><p><strong>Team</strong>:</p><ul><li><strong>Kelsey Hubbuck:</strong> CEO<span> </span><a href=\"https://www.facebook.com/kelsey.hubbuck.9\" target=\"_blank\"><img style=\"width: 13px; height: 13px;\" src=\"/media/1383930/face_logo_final.png?width=13&amp;height=13\" alt=\"\" data-id=\"202866\"></a></li><li><strong>Founder John Mileman:</strong> Co-founder<span> </span><a href=\"https://www.facebook.com/john.mileman.58\" target=\"_blank\"><img style=\"width: 13px; height: 13px;\" src=\"/media/1383930/face_logo_final.png?width=13&amp;height=13\" alt=\"\" data-id=\"202866\"></a></li><li><strong>Alex Stanley:</strong> Co-Founder<span> <a href=\"https://www.facebook.com/alex.stanley.902604\" target=\"_blank\"><img style=\"width: 13px; height: 13px;\" src=\"/media/1383930/face_logo_final.png?width=13&amp;height=13\" alt=\"\" data-id=\"202866\"></a></span></li></ul><p>The A-Token ICO will begin on the 10th of October and will last until the 15th of December 2017 or until the $12400000 funding cap is reached. The ICO token allocation represents 66.6% of the total ATKN supply. Users will be able to participate with ETH, BTC and Waves and each token will be priced at $0.66</p><p><strong>Token Reserve Split (XX%):</strong></p><ul><li>33.3% Team</li></ul><p>The A-Token ICO features a bonus and bounty campaign.</p><p><strong>Bonus Structure:</strong></p><ul><li>10 Oct/13 Oct: 40%</li><li>14 Oct/30 Oct: 25%</li><li>31 Oct/18 Nov: 15%</li><li>19 Nov/15 Dec: 40%</li></ul>",
+    "TokenType": "ETH (ERC20)",
+    "WebsiteLink": "https://a-token.io/index.php#pay",
+    "FundingCap": "12400000",
+    "FundingTarget": "12400000",
+    "Date": 1507593600,
+    "EndDate": 1513296000,
+    "FundsRaisedList": "5,000,000 A Token's sold",
+    "FundsRaisedUSD": "N/A",
+    "StartPrice": "0.62",
+    "StartPriceCurrency": "USD",
+    "Jurisdiction": "N/A",
+    "BlogLink": null,
+    "WhitePaperLink": "https://a-token.io/whitepaper.pdf"
+  },
+  "ccId": "310392"
+}

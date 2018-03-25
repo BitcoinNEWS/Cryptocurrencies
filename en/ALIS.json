@@ -1,0 +1,60 @@
+{
+  "General": {
+    "Symbol": "ALIS",
+    "Name": "ALISmedia",
+    "Description": "<p>ALIS is a social media platform specialized for the Japanese market. It is inspired by Steemit and has a similar rewards system.</p><p>The ALIS ecosystem is powered by an Ethereum token, ALIS. Content creators are rewarded with for their work according to its rating.</p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "287604611.0864",
+    "Algorithm": null,
+    "ProofType": null,
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "19/08/2017",
+    "TotalCoinsMined": 75209200,
+    "Twitter": "@ALIS_media",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": null,
+    "GitHub": null,
+    "OnMarkets": [
+      "Yobit",
+      "Cryptopia",
+      "EtherDelta"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Finished",
+    "Description": "<p>ALIS is a social media platform specialized for the Japanese market. It is inspired by STEEM and has a similar rewards system</p><p>ALIS ecosystem is powered by an Ethereum token, ALIS. Content creators are rewarded with for their work according to the its rating.</p><p><strong>Team</strong>:</p><ul><li><strong>Masahiro Yasu</strong>: Founder / CEO. <a href=\"https://www.facebook.com/masahiro.yasu.7\" target=\"_blank\"><img style=\"width: 13px; height: 13px;\" src=\"/media/1383930/face_logo_final.png?width=13&amp;height=13\" alt=\"\" data-id=\"202866\"></a> <a href=\"https://twitter.com/MasahiroALIS\" target=\"_blank\"><img style=\"width: 13px; height: 13px;\" src=\"/media/1383932/twitter_logo_final.png?width=13&amp;height=13\" alt=\"\" data-id=\"202868\"></a></li><li><strong>Takashi Mizusawa</strong>: Co-Founder / CMO.<a href=\"https://www.facebook.com/takashi.mizusawa\" target=\"_blank\"><span> </span></a><a href=\"https://www.facebook.com/sota.ishii\" target=\"_blank\"><img style=\"width: 13px; height: 13px;\" src=\"/media/1383930/face_logo_final.png?width=13&amp;height=13\" alt=\"\" data-id=\"202866\"></a><span> </span><a href=\"https://twitter.com/takashi_mizu\" target=\"_blank\"><img style=\"width: 13px; height: 13px;\" src=\"/media/1383932/twitter_logo_final.png?width=13&amp;height=13\" alt=\"\" data-id=\"202868\"></a></li><li><strong>Sota Ishii</strong>: Co-Founder / CTO.<span> </span><img style=\"width: 13px; height: 13px;\" src=\"/media/1383930/face_logo_final.png?width=13&amp;height=13\" alt=\"\" data-id=\"202866\"></li><li><strong>Tatsuhiko Kamei</strong><span>: Legal department.</span><span><span> </span></span><img style=\"width: 13px; height: 13px;\" src=\"/media/1383930/face_logo_final.png?width=13&amp;height=13\" alt=\"\" data-id=\"202866\"><span><span> </span></span><img style=\"width: 13px; height: 13px;\" src=\"/media/1383932/twitter_logo_final.png?width=13&amp;height=13\" alt=\"\" data-id=\"202868\"></li><li><strong>Kenta Nakamura</strong><span>: Media and Mass communication.</span><span><span> </span></span><a href=\"https://www.facebook.com/cafekenta?fref=ts\" target=\"_blank\"><img style=\"width: 13px; height: 13px;\" src=\"/media/1383930/face_logo_final.png?width=13&amp;height=13\" alt=\"\" data-id=\"202866\"></a><span><span> </span></span><a href=\"https://twitter.com/cafekenta\" target=\"_blank\"><img style=\"width: 13px; height: 13px;\" src=\"/media/1383932/twitter_logo_final.png?width=13&amp;height=13\" alt=\"\" data-id=\"202868\"></a></li></ul>",
+    "TokenType": "ETH (ERC20)",
+    "WebsiteLink": null,
+    "FundingCap": "13,000 ETH",
+    "FundingTarget": "N/A",
+    "Date": 1504224000,
+    "EndDate": 1508025600,
+    "FundsRaisedList": "13,000 ETH",
+    "FundsRaisedUSD": "N/A",
+    "StartPrice": "N/A",
+    "StartPriceCurrency": "N/A",
+    "Jurisdiction": "N/A",
+    "BlogLink": "https://medium.com/@alismedia",
+    "WhitePaperLink": "https://alisproject.github.io/whitepaper/whitepaper_v1.01.pdf"
+  },
+  "ccId": "331603"
+}

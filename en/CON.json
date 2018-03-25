@@ -1,0 +1,61 @@
+{
+  "General": {
+    "Symbol": "CON",
+    "Name": "Paycon",
+    "Description": "<p>A revolutionary crypto based off some open source software. We plan to change the world by devoting 1 hour to making the client and building the world best website in under 5 minutes. Paycon promises to cure cancer, aids and all deadly diseases through the power of thought. World hunger?? We will fix that. PSN network down? Trust Paycon to save the day. Wonder who Satoshi Nakamoto is? We found him. Still looking for Kony? We caught him.</p><p>Paycon will do everything you can imagine and more. With no buy support and a floor price so low we can even see it, Paycon will be the best investment you could make.</p><p><span>Version 2.0.1 comes with a the change of Multisend GUI which replaces the CON for Charity function. Multisend allows you to send up to 100% of your Stake to multiple addresses of your choosing. Link to the Cryptsy market has been added to the social/exchange tab and a small fix to the Hashsettings.</span></p>",
+    "Features": "<p>- Built in Block explorer</p><p>- Statistics page</p><p>- Social/Exchange tab - Easily connect to popular exchanges, social media and built in IRC </p><p>- MultiSend GUI - Automatically send up to 100% of your Stake on the 100th confirmation of a Staked Block to addresses of your Choosing</p><p>- SplitBlock GUI - split your Blocks automatically into custom sizes.</p><p>- Date range GUI in transactions - View Transactions based on a range, useful for determining Stakes within a given period.</p><p>- Stake time estimates and Multisend on minting notifications.</p><p>- ComboBox GUI for selection of Coins in Coin Control - Select Blocks based on Amount, Weight or Age.</p><p>- Sorting of Blocks in Coin Control by Age, Weight or estimated time to Stake.</p>",
+    "Technology": "<p><strong>POW Block Rewards</strong></p><p>Premine 50,000</p><p>0-5000 250 Coins</p><p>5001-15000 150 Coins</p><p>15001-30000 75 Coins</p><p>30001- 60480 50 Coins</p><p>POW Last Block 60480</p><p>Total POW Coins -2,449,000</p><p><strong>POS Block Rewards</strong></p><p>2 day Minimum Stake age</p><p>14 day Maximum Stake age</p><p>POS Starts at block 7200 at 50% reward per year</p><p>POS changed to 30 Coins per Block at Block 50,000 (Feb 3rd, 2015)</p>",
+    "TotalCoinSupply": "50000000",
+    "Algorithm": "X13",
+    "ProofType": "PoW/PoS",
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "07/01/2015",
+    "TotalCoinsMined": 23042604,
+    "Twitter": "@PayConX13",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "-",
+    "GitHub": null,
+    "OnMarkets": [
+      "Yobit",
+      "CCEX",
+      "Cryptopia",
+      "Cryptsy"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "N/A",
+    "Description": null,
+    "TokenType": null,
+    "WebsiteLink": null,
+    "FundingCap": null,
+    "FundingTarget": null,
+    "Date": null,
+    "EndDate": null,
+    "FundsRaisedList": null,
+    "FundsRaisedUSD": null,
+    "StartPrice": null,
+    "StartPriceCurrency": null,
+    "Jurisdiction": null,
+    "BlogLink": null,
+    "WhitePaperLink": null
+  },
+  "ccId": "12985"
+}

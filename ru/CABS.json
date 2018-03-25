@@ -1,0 +1,56 @@
+{
+  "General": {
+    "Symbol": "CABS",
+    "Name": "CryptoABS",
+    "Description": "<div class=\"slide__footer\">CryptoABS is a platofrm <span>for issuing ABS tokens which are backed by physical assets allowing holders to hedge against the extreme volatility of cryptocurrencies.</span></div>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "N/A",
+    "Algorithm": "N/A",
+    "ProofType": "N/A",
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "14/07/2017",
+    "TotalCoinsMined": null,
+    "Twitter": "@cryptoabs",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "https://cryptoabs.com/",
+    "GitHub": null,
+    "OnMarkets": [],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Finished",
+    "Description": "<div class=\"slide__footer\">CryptoABS is a<span> </span>platform <span>for issuing ABS tokens which are backed by physical assets allowing holders to hedge against the extreme volatility of cryptocurrencies.</span></div><div class=\"slide__footer\"><span></span></div><div class=\"slide__footer\"><span>Team:</span></div><ul><li>Ocean: Co-Founder (<a href=\"https://www.linkedin.com/in/ocean-liu\" target=\"_blank\">LinkedIn</a>);</li><li>Gen: Co-Founder (<a href=\"https://www.linkedin.com/in/jie-jun-tseng-b141024\" target=\"_blank\">LinkedIn</a>);</li><li>Phyrex: Co-Founder (<a href=\"https://www.linkedin.com/in/yung-chieh-tsai-31ba8310a\" target=\"_blank\">LinkedIn</a>);</li><li>Yan: Co-Founder (<a href=\"https://www.linkedin.com/in/yan-long-lai-116ba373\" target=\"_blank\">LinkedIn</a>)</li></ul><p>The CryptoABS ICO started on the 14th of July and will run until the 4th of August or until the cap/goal of $1M is reached. There is a total of 1000</p>",
+    "TokenType": "ETH (ERC20)",
+    "WebsiteLink": "https://cryptoabs.com/",
+    "FundingCap": "$1,000,000",
+    "FundingTarget": "$1,000,000",
+    "Date": 1500037200,
+    "EndDate": 1501837200,
+    "FundsRaisedList": "N/A",
+    "FundsRaisedUSD": "N/A",
+    "StartPrice": "1000",
+    "StartPriceCurrency": "USD",
+    "Jurisdiction": "N/A",
+    "BlogLink": null,
+    "WhitePaperLink": "https://github.com/CryptoABS/whitepaper"
+  },
+  "ccId": "196986"
+}

@@ -1,0 +1,56 @@
+{
+  "General": {
+    "Symbol": "GENE",
+    "Name": "PARKGENE",
+    "Description": "<p>PARKGENE is a scalable Ethereum-based platform that enables drivers to book parking directly from individual parking space owners. Parking spot owners will be able to list and sell their spots directly to drivers. The Blockchain and smart contracts are used to make the parking efficient, cheaper and secure, while the GENE token payments resolve regulation compliance issues.</p><p>GENE is an ERC20 token that serves as a currency on PARGENE&#39;s ecosystem.</p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "1000000000",
+    "Algorithm": null,
+    "ProofType": null,
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "22/12/2017",
+    "TotalCoinsMined": null,
+    "Twitter": "@PARKGENE1",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": null,
+    "GitHub": null,
+    "OnMarkets": [],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Ongoing",
+    "Description": "<p>PARKGENE is a scalable<span> </span>Ethereum-based platform that enables drivers to book parking directly from individual parking space owners. Parking spot owners will be able to list and sell their spots directly to drivers. The Blockchain and smart contracts are used to make the parking efficient, cheaper and secure, while the GENE token payments resolve regulation compliance issues.</p><p>GENE is an ERC20 token that serves as a currency on PARGENE&#39;s ecosystem.</p><p><strong>Team</strong>:</p><ul><li><strong>Louis Hatzis</strong>: Chief Executive Officer. <a href=\"https://www.facebook.com/iliashatzis17\" target=\"_blank\"><img style=\"width: 13px; height: 13px;\" src=\"/media/1383930/face_logo_final.png?width=13&amp;height=13\" alt=\"\" data-id=\"202866\"></a> <a href=\"https://www.linkedin.com/in/iliashatzis/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Giannis Ramfos</strong>: Chief Operating Officer.<span> </span><a href=\"https://www.facebook.com/YannisRamfos\" target=\"_blank\"><img style=\"width: 13px; height: 13px;\" src=\"/media/1383930/face_logo_final.png?width=13&amp;height=13\" alt=\"\" data-id=\"202866\"></a><span> </span><a href=\"https://www.linkedin.com/in/yannisramfos/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>John Zarifis</strong>: <span>Chief Technolgy Officer - Blockchain Expert</span>.<span> </span><a href=\"https://www.facebook.com/jzarifis.gmail\"><img style=\"width: 13px; height: 13px;\" src=\"/media/1383930/face_logo_final.png?width=13&amp;height=13\" alt=\"\" data-id=\"202866\"></a><span> </span><a href=\"https://www.linkedin.com/in/gianniszarifis/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Nikolas Skarlatos</strong><span>: Chief Financial Officer.</span><span><span> </span></span><a href=\"https://www.facebook.com/nikolas.skarlatos/\"><img style=\"width: 13px; height: 13px;\" src=\"/media/1383930/face_logo_final.png?width=13&amp;height=13\" alt=\"\" data-id=\"202866\"></a><span><span> </span></span><a href=\"https://www.linkedin.com/in/nikolas-skarlatos-441b4a15/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Tasos Flambouras</strong><span>: Chief of Digital Marketing.</span><span><span> </span></span><a href=\"https://www.facebook.com/tasos.flambouras\" target=\"_blank\"><img style=\"width: 13px; height: 13px;\" src=\"/media/1383930/face_logo_final.png?width=13&amp;height=13\" alt=\"\" data-id=\"202866\"></a><span><span> </span></span><a href=\"https://www.linkedin.com/in/tasosf/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li></ul><p>PARKGENE is currently holding their pre-ICO which will run until the 15th of January, 2018. The main ICO will take place between the 15th of January and the 19th of March, 2018. The ICO token supply represents 35% of the total token supply, so there will be a total of 350,000,000 GENE tokens available. The ICO funding cap is 2,150 BTC.</p><p><strong>Token Reserve Split (65%):</strong></p><ul><li>10% Advisor and Team;</li><li>10% Founders;</li><li>40% PARKGENE Future Fund;</li><li><span>5% Bounty program;</span></li></ul><p><span>PARGENE&#39;s ICO campaign will feature Escrow service, Bonuses and Bounty campaign.</span></p><p><strong>Bonus Structure:</strong></p><p><strong><img style=\"width: 369.3379790940766px; height: 500px;\" src=\"/media/20780632/capture.png?width=369.3379790940766&amp;height=500\" alt=\"\" data-id=\"600805\"></strong></p>",
+    "TokenType": "ETH (ERC20)",
+    "WebsiteLink": "https://tokensale.parkgene.io",
+    "FundingCap": "2,150 BTC",
+    "FundingTarget": "N/A",
+    "Date": 1513332000,
+    "EndDate": 1521453600,
+    "FundsRaisedList": "13,108,934 USD\r\n153,274,382.38 GENE tokens sold",
+    "FundsRaisedUSD": "15327438.238",
+    "StartPrice": "0.1",
+    "StartPriceCurrency": "USD",
+    "Jurisdiction": "Singapore",
+    "BlogLink": "https://medium.com/@parkgene/",
+    "WhitePaperLink": "https://parkgene.io/#download-whitepaper-docs"
+  },
+  "ccId": "600395"
+}

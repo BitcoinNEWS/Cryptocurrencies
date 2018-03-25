@@ -1,0 +1,59 @@
+{
+  "General": {
+    "Symbol": "MET",
+    "Name": "Memessenger",
+    "Description": "<p><span>The Memessenger is an application that allows people to communicate with memes.</span><span><span> </span>There are no words in the Memessenger, only memes.</span><span><span> </span>The mechanics of the application, in which the sound of the sticker will automatically be played on the user&#39;s phone, if the phone is not in silent mode, gives users a whole range of options for using the Ditch.</span></p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "10000000",
+    "Algorithm": null,
+    "ProofType": null,
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "24/07/2017",
+    "TotalCoinsMined": null,
+    "Twitter": "@TheMemessenger",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": null,
+    "GitHub": null,
+    "OnMarkets": [
+      "Jubi",
+      "Novaexchange"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Ongoing",
+    "Description": "<p>The Memessenger is an application that allows people to communicate with memes. There are no words in the Memessenger, only memes. The mechanics of the application, in which the sound of the sticker will automatically be played on the user&#39;s phone, if the phone is not in silent mode, gives users a whole range of options for using the Ditch.</p><p><strong>Team</strong>:</p><ul><li><strong>Jury Karl</strong>: CEO.</li><li><strong>Egor Zudin</strong><span>:<span> </span></span><span>CTO</span><span>.</span></li><li><span><strong>Andrey Antipov</strong><span>:<span> Head of Legal Service</span></span><span>.</span></span></li><li><strong>Andrey Khrapov</strong><span>:<span> </span></span><span>CMO</span><span>.</span></li><li><span><strong>Alexey Bochkarev</strong><span>:<span> Head of front-end development</span></span><span>.</span></span></li><li><strong>Anton Zhukov</strong><span>:<span> Lead Back-End Developer</span></span><span>.</span></li><li><span><strong>Dmitriy Zavarzin</strong><span>:<span> Head of B2B Sales</span></span><span>.</span></span></li><li><strong>Danil Barsukov</strong><span>:<span> Head of Pomotion</span></span><span>.</span></li></ul><p><span>The overall crowdsale will be made through 10 rounds during 10 months. Exchange rate of one MET on each round will depend on real project success. Memessenger will give clear, transparent application tracking information for current and potential members before each round of ICO.</span></p><p>Memessenger will be holding its Second ICO Round on August 25, 2017. The<span> Second ICO Round </span>token supply represents 9% of the total token supply, so there will be a total of 900,000 tokens available at the offering. The <span>Second ICO Round </span>funding target is 800,000 USD and is expected to end one month after it starts.</p>",
+    "TokenType": "WAVES",
+    "WebsiteLink": "https://themem.io/ico-the-memessenger-eng.html",
+    "FundingCap": "N/A",
+    "FundingTarget": "800,000 USD",
+    "Date": 1503619200,
+    "EndDate": 1506297600,
+    "FundsRaisedList": "$150000",
+    "FundsRaisedUSD": "142020.62",
+    "StartPrice": "1",
+    "StartPriceCurrency": "USD",
+    "Jurisdiction": "N/A",
+    "BlogLink": null,
+    "WhitePaperLink": "https://themem.io/assets/wp-eng.pdf"
+  },
+  "ccId": "221605"
+}

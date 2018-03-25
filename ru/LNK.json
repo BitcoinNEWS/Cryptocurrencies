@@ -1,0 +1,58 @@
+{
+  "General": {
+    "Symbol": "LNK",
+    "Name": "Ethereum.Link",
+    "Description": "<p>Ethereum.link is a platform that connects traditional markets and businesses with crypto currencies, smart contracts and the big spectrum of tools Ethereum platform has to offer.</p><p><span>Ethereum.link </span>aims to exponentially increase Ethereum integration into small and medium businesses.</p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "47503.2535",
+    "Algorithm": null,
+    "ProofType": null,
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "11/04/2017",
+    "TotalCoinsMined": null,
+    "Twitter": "@linkplatform",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": null,
+    "GitHub": null,
+    "OnMarkets": [
+      "EtherDelta"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Finished",
+    "Description": "<p>Ethereum.link is a platform that connects traditional markets and businesses with crypto currencies, smart contracts and the big spectrum of tools Ethereum platform has to offer.</p><p><span>Ethereum.link </span>aims to exponentially increase Ethereum integration into small and medium businesses.</p><p><strong>Team</strong>:</p><ul><li><strong>Steven J. Kelly</strong>: CEO.</li><li><strong>Alexander Dawson</strong>: CTO.</li><li><strong>Alicia L. Alcantara</strong>: Marketing and Design.</li><li><strong>Michael Y.</strong><span>: Developer.</span></li></ul><p>Ethereum.Link&#39;s ICO raised a total of 1,501,194 USD.</p>",
+    "TokenType": "ETH (ERC20)",
+    "WebsiteLink": "https://ethereum.link/ICO/stats.php",
+    "FundingCap": "55,000 LNK",
+    "FundingTarget": "6,000 LNK",
+    "Date": null,
+    "EndDate": null,
+    "FundsRaisedList": "1,501,194.52 USD",
+    "FundsRaisedUSD": "1501194.52",
+    "StartPrice": "N/A",
+    "StartPriceCurrency": "N/A",
+    "Jurisdiction": "N/A",
+    "BlogLink": "https://medium.com/@ethlink",
+    "WhitePaperLink": "https://ethereum.link/files/Whitepaper1.03.pdf"
+  },
+  "ccId": "238622"
+}

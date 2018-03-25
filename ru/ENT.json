@@ -1,0 +1,61 @@
+{
+  "General": {
+    "Symbol": "ENT",
+    "Name": "Eternity",
+    "Description": "<p>Eternity is a Proof of Work/Proof of Stake cryptocurrency using the X11 algorith. It allows anonymous and almost instant transactions through the <span>Spysend and InstantX features (respectively).</span></p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "60000000",
+    "Algorithm": "X11",
+    "ProofType": "PoW/PoS",
+    "BlockReward": 0.7500000100117177,
+    "Explorer": null,
+    "StartDate": "01/01/0001",
+    "TotalCoinsMined": 4164061.45075847,
+    "Twitter": "@Eternity_Group",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "http://ent.eternity-group.org/en/",
+    "GitHub": null,
+    "OnMarkets": [
+      "TradeSatoshi",
+      "Yobit",
+      "LiveCoin",
+      "EtherDelta"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "N/A",
+    "Description": null,
+    "TokenType": null,
+    "WebsiteLink": null,
+    "FundingCap": null,
+    "FundingTarget": null,
+    "Date": null,
+    "EndDate": null,
+    "FundsRaisedList": null,
+    "FundsRaisedUSD": null,
+    "StartPrice": null,
+    "StartPriceCurrency": null,
+    "Jurisdiction": null,
+    "BlogLink": null,
+    "WhitePaperLink": null
+  },
+  "ccId": "34609"
+}

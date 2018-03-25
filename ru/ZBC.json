@@ -1,0 +1,61 @@
+{
+  "General": {
+    "Symbol": "ZBC",
+    "Name": "Zilbercoin",
+    "Description": "<p>Zilbercoin is a Proof of Work/Proof of Stake cryptocurrency created to improve on the issues found on Bitcoin. ZBC uses the popular Scrypt algorihtm.</p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "55000000",
+    "Algorithm": "Scrypt",
+    "ProofType": "PoW/PoS",
+    "BlockReward": 0.00485782431704657,
+    "Explorer": null,
+    "StartDate": "26/01/2017",
+    "TotalCoinsMined": 9138414.51523785,
+    "Twitter": null,
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "http://zilbercoin.space/wiki/Hauptseite",
+    "GitHub": null,
+    "OnMarkets": [
+      "TradeSatoshi",
+      "LiveCoin",
+      "Novaexchange",
+      "CCEX"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "N/A",
+    "Description": null,
+    "TokenType": null,
+    "WebsiteLink": null,
+    "FundingCap": null,
+    "FundingTarget": null,
+    "Date": null,
+    "EndDate": null,
+    "FundsRaisedList": null,
+    "FundsRaisedUSD": null,
+    "StartPrice": null,
+    "StartPriceCurrency": null,
+    "Jurisdiction": null,
+    "BlogLink": null,
+    "WhitePaperLink": null
+  },
+  "ccId": "45250"
+}

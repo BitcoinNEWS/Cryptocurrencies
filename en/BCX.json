@@ -1,0 +1,59 @@
+{
+  "General": {
+    "Symbol": "BCX",
+    "Name": "BattleCoin",
+    "Description": "<p>BXC is also a new fantasy digital currency Battlecoin is a SHA-256 hybrid Proof-of-Work and Proof-of-Stake coin. There is a generous 1% interest for every 10 day period for BCX holders. Battlecoin is a playful coin with serious potential. It has 3% premined coins and 2% of coins given to early adopters. Up untill the 10000th block thereare 500 coins per block, after - only 50 coins per block. It has Proof of Stack feature: Every 10 days 1% of stake is given to the holder if the stake was immovable within 20 days. Block time is 2 minutes and difficulty retargets every 10 blocks.</p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "100000000",
+    "Algorithm": "SHA256",
+    "ProofType": "PoS",
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "10/01/2014",
+    "TotalCoinsMined": null,
+    "Twitter": "@BattlecoinBCX",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "http://battlecoinxchange.com/",
+    "GitHub": null,
+    "OnMarkets": [
+      "Cryptsy",
+      "Gateio"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "N/A",
+    "Description": null,
+    "TokenType": null,
+    "WebsiteLink": null,
+    "FundingCap": null,
+    "FundingTarget": null,
+    "Date": null,
+    "EndDate": null,
+    "FundsRaisedList": null,
+    "FundsRaisedUSD": null,
+    "StartPrice": null,
+    "StartPriceCurrency": null,
+    "Jurisdiction": null,
+    "BlogLink": null,
+    "WhitePaperLink": null
+  },
+  "ccId": "4335"
+}

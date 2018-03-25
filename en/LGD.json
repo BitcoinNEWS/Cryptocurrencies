@@ -1,0 +1,59 @@
+{
+  "General": {
+    "Symbol": "LGD",
+    "Name": "Legends Cryptocurrency",
+    "Description": "<p>The Legends Cryptocurrency is a token issued on the Ethereum blockchain. It is used as a payment system within The Legends Room, a Las Vegas-based strip club. The token allows clients to receive additional discounts. 5000 tokens equals a membership in the club which allows clients to have a 50% discount on all in-club activities except gaming. The membership is valid for a lifetime and extends to one guest.</p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "30000000",
+    "Algorithm": null,
+    "ProofType": null,
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "18/04/2017",
+    "TotalCoinsMined": 30000000,
+    "Twitter": "@legendsroom",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "https://legendsroomlv.com/",
+    "GitHub": null,
+    "OnMarkets": [
+      "BitTrex",
+      "Cryptsy"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Finished",
+    "Description": "<p>LGD tokens are a means of paying for membership at the Legends Room strip club in Las Vegas. They are also transferable and get members discounts to drinks and services. Vanbex was providing technical help to the Legends Room building a wallet and membership exchange app. It is unclear exactly how much was raised in this ICO however the price per token was approximately $1 at ICO close date and 2,000,000 tokens have been issued in this ICO.</p><p><span style=\"text-decoration: underline;\"><strong>Team</strong></span></p><p>- Nick Blomgren: owns a martial arts gym in Las Vegas</p><p>- Stephan Bonnar: UFC hall of famer</p>",
+    "TokenType": "ETH (ERC223)",
+    "WebsiteLink": "https://legendsroomlv.com/",
+    "FundingCap": "N/A",
+    "FundingTarget": "N/A",
+    "Date": 1492473600,
+    "EndDate": 1494849600,
+    "FundsRaisedList": "N/A",
+    "FundsRaisedUSD": "2000000",
+    "StartPrice": "1",
+    "StartPriceCurrency": "USD",
+    "Jurisdiction": "N/A",
+    "BlogLink": null,
+    "WhitePaperLink": null
+  },
+  "ccId": "66259"
+}

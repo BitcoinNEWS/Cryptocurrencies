@@ -1,0 +1,56 @@
+{
+  "General": {
+    "Symbol": "FLOT",
+    "Name": "FireLotto",
+    "Description": "<p>FireLotto is an Ethereum-based lottery for cryptocurrencies. It&#39;s a finished and launched product whose code is available for inspection. The FLOT token allows holders to receive a commission from each ticket sold in every drawing.</p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "100000000",
+    "Algorithm": null,
+    "ProofType": null,
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "15/01/2018",
+    "TotalCoinsMined": null,
+    "Twitter": "@FireLottery",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": null,
+    "GitHub": null,
+    "OnMarkets": [],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Upcoming",
+    "Description": "<p>FireLotto is an Ethereum-based lottery for cryptocurrencies. It&#39;s a finished and launched product whose code is available for inspection. The FLOT token allows holders to receive a commission from each ticket sold in every drawing.</p><p><strong>Team</strong>:</p><ul><li><strong>Roman Demidov:</strong> CEO <a href=\"https://www.linkedin.com/in/roman-demidov-6026a614a\" target=\"_blank\"><img src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Vladislav Shabanov:</strong> CFO <a href=\"https://www.linkedin.com/in/vladislav-shabanov/\" target=\"_blank\"><img src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Alexander Karelin:</strong> CMO <a href=\"https://www.linkedin.com/in/alexandrkarelin82/\" target=\"_blank\"><img src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Elena Bogdanova:</strong> Lawyer <a href=\"https://www.linkedin.com/in/elena-bogdanova-6036459a\" target=\"_blank\"><img src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li></ul><p>The FireLotto ICO will start on the 15th of January and it will last until the 15th of April 2018. The ICO token allocation represents 77% of the total token supply and will be available for a starting price of $0.35. The ICO funding target is set at $10M and the cap is set to $15M. </p><p><strong>Token Reserve Split (23%):</strong></p><ul><li>20% for team, 3% bounties</li></ul><p>The FLOT ICO features a bonus campaign.</p>",
+    "TokenType": "ETH (ERC20)",
+    "WebsiteLink": "http://firelotto.io ",
+    "FundingCap": "15000000 USD",
+    "FundingTarget": "10000000 USD",
+    "Date": 1515974400,
+    "EndDate": 1518652800,
+    "FundsRaisedList": "3,750.1404 ETH\r\n101,7885 BTC",
+    "FundsRaisedUSD": "4312212",
+    "StartPrice": "0.38",
+    "StartPriceCurrency": "USD",
+    "Jurisdiction": "N/A",
+    "BlogLink": "https://medium.com/@firelotto",
+    "WhitePaperLink": "https://firelotto.io/whitepaper_en.pdf"
+  },
+  "ccId": "654118"
+}

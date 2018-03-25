@@ -1,0 +1,60 @@
+{
+  "General": {
+    "Symbol": "DBC",
+    "Name": "DeepBrain Chain",
+    "Description": "<p>The DeepBrain Chain is an NEO-based artificial intelligence platform that will leverage the blockchain technology to implement a decentralized, low-cost, and AI computing platform. By using the blockchain technology the platform&#39;s AI will be powered by the computational power of the network mining nodes. Furthermore, the mining nodes will be incentivized using the Smart Contracts feature.</p><p>The DeepBrain Chain token (DBC) will be used to reward the network miners.</p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "10000000000",
+    "Algorithm": null,
+    "ProofType": null,
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "03/11/2017",
+    "TotalCoinsMined": 900000000,
+    "Twitter": "@DeepBrainChain",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": null,
+    "GitHub": null,
+    "OnMarkets": [
+      "Kucoin",
+      "Gateio",
+      "HuobiPro"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "N/A",
+    "Description": null,
+    "TokenType": null,
+    "WebsiteLink": null,
+    "FundingCap": null,
+    "FundingTarget": null,
+    "Date": null,
+    "EndDate": null,
+    "FundsRaisedList": null,
+    "FundsRaisedUSD": null,
+    "StartPrice": null,
+    "StartPriceCurrency": null,
+    "Jurisdiction": null,
+    "BlogLink": null,
+    "WhitePaperLink": null
+  },
+  "ccId": "586088"
+}

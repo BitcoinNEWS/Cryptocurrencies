@@ -1,0 +1,56 @@
+{
+  "General": {
+    "Symbol": "FSBT",
+    "Name": "Forty Seven Bank",
+    "Description": "<p>Forty Seven Bank is a financial technology start-up aiming to provide high quality, secure and user-friendly banking services for individual and institutional consumers, which will be fully recognised by the financial authorities and compliant with regulatory framework. FSBT is an ERC20 token based on Ethereum. It&#39;s used within the platform and gives its holders several benefits, making them <span>top priority customers of the bank according to loyalty program and will get loyalty rewards on yearly basis based on performance of the bank.</span></p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": null,
+    "Algorithm": null,
+    "ProofType": null,
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "16/11/2017",
+    "TotalCoinsMined": null,
+    "Twitter": "@47foundation",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": null,
+    "GitHub": null,
+    "OnMarkets": [],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Ongoing",
+    "Description": "<p><span>Forty Seven Bank is</span><span> a<span> </span></span><span>financial technology start-up aiming to provide high quality, secure and user-friendly banking services for individual and institutional consumers, which will be fully recognised by the financial authorities and compliant with regulatory framework. FSBT is an ERC20 token based on Ethereum. It&#39;s used within the platform and gives its holders several benefits, making them </span><span>top priority customers of the bank according to loyalty program and will get loyalty rewards on yearly basis based on performance of the bank.</span></p><p><strong>Team</strong>:</p><ul><li><strong>Aleksandrs Malins:</strong> Chief Executive Officer, Member of the Board <a href=\"https://www.linkedin.com/in/alexander-malin-30a6ab34\" target=\"_blank\"><img src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Igors Astapčiks:</strong> Chief Operational Officer, Member of the Board <a href=\"https://www.linkedin.com/in/igors-astapchiks-53029340\" target=\"_blank\"><img src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Vladimirs Tomko:</strong> Chief Marketing Officer, Member of the Board <a href=\"https://www.linkedin.com/in/vladimir-tomko-b670492\" target=\"_blank\"><img src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Mihails Skoblovs:</strong> Chief Financial Officer, Member of the Board <a href=\"https://www.linkedin.com/in/mikhailskoblov/\" target=\"_blank\"><img src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li></ul><p>The <span>Forty Seven Bank began on the 16th of November 2017 and will end on the 31st of March 2018. The ICO token supply represents 90% of the total supply and will be sold for a 0.00393 ETH starting price. The funding target is set at 3600 ETH and the cap at 36000 ETH.</span></p><p><strong>Token Reserve Split (10%):</strong></p><ul><li><span>For founders: 5%</span></li><li><span>Bounties: 5%</span></li></ul><p>The FSBT ICO features a bonus and bounty campaigns.</p><p> </p><p> </p>",
+    "TokenType": "ETH (ERC20)",
+    "WebsiteLink": "https://www.fortyseven.io/#ico",
+    "FundingCap": "36000 ETH",
+    "FundingTarget": "3600 ETH",
+    "Date": 1510790400,
+    "EndDate": 1522454400,
+    "FundsRaisedList": "2 155 325 FSBT sold\r\n9224.791 ETH\r\n5266074.336 USD",
+    "FundsRaisedUSD": "4889139.23",
+    "StartPrice": "0.00428",
+    "StartPriceCurrency": "ETH",
+    "Jurisdiction": "N/A",
+    "BlogLink": "https://medium.com/@fortyseven47",
+    "WhitePaperLink": "https://drive.google.com/open?id=0BzvESRkgX-uDeHc1QjRzbHRBelU"
+  },
+  "ccId": "711359"
+}

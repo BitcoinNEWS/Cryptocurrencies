@@ -1,0 +1,56 @@
+{
+  "General": {
+    "Symbol": "NBX",
+    "Name": "Noxbox",
+    "Description": "<p>Noxbox<span><span> </span>is a service provider platform based on the Waves blockchain. The platform will feature a service marketplace for massage, haircuts, manicure, food delivery, repair, construction services, and plumbing. Moreover, the Noxbox platform will provide a rating system allowing built-in users to vote on contentious issues.</span></p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "200000000",
+    "Algorithm": null,
+    "ProofType": null,
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "17/02/2018",
+    "TotalCoinsMined": null,
+    "Twitter": "@noxboxio",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": null,
+    "GitHub": null,
+    "OnMarkets": [],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Ongoing",
+    "Description": "<p>Noxbox is a service provider platform based on the Waves blockchain. The platform will feature a service marketplace for massage, haircuts, manicure, food delivery, repair, construction services, and plumbing. Moreover, the Noxbox platform will provide a rating system allowing built-in users to vote on contentious issues.</p><p><strong>Team</strong>:</p><ul><li><strong>Nicolay Lipnevich</strong>: Author and architect.</li><li><strong>Marina Lipnevich</strong>: Adviser and associate.</li><li><strong>Dmitry Markevich</strong>: Leader in the marketing area.</li></ul><p>Noxbox will be holding its ICO in three phases, in each one 20% of the total token supply will be distributed. The first phase of the ICO will take place on the 1st of March, 2018 and is expected to end on the 29th of March, 2018. On the first phase, the ICO token supply will represent 20% so there will be a total of 40,000,000 tokens available for a 0.1 USD base price. The 40% left will be distributed in September 2018, and January 2019 for the token market price. The ICO funding target is 400 BTC.</p><p><strong>Token Reserve Split (40%):</strong></p><ul><li>40% Noxbox team;</li></ul><p><span>Noxbox ICO will feature a bounty campaign, and the token will not be mineable.</span></p>",
+    "TokenType": "WAVES",
+    "WebsiteLink": "https://noxbox.io",
+    "FundingCap": "400 BTC",
+    "FundingTarget": "400 BTC",
+    "Date": 1519866000,
+    "EndDate": 1522285200,
+    "FundsRaisedList": "‎‎7,303,224 Noxbox distributed\r\n555,125 USD",
+    "FundsRaisedUSD": "555125",
+    "StartPrice": "0.1",
+    "StartPriceCurrency": "USD",
+    "Jurisdiction": "Belarus",
+    "BlogLink": null,
+    "WhitePaperLink": "https://noxbox.io/en.pdf"
+  },
+  "ccId": "784589"
+}

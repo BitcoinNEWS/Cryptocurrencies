@@ -1,0 +1,56 @@
+{
+  "General": {
+    "Symbol": "CEDEX",
+    "Name": "CEDEX Coin",
+    "Description": "<p>CEDEX is a certified blockchain-based diamong exchange that allows anyone to invest in indidual diamonds, shares of a high-value stone or shares in a basket of diamonds (ETF). The CEDEX Exchange is powered by the CEDEX Coin, an ERC20 token based on the Ethereum network. It allows users to puchase diamonds on CEDEX.</p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "100000000",
+    "Algorithm": null,
+    "ProofType": null,
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "01/01/0001",
+    "TotalCoinsMined": null,
+    "Twitter": "@Cedex56082561",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": null,
+    "GitHub": null,
+    "OnMarkets": [],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Upcoming",
+    "Description": "<p><span>CEDEX is a certified blockchain-based diamong exchange that allows anyone to invest in indidual diamonds, shares of a high-value stone or shares in a basket of diamonds (ETF). The CEDEX Exchange is powered by the CEDEX Coin, an ERC20 token based on the Ethereum network. It allows users to puchase diamonds on CEDEX.</span></p><p> </p><p><strong>Team</strong>:</p><ul><li><strong>Saar Levi:</strong> CEO and Co-Founder <a href=\"https://www.linkedin.com/in/saar-levi-0815627/\" target=\"_blank\"><img src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Ronen Priewer:</strong> Founder <a href=\"https://www.linkedin.com/in/ronen-priewer-75396930/\" target=\"_blank\"><img src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Avner Lewenstein:</strong> CTO and Serial Blockchain Developer <a href=\"https://www.linkedin.com/in/avner-lewenstein-6848963\" target=\"_blank\"><img src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Evengi Kif:</strong> Head of Product <a href=\"https://www.linkedin.com/in/evgenikif/\" target=\"_blank\"><img src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Aviv Balassiano:</strong> Development Manager <a href=\"https://www.linkedin.com/in/avivbl/\" target=\"_blank\"><img src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li></ul><p>The CEDEX ICO will start on the 16th of March. The ICO token allocation represents 50% of the total token supply and will be available for a 0.8 USD starting price. Users can purchase tokens with BTC and ETH. The ICO funding cap is set at $40,000,000.</p><p><strong>Token Reserve Split:</strong></p><ul><li>50% Token Sale</li><li>15% Bonuses</li><li>10% Team and Advisory</li><li>15% The Company</li><li>5% Founders</li><li>5% Outsourced services</li></ul><p>The CEDEX ICO features a bonus and bounty campaign.</p><p><strong>Bonus Structure:</strong></p><ul><li>Pre-sale - up to 25%</li><li>First day of sale - up to 25% (ending at 24:00 GMT)</li></ul>",
+    "TokenType": "ETH (ERC20)",
+    "WebsiteLink": "https://cedex.com/?referrer=34dd7dd7b3&src=1&utm_source=adnetwork&utm_medium=ads&utm_campaign=goog96 ",
+    "FundingCap": "$40,000,000",
+    "FundingTarget": "50000000 CEDEX",
+    "Date": 1521194400,
+    "EndDate": 1522058400,
+    "FundsRaisedList": "26,123,895 CEDEX sold\r\n20,899,116 USD\r\n23,029 ETH",
+    "FundsRaisedUSD": "20899116",
+    "StartPrice": "0.8",
+    "StartPriceCurrency": "USD",
+    "Jurisdiction": "Gibraltar",
+    "BlogLink": "https://medium.com/@cedex.community",
+    "WhitePaperLink": "https://cedex.com/img/Whitepaper.pdf"
+  },
+  "ccId": "797331"
+}

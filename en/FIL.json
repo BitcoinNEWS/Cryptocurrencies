@@ -1,0 +1,58 @@
+{
+  "General": {
+    "Symbol": "FIL",
+    "Name": "FileCoin",
+    "Description": "<p>Filecoin — это децентрализованная сеть хранения, которая превращает облачное хранилище в алгоритмический рынок. Рынок работает на блочной цепочке (блокчейне) с собственным токеном протокола (также называемым «Filecoin»), который добывают майнеры, предоставляя хранилище клиентам. И наоборот, клиенты тратят Filecoin на привлечение майнеров для хранения или распространения данных. Как и в случае с биткоином, майнеры Filecoin состязаются за возможность производства блоков со значительными наградами, однако, майнинговые мощности Filecoin пропорциональны активному хранилищу. Таким образом, майниинг Filecoin напрямую предоставляет клиентам полезный сервис. Это стимулирует майнеров к сбору всего доступного им места для хранения информации, которое они и сдают клиентам в аренду. Протокол собирает эти ресурсы воедино для того, чтобы сформировать самовосстанавливающуюся сеть хранения данных, на которую может положиться любой человек в мире</p>",
+    "Features": "<p>В Filecoin будет несколько типов пользователей. Те, кому нужно место для хранения информации, будут приносить деньги в систему. Те, кто готов предоставлять это место, будут в конечном итоге определять стоимость токенов. Filecoin будет использовать систему репутации и другие разработки, которые позволят эффективно пользоваться системой участникам, выступающим с любой из сторон. Filecoin предлагает более продвинутую систему для майнеров, чем Siacoin или Storj – даже люди с небольшими хранилищами смогут оказывать услуги в рамках proof-of-retrieval (доказательство выдачи информации).</p><p>Стоимость хранения информации будет регулироваться рыночными механизмами. В случае с Filecoin майнеры получат гораздо большую степень свободы в установлении устраивающей их цены, чем в случае с Storj, который не позволяет задавать цену, за которую майнеры готовы предоставлять место для хранения информации.</p>",
+    "Technology": null,
+    "TotalCoinSupply": "N/A",
+    "Algorithm": "N/A",
+    "ProofType": "N/A",
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "01/01/0001",
+    "TotalCoinsMined": null,
+    "Twitter": "@MineFilecoin",
+    "Telegram": null,
+    "Youtube": "EClPAFPeXIQ",
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "https://filecoin.io/",
+    "GitHub": null,
+    "OnMarkets": [
+      "Gateio"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Ongoing",
+    "Description": "<p><span>Filecoin is a decentralized storage network that turns cloud storage into an algorithmic market. The market runs on a blockchain with a native protocol token (also called “Filecoin”), which miners earn by providing storage to clients. Conversely, clients spend Filecoin hiring miners to store or distribute data. Filecoin miners compete to mine blocks with sizable rewards, but Filecoin mining power is proportional to active storage, which directly provides a useful service to clients.</span></p><p><strong>Team</strong>:</p><p><strong>Protocol Labs</strong>: <a href=\"https://www.facebook.com/protocollabs\" target=\"_blank\"><img style=\"width: 13px; height: 13px;\" src=\"/media/1383930/face_logo_final.png?width=13&amp;height=13\" alt=\"\" data-id=\"202866\"></a> <a href=\"https://twitter.com/protocollabs\" target=\"_blank\"><img style=\"width: 13px; height: 13px;\" src=\"/media/1383932/twitter_logo_final.png?width=13&amp;height=13\" alt=\"\" data-id=\"202868\"></a> <a href=\"https://www.linkedin.com/company-beta/16181958/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></p><p><span>Filecoin </span>will be holding its ICO on August 10, 2017. The ICO token supply represents 10% of the total token supply. The ICO funding cap is  ​200,000,000 FIL. (More information on the ICO details coming soon)</p><p><strong>Token Reserve Split (90%):</strong></p><ul><li>70% Filecoin Miners;</li><li>15% Protocol Labs;</li><li>05% Filecoin Foundation;</li></ul><p><strong>Documents:</strong></p><ul><li><a href=\"https://coinlist.co/static/media/Filecoin-Primer.2c8978a5.pdf\" target=\"_blank\">Filecoin Primer</a></li><li><a href=\"https://coinlist.co/static/media/Filecoin-Sale-Economics.0ae9a53f.pdf\" target=\"_blank\">Sale Economics</a></li><li><a href=\"https://coinlist.co/static/media/How-to-Invest.0a9f70b4.pdf\" target=\"_blank\">How to Invest in Filecoin</a></li><li><a href=\"https://coinlist.co/static/media/Filecoin-Whitepaper.504569e3.pdf\" target=\"_blank\">Filecoin Whitepaper</a></li><li><a href=\"https://coinlist.co/static/media/Filecoin-research-plan.fed217f0.pdf\" target=\"_blank\">Research Roadmap 2017</a></li><li><a href=\"https://coinlist.co/static/media/proof-of-replication.fa5244e8.pdf\" target=\"_blank\">Proof of Replication</a></li><li><a href=\"https://coinlist.co/static/media/Protocol%20Labs%20-%20SAFT%20for%20Filecoin%20Token%20Presale.6ddb6fb6.pdf\" target=\"_blank\">SAFT</a></li><li><a href=\"https://coinlist.co/static/media/Protocol%20Labs%20-%20SAFT%20-%20Private%20Placement%20Memorandum.5ef45d8f.pdf\" target=\"_blank\">Private Placement Memorandum</a></li></ul>",
+    "TokenType": "N/A",
+    "WebsiteLink": "https://coinlist.co/currencies/filecoin/overview",
+    "FundingCap": " ​200,000,000 FIL",
+    "FundingTarget": "N/A",
+    "Date": 1502391600,
+    "EndDate": 1504810800,
+    "FundsRaisedList": "204,995,589 USD",
+    "FundsRaisedUSD": "204995589",
+    "StartPrice": "N/A",
+    "StartPriceCurrency": "N/A",
+    "Jurisdiction": "N/A",
+    "BlogLink": null,
+    "WhitePaperLink": "https://filecoin.io/filecoin.pdf"
+  },
+  "ccId": "213663"
+}

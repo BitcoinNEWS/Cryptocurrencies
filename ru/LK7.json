@@ -1,0 +1,58 @@
+{
+  "General": {
+    "Symbol": "LK7",
+    "Name": "Lucky7Coin",
+    "Description": "<p>Lucky7Coin (LK7) It is a POW/POS coin with a completely new algorithm and belong to latest PPCoin/Novacoin. Lucky7Coin offers superblocks for miners. That means they could randomly win huge rewards from 77 coins to 7,777. The coin also offers a 5% annual interest rate.</p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "99792000",
+    "Algorithm": "Scrypt",
+    "ProofType": "PoW/PoS",
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "15/09/2013",
+    "TotalCoinsMined": null,
+    "Twitter": null,
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "http://lucky7coin.co.nf/",
+    "GitHub": null,
+    "OnMarkets": [
+      "Cryptsy"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "N/A",
+    "Description": null,
+    "TokenType": null,
+    "WebsiteLink": null,
+    "FundingCap": null,
+    "FundingTarget": null,
+    "Date": null,
+    "EndDate": null,
+    "FundsRaisedList": null,
+    "FundsRaisedUSD": null,
+    "StartPrice": null,
+    "StartPriceCurrency": null,
+    "Jurisdiction": null,
+    "BlogLink": null,
+    "WhitePaperLink": null
+  },
+  "ccId": "4550"
+}

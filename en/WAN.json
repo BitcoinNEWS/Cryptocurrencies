@@ -1,0 +1,56 @@
+{
+  "General": {
+    "Symbol": "WAN",
+    "Name": "Wanchain",
+    "Description": "<p>Wanchain is a distributed super financial market based on blockchain. Wanchain aims to build a distributed future \"bank.\" As a distributed digital-asset based financial infrastructure, Wanchain wants to allow any institution or individual to set up their own virtual teller window in the “bank” and provide services such as loan origination, asset exchanges, credit payments and transaction settlements based on digital assets. The core developers are based in the US and China.</p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": null,
+    "Algorithm": null,
+    "ProofType": "PoS",
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "01/01/0001",
+    "TotalCoinsMined": null,
+    "Twitter": "https://twitter.com/wanchain_org",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": null,
+    "GitHub": null,
+    "OnMarkets": [],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Upcoming",
+    "Description": "<p>Wanchain is a distributed financial infrastructure based on digital assets it aims to offer, transactions, investing, loans, exchange and multi currency settlement systems.</p><p>Two main roles for the Wancoin are:</p><p>1) process fees for Wanchain transactions and cross-chain transactions</p><p>2) bond deposits at each node for ensuring cross-chain transactions.</p><p>In terms of applications, as more and more cross-chain transactions are processed by Wanchain and if Wancoin appreciates in value, Wancoin may become an intermediate currency for currency exchanges. </p><p><strong>Team:</strong></p><ul><li>Jack Lu: Founder</li><li><strong>Zane Liang: </strong>CEO</li><li><strong>Ying Zhang: </strong>CTO </li><li><strong>Shi Liu</strong></li><li><strong>Demmon Zhao</strong></li><li><strong>Michael Y</strong></li><li>Eric Swartz</li></ul><p>Advisors:</p><ul><li>Feng Han: Secretary-General of DACA</li><li>David A Johnston: Chairman of the board at Factom</li><li>Dustin Byington: President &amp; Founder of Stokens Venture Capital, tendermint Co-Founder</li><li>Albert Ching: Founder of i-Sprint</li></ul><p>Bonus Schedule:</p><ul><li>1 ETH = 880 WAN 6 Sept - 13 Sept</li><li>1 ETH = 790 WAN 13 Sept - 20 Sept</li><li>1 ETH = 750 WAN 20 Sept - 27 Sept</li></ul><p><strong>Token reserve split (49%):</strong></p><ul><li>20% Team</li><li>19% Foundation</li><li>10% Miners</li></ul><p>Minimum contribution is 0.1 ETH. Wanchain v1 is expected to go online in Nov 2017.</p><p> </p>",
+    "TokenType": "New Blockchain",
+    "WebsiteLink": "https://wanchain.org/crowdsale",
+    "FundingCap": "135,000 ETH",
+    "FundingTarget": "N/A",
+    "Date": 1504699200,
+    "EndDate": 1506513600,
+    "FundsRaisedList": "N/A",
+    "FundsRaisedUSD": "N/A",
+    "StartPrice": "0.00117",
+    "StartPriceCurrency": "ETH",
+    "Jurisdiction": "N/A",
+    "BlogLink": null,
+    "WhitePaperLink": "https://wanchain.org/files/Wanchain-Whitepaper-EN-version.pdf"
+  },
+  "ccId": "240142"
+}

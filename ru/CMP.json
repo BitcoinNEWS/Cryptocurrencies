@@ -1,0 +1,59 @@
+{
+  "General": {
+    "Symbol": "CMP",
+    "Name": "Compcoin",
+    "Description": "<p><span>Compcoin is an investment system that uses a valuable blockchain Digital Asset to run a decentralized financial trading computer. Compcoin provides the capacity for automatically generated cash flows using Artificial Intelligence, the ART – a proprietary, automated, algorithmic foreign currency exchange (forex) trading platform developed by Fintech Investment Group.</span></p><p><span> ART analyzes historical, back-tested forex trading data to predict the potential outcomes of future US Dollar-to-Euro (USD/EUR) currency trades, and automatically executes those trades on behalf of investors. </span></p><p><span>Compcoin can be transferred directly between users without the need of an intermediary. Once Compcoin becomes available, open, convertible coin (estimated mid-2017), Compcoin will be available for trade with Bitcoin, Ether or other digital coins on one or more electronic exchanges.</span></p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "10000000",
+    "Algorithm": "N/A",
+    "ProofType": "N/A",
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "13/06/2017",
+    "TotalCoinsMined": null,
+    "Twitter": null,
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "https://compcoin.com/",
+    "GitHub": null,
+    "OnMarkets": [
+      "Novaexchange",
+      "Cryptopia"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Ongoing",
+    "Description": "<p>Compcoin is designed to be a financial asset superior in its ability to store long-term value, however, the primary function of Compcoin is to grant investors access to ART – a proprietary, automated, algorithmic foreign currency exchange (forex) trading platform developed by Fintech Investment Group.</p><p>Using sophisticated “Big Data” and artificial intelligence technologies, such as machine learning and predictive analytics, ART analyzes historical, back-tested forex trading data to predict the potential outcomes of future US Dollar-to-Euro (USD/EUR) currency trades, and automatically executes those trades on behalf of investors.</p><p>Compcoin will be holding its ICO on June 14, 2017. There will be a total of 3,000,000 coins available for $15 USD each at the offering. The ICO is expected to end on<span> July 30, 2017.</span></p><p>The first 700,000 coins will be sold with a 20% bonus in coins (Making the effective cost $12 per coin).</p><p>The second lot of 700,000 will be sold with a 15% bonus (Making the effective cost $12.75 per coin).</p><p>The last 700,00 of the bonus pool will receive a 10% bonus ( Making the effective rate $13.50 per coin).</p><p><span>The last 700,00 of the bonus pool will receive a 10% bonus ( Making the effective rate $13.50 per coin).</span></p><p><span>The remaining 900,00 coins will have no bonus ( Making the effective rate $15 per coin).</span></p>",
+    "TokenType": "N/A",
+    "WebsiteLink": "https://compcoin.com/purchase/",
+    "FundingCap": "40275000",
+    "FundingTarget": "40275000",
+    "Date": 1497398400,
+    "EndDate": 1501372800,
+    "FundsRaisedList": "N/A",
+    "FundsRaisedUSD": "N/A",
+    "StartPrice": "12",
+    "StartPriceCurrency": "USD",
+    "Jurisdiction": "N/A",
+    "BlogLink": null,
+    "WhitePaperLink": "https://compcoin.com/wp-content/uploads/2017/06/Compcoin-Token-For-A.I.-Financial-Trading-060817v2-1.pdf"
+  },
+  "ccId": "176004"
+}

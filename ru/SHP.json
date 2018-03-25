@@ -1,0 +1,56 @@
+{
+  "General": {
+    "Symbol": "SHP",
+    "Name": "Sharpe Capital",
+    "Description": "<p><span>SHP provides access to the Sharpe Platform, in which </span><span>a user can<span> </span></span><span>earn ETH for indicating how<span> </span></span><span>he<span> </span></span><span>feels towards specific assets. The token acts as a proof-of-stake mechanism, in which the service fees you receive are tied to the number of tokens owned. This platform is targeted at anybody with an interest in capital markets - traditional and blockchain based. This data is very valuable to institutional investors, providing a real time snapshot of the emotional and psychological aspects of the market. This data is known as the Sharpe Global Sentiment Index (GSI), and is targeted at investors.</span></p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "333333333",
+    "Algorithm": null,
+    "ProofType": null,
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "06/11/2017",
+    "TotalCoinsMined": null,
+    "Twitter": "@sharpecapital",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": null,
+    "GitHub": null,
+    "OnMarkets": [],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Finished",
+    "Description": "<p>SHP provides access to the Sharpe Platform, in which a user can earn ETH for indicating how he feels towards specific assets. The token acts as a proof-of-stake mechanism, in which the service fees you receive are tied to the number of tokens owned. This platform is targeted at anybody with an interest in capital markets - traditional and blockchain based. This data is very valuable to institutional investors, providing a real time snapshot of the emotional and psychological aspects of the market. This data is known as the Sharpe Global Sentiment Index (GSI), and is targeted at investors.</p><p><strong>Team</strong>:</p><ul><li><strong>Lewis M. Barber</strong>: Co-Founder &amp; CEO.</li><li><strong>James A. Butler</strong><span>: Co-Founder &amp; CIO.</span></li><li><span><strong>Israel Colomer</strong><span>: Chief Technology Officer.</span></span></li><li><span><strong>Dan Pilch</strong><span>: Cloud Architect &amp; Systems Engineer.</span></span></li><li><strong>Arthur Tayrac</strong><span>: Freelance UX/UI Designer.</span></li></ul><p>Sharpe Capital will be holding its ICO on the 6th of November, 2017. The ICO token supply represents 40% of the total token supply, so there will be a total of <span>133,333,333 </span>tokens available, for 0.0005 ETH each at the offering. The ICO funding cap is 20,000,000 USD and is expected to end on the 5th of February, 2018 or when the funding cap is reached.</p><p><strong>Token Reserve Split (60%):</strong></p><ul><li>20% for founders &amp; community;</li><li>40% for reserve;</li></ul><p><span>Sharpe Capital ICO will feature an escrow service and a bonus campaign.</span></p>",
+    "TokenType": "ETH (ERC20)",
+    "WebsiteLink": "https://sharpe.capital",
+    "FundingCap": "20,000,000 USD",
+    "FundingTarget": "N/A",
+    "Date": 1509926400,
+    "EndDate": 1517184000,
+    "FundsRaisedList": "6061 ETH",
+    "FundsRaisedUSD": "7101188.82",
+    "StartPrice": "0.0005",
+    "StartPriceCurrency": "ETH",
+    "Jurisdiction": "Hong Kong",
+    "BlogLink": "https://medium.com/sharpecapital",
+    "WhitePaperLink": "https://s3-eu-west-1.amazonaws.com/sharpe-website/whitepaper.pdf"
+  },
+  "ccId": "364472"
+}

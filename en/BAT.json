@@ -1,0 +1,70 @@
+{
+  "General": {
+    "Symbol": "BAT",
+    "Name": "Basic Attention Token",
+    "Description": "<p>The Basic Attention Token is an Ethereum-based token that can be used to obtain a variety of advertising and attention-based services on the Brave platform, a new Blockchain based digital advertising system. User attention is privately monitored in the Brave browser and publishers are rewarded accordingly with BATs. Users also get a share of BATs for participating.</p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "1500000000",
+    "Algorithm": null,
+    "ProofType": null,
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "31/05/2017",
+    "TotalCoinsMined": 1500000000,
+    "Twitter": "@attentiontoken",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "https://basicattentiontoken.org/",
+    "GitHub": null,
+    "OnMarkets": [
+      "Gateio",
+      "Yobit",
+      "Binance",
+      "Liqui",
+      "Cryptopia",
+      "Cryptsy",
+      "Novaexchange",
+      "BTER",
+      "Bitfinex",
+      "LiveCoin",
+      "BitTrex",
+      "HuobiPro",
+      "EtherDelta"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Finished",
+    "Description": "<p><span data-sheets-value=\"{&quot;1&quot;:2,&quot;2&quot;:&quot;Basic Attention Token radically improves the efficiency of digital advertising by creating a new token that can be exchanged between publishers, advertisers, and users. It all happens on the Ethereum blockchain. &quot;}\" data-sheets-userformat=\"{&quot;2&quot;:25180290,&quot;4&quot;:{&quot;1&quot;:2,&quot;2&quot;:16777215},&quot;10&quot;:2,&quot;14&quot;:{&quot;1&quot;:2,&quot;2&quot;:3355443},&quot;15&quot;:&quot;Lato&quot;,&quot;16&quot;:12,&quot;26&quot;:300,&quot;27&quot;:0}\"> </span><span>Basic Attention Token radically improves the efficiency of digital advertising by creating a new token that can be exchanged between publishers, advertisers, and users. It all happens on the Ethereum blockchain as an ERC20 token. </span><span>The token can be used to obtain a variety of advertising and attention-based services on the Brave platform. The utility of the token is based on user attention, which simply means a person’s focused mental engagement.  </span></p><p><span style=\"text-decoration: underline;\"><strong><span data-sheets-value=\"{&quot;1&quot;:2,&quot;2&quot;:&quot;Basic Attention Token radically improves the efficiency of digital advertising by creating a new token that can be exchanged between publishers, advertisers, and users. It all happens on the Ethereum blockchain. &quot;}\" data-sheets-userformat=\"{&quot;2&quot;:25180290,&quot;4&quot;:{&quot;1&quot;:2,&quot;2&quot;:16777215},&quot;10&quot;:2,&quot;14&quot;:{&quot;1&quot;:2,&quot;2&quot;:3355443},&quot;15&quot;:&quot;Lato&quot;,&quot;16&quot;:12,&quot;26&quot;:300,&quot;27&quot;:0}\">Team</span></strong></span></p><ul><li><span data-sheets-value=\"{&quot;1&quot;:2,&quot;2&quot;:&quot;Basic Attention Token radically improves the efficiency of digital advertising by creating a new token that can be exchanged between publishers, advertisers, and users. It all happens on the Ethereum blockchain. &quot;}\" data-sheets-userformat=\"{&quot;2&quot;:25180290,&quot;4&quot;:{&quot;1&quot;:2,&quot;2&quot;:16777215},&quot;10&quot;:2,&quot;14&quot;:{&quot;1&quot;:2,&quot;2&quot;:3355443},&quot;15&quot;:&quot;Lato&quot;,&quot;16&quot;:12,&quot;26&quot;:300,&quot;27&quot;:0}\"><strong>Brendan Eich</strong> - Founder: Co-founded Mozilla &amp;Firefox, created JavaScript</span></li><li><span data-sheets-value=\"{&quot;1&quot;:2,&quot;2&quot;:&quot;Basic Attention Token radically improves the efficiency of digital advertising by creating a new token that can be exchanged between publishers, advertisers, and users. It all happens on the Ethereum blockchain. &quot;}\" data-sheets-userformat=\"{&quot;2&quot;:25180290,&quot;4&quot;:{&quot;1&quot;:2,&quot;2&quot;:16777215},&quot;10&quot;:2,&quot;14&quot;:{&quot;1&quot;:2,&quot;2&quot;:3355443},&quot;15&quot;:&quot;Lato&quot;,&quot;16&quot;:12,&quot;26&quot;:300,&quot;27&quot;:0}\"><strong>Brian Bondy</strong> - Co-Founder: Khan academy, Evernote, Mozilla</span></li><li><span data-sheets-value=\"{&quot;1&quot;:2,&quot;2&quot;:&quot;Basic Attention Token radically improves the efficiency of digital advertising by creating a new token that can be exchanged between publishers, advertisers, and users. It all happens on the Ethereum blockchain. &quot;}\" data-sheets-userformat=\"{&quot;2&quot;:25180290,&quot;4&quot;:{&quot;1&quot;:2,&quot;2&quot;:16777215},&quot;10&quot;:2,&quot;14&quot;:{&quot;1&quot;:2,&quot;2&quot;:3355443},&quot;15&quot;:&quot;Lato&quot;,&quot;16&quot;:12,&quot;26&quot;:300,&quot;27&quot;:0}\"><strong>Yan Zhu</strong> - Security &amp; Privacy Engineering: EFF Fellow, Yahoo, Tor project, Privacy Badger</span></li><li><span data-sheets-value=\"{&quot;1&quot;:2,&quot;2&quot;:&quot;Basic Attention Token radically improves the efficiency of digital advertising by creating a new token that can be exchanged between publishers, advertisers, and users. It all happens on the Ethereum blockchain. &quot;}\" data-sheets-userformat=\"{&quot;2&quot;:25180290,&quot;4&quot;:{&quot;1&quot;:2,&quot;2&quot;:16777215},&quot;10&quot;:2,&quot;14&quot;:{&quot;1&quot;:2,&quot;2&quot;:3355443},&quot;15&quot;:&quot;Lato&quot;,&quot;16&quot;:12,&quot;26&quot;:300,&quot;27&quot;:0}\"><strong>Scott Locklin</strong> - BAT Smart Contracts &amp; Economics: Co-founded Kerf Software, machine learning</span></li><li><span data-sheets-value=\"{&quot;1&quot;:2,&quot;2&quot;:&quot;Basic Attention Token radically improves the efficiency of digital advertising by creating a new token that can be exchanged between publishers, advertisers, and users. It all happens on the Ethereum blockchain. &quot;}\" data-sheets-userformat=\"{&quot;2&quot;:25180290,&quot;4&quot;:{&quot;1&quot;:2,&quot;2&quot;:16777215},&quot;10&quot;:2,&quot;14&quot;:{&quot;1&quot;:2,&quot;2&quot;:3355443},&quot;15&quot;:&quot;Lato&quot;,&quot;16&quot;:12,&quot;26&quot;:300,&quot;27&quot;:0}\"><strong>Bradley Richter</strong> - Brand &amp; Interaction Design: EFI/Fiery, Co-creator: eBeam &amp; Luidia</span></li><li><span data-sheets-value=\"{&quot;1&quot;:2,&quot;2&quot;:&quot;Basic Attention Token radically improves the efficiency of digital advertising by creating a new token that can be exchanged between publishers, advertisers, and users. It all happens on the Ethereum blockchain. &quot;}\" data-sheets-userformat=\"{&quot;2&quot;:25180290,&quot;4&quot;:{&quot;1&quot;:2,&quot;2&quot;:16777215},&quot;10&quot;:2,&quot;14&quot;:{&quot;1&quot;:2,&quot;2&quot;:3355443},&quot;15&quot;:&quot;Lato&quot;,&quot;16&quot;:12,&quot;26&quot;:300,&quot;27&quot;:0}\"><strong>Catherine Corre</strong> - Communications: AOL, Netscape</span></li><li><span data-sheets-value=\"{&quot;1&quot;:2,&quot;2&quot;:&quot;Basic Attention Token radically improves the efficiency of digital advertising by creating a new token that can be exchanged between publishers, advertisers, and users. It all happens on the Ethereum blockchain. &quot;}\" data-sheets-userformat=\"{&quot;2&quot;:25180290,&quot;4&quot;:{&quot;1&quot;:2,&quot;2&quot;:16777215},&quot;10&quot;:2,&quot;14&quot;:{&quot;1&quot;:2,&quot;2&quot;:3355443},&quot;15&quot;:&quot;Lato&quot;,&quot;16&quot;:12,&quot;26&quot;:300,&quot;27&quot;:0}\"><strong>Brian Brown</strong> - Go-to-market: Co-founded Joyent, Deputy Editor WSJ</span></li></ul><p><span>The BAT ICO managed to hit their funding cap of 156,250 ETH within a record breaking 24 seconds. Only 2222 investors held BAT as of 5/6/17. 184 unique addresses took part and to raise the approximate $36,000,000, with some participants paying transactions fees well over $1000 in one case up to $6,000. The largest single investment was 20,000 ETH which at the time was worth around $4.7m.</span></p>",
+    "TokenType": "ETH (ERC20)",
+    "WebsiteLink": "https://basicattentiontoken.org/index/",
+    "FundingCap": "36,000,000 USD",
+    "FundingTarget": "N/A",
+    "Date": 1496241000,
+    "EndDate": 1496241035,
+    "FundsRaisedList": "156,250 ETH",
+    "FundsRaisedUSD": "36000000",
+    "StartPrice": "0.36",
+    "StartPriceCurrency": "USD",
+    "Jurisdiction": "N/A",
+    "BlogLink": "https://medium.com/@attentiontoken",
+    "WhitePaperLink": "https://basicattentiontoken.org/wp-content/uploads/2017/05/BasicAttentionTokenWhitePaper-4.pdf"
+  },
+  "ccId": "107672"
+}

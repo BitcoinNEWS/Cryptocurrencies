@@ -1,0 +1,56 @@
+{
+  "General": {
+    "Symbol": "TKT",
+    "Name": "Crypto Tickets",
+    "Description": "<p>Crypto Tickets is a blockchain-based ecosystem created to improve the ticketing industry and <span>solve the market’s primary problems, such as fake tickets and an unmanageable secondary market. The Crypto Tickets ecosystem is comprised three basic components: Tickets Cloud, Tickets Chain and Tickets Wallet. TKT is an ERC20 token based on the Ethereum blockchain, later to be moved to EON.<span> All settlements inside the system will be done with the help of the TKT token.</span></span></p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "52006540",
+    "Algorithm": null,
+    "ProofType": null,
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "06/09/2017",
+    "TotalCoinsMined": 52006539.70389158,
+    "Twitter": "@CryptoTickets",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": null,
+    "GitHub": null,
+    "OnMarkets": [],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Ongoing",
+    "Description": "<p><span>Crypto Tickets is a blockchain-based ecosystem created to improve the ticketing industry and </span><span>solve the market’s primary problems, such as fake tickets and an unmanageable secondary market. The Crypto Tickets ecosystem is comprised three basic components: Tickets Cloud, Tickets Chain and Tickets Wallet. TKT is an ERC20 token based on the Ethereum blockchain, later to be moved to EON.<span> All settlements inside the system will be done with the help of the TKT token.</span></span></p><p><strong>Team</strong>:</p><ul><li>Egor Egerev: CEO, founder, product manager <a href=\"https://www.facebook.com/egor.egerev\" target=\"_blank\"><img style=\"width: 13px; height: 13px;\" src=\"/media/1383930/face_logo_final.png?width=13&amp;height=13\" alt=\"\" data-id=\"202866\"></a></li><li>Ilya Segeenko <a href=\"https://twitter.com/aylisrg\" target=\"_blank\"><img src=\"/media/1383932/twitter_logo_final.png?width=13&amp;height=13\" alt=\"\" data-id=\"202868\"></a></li><li>Katerina Kirillova: Co, founder, strategy &amp; business development, executive MBA <a href=\"https://www.facebook.com/katerina.kirillova.77\" target=\"_blank\"><img style=\"width: 13px; height: 13px;\" src=\"/media/1383930/face_logo_final.png?width=13&amp;height=13\" alt=\"\" data-id=\"202866\"></a></li></ul><p><strong>Token Reserve Split (31.1%):</strong></p><ul><li>3% — Tickets Chain Growth Fund</li><li>15% — Tickets Cloud team</li><li>7.64% — Private offer investors</li><li>2% — Bounty</li><li>3.5% — Advisors</li></ul>",
+    "TokenType": "ETH (ERC20)",
+    "WebsiteLink": "https://crypto.tickets/",
+    "FundingCap": "23,000,000 USD",
+    "FundingTarget": "N/A",
+    "Date": 1507161600,
+    "EndDate": 1509580800,
+    "FundsRaisedList": "919 ETH, 216.8 BCH, 388.6 LTC, 29.9 BTC",
+    "FundsRaisedUSD": "1640403",
+    "StartPrice": "N/A",
+    "StartPriceCurrency": "ETH",
+    "Jurisdiction": "N/A",
+    "BlogLink": null,
+    "WhitePaperLink": "https://crypto.tickets/crypto.tickets%20whitepaper%20ENG.pdf"
+  },
+  "ccId": "311176"
+}

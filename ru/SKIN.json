@@ -1,0 +1,60 @@
+{
+  "General": {
+    "Symbol": "SKIN",
+    "Name": "Skincoin",
+    "Description": "<p>Skincoin is a decentralized cryptocurrency for making bets, accepting and sending payments for game skins in Counter-Strike: Global Offensive, Dota 2, Team Fortress 2. Skincoin Tokens (SKIN) are to be released via the Ethereum blockchain platform. Tokens shall be used for trading with game sites, buying/selling skins, making bets on gambling and betting platforms.</p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "488183483 ",
+    "Algorithm": "N/A",
+    "ProofType": "N/A",
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "07/06/2017",
+    "TotalCoinsMined": 388183000,
+    "Twitter": "@skincoin_org",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "https://skincoin.org/",
+    "GitHub": null,
+    "OnMarkets": [
+      "EtherDelta",
+      "Cryptopia",
+      "HitBTC"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Finished",
+    "Description": "<p><span>Skins are virtual items that can be used in games like Counter-Strike: Global Offensive (CS:GO) or Dota 2. The term “skin” is derived from the typical function of these virtual items: changing the appearance of a player’s in-game avatar, weapons, or equipment. Skin tokens will let users Bet, game, buy and sell in online marketplaces. The August roadmap aims to release the exchange platform, trading platform and the implementation for an API for accepting payments on third-party gaming services.</span></p><p><span>A 20% discount for the first three days was offered.</span></p>",
+    "TokenType": "ETH (ERC20)",
+    "WebsiteLink": "https://skincoin.org/",
+    "FundingCap": "10,000,000 USD",
+    "FundingTarget": "10,000 ETH",
+    "Date": 1498046400,
+    "EndDate": 1500638400,
+    "FundsRaisedList": "14,697 ETH",
+    "FundsRaisedUSD": "3262788",
+    "StartPrice": "0.00016667",
+    "StartPriceCurrency": "ETH",
+    "Jurisdiction": "N/A",
+    "BlogLink": null,
+    "WhitePaperLink": "https://skincoin.org/whitepaper.pdf"
+  },
+  "ccId": "198369"
+}

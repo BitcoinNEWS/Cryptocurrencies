@@ -1,0 +1,59 @@
+{
+  "General": {
+    "Symbol": "EKO",
+    "Name": "EkoCoin",
+    "Description": "<p>EkoCoin is a Proof of Work cryptocurrency based on Bitcoin and Litecoin.</p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "500000000",
+    "Algorithm": null,
+    "ProofType": null,
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "06/06/2016",
+    "TotalCoinsMined": 500000000,
+    "Twitter": null,
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "http://www.ekocoin.org/",
+    "GitHub": null,
+    "OnMarkets": [
+      "HuobiPro",
+      "HitBTC"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Finished",
+    "Description": null,
+    "TokenType": "ETH (ERC20)",
+    "WebsiteLink": null,
+    "FundingCap": "N/A",
+    "FundingTarget": "N/A",
+    "Date": 1516450420,
+    "EndDate": 1516450430,
+    "FundsRaisedList": "N/A",
+    "FundsRaisedUSD": "15000000",
+    "StartPrice": "0.066",
+    "StartPriceCurrency": "USD",
+    "Jurisdiction": "Singapore",
+    "BlogLink": "https://medium.com/@EchoLinkInfo",
+    "WhitePaperLink": null
+  },
+  "ccId": "22328"
+}

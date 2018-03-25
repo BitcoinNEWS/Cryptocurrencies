@@ -1,0 +1,56 @@
+{
+  "General": {
+    "Symbol": "SPICE",
+    "Name": "SPiCE Venture Capital ",
+    "Description": "<p>SPiCE Venture Capital is an Ethereum-based ICO venture capital platform. SPICE is an ERC20 token that powers <span>SPiCE Venture Capital&#39;s ecosystem.</span></p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "130000000",
+    "Algorithm": null,
+    "ProofType": null,
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "01/02/2018",
+    "TotalCoinsMined": null,
+    "Twitter": "@SPiCE_VC",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": null,
+    "GitHub": null,
+    "OnMarkets": [],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Ongoing",
+    "Description": "<p><span>SPiCE Venture Capital is an Ethereum-based utility ICO venture capital platform. VC is an ERC20 token that powers </span><span>SPiCE Venture Capital&#39;s ecosystem.</span></p><p><strong>Team</strong>:</p><ul><li><strong>Carlos Domingo</strong>: <span>Managing Partner</span>. <a href=\"https://www.linkedin.com/in/carlosdomingo/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Tal Elyashiv</strong><span>:<span> </span></span><span>Managing Partner</span><span>. </span><a href=\"https://www.linkedin.com/in/talelyashiv/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Ami Ben David</strong><span>:<span> </span></span><span>Managing Partner</span><span>. </span><a href=\"https://www.linkedin.com/in/ami-ben-david-415a8b5/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Vincenc marti</strong><span>: <span> <span>Venture Partner</span></span></span><span>. </span><a href=\"https://www.linkedin.com/in/vicencmartidiazplaja/?locale=es_ES\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li></ul><p>SPiCE Venture Capital will be holding its ICO on February 1st, 2018. The ICO token supply represents 85% of the total token supply, so there will be a total of <span>110,500,000</span> tokens available, for $1 each at the offering. The ICO is expected to end on March 3rd, 2018. During the ICO, There is a $50K minimum investment limit in the US. Rest of the world: no limit.</p><p><strong>Token Reserve Split (15%):</strong></p><ul><li>7.5% Founders;</li><li>7.5% Reserved to pay to SPiCE VC’s partners, advisers and service providers;</li></ul><p><strong>Regulatory partner:</strong> <a href=\"http://www.cavenhamcapital.com/\" target=\"_blank\">Cavenham Capital Limited</a></p>",
+    "TokenType": "ETH (ERC20)",
+    "WebsiteLink": "https://www.spicevc.com/",
+    "FundingCap": "100,000,000 USD",
+    "FundingTarget": "40,000,000 USD",
+    "Date": 1517472000,
+    "EndDate": 1520107200,
+    "FundsRaisedList": "Presale: 41,272,900 USD",
+    "FundsRaisedUSD": "41272900",
+    "StartPrice": "1",
+    "StartPriceCurrency": "USD",
+    "Jurisdiction": "Singapore",
+    "BlogLink": "https://medium.com/spicevc",
+    "WhitePaperLink": null
+  },
+  "ccId": "737883"
+}

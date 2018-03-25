@@ -1,0 +1,60 @@
+{
+  "General": {
+    "Symbol": "PLR",
+    "Name": "Pillar",
+    "Description": "<p>The Pillar wallet will hold keys and let anyone transact with many blockchains (multi-chain wallet), will be <span>able to see hundreds of kinds of tokens and coins. The Pillar wallet will not be tied with any browser, nor to an exchange (option to choose multiple exchanges).</span> </p><p>While the wallet and platform are open-source and free, users will pay for the various services with pillar tokens (PLRs) as they use them. The token will power the entire ecosystem, giving an instant business model to many projects that can tie in.</p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "800000000",
+    "Algorithm": "N/A",
+    "ProofType": "N/A",
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "26/06/2017",
+    "TotalCoinsMined": "800000000",
+    "Twitter": "@PillarWallet",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "https://pillarproject.io/",
+    "GitHub": null,
+    "OnMarkets": [
+      "HitBTC",
+      "Cryptopia",
+      "EtherDelta"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Finished",
+    "Description": "<p>The Pillar wallet will hold keys and let anyone transact with many blockchains (multi-chain wallet), will be <span>able to see hundreds of kinds of tokens and coins. The Pillar wallet will not be tied with any browser, nor to an exchange (option to choose multiple exchanges).</span></p><p>While the wallet and platform are open-source and free, users will pay for the various services with pillar tokens (PLRs) as they use them. The token will power the entire ecosystem, giving an instant business model to many projects that can tie in.</p><p><span>The </span><span>Pillar token</span><span> will be an ERC20 token on the Ethereum blockchain.</span></p><p>8919 buyers contributed a total of 113,674.4 ETH with a mean purchase of 12.75 ETH.</p><p> </p>",
+    "TokenType": "ETH (ERC20)",
+    "WebsiteLink": "https://pillarproject.io/purchase",
+    "FundingCap": "50,000,000 USD",
+    "FundingTarget": "N/A",
+    "Date": 1500109200,
+    "EndDate": 1500325200,
+    "FundsRaisedList": "113,674.4 ETH",
+    "FundsRaisedUSD": "21986000",
+    "StartPrice": "0.0005",
+    "StartPriceCurrency": "ETH",
+    "Jurisdiction": "N/A",
+    "BlogLink": "https://pillarproject.io/blog/",
+    "WhitePaperLink": "https://pillarproject.io/wp-content/uploads/2017/07/PillarProjectGrayPaper.pdf"
+  },
+  "ccId": "184298"
+}

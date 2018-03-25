@@ -1,0 +1,58 @@
+{
+  "General": {
+    "Symbol": "ION",
+    "Name": "Ionomy",
+    "Description": "<p><span>Ionomy focuses on mobile gaming applications. ION provides a platform that facilitates the development and monotization of new mobile games and rewards gamers financially</span></p><p><span>Ionomy ICO raised </span></p><p><span>5000000 ION coins were distributed during the ICO from April 4th 2016 through May 16, 2016.</span></p>",
+    "Features": "<p>Pre-mine:</p><p><span>- 3.4 million ION: participation incentives given away by ionomy.com</span><br /><span>- 2.5 million ION: bounties for coin development</span><br /><span>- 5.0 million ION: to offer through Initial Coin Offering</span></p>",
+    "Technology": null,
+    "TotalCoinSupply": "50900000",
+    "Algorithm": null,
+    "ProofType": "PoS",
+    "BlockReward": 17,
+    "Explorer": null,
+    "StartDate": "16/05/2015",
+    "TotalCoinsMined": 26510008.99941,
+    "Twitter": "@ionomics",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "https://ionomy.com/",
+    "GitHub": null,
+    "OnMarkets": [
+      "BitTrex"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "N/A",
+    "Description": null,
+    "TokenType": null,
+    "WebsiteLink": null,
+    "FundingCap": null,
+    "FundingTarget": null,
+    "Date": null,
+    "EndDate": null,
+    "FundsRaisedList": null,
+    "FundsRaisedUSD": null,
+    "StartPrice": null,
+    "StartPriceCurrency": null,
+    "Jurisdiction": null,
+    "BlogLink": null,
+    "WhitePaperLink": null
+  },
+  "ccId": "20591"
+}

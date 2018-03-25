@@ -1,0 +1,59 @@
+{
+  "General": {
+    "Symbol": "HAT",
+    "Name": "Hawala.Today",
+    "Description": "<p><span>Hawala.Today is a P2P crypto-fiat currency exchange platform that </span><span>allows for near instant and secure exchanges, anywhere in the world. Hawala.Today incorporates a new incentive model, Incentive for Stake. This is based off of the Proof of Stake model, where staking results in the minting of new HAT tokens. HAT tokens are ERC23 tokens based on the Ethereum blockchain.</span></p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "7000000",
+    "Algorithm": null,
+    "ProofType": null,
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "18/10/2017",
+    "TotalCoinsMined": 7,
+    "Twitter": "@hawalatoday",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": null,
+    "GitHub": null,
+    "OnMarkets": [
+      "Kucoin",
+      "EtherDelta"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "N/A",
+    "Description": null,
+    "TokenType": null,
+    "WebsiteLink": null,
+    "FundingCap": null,
+    "FundingTarget": null,
+    "Date": null,
+    "EndDate": null,
+    "FundsRaisedList": null,
+    "FundsRaisedUSD": null,
+    "StartPrice": null,
+    "StartPriceCurrency": null,
+    "Jurisdiction": null,
+    "BlogLink": null,
+    "WhitePaperLink": null
+  },
+  "ccId": "563196"
+}

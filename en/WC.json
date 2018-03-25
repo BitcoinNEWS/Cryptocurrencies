@@ -1,0 +1,60 @@
+{
+  "General": {
+    "Symbol": "WC",
+    "Name": "WhiteCoin",
+    "Description": "<p>WhiteCoin is a scypt based altcoin that morphs from a PoW into a PoS mode after block 100. Block time is reasonable at 90 seconds and difficulty retargets every block.</p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "300000000",
+    "Algorithm": "Scrypt",
+    "ProofType": "PoW/PoS",
+    "BlockReward": 2,
+    "Explorer": null,
+    "StartDate": "29/04/2014",
+    "TotalCoinsMined": 248817217.19257,
+    "Twitter": "@WhiteCoiner",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "http://www.whitecoinfoundation.org/",
+    "GitHub": null,
+    "OnMarkets": [
+      "Cryptopia",
+      "Coinse",
+      "Cryptsy"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "N/A",
+    "Description": null,
+    "TokenType": null,
+    "WebsiteLink": null,
+    "FundingCap": null,
+    "FundingTarget": null,
+    "Date": null,
+    "EndDate": null,
+    "FundsRaisedList": null,
+    "FundsRaisedUSD": null,
+    "StartPrice": null,
+    "StartPriceCurrency": null,
+    "Jurisdiction": null,
+    "BlogLink": null,
+    "WhitePaperLink": null
+  },
+  "ccId": "5019"
+}

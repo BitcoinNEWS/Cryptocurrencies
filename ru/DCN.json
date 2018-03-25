@@ -1,0 +1,61 @@
+{
+  "General": {
+    "Symbol": "DCN",
+    "Name": "Dentacoin",
+    "Description": "<p id=\"top\">Dentacoin is the first Blockchain concept designed for the Global Dental Industry. The Dentacoin ERC20 token is configured to be used globally by all individuals. </p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "8000000000000",
+    "Algorithm": "N/A",
+    "ProofType": "N/A",
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "01/06/2017",
+    "TotalCoinsMined": 8000000000000,
+    "Twitter": "@dentacoin",
+    "Telegram": "https://t.me/dentacoin",
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": "https://join.slack.com/t/dentacoin/shared_invite/MjM2MjYyNjI5NTIwLTE1MDQ2OTg0NDAtNWMxYzUzN2FjNg",
+    "Website": "http://www.dentacoin.com/",
+    "GitHub": null,
+    "OnMarkets": [
+      "Novaexchange",
+      "EtherDelta",
+      "HitBTC",
+      "Cryptopia"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "N/A",
+    "Description": null,
+    "TokenType": null,
+    "WebsiteLink": null,
+    "FundingCap": null,
+    "FundingTarget": null,
+    "Date": null,
+    "EndDate": null,
+    "FundsRaisedList": null,
+    "FundsRaisedUSD": null,
+    "StartPrice": null,
+    "StartPriceCurrency": null,
+    "Jurisdiction": null,
+    "BlogLink": null,
+    "WhitePaperLink": null
+  },
+  "ccId": "218906"
+}

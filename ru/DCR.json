@@ -1,0 +1,66 @@
+{
+  "General": {
+    "Symbol": "DCR",
+    "Name": "Decred",
+    "Description": "<p>Decred is an open, progressive, and self-funding cryptocurrency with a system of community-based governance integrated into its blockchain. At its core is a hybridized proof-of-work proof-of-stake (PoW/PoS) consensus system that aims to strike a balance between PoW miners and PoS voters to create a more robust notion of consensus. The project is a result of the theoretical proposals brought by proof-of-activity (PoA) and MC2 in 2013. Decred development started in April, 2014 with a single developer and expanded to include developers from btcsuite shortly thereafter.</p><p>Decred is built in the spirit of open participation and we have provided below a full disclosure of the technical features of the system, wallets and mining, initial funding and distribution, project governance and development, and a group contribution timeline.</p><p><span>Decred opted for a different funding model in an attempt to shift the risk carried by supporters to the developers of the project. Instead of asking interested parties to fund the development of the software, the developers decided to pool funds together and carry the project to completion before making it public. The consensus was that this is an ethical path given the realities of funding software development, due to the fact that the developers alone carry the risk of the project failing, whereas in the past potential users were expected to pay for coins before any code was written. We felt this was unjust.</span></p><p><span>The development of Decred was funded by Company 0 and from the pockets of its developers individually. The cost of developing the project, in terms of developer pay, totals to approximately USD 250,000, which Company 0 paid to developers. An additional amount of approximately USD 165,000 has been allocated for unpaid work and individual purchases by developers. We felt that the most equitable way to handle compensation for these expenses was to perform a small premine as part of the project launch. The model is unusual in that no developer received any amount of coins for free - all coins owned by developers will either be purchased at a rate of USD 0.49 per coin from their own pockets or exchanged for work performed at the same rate.</span></p><p><span>The premine consists of 8% of the total supply of 21 million coins, meaning the premine consists of 1.68 million coins. Rather than allocating the entire premine to the bring-up costs, we decided to split the premine equally between compensation for bring-up and an \"airdrop\", where we freely give an equal amount of coins to a number of airdrop participants. This means Company 0 and its developers will have put roughly USD 415,000 into the bring-up since April, 2014 and receive 4% of the total supply, 840,000 coins (at USD 0.49 per coin). The remaining 4% will be spread evenly across a list of airdrop participants as part of an effort to build the Decred network and decentralize its distribution.  Coins held by Company 0 will be used to fund its ongoing work on open-source projects, such as Decred and btcsuite.</span></p><p><span>Giving away these coins in an airdrop allows us to accomplish several things at once for the project: enlarge the Decred network, further help decentralize the distribution of coins, and allow us to get coins into the hands of people who are interested in participating in the project. Decred is fundamentally about technological progress, so the airdrop will target individuals that have made contributions to advance technology in its various forms. The maximum number of airdrop participants is capped at 5,000 individuals, so we recommend registering sooner rather than later. These coins will be given away unconditionally and there is zero expectation of Decred receiving anything from you in return for these coins.</span></p><p><span>Sign up for the airdrop is currently open, but the airdrop registration will commence on January 4th, 2016. People who have been selected to participate in the airdrop will receive an email that contains a link to a web registration form. This form will require airdrop participants to enter an address to which their coins can be sent. Binaries and source code will be made available so that you can generate a wallet seed and an address for your airdrop coins. Once you have entered your receiving address into the airdrop webform and submitted it, you will receive your coins on the projected launch date.</span></p>",
+    "Features": "<p><span>In addition to the technical features that make up the technology, Decred as a project introduces several development and governance features and proposals to ensure and steer long-term growth. We encourage participants to discuss these topics earnestly, as we want to ensure the system of development and governance is built on a solid foundation.</span><br /><br /></p><ul><li>A multi-stakeholder development ecosystem that welcomes and empowers participants who want to build new functionality and improve on existing features.</li><li>Any party can submit feature proposals and developers are paid for work to fulfill requirements. This is done in full view of the community in a system designed to fight against ingroup-outgroup dynamics.</li><li>The initial contributors are the developers responsible for btcsuite (est. early 2013 - present).</li><li>A proposal for a layered form of transparent meritocratic governance that extends beyond proof-of-work and proof-of-stake mechanisms to bring forward and represent insider and outsider voices in the community.</li><li>A proposal for bottom-up decision-making through the Decred Assembly, an evolving and inclusive list of community members who make non-financial contributions to the project through their work and effort.</li><li>The project is bound by the <a href=\"https://wiki.decred.org/Decred_Constitution\" target=\"_blank\">Decred Constitution</a> on the core principles of finite issuance, privacy, security, fungibility, inclusivity, and progressive development of the technology that keeps these principles together.</li></ul>",
+    "Technology": "<p><span>The features below are implemented in Decred and will be available in full at launch. For a deeper description, please consult the </span><a href=\"https://decred.org/dtb001.pdf\" target=\"_blank\">Decred Technical Brief</a>.<br /><br /></p><ul><li>Novel hybridized proof-of-work/proof-of-stake (PoW/PoS) consensus system - A decentralized lottery is used to select PoS miners to vote on PoW blocks. The PoW and PoS subsidies account for 60% and 30% of each total block subsidy, respectively. This system is based on that of MC2, which is very similar to, but developed independently from, Proof-of-Activity (PoA) by Iddo Bentov, Charles Lee, Alex Mizrahi and Meni Rosenfeld.</li><li>Cold staking and decentralized stake pooling - The ability to generate new coins without the risk of having your coins online when PoS mining. The PoS mining system has also been engineered with distributed, decentralized stake pooling in mind, so that even those with small amounts of stake can participate in network validation.</li><li>Internal voting system for the addition of new features and hard or soft fork selection - Both PoW and PoS miners can vote for features and issues through bit flags, providing a sensible mechanism for resolving disputes about the features of the blockchain.</li><li>Immutable transaction hashes (\"transaction IDs\") by separating transaction signatures from the rest of the transaction data - A permanent fix for transaction hash malleability has been implemented that prevents mutability of the transaction hash by separating it from its input signatures. This allows more efficient SPV validation. Fraud proofs have also been added.</li><li>Elliptic curve cryptography over secp256k1 with optional Curve25519 support - The Bitcoin scripting system has been modified to allow for simple, drop-in addition of new elliptical curve digital signature algorithms.</li><li>Schnorr signatures with threshold n-of-n support - In addition to supporting Schnorr signatures, groups of signers can now jointly sign transactions off-chain in constant size signatures, ensuring higher privacy and less blockchain bloat.</li><li>Script enhancements and new OP codes - New OP codes have been added to the existing Bitcoin scripting engine, and extensions for the plug-in use of future scripting engines have been added.</li><li>PoW mining using BLAKE256 hash algorithm - Inspired by Bernstein&#39;s Chacha stream cipher, SHA3 finalist BLAKE256 offers speed as well as high security.</li><li>Compatibility with Bitcoin transaction scripting system - Decred&#39;s scripting system has been derived from Bitcoin&#39;s with care in ensuring that all future updates to the Bitcoin transaction script will be easily extensible to Decred. Further, any newly created functionalities will also be devised with backwards compatibility with Bitcoin in mind.</li><li>Modularized, easy-to-use Golang btcsuite codebase - Thanks the to the codebase inherited from btcsuite, adding new features to the daemon or wallet will be facile. Decred will episodically sync updates from btcsuite, so that it benefits from the latest developments in Bitcoin.</li><li>Hierarchical deterministic (HD) wallets - Wallets use a seed to deterministically generate addresses, so your wallet can be restored from a single BIP0032 seed.</li><li>Transaction expiration - Transactions have a new expiration field to prevent inclusion into the blockchain after a certain height.</li><li>Patches for intrinsic Bitcoin bugs - Extra push for multisignature scripts has been removed, SIGHASH_SINGLE behavior has been corrected.</li><li>Approximately 21 million coins - Exponential decay in subsidy or the number of coins generated per year.</li><li>Self-funded development via block subsidy - In order to have an ongoing source of funding for development work, a consensus rule has been added to allocate 10% of each block subsidy to a development organization. This entity is transparent and responsible for funding development work performed by current and new developers so that the project remains sustainable without a funding dependence on outside forces in the future. Decred therefore improves with growth in a sustainable way and is accountable only to its users.</li></ul>",
+    "TotalCoinSupply": "21000000",
+    "Algorithm": "BLAKE256",
+    "ProofType": "PoW/PoS",
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "08/02/2016",
+    "TotalCoinsMined": 6999872,
+    "Twitter": "decredproject",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "https://decred.org/",
+    "GitHub": null,
+    "OnMarkets": [
+      "Cryptopia",
+      "CCEX",
+      "Novaexchange",
+      "Bleutrade",
+      "Yobit",
+      "BitTrex",
+      "BitSquare",
+      "TuxExchange",
+      "Poloniex"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "N/A",
+    "Description": null,
+    "TokenType": null,
+    "WebsiteLink": null,
+    "FundingCap": null,
+    "FundingTarget": null,
+    "Date": null,
+    "EndDate": null,
+    "FundsRaisedList": null,
+    "FundsRaisedUSD": null,
+    "StartPrice": null,
+    "StartPriceCurrency": null,
+    "Jurisdiction": null,
+    "BlogLink": null,
+    "WhitePaperLink": null
+  },
+  "ccId": "16713"
+}

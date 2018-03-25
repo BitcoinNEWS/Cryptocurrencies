@@ -1,0 +1,61 @@
+{
+  "General": {
+    "Symbol": "IOC",
+    "Name": "IOCoin",
+    "Description": "<p>IOCoin has a strong development team backing it. The coin is X11 with proof of work and proof of stake. The proof of stake has an annualised rate of 2%.</p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": null,
+    "Algorithm": "X11",
+    "ProofType": "PoW/PoS",
+    "BlockReward": 1.5000000016556845,
+    "Explorer": null,
+    "StartDate": "15/06/2014",
+    "TotalCoinsMined": 16611260.97434563,
+    "Twitter": "@IO_Coin",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "http://iocoin.io/",
+    "GitHub": null,
+    "OnMarkets": [
+      "BitTrex",
+      "Cryptsy",
+      "Bleutrade",
+      "Poloniex"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "N/A",
+    "Description": null,
+    "TokenType": null,
+    "WebsiteLink": null,
+    "FundingCap": null,
+    "FundingTarget": null,
+    "Date": null,
+    "EndDate": null,
+    "FundsRaisedList": null,
+    "FundsRaisedUSD": null,
+    "StartPrice": null,
+    "StartPriceCurrency": null,
+    "Jurisdiction": null,
+    "BlogLink": null,
+    "WhitePaperLink": null
+  },
+  "ccId": "4540"
+}

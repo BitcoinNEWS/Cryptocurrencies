@@ -1,0 +1,61 @@
+{
+  "General": {
+    "Symbol": "MYST",
+    "Name": "Mysterium",
+    "Description": "<p>Mysterium is a decentralized VPN service based on the Ethereum Network, allowing allowing anyone to rent their idle Network traffic, while providing a secure connection for those in need. The MYST token allows users to perform activities within the Mysterium VPN network both<span> as VPN clients or as a service provider (VPN Node).</span></p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "32433366",
+    "Algorithm": null,
+    "ProofType": null,
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "01/05/2017",
+    "TotalCoinsMined": 32433365.62220214,
+    "Twitter": "@MysteriumNetwork",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "https://mysterium.network/",
+    "GitHub": null,
+    "OnMarkets": [
+      "BitTrex",
+      "Cryptsy",
+      "Liqui",
+      "EtherDelta"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Finished",
+    "Description": "<p><span></span><span>The MYST token allows users to perform activities within the Mysterium VPN network both</span><span> as VPN clients or as a service provider (VPN Node). During May 30th, Mysterium held an ICO to fund the development and marketing of the network, amassing a total of $14400000. During the ICO period, users were allowed to exchange ETH for the MYST token for $0.85 per token, which increased to $1.2 following the end of the soft cap bonus which lasted until the campaign gathered $6,170,000. </span></p><p><span>The funds gathered will be locked in an multisig (2-out-of-3) in which 2 keys are held by an escrow agent. This agent will  hand over all keys in his possession to the legal representatives of the Mysterium Entity once said entity is incorporated.</span></p><p><span>Mysterium Foundation, Bounty program and Advisors will receive 9% of all tokens. Tokens will be received by the Foundation multisig wallet, and will be used to reward assistance from: early node operators (mining), bounty program participants, advisors and new employees via a Vesting program, etc</span></p><p><span>Founders will receive 10% of all tokens. Founder tokens will be locked for 12 months. </span></p><p>The MYST token is not mineable.</p>",
+    "TokenType": "ETH (ERC20)",
+    "WebsiteLink": "https://mysterium.network/",
+    "FundingCap": "14,000,000 CHF",
+    "FundingTarget": "700,000 CHF",
+    "Date": 1496145600,
+    "EndDate": 1496174400,
+    "FundsRaisedList": "68629 ETH",
+    "FundsRaisedUSD": "14400000",
+    "StartPrice": "0.85",
+    "StartPriceCurrency": "USD",
+    "Jurisdiction": "Switzerland",
+    "BlogLink": "https://medium.com/mysterium-network",
+    "WhitePaperLink": "https://mysterium.network/whitepaper.pdf"
+  },
+  "ccId": "136190"
+}

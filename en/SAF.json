@@ -1,0 +1,56 @@
+{
+  "General": {
+    "Symbol": "SAF",
+    "Name": "Safinus",
+    "Description": "<p><span>Saifus is a cryptocurrency and ICO investment platform that aims to make cryptocurrency investments accessible to a wide audience of newcomers, while at the same time allowing experienced investors and market professionals to greatly increase their earnings. </span><span>The SAF Token is a utility ERC20 token that will be used to access the Safinus platform. </span></p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "1200000",
+    "Algorithm": null,
+    "ProofType": null,
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "01/01/0001",
+    "TotalCoinsMined": null,
+    "Twitter": "@SafinusICO",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": null,
+    "GitHub": null,
+    "OnMarkets": [],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Upcoming",
+    "Description": "<p>Saifus is a cryptocurrency and ICO investment platform that aims to make cryptocurrency investments accessible to a wide audience of newcomers, while at the same time allowing experienced investors and market professionals to greatly increase their earnings. The SAF Token is a utility ERC20 token that will be used to access the Safinus platform.</p><p><strong>Team</strong>:</p><ul><li><strong>Alexey Scherbin:</strong> CEO, Co-Founder <a href=\"https://www.facebook.com/luckmanalex\" target=\"_blank\"><img src=\"/media/1383930/face_logo_final.png?width=13&amp;height=13\" alt=\"\" data-id=\"202866\"> </a></li><li><strong>Ivan Morgunov:</strong> CFO, Co-Founder <a href=\"https://www.facebook.com/ivan.morgunov.35\" target=\"_blank\"><img src=\"/media/1383930/face_logo_final.png?width=13&amp;height=13\" alt=\"\" data-id=\"202866\"></a></li><li><strong>Dmitriy Morgun:</strong> CTO, Co-Founder <a href=\"https://www.facebook.com/profile.php?id=100001015714635\" target=\"_blank\"><img src=\"/media/1383930/face_logo_final.png?width=13&amp;height=13\" alt=\"\" data-id=\"202866\"></a></li><li><strong>Julia Luckman:</strong> CMO <a href=\"https://www.facebook.com/profile.php?id=100012914313421\" target=\"_blank\"><img src=\"/media/1383930/face_logo_final.png?width=13&amp;height=13\" alt=\"\" data-id=\"202866\"></a></li></ul><p>The Safinus ICO began on the 23rd of January and will end on the 14th of February. The ICO token allocation represents 92% of the total supply and will be available for a $1 base price. The pre-sale funding cap is set at $500,000</p><p><strong>Token Reserve Split (8%):</strong></p><ul><li>5% for PR</li><li>3% for bounty</li></ul><p>The Saifus ICO feautres bonuses and a bounty campaign</p>",
+    "TokenType": "ETH (ERC20)",
+    "WebsiteLink": "http://www.safinus.com",
+    "FundingCap": "N/A",
+    "FundingTarget": "500000 USD",
+    "Date": 1516665600,
+    "EndDate": 1518566400,
+    "FundsRaisedList": "260.40 ETH\r\n21.65 BTC",
+    "FundsRaisedUSD": "500000",
+    "StartPrice": "1",
+    "StartPriceCurrency": "USD",
+    "Jurisdiction": "Russia",
+    "BlogLink": "https://medium.com/@safinus.com",
+    "WhitePaperLink": "https://www.safinus.com/whitepaper/"
+  },
+  "ccId": "718463"
+}

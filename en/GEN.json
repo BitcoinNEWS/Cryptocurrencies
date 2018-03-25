@@ -1,0 +1,60 @@
+{
+  "General": {
+    "Symbol": "GEN",
+    "Name": "Genstake",
+    "Description": "<p><span>Genstake is about trying something different with staking. Staking was designed originally to yield a percentage of a coinholder&#39;s total coins over time, every year, in exchange for supporting the network. Developers walk a fine line between coding high interest percentages to entice holders to stake to support the network while trying to keep the interest percentages low enough that inflation doesn&#39;t kill the coin. People have become accustomed to &#39;Mining Periods&#39; of hyper inflation where the initial coinbase is established, after which mining becomes impossible and the network relies entirely on holders to stake in order to maintain the network and process transactions. </span><br /><br /><span>Genstake aims to change all that. With Genstake, staking blocks doesn&#39;t give you interest on the coins you already have; staking blocks gives you a full block reward. Effectively, each of your coins becomes a little mining rig on the network, working diligently to mine you more coins. Gone are the days of 0.02 coins for staking a block. Staking a block with Genstake produces 20 Gencoins. </span></p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "0",
+    "Algorithm": "Scrypt",
+    "ProofType": "PoW/PoS",
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "03/06/2015",
+    "TotalCoinsMined": null,
+    "Twitter": "@Genstake",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "http://genstake.com/",
+    "GitHub": null,
+    "OnMarkets": [
+      "Yobit",
+      "BitTrex",
+      "EtherDelta"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "N/A",
+    "Description": null,
+    "TokenType": null,
+    "WebsiteLink": null,
+    "FundingCap": null,
+    "FundingTarget": null,
+    "Date": null,
+    "EndDate": null,
+    "FundsRaisedList": null,
+    "FundsRaisedUSD": null,
+    "StartPrice": null,
+    "StartPriceCurrency": null,
+    "Jurisdiction": null,
+    "BlogLink": null,
+    "WhitePaperLink": null
+  },
+  "ccId": "7588"
+}

@@ -1,0 +1,58 @@
+{
+  "General": {
+    "Symbol": "GNJ",
+    "Name": "GanjaCoin V2",
+    "Description": "<p>GanjaCoin V2 is a PoW/PoS cryptocurrency for Cannabis enthusiasts and investors. The goal for GNJ is to become the main currency to exchange Cannabis related goods and services (concerning the legal market). GanjaCoin V2 offers a secure and anonymous way of transacting value for cannabis goods and services.</p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "100000000",
+    "Algorithm": "X14",
+    "ProofType": "PoW/PoS",
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "18/10/2016",
+    "TotalCoinsMined": "100000000",
+    "Twitter": "@GanjaCoinV2",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "http://www.ganjacoin.net/",
+    "GitHub": null,
+    "OnMarkets": [
+      "CCEX"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "N/A",
+    "Description": null,
+    "TokenType": null,
+    "WebsiteLink": null,
+    "FundingCap": null,
+    "FundingTarget": null,
+    "Date": null,
+    "EndDate": null,
+    "FundsRaisedList": null,
+    "FundsRaisedUSD": null,
+    "StartPrice": null,
+    "StartPriceCurrency": null,
+    "Jurisdiction": null,
+    "BlogLink": null,
+    "WhitePaperLink": null
+  },
+  "ccId": "30521"
+}

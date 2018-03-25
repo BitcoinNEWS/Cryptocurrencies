@@ -1,0 +1,61 @@
+{
+  "General": {
+    "Symbol": "RUP",
+    "Name": "Rupee",
+    "Description": "<p>Rupee is a blockchain based cryptocurrency that uses peer-to-peer network to enable digital exchanges instantly. Rupee uses an altered version of the Scrypt Proof of Work mining algorithm, initially created for an online backup service named Tarsnap. The Scrypt algorithm is a ‘password-based key derivation function’, meaning that it infers a key from a password. Rupee chose to use Scrypt mining because it’s more suitable for a general purpose processor, as opposed to ASICs mining hardware.</p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "84000000",
+    "Algorithm": "Lyra2REv2",
+    "ProofType": "PoW",
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "04/05/2017",
+    "TotalCoinsMined": 23799884.56716609,
+    "Twitter": "@RupeeBlockchain",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": null,
+    "GitHub": null,
+    "OnMarkets": [
+      "Novaexchange",
+      "TradeSatoshi",
+      "Yobit",
+      "Cryptopia"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "N/A",
+    "Description": null,
+    "TokenType": null,
+    "WebsiteLink": null,
+    "FundingCap": null,
+    "FundingTarget": null,
+    "Date": null,
+    "EndDate": null,
+    "FundsRaisedList": null,
+    "FundsRaisedUSD": null,
+    "StartPrice": null,
+    "StartPriceCurrency": null,
+    "Jurisdiction": null,
+    "BlogLink": null,
+    "WhitePaperLink": null
+  },
+  "ccId": "345801"
+}

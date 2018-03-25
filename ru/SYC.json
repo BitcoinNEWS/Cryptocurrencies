@@ -1,0 +1,56 @@
+{
+  "General": {
+    "Symbol": "SYC",
+    "Name": "SynchroCoin",
+    "Description": "<p>SynchroLife’s original token, the SynchroCoin (SYC), will be on the Ethereum blockchain and used to reward users who post high quality restaurant reviews and photos, add new restaurants, update business information, edit information, add information, or translate the restaurant information, and more.</p><p>Users who contribute to the improvement and growth of the platform will be rewarded for their time and content. The SynchroCoin (SYC) token will also be combined with Ethereum smart contracts to allow users to get a small percentage of advertising and marketing fees which restaurants they have provided content or information for pay.</p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "100000000",
+    "Algorithm": "N/A",
+    "ProofType": "N/A",
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "06/07/2017",
+    "TotalCoinsMined": null,
+    "Twitter": "@synchrocoin",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "https://synchrolife.org/",
+    "GitHub": null,
+    "OnMarkets": [],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Ongoing",
+    "Description": "<p>SynchroLife’s original token, the SynchroCoin (SYC), will be on the Ethereum blockchain and used to reward users who post high quality restaurant reviews and photos, add new restaurants, update business information, edit information, add information, or translate the restaurant information, and more.</p><p>Users who contribute to the improvement and growth of the platform will be rewarded for their time and content. The SynchroCoin (SYC) token will also be combined with Ethereum smart contracts to allow users to get a small percentage of advertising and marketing fees which restaurants they have provided content or information for pay.</p><p>The SynchroCoin token crowdsale will start August 3, 2017 at 12:00 GMT, there will be a total of 55,000,000 coins available at the offering.. There are currently plans for a crowdsale bonus depending on the time participants buy SynchroCoin or other factors.</p>",
+    "TokenType": "ETH (ERC20)",
+    "WebsiteLink": "https://synchrolife.org/ico.html",
+    "FundingCap": "N/A",
+    "FundingTarget": "N/A",
+    "Date": 1506092400,
+    "EndDate": 1507301999,
+    "FundsRaisedList": "439 ETH",
+    "FundsRaisedUSD": "128748",
+    "StartPrice": "N/A",
+    "StartPriceCurrency": "N/A",
+    "Jurisdiction": "Hong Kong",
+    "BlogLink": "https://medium.com/@synchrocoin",
+    "WhitePaperLink": "https://synchrolife.org/SynchroLife-White-Paper-English-2017.07.03.pdf"
+  },
+  "ccId": "185873"
+}

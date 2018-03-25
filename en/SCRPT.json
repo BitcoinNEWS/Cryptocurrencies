@@ -1,0 +1,58 @@
+{
+  "General": {
+    "Symbol": "SCRPT",
+    "Name": "ScryptCoin",
+    "Description": "<p>ScryptCoin is a Proof of Work currency made for the Scrypt algorithm miners and users. SCRPT plans to add a feature in which any scrypt algorithm coin to be mined and converted through the SCRPT wallet.</p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "34181818",
+    "Algorithm": "Scrypt",
+    "ProofType": "PoW",
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "26/06/2016",
+    "TotalCoinsMined": null,
+    "Twitter": "@ScryptCurrency",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "-",
+    "GitHub": null,
+    "OnMarkets": [
+      "Yobit"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "N/A",
+    "Description": null,
+    "TokenType": null,
+    "WebsiteLink": null,
+    "FundingCap": null,
+    "FundingTarget": null,
+    "Date": null,
+    "EndDate": null,
+    "FundsRaisedList": null,
+    "FundsRaisedUSD": null,
+    "StartPrice": null,
+    "StartPriceCurrency": null,
+    "Jurisdiction": null,
+    "BlogLink": null,
+    "WhitePaperLink": null
+  },
+  "ccId": "23429"
+}

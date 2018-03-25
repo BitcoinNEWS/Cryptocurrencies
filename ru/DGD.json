@@ -1,0 +1,68 @@
+{
+  "General": {
+    "Symbol": "DGD",
+    "Name": "Digix DAO",
+    "Description": "<p>Digix DAO is a new form of cryptographic asset in that it is a Decentralised Autonomous Organisation or DAO for short. DAO are basically Companies written in code that are there to perform a set of functions with holders of the tokens voting in relation to the number of tokens they hold. </p><p>The Digix DAO gives users the right to profits in the trading of Digix tokens (DGX) which own the right to gold stored in vault in Singapore. So if people trade 20 gold bars per day - the Digix DAO token holders will have the profits of the commission from those trades distributed equally amongst themselves. </p>",
+    "Features": "<p>Digix DAO is a \"Decentralised Autonomous Organisation\" - DAO&#39;s are a nascent idea and are therefore not a fully proven concept. The Digix DAO tokens give holders the rights to vote on how funds earned by the DAO are spent and act like shares in a traditional Company. </p><p>The DGD tokens give users the right to earn profits from the trading of DGX tokens - which are tokens backed 1:1 with a gram of gold. The DAO or DGD tokens earn a commission fee based on the number of trades of the DGX tokens. holders of the tokens can vote for </p><p>There are costss for the DAO so headline commission is not equal to profit. The cost come in the form of storing the gold and auditing its veracity. This is where the role of voting rights come in as holders of the tokens can vote who they want to audit the gold. </p><p>If the DAO runs out of funds the founders can propose to raise more tokens in an offering which requires a special majority of voters to agree to. </p><p>The initial offering raised $5.5million for 85% of the tokens. The other 15% were rewards for developers and founders - a premine of sorts.  </p>",
+    "Technology": "<p>The DAO token is built on ethereum. </p><p>The ICO - or initial coin offering - raised $5.5million to acquire the 85% of the DGD tokens. </p>",
+    "TotalCoinSupply": "1999421",
+    "Algorithm": null,
+    "ProofType": "N/A",
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "28/04/2016",
+    "TotalCoinsMined": 1999420.6383,
+    "Twitter": "@DigixGlobal",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "https://www.dgx.io/",
+    "GitHub": null,
+    "OnMarkets": [
+      "Gateio",
+      "Yunbi",
+      "Binance",
+      "HitBTC",
+      "LiveCoin",
+      "BitTrex",
+      "OKEX",
+      "HuobiPro",
+      "Liqui",
+      "EtherDelta",
+      "Gatecoin"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Finished",
+    "Description": "<p>Digix, a gold-tracking asset on the Ethereum blockchain, which structured the company as a Decentralized Autonomous Organization raised its funding cap of $5,500,000 in under 12 hours. Digix is building a platform for trading gold-backed tokens on the Ethereum blockchain. The company is based in Singapore, and will store physical gold for each token issued on Ethereum. There are fees charged for storage at 0.39% per annum, similar to Gold ETFs. However, the big advantage of Digix tokens over gold ETFs will be its global nature and ability to divide the shares in order to facilitate micro-transactions.</p><p><br />465,134.95 ETH ($5,500,000) was raised from 675 addresses which puts the average investment size at $8,148. The total was reached in 12 hours.</p>",
+    "TokenType": "ETH (ERC20)",
+    "WebsiteLink": "https://www.dgx.io/dgd/",
+    "FundingCap": "5,500,000 USD",
+    "FundingTarget": "500,000 USD",
+    "Date": 1459296000,
+    "EndDate": 1459339200,
+    "FundsRaisedList": "465,134.95 ETH",
+    "FundsRaisedUSD": "5500000",
+    "StartPrice": "3.24",
+    "StartPriceCurrency": "USD",
+    "Jurisdiction": "Singapore",
+    "BlogLink": null,
+    "WhitePaperLink": "https://dgx.io/whitepaper.pdf"
+  },
+  "ccId": "18907"
+}

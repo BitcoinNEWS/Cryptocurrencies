@@ -1,0 +1,56 @@
+{
+  "General": {
+    "Symbol": "IQB",
+    "Name": "Intelligence Quotient Benefit",
+    "Description": "<p>IQ Benefit Chain (abbreviated as IQB-C) is designed as an intelligence-based income distribution system with online interactive live-streaming as the primary product form. It attracts users with live trivia with prizes, jackpots, and draws in advertising clients with efficient advertising effects, maintains ledgers with blockchain technologies. </p><p>The IQB token will work as the only value delivery tool within the system, helping to effectively eliminate benefit barriers in each link and form a decentralized live-streaming value sharing platform.</p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "10000000000",
+    "Algorithm": null,
+    "ProofType": null,
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "01/12/2017",
+    "TotalCoinsMined": null,
+    "Twitter": "@IQB_Offical",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": null,
+    "GitHub": null,
+    "OnMarkets": [],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Upcoming",
+    "Description": "<p>IQ Benefit Chain (abbreviated as IQB-C) is designed as an intelligence-based income distribution system with online interactive live-streaming as the primary product form. It attracts users with live trivia with prizes, jackpots, and draws in advertising clients with efficient advertising effects, maintains ledgers with blockchain technologies. </p><p>The IQB token will work as the only value delivery tool within the system, helping<span> </span>to effectively eliminate benefit barriers in each link and form a decentralized live-streaming value sharing platform.</p><p><strong>Team</strong>:</p><ul><li><strong>Chen Yongxin</strong>: CEO.</li><li><strong>Hong Yi</strong>: CTO.</li><li><strong>Su Wenxu</strong>: COO.</li></ul><p>Intelligence Quotient Benefit Pre-Sale dates are yet to be announced. The Pre-Sale token supply represents 20% of the total token supply, so there will be a total of 200,000,000 tokens available, for 0.016 USD each during the offering. The Pre-Sale funding target is 20,000 ETH, the funding cap is 40,000 ETH. Any unsold/remaining tokens will be burned.</p><p><strong>Token Reserve Split (80%):</strong></p><ul><li>30% Operation &amp; Ecology;</li><li>20% Founding Team;</li><li>30% Angel Round Financing;</li></ul><p><span>Intelligence Quotient Benefit Pre-ICO will feature a bounty campaign, and the token will not be mineable.</span></p>",
+    "TokenType": "ETH (ERC20)",
+    "WebsiteLink": "https://www.iqb.fund/?f=cryptocompare",
+    "FundingCap": "40,000 ETH",
+    "FundingTarget": "20,000 ETH",
+    "Date": null,
+    "EndDate": null,
+    "FundsRaisedList": "N/A",
+    "FundsRaisedUSD": "N/A",
+    "StartPrice": "0.016",
+    "StartPriceCurrency": "USD",
+    "Jurisdiction": "Singapore",
+    "BlogLink": null,
+    "WhitePaperLink": "https://img.iqb.fund/iqb_white_paper_en.pdf "
+  },
+  "ccId": "764104"
+}

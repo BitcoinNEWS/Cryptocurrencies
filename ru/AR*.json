@@ -1,0 +1,56 @@
+{
+  "General": {
+    "Symbol": "AR*",
+    "Name": "Ar.cash",
+    "Description": "<p>Ar.cash is a distributed and uncensorable archive for the internet <span>based on an new blockchain-like data structure, the blockweave. Through a distributed consensus system, the information associated with an internet URL can be soted on Ar.cash&#39;s blockweave, linkeing it cryptographically with every other block (and document) on the Ar.cash, making content on the internet to be made immutable.  </span></p><p><span>Ar.cash&#39;s mining system <span>maints the security properties of the SHA2-256 Proof of Work system, while the</span></span> Proof of Access algorithm solves the problem of blockchain scalability by creating a self-organising data storage network. ARC tokens are used to interact with the Ar.cash network.</p><p> </p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": null,
+    "Algorithm": "SHA256",
+    "ProofType": "PoW",
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "02/08/2017",
+    "TotalCoinsMined": null,
+    "Twitter": "@archainteam",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": null,
+    "GitHub": null,
+    "OnMarkets": [],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Ongoing",
+    "Description": "<p>Ar.cash is a distributed and uncensorable archive for the internet <span>based on an new blockchain-like data structure, the blockweave. Through a distributed consensus system, the information associated with an internet URL can be soted on Ar.cash&#39;s blockweave, linkeing it cryptographically with every other block (and document) on the Archain, making content on the internet to be made immutable.  </span></p><p><span>Ar.cash&#39;s mining system<span> </span><span>maints<span> </span>the security properties of the SHA2-256 Proof of Work system, while the</span></span> Proof of Access algorithm solves the problem of blockchain scalability by creating a self-organising data storage network. ARC tokens are used to<span> </span>interact with the Ar.cash<span> </span>network.</p><p><strong>Team</strong>:</p><ul><li><strong>Sam Williams:</strong> CEO <a href=\"https://twitter.com/samecwilliams\" target=\"_blank\"><img src=\"/media/1383932/twitter_logo_final.png?width=13&amp;height=13\" alt=\"\" data-id=\"202868\"></a></li><li><strong>William Jones:</strong> CTO <a href=\"https://www.linkedin.com/in/william-jones-b661b314a\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a> </li><li><strong>Dan Andrews:</strong> COO <a href=\"https://www.linkedin.com/in/daniel-andrews-560089130/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li></ul><p>The Ar.cash ICO began on the 2nd of August at 21:00 UTC and will last until the 13th of September or until ICO supply of 55,000,000 ARC is sold. The starting price for ARC is 0.09 GBP. Any unsold tokens will willl remain the property of Ar.cash.</p><p>The Ar.cash ICO campaign features a Bounty and Bonus campaigns and the token will be mineable.</p><p><strong>Bonus Structure (Tokens sold/price):</strong></p><ul><li>5,000,000 0.09 GBP</li><li>5,000,000 0.14 GBP</li><li>5,000,000 0.21 GBP</li><li>5,000,000 0.32 GBP</li><li>5,000,000 0.48 GBP</li><li>5,000,000 0.72 GBP</li><li>5,000,000 1.08 GBP</li><li>5,000,000 1.62 GBP</li><li>5,000,000 2.43 GBP</li><li>5,000,000 3.64 GBP</li></ul>",
+    "TokenType": "New Blockchain",
+    "WebsiteLink": "https://archain.org",
+    "FundingCap": "N/A",
+    "FundingTarget": "N/A",
+    "Date": 1501707600,
+    "EndDate": 1522530000,
+    "FundsRaisedList": "91.54 BTC, 433.82 ETH",
+    "FundsRaisedUSD": "1340053.861",
+    "StartPrice": "0.09",
+    "StartPriceCurrency": "GBP",
+    "Jurisdiction": "UK",
+    "BlogLink": null,
+    "WhitePaperLink": "https://archain.org/whitepaper.pdf"
+  },
+  "ccId": "251598"
+}

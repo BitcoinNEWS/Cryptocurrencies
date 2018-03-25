@@ -1,0 +1,69 @@
+{
+  "General": {
+    "Symbol": "CVC",
+    "Name": "Civic",
+    "Description": "<p>Civic – это децентрализованная идентификационная экосистема, позволяющая по запросу осуществлять проверку личности пользователя безопасным и низкозатратным способом, что стало возможно благодаря технологии блокчейн. При помощи цифровой идентификационной платформы пользователь может создать свою собственную виртуальную личность и хранить её вместе с персональной информацией на устройстве. Эта информация проходит необходимую проверку валидаторов платформы, после чего добавляется в блокчейн, где авторизованные пользователем поставщики услуг могут запросить её для подтверждения личности пользователя.</p><p>CVC – это токен на базе Ethereum, который используется поставщиками услуг для получения информации о пользователе. Таким образом, организации используют токен CVC в качестве средства платежа. Система смарт-контрактов в дальнейшем обеспечивает передачу средств от поставщиков услуг к валидаторам и владельцам личностей (пользователям).</p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "1000000000",
+    "Algorithm": null,
+    "ProofType": null,
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "21/06/2017",
+    "TotalCoinsMined": 1000000000,
+    "Twitter": "@civickey",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "https://www.civic.com/",
+    "GitHub": null,
+    "OnMarkets": [
+      "Gateio",
+      "Poloniex",
+      "BTER",
+      "Liqui",
+      "Novaexchange",
+      "OKEX",
+      "HitBTC",
+      "EtherDelta",
+      "HuobiPro",
+      "BitTrex",
+      "Kucoin",
+      "LiveCoin"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Finished",
+    "Description": "<p><span>CVC is an Ethereum-based token used by service providers that are looking to acquire information about a user. These can make a payment in CVC. The smart contract system employed will then see funds delivered to both the validator and the identity owner (user).</span></p><p><strong>Team</strong>: </p><ul><li><strong>Vinny Lingham</strong>: <span>CEO.</span> (<a href=\"https://twitter.com/VinnyLingham\" target=\"_blank\">Twitter</a>);</li><li><strong>Jonathan Smith</strong>: <span>CTO.</span> (<a href=\"https://twitter.com/jonthepilot\" target=\"_blank\"><span>Twitter</span></a>);</li><li><strong><span>Anthony Di Iorio</span></strong>: <span>Technical Advisor.</span> (<a href=\"https://twitter.com/diiorioanthony\" target=\"_blank\"><span>Twitter</span></a>);</li><li><strong><span>Matt Roszak</span></strong><span>: Technical Advisor. (<a href=\"https://twitter.com/MatthewRoszak\" target=\"_blank\">Twitter</a>);</span></li><li><span><strong>Jeff Garzik</strong><span>: Technical Advisor. (<a href=\"https://twitter.com/jgarzik\" target=\"_blank\">Twitter</a>);</span></span></li><li><strong><span>Juan Benet</span></strong><span>: Technical Advisor. (<a href=\"https://twitter.com/juanbenet\" target=\"_blank\">Twitter</a>);</span></li><li><span><strong>Diego Gutiérrez Zaldívar</strong><span>: Technical Advisor. (<a href=\"https://twitter.com/dieguito\" target=\"_blank\">Twitter</a>);</span></span></li><li><strong><span>Jeffrey Paul</span></strong><span>: Technical Advisor. (<a href=\"https://twitter.com/sneakdotberlin\" target=\"_blank\">Twitter</a>);</span></li></ul><p>Civic held its ICO on June 21, 2017. The ICO token supply represents 33% of the total token supply, so there was a total of 330,000,000 tokens available at the offering (<span>although already 220,000,000 were sold during the pre-sale)</span> The ICO funding cap was $33,000,000 USD and ended on June 22, 2017<span> raising a total of<span> </span></span><span>$</span><span>33,000,000 USD.</span></p><p><strong>Token Reserve Split (67%):</strong></p><ul><li>33% Retained by Civic;</li><li>33% A<span>llocated for distribution to incentivize participation in the ecosystem</span>;</li><li>01% Tokensale Costs;</li></ul><p><span>Civic ICO campaign had no bonuses, discounts, or escrow. Since CVC is an Ethereum token, it is also not be mineable.</span></p>",
+    "TokenType": "ETH (ERC20)",
+    "WebsiteLink": "https://tokensale.civic.com",
+    "FundingCap": "33,000,000 USD",
+    "FundingTarget": "33,000,000 USD",
+    "Date": 1498050000,
+    "EndDate": 1498654800,
+    "FundsRaisedList": "N/A",
+    "FundsRaisedUSD": "33000000",
+    "StartPrice": "0.10",
+    "StartPriceCurrency": "USD",
+    "Jurisdiction": "N/A",
+    "BlogLink": "https://vinnylingham.com/",
+    "WhitePaperLink": "https://tokensale.civic.com/CivicTokenSaleWhitePaper.pdf"
+  },
+  "ccId": "139467"
+}

@@ -1,0 +1,67 @@
+{
+  "General": {
+    "Symbol": "GAME",
+    "Name": "Gamecredits",
+    "Description": "<p>GameCredits is a game driven Cryptocurrency, created to facilitate in-game transactions and monetization. </p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "84000000",
+    "Algorithm": "Scrypt",
+    "ProofType": "PoW",
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "01/06/2015",
+    "TotalCoinsMined": 64355352,
+    "Twitter": "@Game_Credits",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "https://onlinegames.credit/",
+    "GitHub": null,
+    "OnMarkets": [
+      "Yobit",
+      "TradeSatoshi",
+      "Cryptopia",
+      "Novaexchange",
+      "Poloniex",
+      "BitTrex",
+      "Jubi",
+      "BitZ",
+      "LiveCoin",
+      "HitBTC"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "N/A",
+    "Description": null,
+    "TokenType": null,
+    "WebsiteLink": null,
+    "FundingCap": null,
+    "FundingTarget": null,
+    "Date": null,
+    "EndDate": null,
+    "FundsRaisedList": null,
+    "FundsRaisedUSD": null,
+    "StartPrice": null,
+    "StartPriceCurrency": null,
+    "Jurisdiction": null,
+    "BlogLink": null,
+    "WhitePaperLink": null
+  },
+  "ccId": "20157"
+}

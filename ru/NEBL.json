@@ -1,0 +1,61 @@
+{
+  "General": {
+    "Symbol": "NEBL",
+    "Name": "Neblio",
+    "Description": "<p><span>The Neblio Platform wants to provide fully open source APIs, tools, and services needed by business and enterprises to rapidly develop and deploy distributed applications. Replacing legacy database applications with truly scalable and reliable distributed applications through the development of familiar and easy to use API abstraction layers is the goal of the Neblio Platform.</span></p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": null,
+    "Algorithm": null,
+    "ProofType": null,
+    "BlockReward": 5.018706268113521,
+    "Explorer": null,
+    "StartDate": "06/08/2017",
+    "TotalCoinsMined": 13690928.594223231,
+    "Twitter": "@NeblioTeam",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": null,
+    "GitHub": null,
+    "OnMarkets": [
+      "Kucoin",
+      "Binance",
+      "Cryptopia",
+      "HitBTC"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Ongoing",
+    "Description": "<p>The Neblio Platform wants to provide fully open source APIs, tools, and services needed by business and enterprises to rapidly develop and deploy distributed applications. Replacing legacy database applications with truly scalable and reliable distributed applications through the development of familiar and easy to use API abstraction layers is the goal of the Neblio Platform.</p><p><strong>Team</strong>:</p><ul><li><strong>Eddy Smith</strong>: Lead Developer. <a href=\"http://www.linkedin.com/in/edward-smith-008256149\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Ann Jackson</strong>: Business Ops Manager.<span> </span><a href=\"http://www.linkedin.com/in/annette-jackson-9102a1149\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li></ul><p>Neblio&#39;s ICO began on August 6, 2017. The ICO token supply represents 100% of the total token supply, so there is a total of 125,000,000 tokens available, for 0.00005 BTC each. The ICO is expected to end on August 20, 2017, and any unsold tokens will be burned.</p><p><strong><span>Neblio&#39;s ICO B</span>onus Structure:</strong></p><ul><li>25% Bonus - First 48 Hours (<span>Example: 1 Bitcoin = 25,000 NEBL);</span></li><li>15% Bonus - Days 3 - 7 (<span>Example: 1 Bitcoin = 23,000 NEBL);</span></li><li>10% Bonus - Last 7 Days (<span>Example: 1 Bitcoin = 22,000 NEBL);</span></li></ul>",
+    "TokenType": "N/A",
+    "WebsiteLink": "https://nebl.io/pre-sale/",
+    "FundingCap": "N/A",
+    "FundingTarget": "N/A",
+    "Date": 1502047960,
+    "EndDate": 1503257574,
+    "FundsRaisedList": "289.49871959 BTC",
+    "FundsRaisedUSD": "1243567",
+    "StartPrice": "0.00005",
+    "StartPriceCurrency": "BTC",
+    "Jurisdiction": "N/A",
+    "BlogLink": null,
+    "WhitePaperLink": "https://nebl.io/wp-content/uploads/2017/07/NeblioWhitepaper.pdf"
+  },
+  "ccId": "222085"
+}

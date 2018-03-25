@@ -1,0 +1,59 @@
+{
+  "General": {
+    "Symbol": "COSS",
+    "Name": "COSS",
+    "Description": "<p>COSS stands for Crypto-One-Stop-Solution and represents a platform, which encompasses all features of a digital economical system based on cryptocurrency. The COSS system consists of a payment gateway / POS, an exchange, a merchant list, market cap rankings, a marketplace, an e-wallet, various coin facilities and a mobile platform. The COSS platform unifies all transactional aspects that are usually managed by means of FIAT money, and offers multiple cryptocurrency-related services in one place.</p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "200000000",
+    "Algorithm": "N/A",
+    "ProofType": "N/A",
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "01/01/0001",
+    "TotalCoinsMined": "200000000",
+    "Twitter": "@cosscrypto",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "https://coss.io/",
+    "GitHub": null,
+    "OnMarkets": [
+      "HitBTC",
+      "EtherDelta"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Ongoing",
+    "Description": "<p><span>COSS stands for Crypto-One-Stop-Solution and represents a platform, which encompasses all features of a digital economical system based on cryptocurrency. The COSS system consists of a payment gateway / POS, an exchange, a merchant list, market cap rankings, a marketplace, an e-wallet, various coin facilities and a mobile platform. The remaining funds will be locked for charity.</span></p><p><span>COSS </span>will be holding its ICO on August 8, 2017. There will be a total of 130,000,000 coins available for 0.0016 ETH each at the offering. The ICO is expected to end on September 6, 2017.</p><p><strong>Bonuses:</strong></p><p>Day 1-5 = 15% Bonus Tokens</p><p>Day 6-10 = 10% Bonus Tokens</p><p>Day 11-15= 8% Bonus Tokens</p><p>Day 16-20 = 6% Bonus Tokens</p><p>Day 21-25 = 4% Bonus Tokens</p><p>Day 26-30 = No Bonus</p>",
+    "TokenType": "ETH (ERC20)",
+    "WebsiteLink": "https://coss.io/ico",
+    "FundingCap": "320,000 ETH",
+    "FundingTarget": "50,000,000 USD",
+    "Date": 1502154480,
+    "EndDate": 1504660080,
+    "FundsRaisedList": "7653.12187453 ETH",
+    "FundsRaisedUSD": "2295936.56236",
+    "StartPrice": "0.0016",
+    "StartPriceCurrency": "ETH",
+    "Jurisdiction": "Singapore",
+    "BlogLink": "https://www.facebook.com/cosscrypto/",
+    "WhitePaperLink": "https://coss.io/documents/coss-whitepaper-v3.pdf"
+  },
+  "ccId": "186335"
+}

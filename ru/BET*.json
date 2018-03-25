@@ -1,0 +1,59 @@
+{
+  "General": {
+    "Symbol": "BET*",
+    "Name": "DAO.casino",
+    "Description": "<p>DAO.Casino is a decentralized casino protocol, allowing <span>eveloper to use Dao.Casino protocol, rather than work on its own, and less costly for a casino operator to provide better service for the players. This also allows gamblers to have a wider variety of games, rather than having the ones provided by one single casino. The aim of the DAO.Casino protocol is to eliminate single points of failure in the online gambling industry through the use of Ethereum smart contracts. </span></p><p>BET is an ERC20 token on the Ethereum blockchain and it is used both as an ingame currency and as a reward token that can be distributed to <span>all participants equally. A</span>ll the participants contributing to the ecosystem in one form or another are automatically rewarded with BET to their accounts.</p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "167270821",
+    "Algorithm": null,
+    "ProofType": null,
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "22/05/2017",
+    "TotalCoinsMined": 167270820.6879086,
+    "Twitter": "@daocasino",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": null,
+    "GitHub": null,
+    "OnMarkets": [
+      "Novaexchange",
+      "HitBTC"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Finished",
+    "Description": "<p>DAO.Casino is a decentralized casino protocol, allowing <span>eveloper to use Dao.Casino protocol, rather than work on its own, and less costly for a casino operator to provide better service for the players.</span>BET is an ERC20 token on the Ethereum blockchain and it is used both as an ingame currency and as a reward token that can be distributed to <span>all participants equally.</span></p><p><span>The <span>DAO.Casino will see BET tokens distributed by investors who contribute with Ether. The ICO will start on the 29th of June at 13:00 UTC and will last until the 26th of July or until the hard cap of 25000000 USD is reached. During the campaign 70% of the total supply will be sold, while 10% will be kept by the legal entity, 10% are reserved for bounties and the remaining 10% are allocated for Early adopters and founders of the project.</span></span></p>",
+    "TokenType": "ETH (ERC20)",
+    "WebsiteLink": "https://dao.casino/",
+    "FundingCap": "25,000,000 USD",
+    "FundingTarget": "5,000,000 USD",
+    "Date": 1498741200,
+    "EndDate": 1501074000,
+    "FundsRaisedList": "58,544 ETH",
+    "FundsRaisedUSD": "12500000",
+    "StartPrice": "0.0005",
+    "StartPriceCurrency": "ETH",
+    "Jurisdiction": "N/A",
+    "BlogLink": "https://medium.com/@dao.casino",
+    "WhitePaperLink": "https://github.com/DaoCasino/Whitepaper/blob/master/Crowdfunding%20%26%20token%20distribution.md"
+  },
+  "ccId": "177831"
+}

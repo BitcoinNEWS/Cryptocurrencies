@@ -1,0 +1,60 @@
+{
+  "General": {
+    "Symbol": "DNR",
+    "Name": "Denarius",
+    "Description": "<p><span>Denarius is a PoW/PoS hybrid cryptocurrency based off the original Satoshi Core codebase.It uses: Tribus Proof-of-Work Hashing Algorithm featuring 3 of the top NIST5 algos (JH, Keccak, and Echo).<br /></span></p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "10000000",
+    "Algorithm": "NIST5",
+    "ProofType": "PoW/PoS",
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "14/02/2017",
+    "TotalCoinsMined": 2537118,
+    "Twitter": "@denariuscoin",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "https://denarius.io/",
+    "GitHub": null,
+    "OnMarkets": [
+      "Cryptopia",
+      "TradeSatoshi",
+      "Novaexchange"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "N/A",
+    "Description": null,
+    "TokenType": null,
+    "WebsiteLink": null,
+    "FundingCap": null,
+    "FundingTarget": null,
+    "Date": null,
+    "EndDate": null,
+    "FundsRaisedList": null,
+    "FundsRaisedUSD": null,
+    "StartPrice": null,
+    "StartPriceCurrency": null,
+    "Jurisdiction": null,
+    "BlogLink": null,
+    "WhitePaperLink": null
+  },
+  "ccId": "182288"
+}

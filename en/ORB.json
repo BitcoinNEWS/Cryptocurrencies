@@ -1,0 +1,63 @@
+{
+  "General": {
+    "Symbol": "ORB",
+    "Name": "Orbitcoin",
+    "Description": "<p>A coin that is a clone but with the added mission of trying to encourage scientific research. OrbitCoin is a PoW/PoS hybrid without the PoS reward to reduce inflation but maintain the resistance to 51% attacks. There are transaction messages with a 30 second block time, a block reward that halves from 0.25 to a minimal 0.00000001. There are four transaction confirmations needed and 200 for newly mined blocks.</p><p><span>block hashing is BLAKE2s</span><br /><span>PoW hashing is NeoScrypt</span><br /><span>PoS hashing is SHA-256d</span></p>",
+    "Features": "<ul><li>advanced hybrid proof-of-work (PoW) and proof-of-stake (PoS)</li><li>3.77 million coins to be produced</li><li>block hashing is BLAKE2s</li><li>PoW hashing is NeoScrypt</li><li>PoS hashing is SHA-256d</li><li>1 minute combined block target (3 minutes for PoW, 1.5 minutes for PoS)</li><li>retargets every block using Orbitcoin Super Shield (OSS)</li><li>time warp and instamining protection</li><li>advanced checkpointing against 51% attacks</li><li>transaction messaging supported</li><li>the 1st implementation of 0% PoS</li><li>PoW and PoS blocks carry the same fixed reward of 1 ORB</li><li>6 confirmations for regular transactions</li><li>200 confirmations for minted coins</li><li>very low transaction fees (most transactions are free)</li><li>no destruction of transaction fees (all collected by a block finder)</li><li>the default P2P port is 15298, RPC port is 15299</li><li>I2P/Tor ready</li></ul>",
+    "Technology": null,
+    "TotalCoinSupply": "3770000",
+    "Algorithm": "NeoScrypt",
+    "ProofType": "PoW/PoS",
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "11/12/2013",
+    "TotalCoinsMined": 3171307.279225,
+    "Twitter": "@OrBitcoinLove",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "http://orbitcoin.org/",
+    "GitHub": null,
+    "OnMarkets": [
+      "Novaexchange",
+      "Cryptopia",
+      "Cryptsy",
+      "TradeSatoshi",
+      "Coinse",
+      "BitTrex"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "N/A",
+    "Description": null,
+    "TokenType": null,
+    "WebsiteLink": null,
+    "FundingCap": null,
+    "FundingTarget": null,
+    "Date": null,
+    "EndDate": null,
+    "FundsRaisedList": null,
+    "FundsRaisedUSD": null,
+    "StartPrice": null,
+    "StartPriceCurrency": null,
+    "Jurisdiction": null,
+    "BlogLink": null,
+    "WhitePaperLink": null
+  },
+  "ccId": "4583"
+}

@@ -1,0 +1,59 @@
+{
+  "General": {
+    "Symbol": "HEAT",
+    "Name": "Heat Ledger",
+    "Description": "<p>Heat Ledger is a cryptocurrency written in Java that aims to solve scalability problems associated with Bitcoin and other cryptocurrencies. Heat Ledger offers sidechain solutions for corporate and personal use, and has a built-in decentralized \"coin-to-coin\" exchange, that allows users to trade cryptoassets between themselves or even fiat currency pegged assets. </p><p>Hear Ledger&#39;s block rewards are given out according to a traditional Proof of Stake system and a new Proof of Presence system that checks for nodes<span> that host the block files online.</span></p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "26000000",
+    "Algorithm": null,
+    "ProofType": "PoS/PoP",
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "01/01/0001",
+    "TotalCoinsMined": null,
+    "Twitter": null,
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "-",
+    "GitHub": null,
+    "OnMarkets": [
+      "CCEX",
+      "Cryptopia"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "N/A",
+    "Description": null,
+    "TokenType": null,
+    "WebsiteLink": null,
+    "FundingCap": null,
+    "FundingTarget": null,
+    "Date": null,
+    "EndDate": null,
+    "FundsRaisedList": null,
+    "FundsRaisedUSD": null,
+    "StartPrice": null,
+    "StartPriceCurrency": null,
+    "Jurisdiction": null,
+    "BlogLink": null,
+    "WhitePaperLink": null
+  },
+  "ccId": "25917"
+}

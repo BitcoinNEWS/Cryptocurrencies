@@ -1,0 +1,58 @@
+{
+  "General": {
+    "Symbol": "CLV",
+    "Name": "CleverCoin",
+    "Description": "<p><strong>PoW/PoS coin that seems to be a scam.</strong></p><p><strong>Clevernodes</strong></p><p>Much like masternodes, the objective of clevernodes will be to keep CLV off the market by rewarding big investors for \"holding\".</p><p>To run a clevernode you will need to have 25,000 (this number is still being discussed), this 25,000 will need to have been in your wallet for at least 2 weeks, you can think about it as a the clevernode minimum stake age.</p><p><strong>How will payments work?</strong></p><p>Payments relative to the past month will be made every 1st of next month. To be eligible for the payment you will need to, in the previous month have staked at least 25,000 CLV for at least 2 weeks.</p><p><strong>How much will be paid?</strong></p><p>Clevernode owners will receive the equivalent to triple the normal stake (9 * 3 = 27%/year) over the coins that staked for at least 2 weeks.</p><p>With clevernodes we hope to increase Clevercoin&#39;s value while rewarding the investors that are supporting the project. If you have any suggestions/commentaries please tell us, this is the time to.</p><p>EXAMPLE:</p><p>Tom stakes 30,000 CLV for 3 weeks in July 2015. He will receive, in his wallet in August 1st, 675 CLV.</p>",
+    "Features": null,
+    "Technology": "<p><strong>Maximum number of coins:</strong> 2 Millions</p><p><strong>Block time:</strong> 64 seconds</p><p><strong>Minimum stake age:</strong> 48 hours</p><p><strong>No maximum stake age.</strong></p><p><strong>PoS reward schedule</strong></p><p><strong>Block 1 - 10,000:</strong> 2 CLV</p><p><strong>Block 10,000 - 30,000:</strong> 75 CLV</p><p><strong>From block 30,000:</strong> 9% / year</p>",
+    "TotalCoinSupply": "0",
+    "Algorithm": null,
+    "ProofType": "PoS/PoW",
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "09/05/2015",
+    "TotalCoinsMined": null,
+    "Twitter": null,
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "-",
+    "GitHub": null,
+    "OnMarkets": [
+      "CCEX"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "N/A",
+    "Description": null,
+    "TokenType": null,
+    "WebsiteLink": null,
+    "FundingCap": null,
+    "FundingTarget": null,
+    "Date": null,
+    "EndDate": null,
+    "FundsRaisedList": null,
+    "FundsRaisedUSD": null,
+    "StartPrice": null,
+    "StartPriceCurrency": null,
+    "Jurisdiction": null,
+    "BlogLink": null,
+    "WhitePaperLink": null
+  },
+  "ccId": "13074"
+}

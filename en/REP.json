@@ -1,0 +1,74 @@
+{
+  "General": {
+    "Symbol": "REP",
+    "Name": "Augur",
+    "Description": "<p>Prediction markets are widely considered the best forecasting tool. Augur is an open, global platform where anyone anywhere can create, monitor or trade in prediction markets about any topic. Think of it as an \"Early Warning System&#39;&#39; with the most accurate event forecasts, a potential \"Google Search\", \"Bloomberg Terminal\" or \"Reuters Terminal\" for crowdsourced event forecasts.</p><p>The system plans to use the \"Wisdom of Crowds&#39;&#39; (\"collective intelligence&#39;&#39;) via market incentives, \"Long Tail&#39;&#39; dynamics and blockchain technology to securely generate a more accurate, robust and unfiltered array of dynamic event forecasts than any alternative can match.</p><p>Augur is decentralized, self-regulating, pseudonymous and autonomous. It offers the promise of markets without exposure to counterparty risk, principal-agent problems or central points of control, failure or censorship. No person is ever in direct control of someone else’s funds or in a position to single-handedly threaten the system’s integrity.</p><p>The software is comprised of smart contracts perpetually deployed on a blockchain network, which enables applications deployed to be immune to local outages while benefiting from the entire community&#39;s security. All interactions with markets are communicated as database transactions between unique accounts powered by immutable software instructions.</p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "11000000",
+    "Algorithm": null,
+    "ProofType": null,
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "17/11/2014",
+    "TotalCoinsMined": "11000000",
+    "Twitter": "@AugurProject",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "https://augur.net/",
+    "GitHub": null,
+    "OnMarkets": [
+      "Gateio",
+      "Poloniex",
+      "BXinth",
+      "Novaexchange",
+      "Cryptopia",
+      "Kraken",
+      "HitBTC",
+      "LAToken",
+      "Bitfinex",
+      "EtherDelta",
+      "BTER",
+      "Yunbi",
+      "LiveCoin",
+      "Liqui",
+      "Gatecoin",
+      "BitTrex",
+      "Abucoins"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Finished",
+    "Description": "<p>Augur is building a decentralised prediction market with its token REP. REP (Reputation) can be thought of as a sort of “score” attached to an individual’s public and private address and is both divisible and exchangeable like bitcoin. However, that is where the similarities to cryptocurrency end. REP has a fixed supply of 11 million and can not be mined.</p><p>Those who hold REP are expected, in regular installments, to report on the outcome of a random selection of closed events/predictions in the system. Reporters have a time limit in which to do this. <span>Augur </span>expects each reporting session to initially be quite quick, but may take as much as an hour as Augur grows in popularity.</p><p><span>Augur&#39;s</span> ICO <span>lasted 45 days</span>. The ICO token supply represents 80% of the total token supply, so there was a total of <span>8,800,000 </span>tokens available at the offering. The crowdsale raised a total of <span>$5.1 Million from 2,744 accounts with an average purchase of 7.639293 BTC (or US$1854 at the time) and <span>3782.545482</span><span><span> </span>ETH<span> </span></span><span>(or US$2420 at the time). The ETH distribution was considerably more concentrated than the BTC distribution with the largest account contributing 252000 ETH (21.9% of the ETH raised). Augur sold 13,500BTC at an average price of $227 in an effort to hedge the risk of BTC price movements.</span></span></p><p><span><span><a href=\"http://augur.link/purchase-agreement.pdf\" target=\"_blank\">Sale terms</a></span></span></p><p><strong>Team</strong>:</p><ul><li><strong>Jack Peterson</strong>: Lead Developer, Co-Founder. (<a href=\"http://www.linkedin.com/pub/jack-peterson/58/b02/420/en\" target=\"_blank\">LinkedIn</a>, <a href=\"https://twitter.com/tensorjack\" target=\"_blank\">Twitter</a>);</li><li><strong>Joey Krug</strong><span>: Senior Back-End Developer, Co-Founder. (</span><span><a href=\"http://www.linkedin.com/in/joeykrug/en\" target=\"_blank\">LinkedIn</a>, <a href=\"http://twitter.com/joeykrug447\" target=\"_blank\">Twitter</a></span><span>);</span></li><li><span><strong>Stephen Sprinkle</strong><span>: Senior Front-End Developer. (</span><span><a href=\"https://www.linkedin.com/in/stephensprinkle\" target=\"_blank\">LinkedIn</a></span><span>);</span></span></li><li><strong>John Danz</strong><span>: Front-End Developer. (</span><span><a href=\"https://www.linkedin.com/in/johndanz\" target=\"_blank\">LinkedIn</a></span><span>);</span></li><li><span><strong>Jackson Broussard</strong><span>: Front-End Developer.</span></span></li><li><strong>Aaron Drake</strong><span>: Senior Back-End Developer. (</span><a href=\"https://www.linkedin.com/in/aaron-drake-0a7b672\" target=\"_blank\"><span>LinkedIn</span></a><span>);</span></li><li><span><strong>Alex Chapman</strong><span>: Back-End Developer.</span></span></li><li><span><span><strong>Ryan Garner</strong><span>: Back-End Developer. (</span><a href=\"https://twitter.com/imkharn\" target=\"_blank\"><span>Twitter</span></a><span>);</span></span></span></li><li><strong>Tom Kysar</strong><span>: Director of Operations. (</span><span><a href=\"https://linkedin.com/in/kysar\" target=\"_blank\">LinkedIn</a>, <a href=\"https://twitter.com/tomkysar\" target=\"_blank\">Twitter</a></span><span>);</span></li><li><span><strong>Peronet Despeignes</strong><span>: Special Operations. (</span><span><a href=\"https://www.linkedin.com/in/peronetdespeignes\" target=\"_blank\">LinkedIn</a>, <a href=\"https://twitter.com/pqdeep\" target=\"_blank\">Twitter</a></span><span>);</span></span></li><li><strong>Ivan Petric</strong><span>: Marketeer. (</span><span><a href=\"https://twitter.com/IvanPetricSP\" target=\"_blank\">Twitter</a></span><span>);</span></li></ul><p><strong>Bonus Schedule</strong>:</p><ul><li><span>True Augur (15%): August 17- August 22, 12:00pm (EST)</span></li><li><span>Prophet (10%): August 22-  August 28, 12:00pm (EST)</span></li><li><span>Nate Silver (5%): August 28 - September 5, 12:00pm (EST)</span></li><li><span>Nostradamus (0%): September 5- October 1, 12:00pm (EST)</span></li></ul><p><strong>Token Reserve Split (20%):</strong></p><ul><li>16% Advisers;</li><li>04% Forecast Foundation;</li></ul>",
+    "TokenType": "ETH (ERC20)",
+    "WebsiteLink": "https://www.augur.net/",
+    "FundingCap": "N/A",
+    "FundingTarget": "N/A",
+    "Date": 1439827200,
+    "EndDate": 1443700800,
+    "FundsRaisedList": "18,630.8749 BTC; 1,149,880 ETH",
+    "FundsRaisedUSD": "5100000",
+    "StartPrice": "0.58",
+    "StartPriceCurrency": "USD",
+    "Jurisdiction": "N/A",
+    "BlogLink": "http://blog.augur.net/",
+    "WhitePaperLink": "http://bravenewcoin.com/assets/Whitepapers/Augur-A-Decentralized-Open-Source-Platform-for-Prediction-Markets.pdf"
+  },
+  "ccId": "17778"
+}

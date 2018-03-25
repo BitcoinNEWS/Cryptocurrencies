@@ -1,0 +1,64 @@
+{
+  "General": {
+    "Symbol": "AE",
+    "Name": "Aeternity",
+    "Description": "<p><span>Aeternity is a scalable blockchain platform that enables high bandwidth transacting, purely-functional smart contracts, and decentralized oracles.</span></p><p><span>The use of the blockchain is not free, and requires that the user spends a token called Aeon. Aeon&#39;s are used as payment for any resources one consumes on the platform, as well as the basis for financial applications implemented on the platform. All system fees get paid with aeon, all smart contracts settle in aeon.</span></p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "227213467",
+    "Algorithm": "N/A",
+    "ProofType": "PoW/PoS",
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "29/12/2016",
+    "TotalCoinsMined": 273685830.16432995,
+    "Twitter": "@aetrnty",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "https://www.aeternity.com/",
+    "GitHub": null,
+    "OnMarkets": [
+      "Binance",
+      "Gateio",
+      "Liqui",
+      "Tidex",
+      "EtherDelta",
+      "HitBTC",
+      "LAToken"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Finished",
+    "Description": "<p><span>Aeternity is a scalable blockchain platform that enables high bandwidth transacting, purely-functional smart contracts, and decentralized oracles.</span></p><p><span>The use of the blockchain is not free, and requires that the user spends a token called Aeon. Aeon&#39;s are used as payment for any resources one consumes on the platform, as well as the basis for financial applications implemented on the platform. All system fees get paid with aeon, all smart contracts settle in aeon.</span></p><p><strong>Team</strong>:</p><ul><li><strong>Yanislav Malahov</strong>: Founder. (twitter.com/@noyyy);</li><li><strong>Zack Hess</strong>: Technical leader. (twitter.com/zack_bitcoin);</li><li><strong>Marion Vogel</strong>: Marketing &amp; Operations. (twitter.com/marionmiaume);</li><li><strong>Nikola Stojanow</strong>: Business Development. (twitter.com/ae_nikola);</li></ul><p>Aeternity held its ICO in two different phases. Phase 1 started on April 3, 2017, and sold 139,089,935.082 AE tokens for a total of 328.628 BTC and 121,396.731 ETH. Phase 1 ended on April 6, 2017. The second p<span>hase started</span><span> on<span> May 29</span></span><span>, 2017, and sold 88,123,532.010 AE tokens for a total of 1,132.991 BTC and 103,538.569 ETH. Phase 2 ended on June 19, 2017. A total of 227,213,467.091 AE tokens were sold in the ICO and 8194 contributors participated on the sale.</span></p><p><span>Aeternity</span> token will be minable. </p>",
+    "TokenType": "N/A",
+    "WebsiteLink": "https://wallet.aeternity.com/",
+    "FundingCap": "N/A",
+    "FundingTarget": "N/A",
+    "Date": 1496016000,
+    "EndDate": 1497830400,
+    "FundsRaisedList": "1,461.618 BTC;\r\n103,538.569 ETH;",
+    "FundsRaisedUSD": "24990653",
+    "StartPrice": "0.001",
+    "StartPriceCurrency": "ETH",
+    "Jurisdiction": "N/A",
+    "BlogLink": "https://blog.aeternity.com/",
+    "WhitePaperLink": "https://blockchain.aeternity.com/%C3%A6ternity-blockchain-whitepaper.pdf"
+  },
+  "ccId": "190978"
+}

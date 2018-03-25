@@ -1,0 +1,63 @@
+{
+  "General": {
+    "Symbol": "XCP",
+    "Name": "CounterParty",
+    "Description": "<p>Counterparty is not a traditional crypto currency and is more of a payment network - using bitcoin as the transport layer.</p><p><span>Counterparty is a free and open platform that puts powerful financial tools in the hands of everyone with an Internet connection. By harnessing the power of the Bitcoin network, Counterparty creates a robust and secure marketplace directly on the Bitcoin blockchain, extending Bitcoin’s functionality from a peer-to-peer payment network into a full fledged peer-to-peer financial platform.</span></p><p><span><span>In addition to sending money without third-party intermediation you can trade, do business, and engage in advanced financial contracts without having to trust anyone else to hold your funds or do your accounting. Along with the Counterparty protocol, the platform consists of the native XCP token to perform advanced operations, and the secure, browser-based Counterwallet to provide the functionality.</span></span></p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "2600000",
+    "Algorithm": null,
+    "ProofType": "PoW",
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "02/01/2014",
+    "TotalCoinsMined": "2600000",
+    "Twitter": "@CounterpartyXCP",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "http://counterparty.io/",
+    "GitHub": null,
+    "OnMarkets": [
+      "TuxExchange",
+      "Poloniex",
+      "BitSquare",
+      "BTER",
+      "Zaif",
+      "BitTrex"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Finished",
+    "Description": "<p>2125.6 BTC was raised over a 1 month period starting on January 2nd 2014. Which at the time was worth approximately $1.7 Million.</p>",
+    "TokenType": "N/A",
+    "WebsiteLink": "https://counterparty.io/",
+    "FundingCap": "N/A",
+    "FundingTarget": "N/A",
+    "Date": 1388664000,
+    "EndDate": 1391083200,
+    "FundsRaisedList": "2125.6 BTC",
+    "FundsRaisedUSD": "1721736",
+    "StartPrice": "0.066",
+    "StartPriceCurrency": "USD",
+    "Jurisdiction": "N/A",
+    "BlogLink": "https://counterparty.io/news/",
+    "WhitePaperLink": "https://github.com/CounterpartyXCP/counterparty-lib"
+  },
+  "ccId": "5292"
+}

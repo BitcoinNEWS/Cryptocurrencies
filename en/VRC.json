@@ -1,0 +1,67 @@
+{
+  "General": {
+    "Symbol": "VRC",
+    "Name": "VeriCoin",
+    "Description": "<p>VRC is designed to reduce the PoW phase and enter PoS phase quickly. With a steady block reward and block time of sixty seconds, the PoW phase is designed to finish after the first few weeks of launch - 10/05/2014. The PoS interest rate is dynamic and depends on how much the coin is held and staked in the PoS. The dynamic interest rate is pegged at a sensible level of between 0-3% roughly. The PoS interest is gained through transaction fees which are also distributed to the Vericoin fund - to aid in development and promotion of the currency. There was no premine.</p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "0",
+    "Algorithm": "Scrypt",
+    "ProofType": "PoST",
+    "BlockReward": 0.4164623072878881,
+    "Explorer": null,
+    "StartDate": "07/06/2014",
+    "TotalCoinsMined": 30887043.4956854,
+    "Twitter": "@VeriCoin",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "http://www.vericoin.info/",
+    "GitHub": null,
+    "OnMarkets": [
+      "Cryptopia",
+      "TradeSatoshi",
+      "Cryptsy",
+      "Bleutrade",
+      "BTER",
+      "Jubi",
+      "BitTrex",
+      "LiveCoin",
+      "Coinse",
+      "Poloniex"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "N/A",
+    "Description": null,
+    "TokenType": null,
+    "WebsiteLink": null,
+    "FundingCap": null,
+    "FundingTarget": null,
+    "Date": null,
+    "EndDate": null,
+    "FundsRaisedList": null,
+    "FundsRaisedUSD": null,
+    "StartPrice": null,
+    "StartPriceCurrency": null,
+    "Jurisdiction": null,
+    "BlogLink": null,
+    "WhitePaperLink": null
+  },
+  "ccId": "5017"
+}

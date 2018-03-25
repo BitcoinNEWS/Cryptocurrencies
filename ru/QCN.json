@@ -1,0 +1,58 @@
+{
+  "General": {
+    "Symbol": "QCN",
+    "Name": "Quazar Coin",
+    "Description": "<p>QuazarCoin (QCN)<span> is the new generation of cryptocurrency which is based on the cryptonote protocol</span><span> and uses the cryptonight algorithm</span><span>. The CryptoNight algorithm is the most democratic today, fully ASIC-resistant and only CPU-mineable.</span></p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": null,
+    "Algorithm": "CryptoNight",
+    "ProofType": "PoW",
+    "BlockReward": 5.487354418148,
+    "Explorer": null,
+    "StartDate": "19/05/2015",
+    "TotalCoinsMined": 6938933.268334118,
+    "Twitter": "@QuazarCoin",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "http://www.quazarcoin.org/",
+    "GitHub": null,
+    "OnMarkets": [
+      "HitBTC"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "N/A",
+    "Description": null,
+    "TokenType": null,
+    "WebsiteLink": null,
+    "FundingCap": null,
+    "FundingTarget": null,
+    "Date": null,
+    "EndDate": null,
+    "FundsRaisedList": null,
+    "FundsRaisedUSD": null,
+    "StartPrice": null,
+    "StartPriceCurrency": null,
+    "Jurisdiction": null,
+    "BlogLink": null,
+    "WhitePaperLink": null
+  },
+  "ccId": "7650"
+}

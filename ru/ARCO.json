@@ -1,0 +1,59 @@
+{
+  "General": {
+    "Symbol": "ARCO",
+    "Name": "AquariusCoin",
+    "Description": "<p>AquariusCoin is a PoW/PoS cryptocurrency, currently in the Proof of Stake phase. It uses the Scrypt algorithm and has a 64 second block time.</p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "42000000",
+    "Algorithm": "Scrypt",
+    "ProofType": "PoW/PoS",
+    "BlockReward": 1.0797347099869512,
+    "Explorer": null,
+    "StartDate": "19/02/2016",
+    "TotalCoinsMined": 1652361.67245551,
+    "Twitter": "@ArcCoin",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "https://aquariuscoin.com/",
+    "GitHub": null,
+    "OnMarkets": [
+      "Yobit",
+      "Cryptopia"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "N/A",
+    "Description": null,
+    "TokenType": null,
+    "WebsiteLink": null,
+    "FundingCap": null,
+    "FundingTarget": null,
+    "Date": null,
+    "EndDate": null,
+    "FundsRaisedList": null,
+    "FundsRaisedUSD": null,
+    "StartPrice": null,
+    "StartPriceCurrency": null,
+    "Jurisdiction": null,
+    "BlogLink": null,
+    "WhitePaperLink": null
+  },
+  "ccId": "34506"
+}

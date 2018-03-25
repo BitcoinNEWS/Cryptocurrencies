@@ -1,0 +1,59 @@
+{
+  "General": {
+    "Symbol": "VERI",
+    "Name": "Veritaseum",
+    "Description": "<p><span style=\"font-weight: 400;\">Veritaseum is a smart contract-based wallet interface that allows anyone to create, enter and manage smart contracts without the need for any kind of intermediaries, middleman or centralized authority. </span></p><p><span style=\"font-weight: 400;\">Veritaseum will allow users to interact with real-world products</span><span style=\"font-weight: 400;\"> based completely on blockchain technology and smart contracts, including P2P value trading, P2P letters of credit and DAOs. </span><span style=\"font-weight: 400;\"> VERI tokens will allow users to interact with the Veritaseum wallet interface.</span></p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "100000000",
+    "Algorithm": null,
+    "ProofType": null,
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "25/04/2017",
+    "TotalCoinsMined": 100000000,
+    "Twitter": "@ReggieMiddleton",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "http://veritas.veritaseum.com/",
+    "GitHub": null,
+    "OnMarkets": [
+      "HitBTC",
+      "EtherDelta"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Finished",
+    "Description": "<p>Veritaseum is a smart contracts-based, peer-to-peer wallet interface (in beta) that currently interacts with Bitcoin blockchain (to be ported to Ethereum). It allows non-technical individuals &amp; entities to quickly create, enter and manage smart contracts directly with others without an authoritative 3rd party. It was the first of its kind written on a public or private blockchain.</p><p>Use of Funds:</p><ul><li>Research and Development 30%</li><li>Sales, Marketing, Business Development 30%</li><li>Operations: 13%</li><li>Legal: 10%</li><li>Reserves: 10%</li><li>DAO liquidity provisions: 7%</li></ul><p>Bonus: 20% day 1, 10% day 2, dropping 100bp per diem thereafter</p><p><span style=\"text-decoration: underline;\">Team:</span></p><ul><li>Founder/CEO: Reggie Middleton</li><li>Lead engineer: Patryk Dwórznik</li><li>Lead analyst: Manish Kapoor</li></ul>",
+    "TokenType": "ETH (ERC20)",
+    "WebsiteLink": "http://veritas.veritaseum.com/",
+    "FundingCap": "N/A",
+    "FundingTarget": "N/A",
+    "Date": 1493121600,
+    "EndDate": 1495800000,
+    "FundsRaisedList": "60,000 ETH",
+    "FundsRaisedUSD": "12000000",
+    "StartPrice": "0.033",
+    "StartPriceCurrency": "ETH",
+    "Jurisdiction": "N/A",
+    "BlogLink": "https://blog.veritaseum.com",
+    "WhitePaperLink": null
+  },
+  "ccId": "136211"
+}

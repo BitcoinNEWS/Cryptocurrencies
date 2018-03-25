@@ -1,0 +1,56 @@
+{
+  "General": {
+    "Symbol": "CROAT",
+    "Name": "Croat",
+    "Description": "<p>Croat is a virtual coin or criptocurrency based on Cryptonote algorithm. Their objective is to create a Catalan product, a tool destined to be used by the people, governed by the people, and that brings benefits directly to the people.</p><p><span>Croat was one of the most used and longest lived of the Catalan coins (fiat). Croat is an important part of the historical dentity of the Catalan people. Croat as an altcoin brings the Catalan coin from the past into the future.</span><br /><span>A tool within everyone’s reach, justified not only by economical needs, but also by historical, cultural and personal ones. </span><span><span>More info on Croat&#39;s history<span> </span></span><a href=\"http://croat.cat/history/\" class=\"ul\">here</a><span>.</span></span></p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "100467441",
+    "Algorithm": "CryptoNight",
+    "ProofType": "PoW",
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "19/08/2017",
+    "TotalCoinsMined": null,
+    "Twitter": "@CROATcoin",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": null,
+    "GitHub": null,
+    "OnMarkets": [],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "N/A",
+    "Description": null,
+    "TokenType": null,
+    "WebsiteLink": null,
+    "FundingCap": null,
+    "FundingTarget": null,
+    "Date": null,
+    "EndDate": null,
+    "FundsRaisedList": null,
+    "FundsRaisedUSD": null,
+    "StartPrice": null,
+    "StartPriceCurrency": null,
+    "Jurisdiction": null,
+    "BlogLink": null,
+    "WhitePaperLink": null
+  },
+  "ccId": "731596"
+}

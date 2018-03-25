@@ -1,0 +1,58 @@
+{
+  "General": {
+    "Symbol": "COR",
+    "Name": "Corion",
+    "Description": "<p>CORION Platform is hosted on the Ethereum Classic blockchain. It consists of more separate smart contracts, implemented in Solidity language.</p><p>CORION Platform is an ecosystem with a digital asset to serve the global economy, with innovative tools for payment, finance and trading.</p><p>The financial asset of the platform is CORION Coin, it’s stability ensures security to both service providers and users. It has built-in automated inflation and deflation control ensuring the stable price inevitable to carry out real life transactions.</p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "N/A",
+    "Algorithm": "N/A",
+    "ProofType": "N/A",
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "16/05/2017",
+    "TotalCoinsMined": null,
+    "Twitter": "@CorionPlatform",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "https://www.corion.io",
+    "GitHub": null,
+    "OnMarkets": [
+      "Cryptopia"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Ongoing",
+    "Description": "<p><span>CORION Platform is an ecosystem with a digital asset to serve the global economy, with innovative tools for payment, finance and trading.</span></p><p><span>The financial asset of the platform is CORION Coin, it’s stability ensures security to both service providers and users.</span></p><p><strong>Bonuses:</strong></p><table border=\"0\" width=\"344\" height=\"136\"><tbody><tr><td style=\"text-align: center;\"><strong>Period</strong></td><td style=\"text-align: center;\"><strong>Bonus</strong></td></tr><tr><td>ICO 1st Week</td><td style=\"text-align: right;\">20%</td></tr><tr><td><span>ICO 2nd Week</span></td><td style=\"text-align: right;\">15%</td></tr><tr><td><span>ICO 3rd Week</span></td><td style=\"text-align: right;\">10%</td></tr><tr><td><span>ICO 4th Week</span></td><td style=\"text-align: right;\">5%</td></tr><tr><td><span>Until ICO Ends</span></td><td style=\"text-align: right;\">3%</td></tr></tbody></table>",
+    "TokenType": "ETC",
+    "WebsiteLink": "https://www.corion.io/#atf",
+    "FundingCap": "N/A",
+    "FundingTarget": "N/A",
+    "Date": 1497747816,
+    "EndDate": 1501491600,
+    "FundsRaisedList": "N/A",
+    "FundsRaisedUSD": "2012587",
+    "StartPrice": "N/A",
+    "StartPriceCurrency": "N/A",
+    "Jurisdiction": "Switzerland",
+    "BlogLink": "http://blog.corion.io/",
+    "WhitePaperLink": "https://corion.io/doc/businesswhitepaper_v1.3_pub.pdf"
+  },
+  "ccId": "179980"
+}

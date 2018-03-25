@@ -1,0 +1,60 @@
+{
+  "General": {
+    "Symbol": "COFI",
+    "Name": "CoinFi",
+    "Description": "<p>CoinFi is a platform that offers <span>crowdsourced and professionally curated research, analysis, trading signals, trading algorithms, and market-moving news to give crypto traders real-time market intelligence.  The CoinFi token (COFI) is an ERC-20 token that will be used for access to the platform’s advanced trading signals/algos and premium research, which will require staking tokens to reward token owners and reduce volatility. The token will also be used to leverage the wisdom of the crowd. Community members who help curate news, produce research &amp; analysis, and share trading signals will be rewarded within CoinFi&#39;s unique token-for-information ecosystem.</span></p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "300000000",
+    "Algorithm": null,
+    "ProofType": null,
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "15/12/2017",
+    "TotalCoinsMined": 300000000,
+    "Twitter": "@coin_fi",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": null,
+    "GitHub": null,
+    "OnMarkets": [
+      "Kucoin",
+      "EtherDelta",
+      "Gateio"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Finished",
+    "Description": "<p><span>CoinFi is a platform that offers </span><span>crowdsourced and professionally curated research, analysis, trading signals, trading algorithms, and market-moving news to give crypto traders real-time market intelligence.  The CoinFi token (COFI) is an ERC-20 token that will be used for access to the platform’s advanced trading signals/algos and premium research, which will require staking tokens to reward token owners and reduce volatility. The token will also be used to leverage the wisdom of the crowd. Community members who help curate news, produce research &amp; analysis, and share trading signals will be rewarded within CoinFi&#39;s unique token-for-information ecosystem.</span></p><p><strong>Team</strong>:</p><ul><li><strong>Timothy Tam:</strong> Co-Founder <a href=\"https://www.linkedin.com/in/ttam-0190212/\" target=\"_blank\"><img src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Han Chang:</strong> Co-Founder <a href=\"https://www.linkedin.com/in/hanchang0/\" target=\"_blank\"><img src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Nate Tsang</strong>: Co-Founder <a href=\"https://www.linkedin.com/in/nate-tsang-3a493a153/\" target=\"_blank\"><img src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Glen Thomson:</strong> Operations Manager <a href=\"https://www.linkedin.com/in/glenthom/\" target=\"_blank\"><img src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Dominic Wells:</strong> Public Relations Manager <a href=\"https://www.linkedin.com/in/dominic-wells-55946b91/\" target=\"_blank\"><img src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>David Danzeiser:</strong> PPC Marketing Manager <a href=\"https://www.linkedin.com/in/david-danzeiser-20b0b717/\" target=\"_blank\"><img src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Nav Aulakh:</strong> Community Manager <a href=\"https://www.linkedin.com/in/navneet-aulakh-73161826\" target=\"_blank\"><img src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li></ul><div><div><span>The CoinFi ICO will start on the <span class=\"aBn\" data-term=\"goog_1203876002\"><span class=\"aQJ\">15th of January 2018</span></span> and it will last until the <span class=\"aBn\" data-term=\"goog_1203876003\"><span class=\"aQJ\">22nd of February 2018</span></span>. </span>The ICO token allocation represents 50% of the total token supply and will be available for a 0.10 USD price. Users can participate with ETH. The funding soft cap is set at $3M and the hard cap at $10M.</div></div><p><strong>Token Reserve Split (50%):</strong></p><ul><li>30% for company shareholders</li><li>20% retained by the CoinFi Foundation to incentivize partners and early adopters of the product.</li></ul><p>The CoinFi ICO features a bonus and bounty campaigns.</p><p><strong>Bonus Structure:</strong></p><ul><li>Presale Tier 1 Jan 15 -<span> </span><span class=\"aBn\" data-term=\"goog_1203875998\"><span class=\"aQJ\">29</span></span>: 20% bonus</li><li>Presale Tier 2 Jan 22 -<span> </span><span class=\"aBn\" data-term=\"goog_1203875999\"><span class=\"aQJ\">Jan 7</span></span>: 15% bonus</li><li>Presale Tier 3 Jan 29 - 17: 10% bonus</li><li>Crowdsale<span> </span><span class=\"aBn\" data-term=\"goog_1203876000\"><span class=\"aQJ\">Feb 8 - 31</span></span>: 5% bonus during 1st hour 20 ETH/person max during 1st hour</li></ul><p> </p>",
+    "TokenType": "ETH (ERC20)",
+    "WebsiteLink": "https://sale.coinfi.com/?utm_source=icolisting&utm_medium=native&utm_campaign=cryptocompare_ico_listing",
+    "FundingCap": "15,000,000 USD",
+    "FundingTarget": "3,000,000 USD",
+    "Date": 1515974400,
+    "EndDate": 1515974400,
+    "FundsRaisedList": "15,000,000 USD",
+    "FundsRaisedUSD": "15000000",
+    "StartPrice": "0.10",
+    "StartPriceCurrency": "USD",
+    "Jurisdiction": "Cayman Islands",
+    "BlogLink": "https://blog.coinfi.com/?utm_source=icolisting&utm_medium=native&utm_campaign=cryptocompare_ico_listing",
+    "WhitePaperLink": "https://docs.google.com/document/d/1p6xaFl4nPv1CuJv6F2fkZ6qBq2lBS6ePyFna8QZt1KM/edit"
+  },
+  "ccId": "436320"
+}

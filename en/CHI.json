@@ -1,0 +1,56 @@
+{
+  "General": {
+    "Symbol": "CHI",
+    "Name": "Chimaera",
+    "Description": "<p><span>The Chimaera landscape consists of multiple parts. The Chimaera blockchain acts as a decentralised gaming backend that is scalable, secure and reliable. The Chimaera platform is a continuously evolving environment facilitating developers with the tools they need to get their concept to market in less time with reduced cost.</span></p><p><span>Gamers can benefit from massive immersive game worlds with thriving economies, fair gameplay, fair acquisition and true ownership of in-game assets and items, and the ability to trade in a trustless fashion. The project is brought to you by the creators of the world’s first blockchain games.</span></p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "555555555.556",
+    "Algorithm": "NeoScrypt",
+    "ProofType": "PoW",
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "23/03/2018",
+    "TotalCoinsMined": null,
+    "Twitter": "@chimaera_tech",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": null,
+    "GitHub": null,
+    "OnMarkets": [],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Upcoming",
+    "Description": "<p><span>The Chimaera landscape consists of multiple parts. The Chimaera blockchain acts as a decentralised gaming backend that is scalable, secure and reliable. The Chimaera platform is a continuously evolving environment facilitating developers with the tools they need to get their concept to market in less time with reduced cost.</span></p><p><span>Gamers can benefit from massive immersive game worlds with thriving economies, fair gameplay, fair acquisition and true ownership of in-game assets and items, and the ability to trade in a trustless fashion. The project is brought to you by the creators of the world’s first blockchain games.</span></p><p><strong>Team</strong>:</p><ul><li><strong>Andrew Colosimo</strong><span>: Founder.</span><span> </span><a href=\"https://www.linkedin.com/in/andrew-colosimo-a3977b18/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Dr. Daniel Kraft</strong><span>: Co-Founder, Blockchain Lead.</span></li><li><strong>Konstantin Gorskov</strong><span>: Co-Founder, Game Dev. Lead.</span><span> </span><a href=\"https://www.linkedin.com/in/konstantin-gorskov-034262144/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Bas de Gruiter</strong><span>: Co-Founder, Business Development.</span><span> </span><a href=\"https://www.linkedin.com/in/bas-de-gruiter-47840314a/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Patrique Burgersdijk</strong><span>: Project Management.</span><span> </span><a href=\"https://www.linkedin.com/in/patrique-burgersdijk-90836934/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Ryan Smyth</strong><span>: Community Management.</span><span> </span><a href=\"https://www.linkedin.com/in/ryansmyth/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Ayalies Schoonhoven</strong><span>: Marketing &amp; Communication.</span><span> </span><a href=\"https://www.linkedin.com/in/ayalies-schoonhoven-korenberg-a51b8624/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Kyle Serbov</strong><span>: Community.</span><span> </span><a href=\"https://www.linkedin.com/in/kyle-serbov-53905b149/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Andrew Gore</strong><span>: Game Project Management.</span><span> </span><a href=\"https://www.linkedin.com/in/andrewgore1/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Mike Handverger</strong><span>: Game Engineer.</span><span> </span><a href=\"https://www.linkedin.com/in/michael-handverger-6460b01/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Jonathan Soucy</strong><span>: Game Designer.</span><span> </span><a href=\"https://www.linkedin.com/in/jonathan-soucy-a098873/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Joe Jacir</strong><span>: Game Engineer.</span><span> </span><a href=\"https://www.linkedin.com/in/jjacir/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Roy Crombleholme</strong><span>: Network.</span><span> </span><a href=\"https://www.linkedin.com/in/roy-crombleholme-32aaa465/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Scott Raisbeck</strong><span>: Software Engineer.</span><span> </span><a href=\"https://www.linkedin.com/in/scott-raisbeck-4b000516/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Richard Kastelein</strong><span>: Advisor.</span><span> </span><a href=\"https://www.linkedin.com/in/expathos/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Jonathan Galea</strong><span>: Legal Advisor.</span><span> </span><a href=\"https://www.linkedin.com/in/jonathan-galea-5421419a/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Prof. Nick Colosimo</strong><span>: Advisor.</span><span> </span><a href=\"https://www.linkedin.com/in/prof-nick-colosimo-ceng-fiet-fike-6b655737/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Dr. Yen Nguyen</strong><span>: Financial Advisor.</span><span> </span><a href=\"https://www.linkedin.com/in/yen-nguyen-6801799/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Jon Jacobs</strong><span>: Advisor.</span></li></ul><p>Chimaera will be holding its ICO on the 23rd of March, 2018. The ICO token supply represents 40.5% of the total token supply, so there will be a total of 225,000,000 tokens available, for 0.00002 BTC each at the offering. The ICO is expected to end on the 19th of April, 2018 or when the funding cap is reached.</p>",
+    "TokenType": "New Blockchain",
+    "WebsiteLink": "https://chimaera.io/",
+    "FundingCap": "225,000,000 CHI",
+    "FundingTarget": "N/A",
+    "Date": 1521763200,
+    "EndDate": 1524096000,
+    "FundsRaisedList": "155 BTC; 100,000 USD",
+    "FundsRaisedUSD": "1417500",
+    "StartPrice": "0.00002",
+    "StartPriceCurrency": "BTC",
+    "Jurisdiction": "Malta",
+    "BlogLink": "https://medium.com/@Chimaera_Tech",
+    "WhitePaperLink": "https://chimaera.io/downloads/Chimaera_White_Paper.pdf"
+  },
+  "ccId": "816745"
+}

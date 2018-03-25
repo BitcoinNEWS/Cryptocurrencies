@@ -1,0 +1,58 @@
+{
+  "General": {
+    "Symbol": "ITT",
+    "Name": "Intelligent Trading Technologies",
+    "Description": "<p>The Intelligent Trading Technologies platform leverages <span>artificial intelligence to provide personalized trading alerts to users. ITT is an Ethereum-based token that </span><span>allows token holders to </span>pay all subscription fees on the ITT platform. 25% of the subscription fees collected from ITT&#39;s users are burnt, creating a deflationary currency.</p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "11500000",
+    "Algorithm": null,
+    "ProofType": null,
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "18/08/2017",
+    "TotalCoinsMined": 11500000,
+    "Twitter": "@ITT_Token",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": null,
+    "GitHub": null,
+    "OnMarkets": [
+      "EtherDelta"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Ongoing",
+    "Description": "<p><span>The Intelligent Trading Technologies platform leverages </span><span>artificial intelligence to provide personalized trading alerts to users. ITT is an Ethereum-based token that </span><span>allows token holders to </span><span>pay all subscription fees on the ITT platform. 25% of the subscription fees collected from ITT&#39;s users are burnt, creating a deflationary currency.</span></p><p><strong>Team</strong>:</p><ul><li><strong>Thomas Counsell:</strong> Co-Founder <a href=\"https://www.linkedin.com/in/tomcounsell/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Benjamin Lakoof, CFA: </strong>Co-Founder <a href=\"https://www.linkedin.com/in/lakoff/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Marcelo Barbosa:</strong> Platform Developer <a href=\"https://www.linkedin.com/in/firemanxbr/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Poramin Insom:</strong> Adsivor <a href=\"https://www.linkedin.com/in/poramin/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li></ul><p>The ITT token sale will commence on the 18th of August, 2017 at 14:00 and last until the 19th of September. Druing the campaign, 75% of the 21M ITT supply will be sold to participants. There is a maximum funding cap of 4,200,000 USD.</p><p><strong>Token Reserve Split (XX%):</strong></p><ul><li>75% of Tokens available for crowdfunding participants and traded on exchanges</li><li>15% of Tokens available for User Rewards (acquisition, performance and bonuses)</li><li>10% of tokens available for original contributors/dev team/advisors (subject to 12-month holding period)</li></ul><p><span>The ICO will feature a bonus campaign and the tokens will not be mineable, although the supply reduces over time as tokens are burnt.</span></p><p><strong>Bonus Structure:</strong></p><ul><li><strong>&lt; 5 ETH*</strong> +0%</li><li><strong>5 ETH*</strong> - 50 ETH* +10%</li><li><strong>&gt;50 ETH*</strong> +20%</li></ul>",
+    "TokenType": "ETH (ERC20)",
+    "WebsiteLink": "http://token-sale.intelligenttrading.org/",
+    "FundingCap": "4,200,000 USD",
+    "FundingTarget": "N/A",
+    "Date": 1503064800,
+    "EndDate": 1505656800,
+    "FundsRaisedList": "2558 ETH\r\n281 BTC",
+    "FundsRaisedUSD": "1978519",
+    "StartPrice": "N/A",
+    "StartPriceCurrency": "BTC",
+    "Jurisdiction": "N/A",
+    "BlogLink": null,
+    "WhitePaperLink": "http://intelligenttrading.org/whitepaper.pdf"
+  },
+  "ccId": "232678"
+}

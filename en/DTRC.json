@@ -1,0 +1,56 @@
+{
+  "General": {
+    "Symbol": "DTRC",
+    "Name": "Datarius",
+    "Description": "<p><span>Datarius is an Ethereum-based social P2P cryptobank. DTRC is an ERC20 utility token that allows its holders to access and participate in the Datarius banking system. The token hol</span><span>ders will also receive 65% of the fees and charges collected by the Datarius cryptobank. The amount shall be distributed annually starting from 2019, in proportion to the number of the token holders.</span></p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": null,
+    "Algorithm": null,
+    "ProofType": null,
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "28/11/2017",
+    "TotalCoinsMined": 98325030.33782528,
+    "Twitter": "@Datariuscrypto",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": null,
+    "GitHub": null,
+    "OnMarkets": [],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Upcoming",
+    "Description": "<p><span>Datarius is an Ethereum-based social P2P cryptobank. DTRC is an ERC20 utility token that allows its holders to access and participate in the Datarius banking system. The token hol</span><span>ders<span> </span>will also<span> </span>receive 65% of the fees and charges collected by the Datarius cryptobank. The amount shall be distributed annually starting from 2019, in proportion to the number of the token holders.</span></p><p><strong>Team</strong>:</p><ul><li><strong>Alexey Vuyko</strong>: <span>COO</span>. <a href=\"https://www.linkedin.com/in/aleksey-vuyko-ba6b9942/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong><span>Ruslan Vasyutin</span></strong>: <span>CMO</span>. <a href=\"https://www.linkedin.com/in/rvasyutin/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong><span>Larisa Sokolovskaya</span></strong>: <span>CFO</span>.<span> </span><a href=\"https://www.linkedin.com/in/sokolovskaya-larisa-46221b25/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong><span>Konstantin Marchuk</span></strong>: <span>Development Team Lead</span>. <a href=\"https://www.linkedin.com/in/chegunick/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong><span>Maxim Pashkovskiy</span></strong>: <span>Legal support ITO</span>.<span> </span><a href=\"https://www.linkedin.com/in/pashkovskiy/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong><span>Dmitriy Kravchenko</span></strong>: <span>SMM</span>. <a href=\"https://www.linkedin.com/in/%D0%B4%D0%BC%D0%B8%D1%82%D1%80%D0%B8%D0%B9-%D0%BA%D1%80%D0%B0%D0%B2%D1%87%D0%B5%D0%BD%D0%BA%D0%BE-48904689/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong><span>Kristina Rezugina</span></strong>: <span>Community Manager</span>.<span> </span><a href=\"https://www.linkedin.com/in/kristina-rezugina-2b44a46a/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li></ul><p>Datarius will be holding its ICO on March 5th, 2018. The ICO token supply represents 73% of the total token supply, for a starting price of 0.01 USD each at the offering. The ICO funding target is 1,000,000 USD, the funding cap is 51,000,000 USD and is expected to end on April 5th, 2018 or when the funding cap is reached. Any unsold/remaining tokens will be burned.</p><p><span>The final number of DTRC tokens will be defined according to ITO round and will correlate to the total token supply, taking into account the final distribution according to the approved structure.</span></p><p><strong>Token Reserve Split (27%):</strong></p><ul><li>5% Team;</li><li>5% Partners;</li><li>2% Bounty program;</li><li>15% Reserve fund;</li></ul><p><span>Datarius&#39; ICO campaign will feature bonuses, bounty program and Escrow service, and the token will not be mineable.</span></p><p><strong>Bonus Structure:</strong></p><ul><li>30% - 0-6 hours;</li><li>25% - 6-12 hours; 20% - 12-24 hours;</li><li>15% - 24-48 hours;</li><li>10% - 48 hours – 15 days;</li><li>0% - +15 days</li></ul>",
+    "TokenType": "ETH (ERC20)",
+    "WebsiteLink": "https://datarius.io",
+    "FundingCap": "51,000,000 USD",
+    "FundingTarget": "1,000,000 USD",
+    "Date": 1520208000,
+    "EndDate": 1518393600,
+    "FundsRaisedList": "Closed and presale: 525,428.14",
+    "FundsRaisedUSD": "525428.14",
+    "StartPrice": "0.01",
+    "StartPriceCurrency": "USD",
+    "Jurisdiction": "Costa Rica",
+    "BlogLink": "https://medium.com/@datariuscryptobank",
+    "WhitePaperLink": "https://datarius.io/Whitepaper_eng_compressed_05_02_2018.pdf"
+  },
+  "ccId": "764096"
+}

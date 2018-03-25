@@ -1,0 +1,58 @@
+{
+  "General": {
+    "Symbol": "OCTO",
+    "Name": "OctoCoin",
+    "Description": "<p>OCTO is a Counterparty asset with focus on decentralized website payments for Counterparty assets and Token Control Access Marketing. OCTO will create and fairly distribute a total of 88.8 million coins to be used for early access and testing of the OCTO projects. Distribution includes an alt coin burn, merged mining with FoldingCoin and a future crowd sale.</p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "88000000",
+    "Algorithm": null,
+    "ProofType": null,
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "12/06/2014",
+    "TotalCoinsMined": "88000000",
+    "Twitter": "@theoctoparty",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "http://www.theoctoparty.com/",
+    "GitHub": null,
+    "OnMarkets": [
+      "BitTrex"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "N/A",
+    "Description": null,
+    "TokenType": null,
+    "WebsiteLink": null,
+    "FundingCap": null,
+    "FundingTarget": null,
+    "Date": null,
+    "EndDate": null,
+    "FundsRaisedList": null,
+    "FundsRaisedUSD": null,
+    "StartPrice": null,
+    "StartPriceCurrency": null,
+    "Jurisdiction": null,
+    "BlogLink": null,
+    "WhitePaperLink": null
+  },
+  "ccId": "5393"
+}

@@ -1,0 +1,59 @@
+{
+  "General": {
+    "Symbol": "SETH",
+    "Name": "Sether",
+    "Description": "<p>Sether is a platform that provides blockchain integration with social network APIs, allowing companies to get information, analyse and monitor social networks. The SETH token is a standard ERC20 token that can be used by multiple wallets and trading platforms. The token will be used as the only currency for interacting with the Sether platform.</p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "100000000",
+    "Algorithm": null,
+    "ProofType": null,
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "04/12/2017",
+    "TotalCoinsMined": null,
+    "Twitter": "@setherplatform",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": null,
+    "GitHub": null,
+    "OnMarkets": [
+      "EtherDelta",
+      "HitBTC"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Finished",
+    "Description": "<p>Sether is a platform that provides blockchain integration with social network APIs, allowing companies to get information, analyse and monitor social networks. The SETH token is a standard ERC20 token that can be used by multiple wallets and trading platforms. The token will be used as the only currency for interacting with the Sether platform.</p><p><strong>Team</strong>:</p><ul><li><strong>Ovidiu Oancea:</strong> CEO <a href=\"https://www.linkedin.com/in/ovidiu-oancea-3961a71/\" target=\"_blank\"><img src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Flavius Burca:</strong> CTO <a href=\"https://www.linkedin.com/in/flaviusburca/\" target=\"_blank\"><img src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Cristi Savescu:</strong> COO <a href=\"https://www.linkedin.com/in/cristi-savescu-235a356/\" target=\"_blank\"><img src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Dan Chirila:</strong> Technical Manager <a href=\"https://www.linkedin.com/in/dan-chirila-897a7731/\" target=\"_blank\"><img src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li></ul><p>The Sether ICO will start on the 4th of December 2017 and will last until the 15th of February 2018 or until the 165,000 ETH hard cap is reached. The ICO token allocation represents 55% of the total coin supply. The coins will be available for a 0.003 ETH starting price and can be purchased with BTC, ETH, LTC or DASH</p><p><strong>Token Reserve Split (45%):</strong></p><ul><li>35% for the company to be diluted</li><li>7% per year for incentives to the community, beta testers and strategic partners;</li><li>10% to be sold directly on the platform for service consumers. These tokens will be locked for 6 months after the end of the crowdsale.</li></ul>",
+    "TokenType": "ETH (ERC20)",
+    "WebsiteLink": "https://www.sether.io/for-investors",
+    "FundingCap": "165,000 ETH",
+    "FundingTarget": "N/A",
+    "Date": 1512345600,
+    "EndDate": 1515974400,
+    "FundsRaisedList": "22,000 ETH",
+    "FundsRaisedUSD": "24307140",
+    "StartPrice": "0.003",
+    "StartPriceCurrency": "ETH",
+    "Jurisdiction": "N/A",
+    "BlogLink": "https://medium.com/@contact_47998",
+    "WhitePaperLink": "https://github.com/mware-solutions/icosite/blob/master/SETHER%20Whitepaper.pdf"
+  },
+  "ccId": "419209"
+}

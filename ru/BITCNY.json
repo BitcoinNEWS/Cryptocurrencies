@@ -1,0 +1,61 @@
+{
+  "General": {
+    "Symbol": "BITCNY",
+    "Name": "bitCNY",
+    "Description": "<p>bitCNY is a market pegged asset (MPA) issued on the Bitshares platform, these assets are known as bitassets or smartcoins. Smartcoins always have 1<span>00% or more of its value backed by BitShares (BTS), and can be redeemed for it at any time. Since the exchange rate of BTS to CNY can change, the blockchain protocol deals with increasing and decreasing supply accordingly. This allows users to trade and transfer stable priced tokens across the blockchain and to trade real world commodities like gold and silver in a decentralized manner.</span></p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "100000000000",
+    "Algorithm": null,
+    "ProofType": null,
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "05/11/2015",
+    "TotalCoinsMined": "100000000000",
+    "Twitter": null,
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "-",
+    "GitHub": null,
+    "OnMarkets": [
+      "Poloniex",
+      "BTER",
+      "CCEDK",
+      "Yunbi"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "N/A",
+    "Description": null,
+    "TokenType": null,
+    "WebsiteLink": null,
+    "FundingCap": null,
+    "FundingTarget": null,
+    "Date": null,
+    "EndDate": null,
+    "FundsRaisedList": null,
+    "FundsRaisedUSD": null,
+    "StartPrice": null,
+    "StartPriceCurrency": null,
+    "Jurisdiction": null,
+    "BlogLink": null,
+    "WhitePaperLink": null
+  },
+  "ccId": "28019"
+}

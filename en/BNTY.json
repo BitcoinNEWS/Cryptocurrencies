@@ -1,0 +1,61 @@
+{
+  "General": {
+    "Symbol": "BNTY",
+    "Name": "Bounty0x",
+    "Description": "<p>Bounty0x is an Etherem-based bounty program management platform. <span>Bounty0x acts as an intermediary, enabling start ups to post bounty programs and users to receive income for completing bounty tasks.</span></p><p><span>BNTY is an ERC20 token that serves as a currency on Bounty0x&#39;s platform.</span></p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "500000000",
+    "Algorithm": null,
+    "ProofType": null,
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "18/10/2017",
+    "TotalCoinsMined": 499999999.96,
+    "Twitter": "@bounty0x",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": null,
+    "GitHub": null,
+    "OnMarkets": [
+      "BitZ",
+      "Gateio",
+      "Kucoin",
+      "EtherDelta"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "N/A",
+    "Description": null,
+    "TokenType": null,
+    "WebsiteLink": null,
+    "FundingCap": null,
+    "FundingTarget": null,
+    "Date": null,
+    "EndDate": null,
+    "FundsRaisedList": null,
+    "FundsRaisedUSD": null,
+    "StartPrice": null,
+    "StartPriceCurrency": null,
+    "Jurisdiction": null,
+    "BlogLink": null,
+    "WhitePaperLink": null
+  },
+  "ccId": "543363"
+}

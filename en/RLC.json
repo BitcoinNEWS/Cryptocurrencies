@@ -1,0 +1,68 @@
+{
+  "General": {
+    "Symbol": "RLC",
+    "Name": "RLC",
+    "Description": "<p><span>RLC is an Ethereum-based token used in the iEx.ec, a blockchain-based distributed cloud computing platform.  Developers can rent computing power, servers and data centers and make their unused resources available through a unique marketplace on the Ethereum blockchain. The RLC token allows users to rent servers, data and applications to execute their distributed applications.</span></p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": " 87000000",
+    "Algorithm": null,
+    "ProofType": null,
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "10/01/2017",
+    "TotalCoinsMined": 86999784.9868455,
+    "Twitter": "@iEx_ec",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "http://iex.ec/",
+    "GitHub": null,
+    "OnMarkets": [
+      "Tidex",
+      "LiveCoin",
+      "Novaexchange",
+      "Bitfinex",
+      "HitBTC",
+      "Binance",
+      "BitTrex",
+      "Gateio",
+      "EtherDelta",
+      "Liqui",
+      "Gatecoin"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Finished",
+    "Description": "<p><span data-sheets-value=\"{&quot;1&quot;:2,&quot;2&quot;:&quot;2 hours 45 mins&quot;}\" data-sheets-userformat=\"{&quot;2&quot;:12456,&quot;6&quot;:{&quot;1&quot;:[{&quot;1&quot;:2,&quot;2&quot;:0,&quot;5&quot;:[null,2,0]},{&quot;1&quot;:0,&quot;2&quot;:0,&quot;3&quot;:3},{&quot;1&quot;:1,&quot;2&quot;:0,&quot;4&quot;:1}]},&quot;8&quot;:{&quot;1&quot;:[{&quot;1&quot;:2,&quot;2&quot;:0,&quot;5&quot;:[null,2,0]},{&quot;1&quot;:0,&quot;2&quot;:0,&quot;3&quot;:3},{&quot;1&quot;:1,&quot;2&quot;:0,&quot;4&quot;:1}]},&quot;10&quot;:2,&quot;15&quot;:&quot;Calibri&quot;,&quot;16&quot;:11}\"><span> </span><span>RLC is an Ethereum ERC20 token used in the iEx.ec, a blockchain-based distributed cloud computing platform.  The RLC token allows users to rent servers, data and applications to execute their distributed applications.</span></span></p><p><span data-sheets-value=\"{&quot;1&quot;:2,&quot;2&quot;:&quot;2 hours 45 mins&quot;}\" data-sheets-userformat=\"{&quot;2&quot;:12456,&quot;6&quot;:{&quot;1&quot;:[{&quot;1&quot;:2,&quot;2&quot;:0,&quot;5&quot;:[null,2,0]},{&quot;1&quot;:0,&quot;2&quot;:0,&quot;3&quot;:3},{&quot;1&quot;:1,&quot;2&quot;:0,&quot;4&quot;:1}]},&quot;8&quot;:{&quot;1&quot;:[{&quot;1&quot;:2,&quot;2&quot;:0,&quot;5&quot;:[null,2,0]},{&quot;1&quot;:0,&quot;2&quot;:0,&quot;3&quot;:3},{&quot;1&quot;:1,&quot;2&quot;:0,&quot;4&quot;:1}]},&quot;10&quot;:2,&quot;15&quot;:&quot;Calibri&quot;,&quot;16&quot;:11}\">The RLC ICO sold the available 60,000,000 tokens available in under 3 hours and the capital of over $12,000,000 was raised by 1200 buyers. RLC could be bought at a discount of 20% for the first 10 days at a rate of </span></p><p>1 BTC = 5000 RLC</p><p>1ETH = 205 RLC</p><p><span data-sheets-value=\"{&quot;1&quot;:2,&quot;2&quot;:&quot;2 hours 45 mins&quot;}\" data-sheets-userformat=\"{&quot;2&quot;:12456,&quot;6&quot;:{&quot;1&quot;:[{&quot;1&quot;:2,&quot;2&quot;:0,&quot;5&quot;:[null,2,0]},{&quot;1&quot;:0,&quot;2&quot;:0,&quot;3&quot;:3},{&quot;1&quot;:1,&quot;2&quot;:0,&quot;4&quot;:1}]},&quot;8&quot;:{&quot;1&quot;:[{&quot;1&quot;:2,&quot;2&quot;:0,&quot;5&quot;:[null,2,0]},{&quot;1&quot;:0,&quot;2&quot;:0,&quot;3&quot;:3},{&quot;1&quot;:1,&quot;2&quot;:0,&quot;4&quot;:1}]},&quot;10&quot;:2,&quot;15&quot;:&quot;Calibri&quot;,&quot;16&quot;:11}\"><span data-sheets-value=\"{&quot;1&quot;:3,&quot;3&quot;:1200}\" data-sheets-userformat=\"{&quot;2&quot;:12520,&quot;6&quot;:{&quot;1&quot;:[{&quot;1&quot;:2,&quot;2&quot;:0,&quot;5&quot;:{&quot;1&quot;:2,&quot;2&quot;:0}},{&quot;1&quot;:0,&quot;2&quot;:0,&quot;3&quot;:3},{&quot;1&quot;:1,&quot;2&quot;:0,&quot;4&quot;:1}]},&quot;8&quot;:{&quot;1&quot;:[{&quot;1&quot;:2,&quot;2&quot;:0,&quot;5&quot;:{&quot;1&quot;:2,&quot;2&quot;:0}},{&quot;1&quot;:0,&quot;2&quot;:0,&quot;3&quot;:3},{&quot;1&quot;:1,&quot;2&quot;:0,&quot;4&quot;:1}]},&quot;9&quot;:2,&quot;10&quot;:2,&quot;15&quot;:&quot;Calibri&quot;,&quot;16&quot;:11}\"><a href=\"http://iex.ec/roadmap\" target=\"_blank\" title=\"Roadmap\">Roadmap </a><span data-sheets-value=\"{&quot;1&quot;:2,&quot;2&quot;:&quot;http://iex.ec/roadmap&quot;}\" data-sheets-userformat=\"{&quot;2&quot;:268416,&quot;10&quot;:2,&quot;14&quot;:[null,2,1136076],&quot;15&quot;:&quot;arial,sans,sans-serif&quot;,&quot;21&quot;:1}\"><a href=\"http://iex.ec/roadmap\" target=\"_blank\" class=\"in-cell-link\"></a></span></span></span></p><p> </p>",
+    "TokenType": "ETH (ERC20)",
+    "WebsiteLink": "http://crowdsale.iex.ec/",
+    "FundingCap": "12,000,000 USD",
+    "FundingTarget": "N/A",
+    "Date": 1492606800,
+    "EndDate": 1492616700,
+    "FundsRaisedList": "2,761.761 BTC; 173,886 ETH",
+    "FundsRaisedUSD": "12158963",
+    "StartPrice": "0.25",
+    "StartPriceCurrency": "USD",
+    "Jurisdiction": "N/A",
+    "BlogLink": "https://medium.com/iex-ec",
+    "WhitePaperLink": "http://iex.ec/?page_id=186"
+  },
+  "ccId": "61877"
+}

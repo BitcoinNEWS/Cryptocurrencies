@@ -1,0 +1,58 @@
+{
+  "General": {
+    "Symbol": "BLITZ",
+    "Name": "BlitzCoin",
+    "Description": "<p><a href=\"https://bitcointalk.org/index.php?topic=848186.0\" target=\"_blank\">Blitz</a> is a decentralized crypto currency which seeks to provide real world application of blockchain technology through the tools and platform Bitalize has to offer.</p><p>Coin added by <a href=\"http://chopcoin.io\" target=\"_blank\">@chopcoin</a> Team</p>",
+    "Features": "<p><strong>Large Distribution &amp; Low Inflation</strong><br /><br />78.5 million ClubCoin was mined to start and these coins are being distributed to BitClub Network members. See disclaimer below. No new coins will be created using Proof-of-Work method, all new coins will be issued from the 20% yearly interest paid to holders of ClubCoin who are staking their coins. This drops in half every 2 years.<br /> <br /><br /><strong>Built-in Users = Adoption<br /></strong><br />ClubCoin was first introduced to BitClub Network members as a strategic way to distribute the coins across a global network of users. This model gives ClubCoin a unique advantage over most coins in the market as it will continue to be issued and distributed worldwide to a fast growing user base.<br /> <br /><br /><strong>Blockchain Security<br /></strong><br />ClubCoin has it&#39;s own Blockchain and distributed network of nodes that make it very secure against attacks and hard to get 51% consensus. Other digital currencies that are only Proof-of-work face issues due to their reliability on large-scale mining operations. ClubCoin also boasts a powerful Block Explorer.<br /> <br /><br /><strong>Merchant Platform<br /></strong><br />A new Merchant Platform is being built that will allow online and brick &amp; mortar businesses to accept ClubCoin risk free, within a secure and reliable environment. Since many members will be eager to use this platform we have created a very strategic way to sign up new merchants. We have big plans for ongoing development of the entire ClubCoin ecosystem.</p>",
+    "Technology": null,
+    "TotalCoinSupply": "3852156",
+    "Algorithm": "X13",
+    "ProofType": "PoS",
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "05/11/2015",
+    "TotalCoinsMined": null,
+    "Twitter": "@bitalize",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "-",
+    "GitHub": null,
+    "OnMarkets": [
+      "BitTrex"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "N/A",
+    "Description": null,
+    "TokenType": null,
+    "WebsiteLink": null,
+    "FundingCap": null,
+    "FundingTarget": null,
+    "Date": null,
+    "EndDate": null,
+    "FundsRaisedList": null,
+    "FundsRaisedUSD": null,
+    "StartPrice": null,
+    "StartPriceCurrency": null,
+    "Jurisdiction": null,
+    "BlogLink": null,
+    "WhitePaperLink": null
+  },
+  "ccId": "15879"
+}

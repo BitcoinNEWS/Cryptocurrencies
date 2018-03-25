@@ -1,0 +1,62 @@
+{
+  "General": {
+    "Symbol": "ARK",
+    "Name": "ARK",
+    "Description": "<p>Ark - это криптовалютная платформа, построенная на основе усовершенствованной системы делегированного доказательства ставки (DPoS), полученной из Lisk, Crypti и BitShares. Он использует Smart Bridges для связи с другими (новыми и существующими) блочными цепочками для дальнейшего увеличения своей доступности, предоставляя более широкий спектр возможностей в одном месте.</p><p>Ark планирует стимулировать массовое принятие криптовалют, предлагая несколько потребительских инструментов таких как карточная сеть, игровые жетоны, анонимные транзакции, счета с несколькими подписями и другие.</p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "125000000",
+    "Algorithm": "DPoS",
+    "ProofType": "DPoS",
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "01/01/0001",
+    "TotalCoinsMined": 101460504,
+    "Twitter": "@ArkEcosystem",
+    "Telegram": null,
+    "Youtube": "CgD4WqHJFtU",
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "https://ark.io/",
+    "GitHub": null,
+    "OnMarkets": [
+      "Cryptopia",
+      "BitTrex",
+      "Binance",
+      "OKEX",
+      "BitZ"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Finished",
+    "Description": "<p>ARK provides users, developers, and startups with innovative blockchain technologies. Accessible via push button clone-able blockchains, and our SmartBridge technology. ARK aims to create an entire ecosystem of linked chains and a virtual spiderweb of endless use-cases that make ARK highly flexible, adaptable, and scalable. ARK is a secure platform designed for mass adoption and will deliver the services that consumers want and developers need. </p><p>Ark set a minimum target of 2,000 BTC which was not met. As a result they offered a refund and after this refund decided they had enough to continue the project. After the refund period the total amount raised was 177 BTC and 4,691,413 Lisk. Which at the time of the crowdsale was worth approximately $998,000. There were a total of 2135 participants making it a fairly well distributed ICO with an average investment size of $467.</p><p><a href=\"https://ark.io/ARK-TEC-Agreement.pdf\" target=\"_blank\">Sale terms</a> and <a href=\"https://ark.io/roadmap/\" target=\"_blank\">Roadmap</a></p>",
+    "TokenType": "N/A",
+    "WebsiteLink": "https://tec.ark.io/",
+    "FundingCap": "22,000,000 LSK",
+    "FundingTarget": "2000 BTC",
+    "Date": 1478520000,
+    "EndDate": 1481457600,
+    "FundsRaisedList": "177 BTC, 4,691,413 Lisk",
+    "FundsRaisedUSD": "998000",
+    "StartPrice": "0.01",
+    "StartPriceCurrency": "USD",
+    "Jurisdiction": "N/A",
+    "BlogLink": "https://blog.ark.io/",
+    "WhitePaperLink": "https://ark.io/whitepaper/"
+  },
+  "ccId": "32699"
+}

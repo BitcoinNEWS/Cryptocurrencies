@@ -1,0 +1,65 @@
+{
+  "General": {
+    "Symbol": "REQ",
+    "Name": "Request Network",
+    "Description": "<p>Request is a decentralized network that allows anyone to request a payment (a Request Invoice) and provide a safe payment method to the receiver. All of the data is stored in a decentralized authentic ledger.</p><p>REQ tokens are ERC20 tokens that allow members to participate in the network, create advanced requests and reward several parties who contribute in building the request ecosystem. To the participants, a fee will be charged in REQ and afterward be burned.</p><p> </p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "1000000000",
+    "Algorithm": null,
+    "ProofType": null,
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "31/08/2017",
+    "TotalCoinsMined": 999999999.1995784,
+    "Twitter": "@RequestNetwork",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": null,
+    "GitHub": null,
+    "OnMarkets": [
+      "Yobit",
+      "OKEX",
+      "Liqui",
+      "Kucoin",
+      "HuobiPro",
+      "EtherDelta",
+      "Gateio",
+      "Binance"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Finished",
+    "Description": "<p>Request is a decentralized network that allows anyone to request a payment (a Request Invoice) and provide a safe payment method to the receiver. All of the data is stored in a decentralized authentic ledger.</p><p>REQ tokens are ERC20 tokens that allow members to participate in the network, create advanced requests and reward several parties who contribute in building the request ecosystem. To the participants, a fee will be charged in REQ and afterward be burned.</p><p><strong>Team</strong>:</p><ul><li><strong>Christophe Lassuyt</strong>: <span>Co-founder &amp; CFO</span>. <a href=\"https://twitter.com/lassuytchristop\" target=\"_blank\"><img style=\"width: 13px; height: 13px;\" src=\"/media/1383932/twitter_logo_final.png?width=13&amp;height=13\" alt=\"\" data-id=\"202868\"></a> <a href=\"https://www.linkedin.com/in/christophelassuyt/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=0&amp;height=0\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Etienne Tatur</strong>: <span>Co-founder &amp; CTO</span>. <a href=\"https://twitter.com/etiennetatur\" target=\"_blank\"><img style=\"width: 13px; height: 13px;\" src=\"/media/1383932/twitter_logo_final.png?width=13&amp;height=13\" alt=\"\" data-id=\"202868\"></a><span> </span><a href=\"https://www.linkedin.com/in/etiennetatur/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Vincent Rolland</strong><span>: Lead Engineer.</span><span><span> </span></span><a href=\"https://www.linkedin.com/in/vincent-rolland-75a37818/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Laura Girod</strong><span>: <span>Data Scientist</span>.</span><span><span> </span></span><a href=\"https://www.linkedin.com/in/laura-girod-99315b97/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Julien Devoir</strong><span>: CMO. </span><a href=\"https://twitter.com/JulienDevoir\" target=\"_blank\"><img style=\"width: 13px; height: 13px;\" src=\"/media/1383932/twitter_logo_final.png?width=13&amp;height=13\" alt=\"\" data-id=\"202868\"></a><span><span> </span></span><a href=\"https://www.linkedin.com/in/juliendevoir/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Elliott Denis</strong><span>: Full Stack Engineer.</span><span><span> </span></span><a href=\"https://www.linkedin.com/in/elliott-denis-811a66117/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong><span>Gilles Fedak</span></strong><span>: Advisor.</span><span><span> </span></span><a href=\"https://www.linkedin.com/in/gilles-fedak-4a303a5b/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li></ul><p>Request Network held its ICO on the 13th of October, 2017. There was a total of 1,000,000,000 tokens available, for 0.0002 ETH each during the offering. The ICO funding cap was 100,000 ETH that was reached on the 16th of October, 2017 bringing the ICO to an end. <span>T</span><span>he token will </span><span>not be</span><span><span> </span>mineable.</span></p><p><strong>Token Reserve Split (50%):</strong></p><ul><li>20% Early Backers &amp; Investors;</li><li>15% Retained by Request and external Development Fund; </li><li>15% <span>Team and advisors</span>;</li></ul>",
+    "TokenType": "ETH (ERC20)",
+    "WebsiteLink": "https://request.network/#/token-sale",
+    "FundingCap": "100,000 ETH",
+    "FundingTarget": "N/A",
+    "Date": 1507852800,
+    "EndDate": 1508112000,
+    "FundsRaisedList": "100,000 ETH",
+    "FundsRaisedUSD": "33000000",
+    "StartPrice": "0.0002",
+    "StartPriceCurrency": "ETH",
+    "Jurisdiction": "N/A",
+    "BlogLink": "https://blog.request.network/",
+    "WhitePaperLink": "https://request.network/assets/pdf/request_whitepaper.pdf"
+  },
+  "ccId": "335059"
+}

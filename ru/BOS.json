@@ -1,0 +1,59 @@
+{
+  "General": {
+    "Symbol": "BOS",
+    "Name": "BOScoin",
+    "Description": "<p>BOScoin is a Cryptocurrency Platform that enables the development and deployment of Trust Contracts which are decidable and approachable framework for creating and executing contracts on the blockchain.</p><p>BOScoin is based on a Modified Federated Byzantine Agreement algorithm which will allow for low latency transactions while being more energy efficient. BOS is the underlying value token in the platform with 500M tokens and a 5 second avg. transaction time.</p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "500000000",
+    "Algorithm": null,
+    "ProofType": "mFBA",
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "21/01/2017",
+    "TotalCoinsMined": null,
+    "Twitter": "@boscoinio",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "https://www.boscoin.io/",
+    "GitHub": null,
+    "OnMarkets": [
+      "Kucoin",
+      "HitBTC"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Finished",
+    "Description": "<p>55.2% of BOScoins were available in the ICO sale, 26.8% in the Presale, 8% for the foundation, 8% for members and 2% reserved for bounties. Including the pre ICO funding of $3 Million makes a total of $15 Million that has been raised.</p><p>It is important to note that the total coin supply will increase significantly in the coming years below is there proposed issuance schedule:</p><p>     <img src=\"/media/1383859/bos-coin.png?width=500&amp;height=237.1794871794872\" alt=\"\" data-id=\"196039\">        <img style=\"width: 0px; height:0px;\" src=\"/media/1383859/bos-coin.png?width=0&amp;height=0\" alt=\"\" data-id=\"196039\"></p><p><span style=\"text-decoration: underline;\">Team</span></p><ul><li>Changki Park - CEO</li><li>Yezune Choi - CTO / Trust Contract Inventor &amp; Blockchain Architect</li><li>Han Kyul Park - COO</li><li>Hwan Kim - CMO</li><li>Sung Ho Hong - Chief Engineer</li><li>Jinchan Kim - CFO</li><li>Jake Hyunduk Choi - CIO</li></ul>",
+    "TokenType": "N/A",
+    "WebsiteLink": "https://www.boscoin.io/",
+    "FundingCap": "N/A",
+    "FundingTarget": "12,000,000 USD",
+    "Date": 1494374400,
+    "EndDate": 1494435600,
+    "FundsRaisedList": "6,902.342 BTC",
+    "FundsRaisedUSD": "12202995.54",
+    "StartPrice": "0.0434",
+    "StartPriceCurrency": "USD",
+    "Jurisdiction": "N/A",
+    "BlogLink": "https://medium.com/boscoin",
+    "WhitePaperLink": "https://www.boscoin.io/wp-content/uploads/2017/02/boscoinwhitepaperv20170202.pdf"
+  },
+  "ccId": "116384"
+}

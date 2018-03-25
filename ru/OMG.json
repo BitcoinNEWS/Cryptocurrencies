@@ -1,0 +1,76 @@
+{
+  "General": {
+    "Symbol": "OMG",
+    "Name": "OmiseGo",
+    "Description": "<p>OmiseGO — общедоступная финансовая технология на базе Ethereum, которая может использоваться в популярных кошельках для обеспечения пиринговой торговли активами в реальном времени, а также в платёжных сервисах в юрисдикциях, где подобные услуги развиты слабо. OmiseGO позволяет работать как с криптовалютами, так и с традиционными фиатными валютами. Доступ к платформе будет предоставляться при помощи сети OmiseGO и оболочки цифрового кошелька, которые станут доступны для широкой общественности начиная с четвертого квартала 2017 года.</p><p>Компания «OmiseGO» создала финансовую технологию для использования в обычных цифровых кошельках. Эта технология позволяет в режиме реального времени одноранговые обмены и платежи. Обещается, что он сможет работать в различных юрисдикциях и подразделениях организаций как с фиатными деньгами, так и с децентрализованными валютами.</p><p>Цель OmiseGO — обеспечить финансовое участие, в то же время переворачивая работу существующих финансовых учреждений. Если непрофессиональным языком, то OMG хочет сделать дешевле отправку/получение платежей, обмен валюты, независимо от того, работаете вы с фиатными деньгами или с криптовалютой.</p>",
+    "Features": "<p><strong>Команда OmiseGO выделяет следующие три основные функции как для своего кошелька, так и для его блокчейна:</strong></p><ul> <li><strong>Доступ</strong>: Для доступа к обмену не нужен банковский счет, а <strong>OmiseGO</strong> будет иметь в резерве национальные валюты.</li> <li><strong>Масштабируемость</strong>: Мгновенные расчеты и низкие затраты станут ключевыми функциями платформы <strong>OmiseGO</strong>.</li> <li><strong>Безопасность</strong>: OmiseGO предлагает децентрализованные крипто валюты и децентрализованное хранение токенов.</li> </ul>",
+    "Technology": "<p>В экосистеме OmiseGO есть два основных продукта - это блокчейн и цифровой кошелек.</p><p>OmiseGO обеспечит децентрализованный обмен в публичном блокчейне удовлетворив запросы связанные с большими объемами и низкой стоимостью. Используя эту платформу, OmiseGO предоставит «услугу передачи стоимости следующего поколения, действующую в разных валютах и ​​типах активов».</p><p>По сути, любой человек сможет использовать сеть OmiseGO (подключенную к основной сети Ethereum) для проведения финансовых транзакций.</p><p>Некоторые из возможных финансовых операций OmiseGO включают в себя платежи, денежные переводы, начисление заработной платы, коммерческую торговлю B2B, финансирование цепочки поставок, программы лояльности, управление активами и торговлю, а также другие услуги по запросу.</p><p>Платформа также облегчит миллионам пользователей использование криптовалют. Они смогут легко переключиться с использования денежных средств на децентрализованные валюты - например на эфир (ETH), биткоин (BTC) и другие.</p><p>Конечной целью OmiseGO является создание состояния идеальной конкуренции в мире валют. Удаляя барьеры между валютными операциями и торговлей, команда OmiseGO убеждена в том, что это гарантирует продвижение вверх самым лучшим валютам.</p>",
+    "TotalCoinSupply": "140245398",
+    "Algorithm": "N/A",
+    "ProofType": "PoS",
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "23/06/2017",
+    "TotalCoinsMined": null,
+    "Twitter": "@omise_go",
+    "Telegram": null,
+    "Youtube": "neCaG0LoKQ0",
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "https://omg.omise.co/",
+    "GitHub": null,
+    "OnMarkets": [
+      "Liqui",
+      "Novaexchange",
+      "Cryptopia",
+      "Binance",
+      "HitBTC",
+      "Poloniex",
+      "Bitfinex",
+      "BitTrex",
+      "OKEX",
+      "BitZ",
+      "LiveCoin",
+      "Kucoin",
+      "HuobiPro",
+      "BTER",
+      "Gateio",
+      "Tidex",
+      "Yunbi",
+      "EtherDelta",
+      "BXinth"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Finished",
+    "Description": "<p>OmiseGO is building a decentralized exchange, liquidity provider mechanism, clearinghouse messaging network, and asset-backed blockchain gateway. OmiseGO is not owned by any single one party. Instead, it is an open distributed network of validators which enforce behavior of all participants. It uses the mechanism of a protocol token to create a proof-of-stake blockchain to enable enforcement of market activity amongst participants.</p><p>Owning OMG tokens buys the right to validate this blockchain, within its consensus rules. Transaction fees on the network including payment, interchange, trading, and clearinghouse use, are given to non-faulty validators who enforce bonded contract states. The token will have value derived from the fees derived from this network, with the obligation/cost of providing validation to its users.</p><p><strong>Team</strong>:</p><ul><li><strong><span>Jun Hasegawa</span></strong>: CEO, Founder. (<a href=\"https://twitter.com/jun_omise\" target=\"_blank\">Twitter</a>);</li><li><strong><span>Donnie Harinsut</span></strong><span>:<span> </span></span><span>COO</span><span>, Co-Founder. (<a href=\"https://twitter.com/ruxperience\" target=\"_blank\">Twitter</a>);</span></li><li><strong><span>Wendell Davis</span></strong><span>:<span> <span>Product Design</span></span></span><span>.</span></li><li><span><strong>Thomas Greco</strong><span>:<span> Special Advisor</span></span><span>.</span></span></li><li><span><span><strong>Vansa Chatikavanij</strong><span>:<span> <span>Managing Director</span></span></span><span>.</span></span></span></li></ul><p><span>OmiseGO held</span> its Pre-Sale on June 23, 2017, and raised $25,000,000 reaching the maximum cap in the first, and only day of the sale. A total of 91,299,754 OMG tokens were sold in the ICO. Below you can see the token reserve split.</p><p><strong>Token Reserve Split:</strong></p><ul><li>5% Airdrop;</li><li>20% Reserve;</li><li>9.9% Team;</li></ul><p>There was no escrow, no bonuses or bounties.</p><p> </p>",
+    "TokenType": "ETH (ERC20)",
+    "WebsiteLink": null,
+    "FundingCap": "25,000,000 USD",
+    "FundingTarget": "N/A",
+    "Date": 1496793600,
+    "EndDate": 1496793605,
+    "FundsRaisedList": "N/A",
+    "FundsRaisedUSD": "25000000",
+    "StartPrice": "0.001",
+    "StartPriceCurrency": "ETH",
+    "Jurisdiction": "N/A",
+    "BlogLink": null,
+    "WhitePaperLink": "https://cdn.omise.co/omg/whitepaper.pdf"
+  },
+  "ccId": "187440"
+}

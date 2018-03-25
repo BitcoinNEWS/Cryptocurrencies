@@ -1,0 +1,60 @@
+{
+  "General": {
+    "Symbol": "RC",
+    "Name": "Russiacoin",
+    "Description": "<p><span>Russiacoin is a Scrypt PoW/PoS cryptocurrency made for all people around</span><span> the world and escpecially the russian altcoin-community. Russiacoin will be the </span><span>first coin to use the GDR (=golden readjustment algorithm) which is just similar to std. </span><span>diff. adj. but has a adapted PoS start diff. so it will be a hybrid PoW/PoS in the PoW stage </span><span>to allow an stabilization of PoS diff. within the PoW stage to make sure the network runs </span><span>fluid.</span></p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "144000000",
+    "Algorithm": "Scrypt",
+    "ProofType": "PoW/PoS",
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "29/05/2014",
+    "TotalCoinsMined": 8377873,
+    "Twitter": null,
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "-",
+    "GitHub": null,
+    "OnMarkets": [
+      "Cryptopia",
+      "TradeSatoshi",
+      "EtherDelta"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "N/A",
+    "Description": null,
+    "TokenType": null,
+    "WebsiteLink": null,
+    "FundingCap": null,
+    "FundingTarget": null,
+    "Date": null,
+    "EndDate": null,
+    "FundsRaisedList": null,
+    "FundsRaisedUSD": null,
+    "StartPrice": null,
+    "StartPriceCurrency": null,
+    "Jurisdiction": null,
+    "BlogLink": null,
+    "WhitePaperLink": null
+  },
+  "ccId": "37361"
+}

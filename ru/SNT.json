@@ -1,0 +1,74 @@
+{
+  "General": {
+    "Symbol": "SNT",
+    "Name": "Status Network Token",
+    "Description": "<p>Status это платформа обмена сообщениями с открытым исходным кодом и мобильный браузер, который позволяет пользователям взаимодействовать с децентрализованными приложениями (dApps), которые работают в сети Ethereum. В статусе пользователи владеют и контролируют свои собственные данные, богатство и цифровую идентификацию. Status Network Token (SNT) - это токен, основанный на Ethereum, который требуется для взаимодействия с Status Network.</p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "6804870175",
+    "Algorithm": null,
+    "ProofType": null,
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "20/06/2017",
+    "TotalCoinsMined": 6804870174.878169,
+    "Twitter": "@ethstatus",
+    "Telegram": null,
+    "Youtube": "Je7yErjEVt4",
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": "http://slack.status.im/",
+    "Website": "https://status.im/",
+    "GitHub": null,
+    "OnMarkets": [
+      "Binance",
+      "Novaexchange",
+      "LiveCoin",
+      "HuobiPro",
+      "Gatecoin",
+      "Tidex",
+      "OKEX",
+      "Bitfinex",
+      "BitTrex",
+      "BTER",
+      "Gateio",
+      "Liqui",
+      "HitBTC",
+      "LAToken",
+      "Kucoin",
+      "EtherDelta",
+      "Yunbi"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Finished",
+    "Description": "<p><span>Status is an open source messaging platform and mobile browser that allows users to interact with decentralized applications (dApps) that run on the Ethereum Network. In Status, users<span> own and control their own data, wealth and digital identity. The Status Network Token (&#39;SNT&#39;) is an Ethereum-based token that is required to interact with the Status Network.</span></span></p><p><strong>Team</strong>:</p><ul><li><strong><strong class=\"markup--strong markup--p-strong\">Jarrad Hope</strong></strong>: <span>Co-founder and Thought Leader</span>.</li><li><strong><strong class=\"markup--strong markup--p-strong\">Carl Bennetts</strong></strong>: <span>Co-founder and Communications &amp; Marketing</span>.</li><li><strong><strong class=\"markup--strong markup--p-strong\">Roman Volosovskyi</strong></strong>: <span>Clojure developer and project lead</span>.</li><li><strong><strong class=\"markup--strong markup--p-strong\">Alexander Pantyukhov</strong></strong><span>: Clojure developer, Java and Android.</span></li><li><span><strong><strong class=\"markup--strong markup--p-strong\">Andrey Shovkoplyas</strong></strong><span>: Clojure developer. </span></span></li><li><strong><strong class=\"markup--strong markup--p-strong\">Gustavo Nunes</strong></strong><span>: Clojure developer.</span></li><li><span><strong><strong class=\"markup--strong markup--p-strong\">Victor Farazdagi</strong></strong><span>:  Go developer.</span></span></li><li><strong><strong class=\"markup--strong markup--p-strong\">Andrei Mironov</strong></strong><span>: Visual design and user experience designer.</span></li></ul><p><span>Status </span>held its ICO on July 20, 2017. The ICO token supply represents 41% of the total token supply. The ICO funding cap was 300,000 ETH and raised a total of <span>300,000 ETH in a few hours</span>. The ICO ended on July 20, 2017, a few hours later of the starting time. <span>There were 20,000 investors with a median ETH investment of 2.5. From the total token supply, 41% were sold to investors, 10% of tokens are for Genesis token holders, </span><span>20% committed to the Status Core Dev is in lockup with a 24 month vesting period and 6 month cliff, and the 29% reserve locked for a minimum of 12 months, requiring the signatures of the 3 of 5 community multisig.</span></p><p><strong>Token Reserve Split (59%):</strong></p><p><strong><img style=\"width: 500px; height: 297.5871313672922px;\" src=\"/media/1383870/snt_ico.png?width=500&amp;height=297.5871313672922\" alt=\"\" data-id=\"196992\"></strong></p><p><span>Status ICO campaign featured no bonus, no bounties, no escrow and the token is not mineable.</span></p>",
+    "TokenType": "ETH (ERC20)",
+    "WebsiteLink": "https://contribute.status.im/",
+    "FundingCap": "300000 ETH",
+    "FundingTarget": "12 million CHF",
+    "Date": 1497970800,
+    "EndDate": 1498057200,
+    "FundsRaisedList": "300000 ETH",
+    "FundsRaisedUSD": "102000000",
+    "StartPrice": "0.0001",
+    "StartPriceCurrency": "ETH",
+    "Jurisdiction": "N/A",
+    "BlogLink": "https://blog.status.im/",
+    "WhitePaperLink": "https://status.im/whitepaper.pdf"
+  },
+  "ccId": "137013"
+}

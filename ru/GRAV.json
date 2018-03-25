@@ -1,0 +1,59 @@
+{
+  "General": {
+    "Symbol": "GRAV",
+    "Name": "Graviton",
+    "Description": "<p><span>Graviton is an advanced crypto currency based on Bitcoin focused on delivering innovative decentralized applications that use the blockchain and the peer to peer network in new ways. Graviton is a pure Proof-of-Stake coin that was mined over the course of several days during the Proof-of-Work mining phase.</span></p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "0",
+    "Algorithm": "SHA256",
+    "ProofType": "PoW/PoS",
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "02/05/2015",
+    "TotalCoinsMined": null,
+    "Twitter": "@GravitonCoin",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "http://www.graviton.ninja/",
+    "GitHub": null,
+    "OnMarkets": [
+      "BitTrex",
+      "Yobit"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "N/A",
+    "Description": null,
+    "TokenType": null,
+    "WebsiteLink": null,
+    "FundingCap": null,
+    "FundingTarget": null,
+    "Date": null,
+    "EndDate": null,
+    "FundsRaisedList": null,
+    "FundsRaisedUSD": null,
+    "StartPrice": null,
+    "StartPriceCurrency": null,
+    "Jurisdiction": null,
+    "BlogLink": null,
+    "WhitePaperLink": null
+  },
+  "ccId": "7634"
+}

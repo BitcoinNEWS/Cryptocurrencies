@@ -1,0 +1,61 @@
+{
+  "General": {
+    "Symbol": "CAN",
+    "Name": "CanYaCoin",
+    "Description": "<p>CanYa is a platform for the home and digital services industry, allowing users to find, book, pay and review service providers. The CanYaCoin is an ERC20 token based on the Ethereum blockchain, powering the platform payment system, enabling a decentralised, trustless and hedged escrow service, a single bridge between fiat and a variety of cryptocurrencies, a powerful rewards system to encourage network effects, and incentivised user-curation and userarbitration.</p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "100000000",
+    "Algorithm": null,
+    "ProofType": null,
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "15/11/2017",
+    "TotalCoinsMined": 100000000,
+    "Twitter": "@canya_io",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": null,
+    "GitHub": null,
+    "OnMarkets": [
+      "Novaexchange",
+      "EtherDelta",
+      "Kucoin",
+      "Cryptopia"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Ongoing",
+    "Description": "<p><span>CanYa is a platform for the home and digital services industry, allowing users <span>to find, book, pay and<span> </span></span><span>review service providers. The CanYaCoin is an ERC20 token based on the Ethereum blockchain, powering the platform payment system, </span><span>enabling a decentralised, trustless and hedged escrow service, a single bridge between fiat and a variety of cryptocurrencies, a powerful rewards system to encourage network effects, and incentivised user-curation and userarbitration.</span></span></p><p><strong>Team</strong>:</p><ul><li><strong>John-Paul Thorbjornsen, BTech:</strong>  CEO &amp; Co-Founder <a href=\"https://www.linkedin.com/in/jp-thor/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Rowan Willson, BSc:</strong> CTO &amp; Co-Founder <a href=\"https://www.linkedin.com/in/rowan-willson/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Chris McLoughlin, BBus:</strong> CMO &amp; Co-Founder <a href=\"https://www.linkedin.com/in/christopher-mcloughlin-757a56128/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Jet Yap, BSc:</strong> COO <a href=\"https://www.linkedin.com/in/jetyap/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Surya Wongtomo, Blt:</strong> Project Manager <a href=\"https://www.linkedin.com/in/suryanata/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li></ul><p>The CanYa ICO will start on the 26th of November and will last until the 26th of December. The ICO token allocation represents 60% of the total token supply and will be available for a <span>0.00142857142 </span>ETH starting price. The ICO funding target is 10,000 ETH while the maximum funding cap is 78,769 ETH. </p><p><strong>Token Reserve Split (40%):</strong></p><ul><li><span>20% founders &amp; advisers, </span></li><li><span>20% rewards pool,</span></li></ul><p>The CanYa ICO feautes both a bonus and bounty campaigns.</p><p><strong>Bonus Structure:</strong></p><ul><li>\"Dolphin\": ETH = 1400 CAN.</li><li>Tier 1: ETH = 1200<span> </span>CAN.</li><li>Tier 2: ETH =<span> </span>1000<span> </span>CAN.</li></ul>",
+    "TokenType": "ETH (ERC20)",
+    "WebsiteLink": "https://canya.io",
+    "FundingCap": "29,333 ETH",
+    "FundingTarget": "N/A",
+    "Date": 1511654400,
+    "EndDate": 1514289600,
+    "FundsRaisedList": "10114.72254208 ETH",
+    "FundsRaisedUSD": "7639953.37771",
+    "StartPrice": "0.00125",
+    "StartPriceCurrency": "ETH",
+    "Jurisdiction": "Australia",
+    "BlogLink": "https://blog.canya.com.au/category/canyacoin/",
+    "WhitePaperLink": "https://canya.io/assets/docs/WhitePaper.pdf"
+  },
+  "ccId": "327632"
+}

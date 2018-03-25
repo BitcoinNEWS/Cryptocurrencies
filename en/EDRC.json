@@ -1,0 +1,61 @@
+{
+  "General": {
+    "Symbol": "EDRC",
+    "Name": "EDRCoin",
+    "Description": "<p><span>EDRcoin - is the currency, aimed not only to enrichment, but also for saving  the Earth resources. It means that part of income system will be used to help recovery worldwide  forests, and  in addition, for  the development of new solar power plants. </span></p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "22000000",
+    "Algorithm": "SHA256",
+    "ProofType": "PoW/PoS",
+    "BlockReward": 0.3630612399429083,
+    "Explorer": null,
+    "StartDate": "22/03/2016",
+    "TotalCoinsMined": 3547276.38018269,
+    "Twitter": "@EDRCoinOfficial",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "-",
+    "GitHub": null,
+    "OnMarkets": [
+      "Cryptopia",
+      "Novaexchange",
+      "Yobit",
+      "CCEX"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "N/A",
+    "Description": null,
+    "TokenType": null,
+    "WebsiteLink": null,
+    "FundingCap": null,
+    "FundingTarget": null,
+    "Date": null,
+    "EndDate": null,
+    "FundsRaisedList": null,
+    "FundsRaisedUSD": null,
+    "StartPrice": null,
+    "StartPriceCurrency": null,
+    "Jurisdiction": null,
+    "BlogLink": null,
+    "WhitePaperLink": null
+  },
+  "ccId": "19051"
+}

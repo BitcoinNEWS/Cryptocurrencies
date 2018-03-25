@@ -1,0 +1,56 @@
+{
+  "General": {
+    "Symbol": "ADBL",
+    "Name": "Adblurb",
+    "Description": "<p>Adblurb is a cryptocurrency-based advertising platfrom. Based on the Ethereum network, Adblurb leverages smart contracts to electronically connected advertising transactions all over the world, substituting the traditional methods. The ADBL coin is an ERC20 token used within the platform to pay <span>advertisement charges.</span></p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "100000000",
+    "Algorithm": null,
+    "ProofType": null,
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "01/03/2018",
+    "TotalCoinsMined": null,
+    "Twitter": "@adblurbico",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": null,
+    "GitHub": null,
+    "OnMarkets": [],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Ongoing",
+    "Description": "<p><span>Adblurb is a cryptocurrency-based advertising platfrom. Based on the Ethereum network, Adblurb leverages smart contracts to </span><span>electronically connected advertising transactions all over the world, substituting the traditional methods. The ADBL coin is an ERC20 token used within the platform to pay </span><span>advertisement charges.</span></p><p><strong>Team</strong>:</p><ul><li><strong>Luc Brunelle: </strong>Founder &amp; CEO</li><li><strong>Herbert Hill:</strong> Co-founder &amp; CTO <a href=\"https://www.linkedin.com/in/herbert-hill-13357b158/\" target=\"_blank\"><img src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Moore Archibald:</strong> Head Director &amp; COO</li><li><strong>Oliver Holmes:</strong> Marketing Director &amp; Advisor <a href=\"https://www.linkedin.com/in/oliver-holmes-0392b3158/\" target=\"_blank\"><img src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li></ul><p>The Adblurb ICO will start on the 1st of March and will end on the 30th of May, 2018. The ICO token allocation represents 70% of the total token supply and will be available for a 0.000125 ETH. The ICO funding target is set at 10000 ETHand the cap is set at 20000 ETH</p><p>The ADBL ICO features a bonus and bounty campaign.</p><p><strong>Bonus Structure:</strong></p><p><strong><img src=\"https://adblurb.io/images/icorates.png\" alt=\"\"></strong></p>",
+    "TokenType": "ETH (ERC20)",
+    "WebsiteLink": "https://ico.adblurb.io",
+    "FundingCap": "20000 ETH",
+    "FundingTarget": "10000 ETH",
+    "Date": 1519862400,
+    "EndDate": 1527638400,
+    "FundsRaisedList": "110 ETH",
+    "FundsRaisedUSD": "74620",
+    "StartPrice": "0.000125",
+    "StartPriceCurrency": "ETH",
+    "Jurisdiction": "UK",
+    "BlogLink": "https://medium.com/@adblurb",
+    "WhitePaperLink": "https://adblurb.io/docs/Adblurb_whitepaper_en.pdf"
+  },
+  "ccId": "775124"
+}

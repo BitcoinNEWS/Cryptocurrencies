@@ -1,0 +1,58 @@
+{
+  "General": {
+    "Symbol": "TSL",
+    "Name": "Energo",
+    "Description": "<p>Energo is an ecosystem based on decentralized apps that plans to build a DAE (Decentralized Autonomous Energy Community). At its core are Qtum and a decentralized system designed for the measurement, registries, transactions, and settlement of clean energy in local Micro-grids. Furthermore, the Energo system will be powered by the TSL cryptocurrency.</p><p>Energo token (TSL) is an ERC-20 token that will work as the access token to the distributed energy storage system.</p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "1000000000",
+    "Algorithm": null,
+    "ProofType": null,
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "25/11/2017",
+    "TotalCoinsMined": 1000000000,
+    "Twitter": "Energo Labs",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": null,
+    "GitHub": null,
+    "OnMarkets": [
+      "Gateio"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "N/A",
+    "Description": null,
+    "TokenType": null,
+    "WebsiteLink": null,
+    "FundingCap": null,
+    "FundingTarget": null,
+    "Date": null,
+    "EndDate": null,
+    "FundsRaisedList": null,
+    "FundsRaisedUSD": null,
+    "StartPrice": null,
+    "StartPriceCurrency": null,
+    "Jurisdiction": null,
+    "BlogLink": null,
+    "WhitePaperLink": null
+  },
+  "ccId": "659973"
+}

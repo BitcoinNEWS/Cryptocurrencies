@@ -1,0 +1,59 @@
+{
+  "General": {
+    "Symbol": "BUZZ",
+    "Name": "BuzzCoin",
+    "Description": "<p>BuzzCoin is a PoW/PoS cryptocurrency, it was created in crypto and social circles by bringing a fun new PoS coin to add to existing PoS portfolios. BUZZ is not ideal for small transactions, and it is meant to be used as a commodity or interest bearing account.</p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "21000000000",
+    "Algorithm": "SHA256D",
+    "ProofType": "PoW/PoS",
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "12/01/2016",
+    "TotalCoinsMined": 17932314798,
+    "Twitter": "@_BuzzCoin",
+    "Telegram": "https://t.me/joinchat/Eg6HNENvmFsASqXfuXzLlg",
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "http://www.buzzcoin.info/",
+    "GitHub": null,
+    "OnMarkets": [
+      "TradeSatoshi",
+      "Yobit"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "N/A",
+    "Description": null,
+    "TokenType": null,
+    "WebsiteLink": null,
+    "FundingCap": null,
+    "FundingTarget": null,
+    "Date": null,
+    "EndDate": null,
+    "FundsRaisedList": null,
+    "FundsRaisedUSD": null,
+    "StartPrice": null,
+    "StartPriceCurrency": null,
+    "Jurisdiction": null,
+    "BlogLink": null,
+    "WhitePaperLink": null
+  },
+  "ccId": "28893"
+}

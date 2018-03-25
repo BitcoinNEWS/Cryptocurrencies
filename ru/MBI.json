@@ -1,0 +1,58 @@
+{
+  "General": {
+    "Symbol": "MBI",
+    "Name": "Monster Byte Inc",
+    "Description": "<p>Monster Byte Inc. is a technology company which owns a suite of Cryptocurrency Gambling websites, all of which have been custom-built with proprietary technology owned by Monster Byte Inc. Monster Byte will also begin syndicating all its products via a set of APIs, or hosted white-label solution, to both traditional fiat and cryptocurrency gaming portals in 2018.</p><p>The MYB token is a Waves-based asset that provides users with the ability to trade tokens against other assets and cryptocurrencies all within the DEX, a very liquid decentralized exchange in the Waves LiteApp Wallet. All Monster Byte token holders are entitled to their share of Monster Byte&#39;s collective profit (revenue - expenses). Dividends will be paid in Bitcoin.</p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "40000000",
+    "Algorithm": "N/A",
+    "ProofType": "N/A",
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "08/07/2017",
+    "TotalCoinsMined": 40000000,
+    "Twitter": "@casinobitcoin",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "https://www.monsterbyte.io/ico",
+    "GitHub": null,
+    "OnMarkets": [
+      "WavesDEX"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Ongoing",
+    "Description": "<p>Monster Byte Inc. is a technology company which owns a suite of Cryptocurrency Gambling websites, all of which have been custom-built with proprietary technology owned by Monster Byte Inc. The MYB token is a Waves-based asset that provides users with the ability to trade tokens against other assets and cryptocurrencies all within the DEX, a very liquid gives holders a share of Monster Byte&#39;s collective profit (revenue - expenses). Dividends will be paid in Bitcoin.</p><p>The Monster Byte Inc. ICO last for a month starting on the 8th of July at 16:00 UTC. During the campaign, 25% of the MBI will be sold to investors who can contribute with BTC, ETH, LTC, WAVES and DASH. The MIB ICO will have a bonus structure that will have each token start at a $0.08 price which will then increase. Monster Byte Inc. wants to raise $1,030,000 USD which will give Monster Byte a $4.4M post-money valuation. </p>",
+    "TokenType": "WAVES",
+    "WebsiteLink": "https://www.monsterbyte.io/ico#ico",
+    "FundingCap": "1,030,000 USD",
+    "FundingTarget": "1,030,000 USD",
+    "Date": 1499529600,
+    "EndDate": 1502035200,
+    "FundsRaisedList": "221.18225 BTC; 848.77194 ETH; 663.66977 LTC; 71,269.82380 WAVES; 3.21462 DASH",
+    "FundsRaisedUSD": "1017951.32",
+    "StartPrice": "0.08",
+    "StartPriceCurrency": "USD",
+    "Jurisdiction": "N/A",
+    "BlogLink": null,
+    "WhitePaperLink": "https://www.monsterbyte.io/images/MonsterByteICOWhitepaper.pdf"
+  },
+  "ccId": "180539"
+}

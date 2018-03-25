@@ -1,0 +1,58 @@
+{
+  "General": {
+    "Symbol": "FX",
+    "Name": "FCoin",
+    "Description": "<p>FCoin is a Scrypt cryptocurrency. It employs a Proof of Work/Proof of Stake consensus prtocol and 10 minute block times. The total suppy for FX is 987600000 with a 15% premine.</p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "987600000",
+    "Algorithm": "Scrypt",
+    "ProofType": "PoW/PoS",
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "04/09/2016",
+    "TotalCoinsMined": null,
+    "Twitter": "@Fcoin2",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "-",
+    "GitHub": null,
+    "OnMarkets": [
+      "Yobit"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "N/A",
+    "Description": null,
+    "TokenType": null,
+    "WebsiteLink": null,
+    "FundingCap": null,
+    "FundingTarget": null,
+    "Date": null,
+    "EndDate": null,
+    "FundsRaisedList": null,
+    "FundsRaisedUSD": null,
+    "StartPrice": null,
+    "StartPriceCurrency": null,
+    "Jurisdiction": null,
+    "BlogLink": null,
+    "WhitePaperLink": null
+  },
+  "ccId": "28336"
+}

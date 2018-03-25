@@ -1,0 +1,64 @@
+{
+  "General": {
+    "Symbol": "RCN",
+    "Name": "RCoin",
+    "Description": "<p>RCoin is a SHA256 cryptocurrency aimed not only to enrichment, but also for charity purposes</p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "1000000000",
+    "Algorithm": null,
+    "ProofType": "PoW",
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "01/09/2016",
+    "TotalCoinsMined": 999942647.35309,
+    "Twitter": null,
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "http://rcoin.eu/",
+    "GitHub": null,
+    "OnMarkets": [
+      "EtherDelta",
+      "Bitfinex",
+      "Binance",
+      "HuobiPro",
+      "BitTrex",
+      "Gateio",
+      "OKEX"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Ongoing",
+    "Description": "<p><span>RCN is a global credit network based on cosigned smart contracts that connects lenders and borrowers located anywhere in the world and on any currency. The smart contracts connect agents with information on the borrower’s identity to agents that analyze the borrower’s credit risk impartially, thus standardizing credit lending through blockchain technology. A cosigner acts as a re insurer that distributes and reduces the lender’s risk and, at the same time, helps to improve the contract conditions by retaining access to the borrower’s local legal system.</span></p><p><strong>Team</strong>:</p><ul><li><strong>Sebastian Serrano</strong>: Founder &amp; CEO.</li><li><strong>David Garcia</strong><span>: SVP &amp; Board Member.</span></li><li><span><strong>Luciana Gruszeczka</strong><span>: Compliance Officer.</span></span></li><li><strong>Andres Fleischer</strong><span>: Head of Operations &amp; Admin.</span></li><li><span><strong>Eugenio Cocimano</strong><span>: Actuary &amp; Data Scientist.</span></span></li><li><strong>Melody Bohn</strong><span>: Controller.</span></li><li><span><strong>Juan Mendez</strong><span>: Head of Growth &amp; Content.</span></span></li><li><strong>Bruno Acorsi</strong><span>: Head of Support &amp; CX.</span></li></ul><p>Ripio will be holding its ICO on October 17, 2017. The ICO token supply represents 51% of the total token supply, so there will be a total of <span>510000000 </span>tokens available for investors, at the offering.</p><p><strong>Token Reserve Split (49%):</strong></p><ul><li>15% Kept as a pool to incentivize the participation of agents and for otherwise bootstrapping the network.</li><li><span>34% Held as a provision for bounties, partnerships, marketing, and future RCN expenses.</span></li></ul>",
+    "TokenType": "ETH (ERC20)",
+    "WebsiteLink": "https://ripiocredit.network/",
+    "FundingCap": "N/A",
+    "FundingTarget": "127,500 ETH",
+    "Date": 1508198400,
+    "EndDate": 1509840000,
+    "FundsRaisedList": "N/A",
+    "FundsRaisedUSD": "N/A",
+    "StartPrice": "0.00025",
+    "StartPriceCurrency": "ETH",
+    "Jurisdiction": "Cayman Islands",
+    "BlogLink": "https://medium.com/@rcn_news/",
+    "WhitePaperLink": "https://ripiocredit.network/wp/RCN%20Whitepaper%20ENG.pdf"
+  },
+  "ccId": "29374"
+}

@@ -1,0 +1,56 @@
+{
+  "General": {
+    "Symbol": "SRT",
+    "Name": "Scrypto",
+    "Description": "<p>Scrypto is a social network for the cryptocurrency community. Just like any social network, you can use Scrypto.io to share your thoughts on different cryptocurrency projects and ICOs.</p><p>The social network aims to provide a centralized gathering point for the crypto community. Users will be able to form groups to talk about different projects or post information and receive rewards in the form of tips. </p><p><strong>Scrypto Official Announcement:</strong></p><p>Considering the tokens purchase dynamics on ICO pre-sale period Scrypto understood the set goals wouldn´t be fulfilled as the amount of sold tokens was less than 0.9% of the total amount of 9 123 000 tokens. Scrypto initiated the return of all funds collected during the ICO. All the investors will receive a personal letter with all personal purchase details. </p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "9123000",
+    "Algorithm": null,
+    "ProofType": null,
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "09/08/2017",
+    "TotalCoinsMined": null,
+    "Twitter": null,
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": null,
+    "GitHub": null,
+    "OnMarkets": [],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Finished",
+    "Description": "<p>Scrypto is a social network for the cryptocurrency community. Just like any social network, you can use Scrypto.io to share your thoughts on different cryptocurrency projects and ICOs.</p><p>The social network aims to provide a centralized gathering point for the crypto community. Users will be able to form groups to talk about different projects or post information and receive rewards in the form of tips.</p><p><strong>Scrypto Official Announcement:</strong></p><p>Considering the tokens purchase dynamics on ICO pre-sale period Scrypto understood the set goals wouldn´t be fulfilled as the amount of sold tokens was less than 0.9% of the total amount of 9 123 000 tokens. Scrypto initiated the return of all funds collected during the ICO. All the investors will receive a personal letter with all personal purchase details. </p><p><strong>Team</strong>:</p><ul><li><strong>Anton Andreev</strong>: Project manager.</li><li><strong>Daniel Kanev</strong>: Project manager.</li><li><strong>Slava Yakimov</strong>: Community manager.</li></ul><p><span>Scrypto </span>ICO began on August 8, 2017. The ICO token supply represents 90% of the total token supply, so there is a total of 8,210,700 tokens available, for $1 USD each at the offering. The ICO funding cap is 8273200 USD and is expected to end on October 8, 2017 or when the funding cap is reached.</p><p><strong>Token Reserve Split (10%):</strong></p><ul><li>10% Reserved to the project developers team;</li></ul><p><span>Scrypto </span>ICO campaign features a discount plan for early buyers, as shown below.</p><p><strong>Discount Structure:</strong></p><ul><li>50% Discount for the first 50k tokens sold;</li><li><span>25% Discount for the next 50k tokens sold;</span></li></ul>",
+    "TokenType": "ETH (ERC20)",
+    "WebsiteLink": "https://scrypto.io/ico",
+    "FundingCap": "8273200 USD",
+    "FundingTarget": "N/A",
+    "Date": null,
+    "EndDate": null,
+    "FundsRaisedList": "2.77 BTC; 108.43 ETH; 6.28 ETC; 2.28 LTC; 3.09 XMR; 0.01 DASH; 3591.53 DOGE; 5.92 WAVES",
+    "FundsRaisedUSD": "N/A",
+    "StartPrice": "1",
+    "StartPriceCurrency": "USD",
+    "Jurisdiction": "N/A",
+    "BlogLink": null,
+    "WhitePaperLink": "https://scrypto.io/Scryptowpen.pdf"
+  },
+  "ccId": "248243"
+}

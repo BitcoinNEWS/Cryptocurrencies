@@ -1,0 +1,58 @@
+{
+  "General": {
+    "Symbol": "FLX",
+    "Name": "Flash",
+    "Description": "<p>Flash is a PoW/PoS hybrid coin with fast and completely free transactions. FLX provides strealth adresses and an encrypted message system!</p>",
+    "Features": null,
+    "Technology": "<p>POW Schedule<br />Blocks 1- 500: 500FLX<br />Blocks 500-1000: 250FLX<br />Blocks 1000-1500: 50FLX<br />Blocks 1500-2000: 25FLX</p><p><br />POS Schedule<br />Random is 1-100<br />1-500: rand * 500;<br />500-1000: rand * 250;<br />1000-1500: rand * 75;<br />Proof of Stake<br />Interest: 1.25%<br /><br />10MB Block size.<br /><br />No TX Fees, the way it should be</p>",
+    "TotalCoinSupply": "1000000",
+    "Algorithm": "Scrypt",
+    "ProofType": "PoW/PoS",
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "13/06/2016",
+    "TotalCoinsMined": null,
+    "Twitter": "@CryptoFlashDev",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "-",
+    "GitHub": null,
+    "OnMarkets": [
+      "Yobit"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "N/A",
+    "Description": null,
+    "TokenType": null,
+    "WebsiteLink": null,
+    "FundingCap": null,
+    "FundingTarget": null,
+    "Date": null,
+    "EndDate": null,
+    "FundsRaisedList": null,
+    "FundsRaisedUSD": null,
+    "StartPrice": null,
+    "StartPriceCurrency": null,
+    "Jurisdiction": null,
+    "BlogLink": null,
+    "WhitePaperLink": null
+  },
+  "ccId": "21244"
+}

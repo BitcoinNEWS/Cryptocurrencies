@@ -1,0 +1,61 @@
+{
+  "General": {
+    "Symbol": "BAY",
+    "Name": "BitBay",
+    "Description": "<p>BitBay - это PoS криптовалюта с 1% APY ставкой вознаграждения. BitBay предоставляет множество дополнительных инструментов, таких как умные контракты, децентрализованная платформа для электронной коммерции в кошельке, транзакции «Pay-to-Email», привязка активов и многое другое.</p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": null,
+    "Algorithm": null,
+    "ProofType": "PoS",
+    "BlockReward": 20.00000023179584,
+    "Explorer": null,
+    "StartDate": "07/11/2014",
+    "TotalCoinsMined": 1010849005.1718642,
+    "Twitter": "@BitBayMarket",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "http://bitbaymarket.net/",
+    "GitHub": null,
+    "OnMarkets": [
+      "CCEX",
+      "BTER",
+      "BitTrex",
+      "Cryptopia"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Finished",
+    "Description": "<p><span style=\"text-decoration: underline;\">Distribution of funds:</span></p><p><span>- 33% of dev fund at completion of ICO / delivery of initial wallet. (This threshold has been met.)</span><br /><span>- 33% of dev fund at btc at delivery of wallet with integrated smart contracts (Dec. 5th, 2014)</span><br /><span>- 33% of dev fund at delivery of our decentralized marketplace (1st quarter 2015)</span><br /><span>-  Remaining balance of funds after 60 days of stable marketplace performance. At this time the BitBay team will also be releasing their Phase 2 road map.</span></p><p><span style=\"text-decoration: underline;\">Bonus structure:</span></p><p><span>252-264 satoshi -Day 1<br /><span>264-276 satoshi -Day 2</span><br /><span>276-288 satoshi -Day 3</span><br /><span>288-300 satoshi -Day 4</span><br /><span>300        satoshi -Day 5</span><br /><br /></span></p><p><a href=\"https://bitcointalk.org/index.php?topic=850267.0\" target=\"_blank\"><span>More info</span></a></p>",
+    "TokenType": "N/A",
+    "WebsiteLink": "http://bitbay.market/",
+    "FundingCap": "3,000 BTC",
+    "FundingTarget": "N/A",
+    "Date": 1410440400,
+    "EndDate": 1413028800,
+    "FundsRaisedList": "3000 BTC",
+    "FundsRaisedUSD": "1080000",
+    "StartPrice": "0.0009198",
+    "StartPriceCurrency": "USD",
+    "Jurisdiction": "N/A",
+    "BlogLink": "http://bitbay.market/blog/",
+    "WhitePaperLink": null
+  },
+  "ccId": "5300"
+}

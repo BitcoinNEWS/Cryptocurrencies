@@ -1,0 +1,59 @@
+{
+  "General": {
+    "Symbol": "DIEM",
+    "Name": "CarpeDiemCoin",
+    "Description": "<p><span>After DIEM&#39;s first version devs abandoned the project , it was picked up by some of its community members who are now offering support to other \"dying\" altcoin in order to form a new \"family of united coins\".</span></p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "21626280000 ",
+    "Algorithm": "SHA256",
+    "ProofType": "PoW",
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "15/05/2015",
+    "TotalCoinsMined": 21739971929,
+    "Twitter": null,
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "http://thehouseofdiem.info/",
+    "GitHub": null,
+    "OnMarkets": [
+      "TradeSatoshi",
+      "Poloniex"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "N/A",
+    "Description": null,
+    "TokenType": null,
+    "WebsiteLink": null,
+    "FundingCap": null,
+    "FundingTarget": null,
+    "Date": null,
+    "EndDate": null,
+    "FundsRaisedList": null,
+    "FundsRaisedUSD": null,
+    "StartPrice": null,
+    "StartPriceCurrency": null,
+    "Jurisdiction": null,
+    "BlogLink": null,
+    "WhitePaperLink": null
+  },
+  "ccId": "20213"
+}

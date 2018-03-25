@@ -1,0 +1,64 @@
+{
+  "General": {
+    "Symbol": "EMC",
+    "Name": "Emercoin",
+    "Description": "<p>Hybrid of NameCoin and PPCoin. More focused on the production of coins by PoS than PoW. Mining has a bonus on the interval 1-512 difficulty for high initial issue of coins. Further difficulty will gradually increase, making PoS mining more promising.</p><p>Emercoin offers a 6% annual POS reward with 30 day coin maturity.</p><p>Coin added by <a href=\"http://chopcoin.io\" target=\"_blank\">@chopcoin</a> Team</p>",
+    "Features": "<p>- Secure shell management system needed by every site admin.</p><p>- System for passwordless authentication on the world wide web.</p><p>- Storage for electronic business cards for use with EMCSSL.</p><p>- Uncensored domain name system, peering with OpenNIC.</p><p>- Trusted storage for digital timestamps on the blockchain.</p><p>- Distributed torrent tracker for internet file sharing.</p><p>- Decentralized pay-per-click advertising network.</p><p>- Digital proof of ownership solution for physical or digital goods and services.</p>",
+    "Technology": null,
+    "TotalCoinSupply": "1000000000",
+    "Algorithm": "SHA256",
+    "ProofType": "PoW/PoS",
+    "BlockReward": 10.27986666560173,
+    "Explorer": null,
+    "StartDate": "08/12/2013",
+    "TotalCoinsMined": 41518065.266666,
+    "Twitter": "@EmerCoin_EMC",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "http://emercoin.com",
+    "GitHub": null,
+    "OnMarkets": [
+      "Cryptopia",
+      "BTC38",
+      "LiveCoin",
+      "BitTrex",
+      "HitBTC",
+      "Yobit",
+      "TuxExchange"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "N/A",
+    "Description": null,
+    "TokenType": null,
+    "WebsiteLink": null,
+    "FundingCap": null,
+    "FundingTarget": null,
+    "Date": null,
+    "EndDate": null,
+    "FundsRaisedList": null,
+    "FundsRaisedUSD": null,
+    "StartPrice": null,
+    "StartPriceCurrency": null,
+    "Jurisdiction": null,
+    "BlogLink": null,
+    "WhitePaperLink": null
+  },
+  "ccId": "15876"
+}

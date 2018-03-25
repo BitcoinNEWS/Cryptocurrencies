@@ -1,0 +1,58 @@
+{
+  "General": {
+    "Symbol": "BRAIN",
+    "Name": "BrainCoin",
+    "Description": "<p><span>Brain is an experimental new digital currency that enables anonymous, instant payments to anyone, anywhere in the world. Brain uses peer-to-peer technology to operate with no central authority: managing transactions and issuing money are carried out collectively by the network. Brain Core is the name of open source software which enables the use of this currency.</span></p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "22000000",
+    "Algorithm": "X11",
+    "ProofType": "PoW/PoS",
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "11/04/2016",
+    "TotalCoinsMined": null,
+    "Twitter": null,
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "-",
+    "GitHub": null,
+    "OnMarkets": [
+      "Yobit"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "N/A",
+    "Description": null,
+    "TokenType": null,
+    "WebsiteLink": null,
+    "FundingCap": null,
+    "FundingTarget": null,
+    "Date": null,
+    "EndDate": null,
+    "FundsRaisedList": null,
+    "FundsRaisedUSD": null,
+    "StartPrice": null,
+    "StartPriceCurrency": null,
+    "Jurisdiction": null,
+    "BlogLink": null,
+    "WhitePaperLink": null
+  },
+  "ccId": "30373"
+}

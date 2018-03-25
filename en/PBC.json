@@ -1,0 +1,58 @@
+{
+  "General": {
+    "Symbol": "PBC",
+    "Name": "PabyosiCoin",
+    "Description": "<div><span><span><span>PabyosiCoin is a Proof of Work and Proof of Stake hybrid that allows users to earn a 3% interest on their holdings. PabyosiCoin uses X11 algorithm and provides fast, secure and anonymous transactions.</span></span></span></div><div><span><span></span></span></div>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "31500000000",
+    "Algorithm": "X11",
+    "ProofType": "PoW/PoS",
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "25/04/2016",
+    "TotalCoinsMined": null,
+    "Twitter": null,
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "http://pbcinfo.net/",
+    "GitHub": null,
+    "OnMarkets": [
+      "CCEX"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "N/A",
+    "Description": null,
+    "TokenType": null,
+    "WebsiteLink": null,
+    "FundingCap": null,
+    "FundingTarget": null,
+    "Date": null,
+    "EndDate": null,
+    "FundsRaisedList": null,
+    "FundsRaisedUSD": null,
+    "StartPrice": null,
+    "StartPriceCurrency": null,
+    "Jurisdiction": null,
+    "BlogLink": null,
+    "WhitePaperLink": null
+  },
+  "ccId": "22171"
+}

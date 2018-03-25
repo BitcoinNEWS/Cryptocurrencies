@@ -1,0 +1,56 @@
+{
+  "General": {
+    "Symbol": "VIN",
+    "Name": "VinChain",
+    "Description": "<p><span>VINchain is creating a blockchain database of used vehicles information that is accessible by everyone. The VinChain Token is an ERC20 token built on the Ethereum network and is used as a utility token on all the apps in the VinChain platform.</span></p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "1000000000",
+    "Algorithm": null,
+    "ProofType": null,
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "02/11/2017",
+    "TotalCoinsMined": 1000000000,
+    "Twitter": "@VinChain_io",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": null,
+    "GitHub": null,
+    "OnMarkets": [],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Ongoing",
+    "Description": "<p>VINchain is creating a blockchain database of used vehicles information that is accessible by everyone. The VinChain Token is an ERC20 token built on the Ethereum network and is used as a utility token on all the apps in the VinChain platform.</p><p><strong>Team</strong>:</p><ul><li><strong>Alex Miles</strong>: CEO. Marketing strategist. <a href=\"https://www.linkedin.com/in/milesalex/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Andrei Krainik</strong>: Founder, Chief innovation officer.<span> </span><a href=\"https://www.linkedin.com/in/krainik/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Aleksey Listopad</strong>: CMO.<span> </span><a href=\"https://www.linkedin.com/in/aleksey-listopad/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Jurgis S Plikaitis</strong>: Partner.<span> </span><a href=\"https://www.linkedin.com/in/plikaitis/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Antonina Binetskaya</strong>: CTO.<span> </span><a href=\"https://www.linkedin.com/in/antoninabinetskaya/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Pavel Yeschenko</strong>: Blockchain Developer.<span> </span><a href=\"https://www.linkedin.com/in/pavel-y-9b62036b/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Michael Zhalevich</strong>: Blockchain developer.<span> </span><a href=\"https://www.linkedin.com/in/michael-zhalevich/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Alexandr Onyskiv</strong>: Software Developer.<span> </span><a href=\"https://www.linkedin.com/in/alexandr-onyskiv-16b95935\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Konstantine Perzhukou</strong>: Software Implementation Advisor.<span> </span><a href=\"https://www.linkedin.com/in/konstantine-p-1b166369/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Vladislav Vasilchyk</strong>: System Analyst.<span> </span><a href=\"https://www.linkedin.com/in/%D0%B2%D0%BB%D0%B0%D0%B4%D0%B8%D1%81%D0%BB%D0%B0%D0%B2-%D0%B2%D0%B0%D1%81%D0%B8%D0%BB%D1%8C%D1%87%D1%83%D0%BA-a1b4a8158/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Eugene Koval</strong>: Software Development Advisor.<span> </span><a href=\"https://www.linkedin.com/in/eugene-koval-0454b1158/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Ivan Usovich</strong>: Full Stack Developer.<span> </span><a href=\"https://www.linkedin.com/in/ivan-usovich-20a3577a/\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Sergei Pakhomov</strong>: Full Stack Developer.<span> </span><a href=\"https://www.linkedin.com/in/sergei-pakhomov-83777689/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Stacy Denver</strong>: Head of Sales, Bitcoin advocate.<span> </span><a href=\"https://www.linkedin.com/in/sergey-shostyr-95439614a/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Sergei Shostyr</strong>: UI/UX Specialist.<span> </span><a href=\"https://www.linkedin.com/in/sergey-shostyr-95439614a/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Anastasiya Kazakova</strong>: CUSTOMER SUPPORT.<span> </span><a href=\"https://www.linkedin.com/in/anastasiya-kazakova-67a1a9152/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Gordon Hansen</strong>: COMMUNITY MANAGER.<span> </span><a href=\"https://www.linkedin.com/in/gordon-hansen-18051995/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Ethan Clark</strong>: SEO EXPERT.<span> </span></li><li><strong>Pavel Zakharevich</strong>: Community Relations.<span> </span><a href=\"https://www.linkedin.com/in/pavel-zakharevich-91634b158/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li></ul><p>VinChain will be holding its ICO starting February 1st, 2018. The ICO token allocation represents 60% of the total token supply, so there will be a total of 600,000,000 tokens available for a 0.00005 ETH base price. The ICO funding target is 3,330 ETH, the funding cap is 23,250 ETH and is expected to end on Aprill 15th, 2018 or when the funding cap is reached. Any unsold/remaining tokens will be burned.</p><p><strong> Token Reserve Split (40%):</strong></p><ul><li>25% - are reserved among founders, consultants and other members of the team with a sale restriction of 2 years.</li><li><span>5% - are reserved for the advisory board. If all tokens will not be distributed it will be burned.</span></li><li><span>1,25% - are reserved for early token purchasers with a sale restriction of 3 months after the ICO ends.</span></li><li><span>8,75% -  are reserved for a sale restriction of 2 years. </span></li></ul><p><strong>Bonus Structure:</strong></p><ul><ul><li>40% Until 1290 ETH is collected, 1 ETH = 28000 VIN;</li><li>25% Until 4 950 ETH is collected, 1 ETH = 25,000 VIN;</li><li>20% Until 8 610 ETH is collected, 1 ETH = 24,000 VIN;</li><li>15% Until 12 270 ETH is collected, 1 ETH = 23,000 VIN;</li><li>10% Until 15 930 ETH is collected, 1 ETH = 22,000 VIN;</li><li>5% Until 19 590 ETH is collected, 1 ETH = 21,000 VIN;</li></ul></ul><ul><ul><li>0% after 23 250 ETH is collected ,1 ETH = 20,000 VIN;</li></ul></ul>",
+    "TokenType": "ETH (ERC20)",
+    "WebsiteLink": "https://vinchain.io/",
+    "FundingCap": "23,250 ETH",
+    "FundingTarget": "3,330 ETH",
+    "Date": 1517443200,
+    "EndDate": 1523750400,
+    "FundsRaisedList": "4,117.76 ETH",
+    "FundsRaisedUSD": "2400736.4352",
+    "StartPrice": "0.00005",
+    "StartPriceCurrency": "ETH",
+    "Jurisdiction": "N/A",
+    "BlogLink": "https://medium.com/@VINChain",
+    "WhitePaperLink": "https://vinchain.io/files/VinChainWhitePaper.pdf"
+  },
+  "ccId": "782929"
+}

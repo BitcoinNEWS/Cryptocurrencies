@@ -1,0 +1,58 @@
+{
+  "General": {
+    "Symbol": "MI",
+    "Name": "XiaoMiCoin",
+    "Description": "<p>They fully intend to implement the best practices, safe, fast, and secure transactions. Using the Kimoto Gravity Well, assures, that this coin is as fair as it is beautiful &amp; practical. There are plenty of pump and dump coins out there. They simply do not believe in this get rich fast attitude.</p><p>They are developing an Android game that will reward XiaoMiCoin to Top Scores once per hour, with weekly, or even monthly Top Score Bonus&#39;s. It will have Facebook and Twitter integration, it will also be innovative and fun.</p>",
+    "Features": null,
+    "Technology": "<p>Chinese name: millet coins</p><p>English name: Xiaomioin</p><p>English abbreviation: MI</p><p>Developers: millet currency development team</p><p>Core algorithm: scrypt</p><p>Date: June 15, 2015</p><p>Block Time: 60 seconds</p><p>Monetary aggregates: 400000000 +</p><p>POW full pre-dug IPO after the first year of using POS 1% / year. </p><p>Third one percent / year gradually decreasing.</p><p>POW + POS, 1% annual dividend, one minute to confirm,</p><p>24 hours coins age</p><p>Permanent node server IP：120.25.158.22</p><p>IP: 121.42.12.176</p><p>Port: 16789</p><p>Rpc port: 16889</p>",
+    "TotalCoinSupply": "400000000",
+    "Algorithm": "Scrypt",
+    "ProofType": "PoW/PoS",
+    "BlockReward": 14.040847187896944,
+    "Explorer": null,
+    "StartDate": "15/06/2015",
+    "TotalCoinsMined": 404316475.54546493,
+    "Twitter": "@she9888",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "http://www.xiaomicoin.org/",
+    "GitHub": null,
+    "OnMarkets": [
+      "CCEX"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "N/A",
+    "Description": null,
+    "TokenType": null,
+    "WebsiteLink": null,
+    "FundingCap": null,
+    "FundingTarget": null,
+    "Date": null,
+    "EndDate": null,
+    "FundsRaisedList": null,
+    "FundsRaisedUSD": null,
+    "StartPrice": null,
+    "StartPriceCurrency": null,
+    "Jurisdiction": null,
+    "BlogLink": null,
+    "WhitePaperLink": null
+  },
+  "ccId": "12225"
+}

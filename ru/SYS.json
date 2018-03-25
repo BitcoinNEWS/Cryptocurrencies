@@ -1,0 +1,65 @@
+{
+  "General": {
+    "Symbol": "SYS",
+    "Name": "SysCoin",
+    "Description": "<p>SysCoin is a proof of work based alternative crypto currency with a block time of sixty seconds and 2 billion total currency units to be produced.</p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "2000000000",
+    "Algorithm": "Scrypt",
+    "ProofType": "PoW",
+    "BlockReward": 16.630000017191236,
+    "Explorer": null,
+    "StartDate": "27/04/2014",
+    "TotalCoinsMined": 531830518.9961763,
+    "Twitter": "@syscoin",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "http://syscoin.org/",
+    "GitHub": null,
+    "OnMarkets": [
+      "BTC38",
+      "Cryptsy",
+      "Novaexchange",
+      "TuxExchange",
+      "Yobit",
+      "Poloniex",
+      "BitTrex",
+      "LiveCoin"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "N/A",
+    "Description": null,
+    "TokenType": null,
+    "WebsiteLink": null,
+    "FundingCap": null,
+    "FundingTarget": null,
+    "Date": null,
+    "EndDate": null,
+    "FundsRaisedList": null,
+    "FundsRaisedUSD": null,
+    "StartPrice": null,
+    "StartPriceCurrency": null,
+    "Jurisdiction": null,
+    "BlogLink": null,
+    "WhitePaperLink": null
+  },
+  "ccId": "4618"
+}

@@ -1,0 +1,59 @@
+{
+  "General": {
+    "Symbol": "XXX",
+    "Name": "XXXCoin",
+    "Description": "<p>XXX Coin (XXX) is a scrypt PoW PoS hybrid alternative crypto currency. There is no block reward reduction and the total coin supply is capped at 50 million. The block target is 30 seconds and over 70% of the coin supply is given out in the first few days on top of a premine of 5%.</p><p>Coin edited by <a href=\"http://chopcoin.io\" target=\"_blank\">@chopcoin</a> Team</p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "50000000",
+    "Algorithm": "Scrypt",
+    "ProofType": "PoW/PoS",
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "26/06/2014",
+    "TotalCoinsMined": null,
+    "Twitter": "@xxxcoins",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "http://xxxcoin.info/",
+    "GitHub": null,
+    "OnMarkets": [
+      "Cryptsy",
+      "Novaexchange"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "N/A",
+    "Description": null,
+    "TokenType": null,
+    "WebsiteLink": null,
+    "FundingCap": null,
+    "FundingTarget": null,
+    "Date": null,
+    "EndDate": null,
+    "FundsRaisedList": null,
+    "FundsRaisedUSD": null,
+    "StartPrice": null,
+    "StartPriceCurrency": null,
+    "Jurisdiction": null,
+    "BlogLink": null,
+    "WhitePaperLink": null
+  },
+  "ccId": "5033"
+}

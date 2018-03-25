@@ -1,0 +1,56 @@
+{
+  "General": {
+    "Symbol": "TEN",
+    "Name": "Tokenomy",
+    "Description": "<p><span>Tokenomy aims to foster financial inclusion and provide access to anyone who wants to be connected with alternative funding networks and global innovation. The T</span><span>okenomy founders are the leading members of Bitcoin Indonesia, one of the largest bitcoin and blockchain startup in South East Asia with over 1,000,000 registered users.</span></p><p><span>Tokenomy’s goal is to become a one-stop platform providing both tokenization and liquidity. The platform will offer a global token market access on one hand, and the ability for anyone, from small entrepreneurs to large enterprise businesses, to issue proprietary tokens and plug themselves into crypto liquidity pool for reliable and easy crowdfunding on the other. The token issuers on Tokenomy can hold token sales for their proprietary tokens on the platform as well as listing the tokens on Tokenomy&#39;s exchange for trading. Furthermore, by having a shared login with Bitcoin.co.id, which has over 1,000,000 users, Tokenomy instantly has access to a huge user pool.</span></p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "200000000",
+    "Algorithm": null,
+    "ProofType": null,
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "08/01/2018",
+    "TotalCoinsMined": 200000000,
+    "Twitter": "@TokenomyCom",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": null,
+    "GitHub": null,
+    "OnMarkets": [],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "N/A",
+    "Description": null,
+    "TokenType": null,
+    "WebsiteLink": null,
+    "FundingCap": null,
+    "FundingTarget": null,
+    "Date": null,
+    "EndDate": null,
+    "FundsRaisedList": null,
+    "FundsRaisedUSD": null,
+    "StartPrice": null,
+    "StartPriceCurrency": null,
+    "Jurisdiction": null,
+    "BlogLink": null,
+    "WhitePaperLink": null
+  },
+  "ccId": "780891"
+}

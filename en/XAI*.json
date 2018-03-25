@@ -1,0 +1,56 @@
+{
+  "General": {
+    "Symbol": "XAI*",
+    "Name": "AICoin",
+    "Description": "<p>AICoin is a tokenized investment pool that combines <span>he pinpoint accuracy </span><span>of Artificial Intelligence trading models with the “Wisdom of the Crowd”for decision making. An AI-powered bot will be automatically executing trades on cryptocurrency markets, the ongoing profits generated from the AI directed trading are then used to finance investment in early stage companies focused on AI and public blockchain technology.</span></p><p><span>The XAI token is an Ethereum-based token that gives holders ownership to a proportional share on the tokenized investment pool.</span></p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": null,
+    "Algorithm": null,
+    "ProofType": null,
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "19/06/2017",
+    "TotalCoinsMined": null,
+    "Twitter": "@aicoinico",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": null,
+    "GitHub": null,
+    "OnMarkets": [],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Ongoing",
+    "Description": "<p>AICoin is a tokenized investment pool that combines <span>he pinpoint accuracy </span><span>of Artificial Intelligence trading models with the “Wisdom of the Crowd”for decision making. An AI-powered bot will be automatically executing trades on cryptocurrency markets, the ongoing profits generated from the AI directed trading are then used to finance investment in early stage companies focused on AI and public blockchain technology.</span></p><p><span>The XAI token is an Ethereum-based token that gives holders ownership to a proportional share on the tokenized investment pool.</span><br /> <br />Team:<br /> <br /><span>Gavin Smith: Market Knowledge &amp; Risk Andy</span> (<a href=\"https://www.linkedin.com/in/gavin-smith-a7a13a9/\" target=\"_blank\">LinkedIn</a>);<br /><span>Tunan: Developer</span> (<a href=\"https://www.linkedin.com/in/andrew-tynan-a888084/\"><span>LinkedIn</span></a>);<br /><span>Lee Cooper: Developer</span> (<a href=\"https://www.linkedin.com/in/lee-cooper-2322b92b/\" target=\"_blank\"><span>LinkedIn</span></a>);</p><p>The AICoin ICO started on the 16th of July and is currently ongoing. The XAI ICO campaign features a bonus and a bounty campaign.​</p>",
+    "TokenType": "ETH (ERC20)",
+    "WebsiteLink": "https://www.aicoin.io",
+    "FundingCap": "N/A",
+    "FundingTarget": "N/A",
+    "Date": 1500163200,
+    "EndDate": 1503964800,
+    "FundsRaisedList": "N/A",
+    "FundsRaisedUSD": "N/A",
+    "StartPrice": "0.00001",
+    "StartPriceCurrency": "BTC",
+    "Jurisdiction": "N/A",
+    "BlogLink": "https://www.aicoin.io/blog/",
+    "WhitePaperLink": "https://www.aicoin.io/wp-content/uploads/2017/07/AICOIN.Whitepaper.07.07.17.pdf"
+  },
+  "ccId": "191228"
+}

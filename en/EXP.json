@@ -1,0 +1,63 @@
+{
+  "General": {
+    "Symbol": "EXP",
+    "Name": "Expanse",
+    "Description": "<div class=\"wpb_text_column wpb_content_element \"><div class=\"wpb_wrapper\"><p><span>Expanse is a decentralized cryptographic information, application, and contract platform. It is among the first of such to be fairly distributed, democratically controlled, and community managed. Through the use of smart contracts and decentralized blockchain technology, it is run not by any one individual or group, but by the users of Expanse itself. </span></p><p><span>The project is organized, managed, and operated through a decentralized organization leveraging direct influence over the platform and its future to those that matter most: our community. New features, integration, and core modifications of the expanse platform and organization can be nominated, voted on, and implemented according to the collective opinion.</span></p></div></div>",
+    "Features": "<p>The Expanse Development Core is composed of the project&#39;s founders and core developers. Knowledgeable, talented individuals with  diverse technical experience related to blockchain technology. </p><p>The Expanse Community Collective is the soul of the project: the people that use it. It is made of the current active expanse token holders. Every one whole expanse counts as a voting share. Holdings less than 1 Exp do not apply.</p><p>A third party board composed of individuals mutually elected by the Developer Core and Community Collective. These should be trusted well known members of the bitcoin/cryptocurrency community with long established reputations in good standing. Ideally, individuals that have a strong technical background and an understanding of blockchain technology, able to make well informed votes on technical and financial issues.</p>",
+    "Technology": "<p>- Algorithm: Dagger</p><p>- Block Reward: 8</p><p>- Gas Limit: 31415926</p><p>- Block Target: 60 seconds</p><p>- Listen Port: 42786</p><p>- RPC Port: 9656</p><p>- Reserve: 11 Million (Community Managed)</p>",
+    "TotalCoinSupply": "16906397",
+    "Algorithm": "Ethash",
+    "ProofType": "PoW",
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "03/07/2015",
+    "TotalCoinsMined": 7906397,
+    "Twitter": "@ExpanseOfficial",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "http://www.expanse.tech/",
+    "GitHub": null,
+    "OnMarkets": [
+      "Cryptopia",
+      "Yobit",
+      "Cryptsy",
+      "Bleutrade",
+      "Poloniex",
+      "BitTrex"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "N/A",
+    "Description": null,
+    "TokenType": null,
+    "WebsiteLink": null,
+    "FundingCap": null,
+    "FundingTarget": null,
+    "Date": null,
+    "EndDate": null,
+    "FundsRaisedList": null,
+    "FundsRaisedUSD": null,
+    "StartPrice": null,
+    "StartPriceCurrency": null,
+    "Jurisdiction": null,
+    "BlogLink": null,
+    "WhitePaperLink": null
+  },
+  "ccId": "12194"
+}

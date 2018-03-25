@@ -1,0 +1,61 @@
+{
+  "General": {
+    "Symbol": "DENT",
+    "Name": "Dent",
+    "Description": "<p>Dent is a decentralized exchange for mobile data. It&#39;s based on the Ethereum blockchain, allowing mobile data to be sold, bought or donated  through an a<span>utomated bidding process </span>much like currencies or goods. The data packages are smart contracts in Ethereum. The DENT token is required to purchase mobile data within the Dent platform.</p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "100000000000",
+    "Algorithm": null,
+    "ProofType": null,
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "12/07/2017",
+    "TotalCoinsMined": 100000000000,
+    "Twitter": "@dentcoin",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "https://www.dentcoin.com/",
+    "GitHub": null,
+    "OnMarkets": [
+      "Kucoin",
+      "OKEX",
+      "EtherDelta",
+      "HitBTC"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Finished",
+    "Description": "<p>DENT is an Ethereum-based token which required to purchase mobile data within the Dent platform. Starting on July 12th, the Dent ICO will allow users to purchase DENT tokens with Ether (ETH). The crowdsale will see 100 billion tokens  (70%) distributed to investors at a default exchange rate of 400,000 DENT per ETH. 35% of the tokens reserved for the ICO will be sold to small budget buyers to ensure a fair distribution.</p><p>Dent <span>will be holding its ICO on July 12, 2017. There will be both <a href=\"https://bitcointalk.org/index.php?topic=1974726.0\" target=\"_blank\">bounties</a><span><span> </span>and investment bonuses</span>. The ICO is expected to end on 26</span><span>, July 2017.</span></p><p>Bonus Tiers:  <span>DENT Bonus tiers allocate bonus tokens to buyers as per the following schedule based on sold volume in ETH:</span></p><p>- Tier 1: Up to 45,000 ETH: 10% tokens as a bonus.</p><p>- Tier 2: From 45,000 ETH and up to 90,000 ETH: 5% tokens as a bonus.</p><p>- Tier 3: From 90,000 ETH: No bonus Tokens.</p><p> </p>",
+    "TokenType": "ETH (ERC20)",
+    "WebsiteLink": "https://www.dentcoin.com/",
+    "FundingCap": "175000 ETH",
+    "FundingTarget": "N/A",
+    "Date": 1499884712,
+    "EndDate": 1501109999,
+    "FundsRaisedList": "21,467.15 ETH",
+    "FundsRaisedUSD": "4201805",
+    "StartPrice": "0.0000025",
+    "StartPriceCurrency": "ETH",
+    "Jurisdiction": "N/A",
+    "BlogLink": null,
+    "WhitePaperLink": "https://drive.google.com/file/d/0BxFqoCUOdNTgWk5vSm9UQVotblk/view"
+  },
+  "ccId": "141331"
+}

@@ -1,0 +1,62 @@
+{
+  "General": {
+    "Symbol": "SRN",
+    "Name": "SirinLabs",
+    "Description": "<p><span>Sirin Labs is a company known as the developer of SOLARIN, an ultra-secure mobile phone. </span><span>The SirinLabs team decided to make one more step toward the security of personal gadgets and create the first blockchain smartphone.</span></p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "572916627.078562646983596714",
+    "Algorithm": null,
+    "ProofType": null,
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "18/10/2017",
+    "TotalCoinsMined": 572166103.8857167,
+    "Twitter": "@SIRINLABS",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": null,
+    "GitHub": null,
+    "OnMarkets": [
+      "Liqui",
+      "BitTrex",
+      "HuobiPro",
+      "Tidex",
+      "EtherDelta"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Upcoming",
+    "Description": "<p><span>Sirin Labs is a company known as the developer of SOLARIN, an ultra-secure mobile phone. </span><span>The SirinLabs team decided to make one more step toward the security of personal gadgets and create the first blockchain smartphone.</span></p><p><strong>Team</strong>:</p><ul><li><strong>Moshe Hogeg</strong>: Founder &amp; Co-CEO. <a href=\"https://www.linkedin.com/in/moshehogeg/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Kenges Rakishev</strong>: Chairman.<span> </span><a href=\"https://www.linkedin.com/in/kengesrakishev/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Zvika Landau</strong>: Co-CEO. <a href=\"https://www.linkedin.com/in/zlandau/?ppe=1\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li></ul><p>SirinLabs will be holding its ICO on the 12th of December, 2017. The ICO token supply represents 40% of the total token supply. There is no hard cap for the SirinLabs ICO, and it will last for 14 days.</p><p><strong>Token Reserve Split (60%):</strong></p><ul><li>10% <span> to OEM’s, Shield OS™ implementation, SDK developers and rebate of sold device</span>;</li><li>10% <span>to the founders and team and will be gradually vested over a 12-months period</span>;</li><li>35% <span>to SIRIN LABS, to be used for future strategic plans for the created ecosystem</span>;</li><li>5% <span>to professional fees and bounties;</span></li></ul><p><span>SirinLabs ICO campaign will feature a bounty campaign and a bonus program, and the token will not be mineable.</span></p><p><strong>Bonus Structure:</strong></p><ul><li>1000 SRN = 1 ETH first 24 hours;</li><li><span>950 SRN = 1 ETH</span> 2nd Day;</li><li><span>900 SRN = 1 ETH</span> 3rd Day;</li><li><span>855 SRN = 1 ETH 4th Day;</span></li><li><span>810 SRN = 1 ETH 5th Day;</span></li><li><span>770 SRN = 1 ETH 6th Day;</span></li><li><span>730 SRN = 1 ETH 7th Day;</span></li><li><span>690 SRN = 1 ETH 8th Day;</span></li><li><span>650 SRN = 1 ETH 9<span>th Day;</span></span></li><li><span>615 SRN = 1 ETH 10<span>th Day;</span></span></li><li><span>580 SRN = 1 ETH 11th Day;</span></li><li><span>550 SRN = 1 ETH 12th Day;</span></li><li><span>525 SRN = 1 ETH 13th Day;</span></li><li><span>500 SRN = 1 ETH 14th Day;</span></li></ul><p> </p>",
+    "TokenType": "ETH (ERC20)",
+    "WebsiteLink": null,
+    "FundingCap": "Uncapped",
+    "FundingTarget": "N/A",
+    "Date": 1513080000,
+    "EndDate": 1514203200,
+    "FundsRaisedList": "118,561,079 USD",
+    "FundsRaisedUSD": "118561079",
+    "StartPrice": "0.001",
+    "StartPriceCurrency": "ETH",
+    "Jurisdiction": "Switzerland",
+    "BlogLink": "https://medium.com/@sirinlabs",
+    "WhitePaperLink": "https://sirinlabs.com/media/SIRINLABS_-_White_Paper.pdf"
+  },
+  "ccId": "380641"
+}

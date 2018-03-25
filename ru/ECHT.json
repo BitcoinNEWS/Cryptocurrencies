@@ -1,0 +1,56 @@
+{
+  "General": {
+    "Symbol": "ECHT",
+    "Name": "e-Chat",
+    "Description": "<p>e-Chat is a decentralized Multi-Tasking Messenger with multi-cryptocurrency wallet features, allowing users to easily chat and send money in the same app. ECHT is an Ethereum-based ERC20 token used in the e-Chat platform. Payments made using ECHT token can be sent without any commissions. On top of that, the e-Chat wallet provides the opportunity of depositing money in USD and then withdrawing them via VISA and MasterCard.</p><p> </p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "300000000",
+    "Algorithm": null,
+    "ProofType": null,
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "16/10/2017",
+    "TotalCoinsMined": null,
+    "Twitter": "@e_Chat_ICO",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": null,
+    "GitHub": null,
+    "OnMarkets": [],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Ongoing",
+    "Description": "<p><span>e-Chat is a decentralized Multi-Tasking Messenger with multi-cryptocurrency wallet features, allowing users to easily chat and send money in the same app. ECHT is an Ethereum-based ERC20 token used in the e-Chat platform. Payments made using ECHT token can be sent without any commissions. On top of that, the e-Chat wallet provides the opportunity of depositing money in USD and then withdrawing them via VISA and MasterCard.</span></p><p>The e-Chat ICO will start on the 1st of January and will end on the 1st of March, 2018. The ICO supply represents 92% of the total coin supply and will be available for a 0.75 USD starting price. Users will be able to participate with ETH, BTC, LTC, ZEC and BTS. The funding cap is 15,000 ETH.</p><p><strong>Token Reserve Split (8%):</strong></p><ul><li><span>7% - Referral Program</span></li><li><span>1% - Bounty Campaign</span></li></ul><p>The ECHT ICO features a bounty campaign.</p>",
+    "TokenType": "ETH (ERC20)",
+    "WebsiteLink": "https://investors.echat.io/?utm_source=cryptocompare&utm_medium=bn&utm_campaign=1",
+    "FundingCap": "15000 ETH",
+    "FundingTarget": "15000 ETH",
+    "Date": 1515412800,
+    "EndDate": 1519905600,
+    "FundsRaisedList": "N/A",
+    "FundsRaisedUSD": "N/A",
+    "StartPrice": "0.75",
+    "StartPriceCurrency": "USD",
+    "Jurisdiction": "Hong Kong",
+    "BlogLink": "https://steemit.com/@e-chat-ico",
+    "WhitePaperLink": "https://ico.echat.io/static/doc-pdf/e-Chat_Whitepaper_ver13.pdf"
+  },
+  "ccId": "344337"
+}

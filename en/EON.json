@@ -1,0 +1,56 @@
+{
+  "General": {
+    "Symbol": "EON",
+    "Name": "Exscudo",
+    "Description": "<p><span>Exscudo is the new gateway between the traditional financial system and the cryptocurrency market. In Exscudo, they create a new financial ecosystem. There main goal is to create a single gate to the cryptocurrency market for new users, professional traders, investors and financial institutions. The Exscudo ecosystem consists of various products and services. Such as the digital finance marketplace for beginners and professional </span><span>traders, financial institutions and institutional investors: fully compliant (complete compliance to the requirements of financial institutions), serious security, ultimate trading experience.</span></p><p><span>The Exscudo Mainnet will be launched by the end of March and the Exchange beta testing will start on the 19th of March.</span></p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": null,
+    "Algorithm": null,
+    "ProofType": "DPoS",
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "31/03/2018",
+    "TotalCoinsMined": null,
+    "Twitter": "https://twitter.com/ex_scudo",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": null,
+    "GitHub": null,
+    "OnMarkets": [],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Finished",
+    "Description": "<p>The Exscudo ecosystem consists of a number of products and solutions which include Trading Platform (Exchange, Charts, Trading terminals), Multicurrency Wallet and Protected Messenger<br>App, Debit Cards, Merchant Tools. The Exscudo Ecosystem has integrated and proper functioning of all services within a joint decentralised network. To gain independency from third-party developers, Exscudo Ecosystem uses its own distributed network called EON. This technology allows Exscudo to handle transactions between all elements and users. EON is the fuel that empowers the whole<br>system. It uses smart transactions algorithm.</p><p><strong>Team</strong>:</p><ul><li><strong>Andrew Zimmie</strong>: CEO. <a href=\"https://www.linkedin.com/in/andrew-zimine-586300141/\" target=\"_blank\"><img src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"> </a></li><li><strong>Alex Sitnikov</strong>: CTO.<span> </span><a href=\"https://www.linkedin.com/in/alex-sitnikov-b770a820/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li><li><strong>Julian Kossinov</strong>: CFO.<span> </span><a href=\"https://www.linkedin.com/in/alex-sitnikov-b770a820/\" target=\"_blank\"><img style=\"width: 14px; height: 13px;\" src=\"/media/1383931/likedin_logo_final.png?width=14&amp;height=13\" alt=\"\" data-id=\"202867\"></a></li></ul><p>Exscudo held its ICO on April 15, 2017. The ICO token supply represents 62.8% of the total token supply, so there was a total of 150,720,000 tokens available at the offering. The ICO funding target was 1,000 BTC, the funding cap was 30,000 BTC and raised a total of $10,873,879. The ICO ended on May 31st, 2017.</p><p><strong>Token Reserve Split (37.2%):</strong></p><ul><li>1% Bounty;</li><li>1% Advisors;</li><li>0.2% Bug Bounty;</li><li>20% Technical development;</li><li>12% Team;</li><li>3% Board reward</li></ul><p><strong>Bonus Structure:</strong></p><ul><li>10% 48 hours</li><li>5% Week 1</li><li>2.5% Week 2;</li></ul>",
+    "TokenType": "New Blockchain",
+    "WebsiteLink": "https://exscudo.com/ico/",
+    "FundingCap": "30,000 BTC",
+    "FundingTarget": "1,000 BTC",
+    "Date": 1493121600,
+    "EndDate": 1496232000,
+    "FundsRaisedList": "2,314 BTC",
+    "FundsRaisedUSD": "5347423",
+    "StartPrice": "0.0002",
+    "StartPriceCurrency": "BTC",
+    "Jurisdiction": "N/A",
+    "BlogLink": "https://exscudo.com/wp-redir.php?url=https://blog.exscudo.com",
+    "WhitePaperLink": "https://exscudo.com/Whitepaper_v1.0.pdf"
+  },
+  "ccId": "255546"
+}

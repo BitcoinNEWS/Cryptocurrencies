@@ -1,0 +1,60 @@
+{
+  "General": {
+    "Symbol": "QVT",
+    "Name": "Qvolta",
+    "Description": "<p><span>Qvolta is a global P2P exchange platform that allows users to quickly and easily convert cryptocurrencies into the fiat currencies, and vice versa. </span><span>Qvolta will provide individuals a reliable and convenient platform to quickly buy or sell cryptocurrencies with help of the most popular payment methods for the fiat currencies available in the country of his/her residence. In order to ensure the best user experience as well as protect the users, Qvolta will act as a guarantor for the trades executed on the platform. Security will further be provided by services as Qvolta Wall and Qvolta Security.</span></p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "218,750,000",
+    "Algorithm": "N/A",
+    "ProofType": "N/A",
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "10/10/2017",
+    "TotalCoinsMined": 21600000,
+    "Twitter": "@Qvolta_platform",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "https://qvolta.com/",
+    "GitHub": null,
+    "OnMarkets": [
+      "OKEX",
+      "EtherDelta",
+      "HitBTC"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Ongoing",
+    "Description": "<p>Qvolta is a global P2P exchange platform that allows users to quickly and easily convert cryptocurrencies into the fiat currencies, and vice versa. Qvolta will provide individuals a reliable and convenient platform to quickly buy or sell cryptocurrencies with help of the most popular payment methods for the fiat currencies available in the country of his/her residence. In order to ensure the best user experience as well as protect the users, Qvolta will act as a guarantor for the trades executed on the platform. Security will further be provided by services as Qvolta Wall and Qvolta Security.</p><p><strong>Team</strong>:</p><ul><li><strong>Kirill Murzin</strong>: CEO, Co-Founder. <a href=\"https://www.facebook.com/kirll.murzin\" target=\"_blank\"><img style=\"width: 13px; height: 13px;\" src=\"/media/1383930/face_logo_final.png?width=13&amp;height=13\" alt=\"\" data-id=\"202866\"></a></li><li><strong>Viacheslav Averkin</strong>: CEO, Co-Founder.<span> </span><a href=\"https://www.facebook.com/profile.php?id=100001171221734\" target=\"_blank\"><img style=\"width: 13px; height: 13px;\" src=\"/media/1383930/face_logo_final.png?width=13&amp;height=13\" alt=\"\" data-id=\"202866\"></a></li><li><strong>Ilia Filatov</strong>: CBDO, Co-Founder.<span> </span><a href=\"https://www.facebook.com/profile.php?id=100018962596653\" target=\"_blank\"><img style=\"width: 13px; height: 13px;\" src=\"/media/1383930/face_logo_final.png?width=13&amp;height=13\" alt=\"\" data-id=\"202866\"></a></li><li><strong>Dmitry Semenov</strong><span>: Development Team Lead, Co-Founder.</span><span> </span><a href=\"https://www.facebook.com/mxnrl\" target=\"_blank\"><img style=\"width: 13px; height: 13px;\" src=\"/media/1383930/face_logo_final.png?width=13&amp;height=13\" alt=\"\" data-id=\"202866\"></a></li></ul><p>Qvolta will be holding its ICO on MONTH DAY, 2017. The ICO token supply represents 80% of the total token supply, so there will be a total of 175,000,000 tokens available, for 0.001 ETH each at the offering. There is no the minimum amount of fund-raising for the ICO.</p><p><strong>Token Reserve Split (20%):</strong></p><ul><li>19% Project Team;</li><li>01% Bounty Campaign;</li></ul><p><span>Qvolta&#39;s ICO will feature a bounty campaign.</span></p>",
+    "TokenType": "ETH (ERC20)",
+    "WebsiteLink": "https://qvolta.com/",
+    "FundingCap": "N/A",
+    "FundingTarget": "N/A",
+    "Date": 1507593600,
+    "EndDate": 1510272000,
+    "FundsRaisedList": "2342.881 ETH",
+    "FundsRaisedUSD": "714648.99",
+    "StartPrice": "0.001",
+    "StartPriceCurrency": "ETH",
+    "Jurisdiction": "N/A",
+    "BlogLink": "https://medium.com/qvolta",
+    "WhitePaperLink": "https://s3.eu-central-1.amazonaws.com/qvolta/white.pdf"
+  },
+  "ccId": "205980"
+}

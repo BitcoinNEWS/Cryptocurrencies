@@ -1,0 +1,60 @@
+{
+  "General": {
+    "Symbol": "OPT",
+    "Name": "Opus",
+    "Description": "<p>Opus is a <span><span>decentralized music-sharing platform that is uncensorable, fair and easy to use, with its main focus being the monetization of music with no middlemen fees involved, ensuring that artists are properly rewarded fortheir efforts. Opus leverages the Ethereum network for transactions and the IPFS protocol for file storage. The OPT token is used for all in-platform transatcions.</span></span></p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "1600000000",
+    "Algorithm": "N/A",
+    "ProofType": "N/A",
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "14/07/2017",
+    "TotalCoinsMined": 249308531.4187778,
+    "Twitter": "@opusfoundation",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "http://opus-foundation.org/",
+    "GitHub": null,
+    "OnMarkets": [
+      "HitBTC",
+      "CCEX",
+      "EtherDelta"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Ongoing",
+    "Description": "<p><span>Opus is a </span><span><span>decentralized<span> </span>music-sharing platform that is uncensorable, fair and easy to use, with its main focus being the monetization of music with no middlemen fees involved, ensuring that artists are properly rewarded<span> </span>fortheir<span> </span>efforts. Opus leverages the Ethereum network for transactions and the IPFS protocol for file storage. The OPT token is used for all in-platform transatcions.</span></span></p><p><strong>Team</strong></p><ul><li><span><span>Bokang Jia: CEO; </span></span></li><li><span><span>Mateusz Mach: </span></span><span><span>COO, Investor; </span></span></li><li><span><span>Chenhao Xu: CTO; </span></span></li><li><span><span>Sam Peeters: Lead developer</span></span></li></ul><p><span style=\"font-weight: 400;\">COMPANY_NAME ICO started on MONTH DAY, 2017. The ICO coin supply represents XX% of the total coin supply, so there is a total of ICO_COIN_SUPPLY coins available, for PRICE_AND_CURRENCY each. The ICO funding target is FUNDING_TARGET, the funding cap is FUNDING_CAP and is expected to end on </span><span style=\"font-weight: 400;\">MONTH DAY, 2017 or when the funding cap is reached. Any unsold/remaining tokens will DESC.</span></p><p>The Opus ICO started on the 14th of July 23:00 UTC and will last until the 23rd of August or until $20M cap is reached . There is a total of 900M coins, representing 56.25% of the total supply. The starting price for OPT is 0.000125 ETH. The remaining token supply will be distributed as so:</p><ul><li style=\"font-weight: 400;\"><div>600 million:<span> </span>Distributed to the Opus foundation, developers and angel investors.</div><div></div></li><li style=\"font-weight: 400;\"><div>100 million:<span> </span>Ecosystem tokens. Used by the foundation to vitalize the Opus music eco-system. We will use the tokens for early-adoption rewards, marketing bounties and license purchases, etc.</div></li></ul><p><span style=\"font-weight: 400;\">TOKEN_SPLIT_GRAPH_HERE</span></p><p><span style=\"font-weight: 400;\">The OPT campaign features a maximum invesment cap of <span>1000ETH per person and features bonuses and a <a href=\"https://bitcointalk.org/index.php?topic=2011082\" target=\"_blank\">bounty campaign</a>. The</span>e coin will not be mineable.</span></p><p>Bonus Structure:</p><p>Week 1: 1 ETH = 8000 + 2000 OPT</p><p>Week 2: <span>1 ETH = </span>7500 + 1500 <span>OPT</span></p><p>Week 3: <span>1 ETH = </span>7000 + 1000 <span>OPT</span></p><p>Base: 1 ETH = 6000 </p><p> </p>",
+    "TokenType": "ETH (ERC20)",
+    "WebsiteLink": "https://opus-foundation.org/crowdsale.html",
+    "FundingCap": "$20,000,000",
+    "FundingTarget": "N/A",
+    "Date": 1500073200,
+    "EndDate": 1503615600,
+    "FundsRaisedList": "N/A",
+    "FundsRaisedUSD": "N/A",
+    "StartPrice": "0.000125",
+    "StartPriceCurrency": "ETH",
+    "Jurisdiction": "N/A",
+    "BlogLink": "http://opus-foundation.org/blog.html",
+    "WhitePaperLink": "http://opus-foundation.com/whitepaper.pdf"
+  },
+  "ccId": "197054"
+}

@@ -1,0 +1,58 @@
+{
+  "General": {
+    "Symbol": "MN",
+    "Name": "Cryptsy Mining Contract",
+    "Description": "<p>A cryptsy mining contract share based on the SHA-256 algorithm coins. 20 Th/s are available in increments of 1Gh/s - so an issued shares of 20000. Contracts can be bought and sold as and when on the Cryptsy exchange. The provider is not disclosed by Cryptsy and the share represents a lifetime contract.</p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "0",
+    "Algorithm": "SHA256",
+    "ProofType": "PoW",
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "03/03/2014",
+    "TotalCoinsMined": null,
+    "Twitter": "@cryptsy",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "https://www.cryptsy.com",
+    "GitHub": null,
+    "OnMarkets": [
+      "Cryptsy"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "N/A",
+    "Description": null,
+    "TokenType": null,
+    "WebsiteLink": null,
+    "FundingCap": null,
+    "FundingTarget": null,
+    "Date": null,
+    "EndDate": null,
+    "FundsRaisedList": null,
+    "FundsRaisedUSD": null,
+    "StartPrice": null,
+    "StartPriceCurrency": null,
+    "Jurisdiction": null,
+    "BlogLink": null,
+    "WhitePaperLink": null
+  },
+  "ccId": "4563"
+}

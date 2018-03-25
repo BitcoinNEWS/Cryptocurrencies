@@ -1,0 +1,59 @@
+{
+  "General": {
+    "Symbol": "STQ",
+    "Name": "Storiqa Token",
+    "Description": "<p><span>Storiqa is a platform created for buyers and sellers all over the world. With an easy-to use online store builder, any seller is able to create their own storefront to sell their goods, while making use of the platform’s wide range of features for a minimal fee. </span>STQ is ERC20 compliant token based on the Etherium network.</p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "2789577260",
+    "Algorithm": null,
+    "ProofType": null,
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "03/10/2017",
+    "TotalCoinsMined": null,
+    "Twitter": "@storiqa",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": null,
+    "GitHub": null,
+    "OnMarkets": [
+      "Tidex",
+      "HitBTC"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "N/A",
+    "Description": null,
+    "TokenType": null,
+    "WebsiteLink": null,
+    "FundingCap": null,
+    "FundingTarget": null,
+    "Date": null,
+    "EndDate": null,
+    "FundsRaisedList": null,
+    "FundsRaisedUSD": null,
+    "StartPrice": null,
+    "StartPriceCurrency": null,
+    "Jurisdiction": null,
+    "BlogLink": null,
+    "WhitePaperLink": null
+  },
+  "ccId": "777187"
+}

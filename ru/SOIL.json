@@ -1,0 +1,59 @@
+{
+  "General": {
+    "Symbol": "SOIL",
+    "Name": "SoilCoin",
+    "Description": "<p><span>SOILcoin uses Dagger algorithm to allow the creation of Smart Contracts and Dapps while still allowing Developers to create this features for a lower cost, when buying and transfering SOIL, than other cryptocurrencies that use similar technology (like Ethereum). SoilCoin allows any cryptocurrency protocol to be ran on the SOIL blockchain as a deployed smart contract hosting its own token.</span></p>",
+    "Features": "<p>SoilCoin has been integrated into the ROKOS OS for Raspberry Pis</p>",
+    "Technology": "<p><span>SOIL uses DAGGER algorithm. Dagger was creted by Vitalik Buterin and it&#39;s a GPU-Friendly, Memory intensive, ASIC-proof consensus algorithm.</span></p>",
+    "TotalCoinSupply": "30000000",
+    "Algorithm": "Dagger",
+    "ProofType": "PoW",
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "10/09/2015",
+    "TotalCoinsMined": 5702048,
+    "Twitter": "@SOILcoin",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": "http://soilcoin.xyz/",
+    "GitHub": null,
+    "OnMarkets": [
+      "BitTrex",
+      "Cryptopia"
+    ],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "N/A",
+    "Description": null,
+    "TokenType": null,
+    "WebsiteLink": null,
+    "FundingCap": null,
+    "FundingTarget": null,
+    "Date": null,
+    "EndDate": null,
+    "FundsRaisedList": null,
+    "FundsRaisedUSD": null,
+    "StartPrice": null,
+    "StartPriceCurrency": null,
+    "Jurisdiction": null,
+    "BlogLink": null,
+    "WhitePaperLink": null
+  },
+  "ccId": "20685"
+}

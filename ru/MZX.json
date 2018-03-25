@@ -1,0 +1,56 @@
+{
+  "General": {
+    "Symbol": "MZX",
+    "Name": "Mosaic Network",
+    "Description": "<p><span>The Mosaic Network is a decentralized market intelligence network where users are able to rate and vote on which authors and posts they like the most, with their behavior being recorded on the blockchain and used to decide on the direction of the platform. Contributors get direct feedback through the same mechanism. Mosaic users spend Mosaic tokens (MZX) to access premium research; holders vote for what research they want covered on Mosaic, vote for contributors, and rate posts. Contributors are compensated based on these rating and voting systems, quantity of contributions, and accuracy of predictions. </span></p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": "1000000000",
+    "Algorithm": null,
+    "ProofType": null,
+    "BlockReward": null,
+    "Explorer": null,
+    "StartDate": "05/02/2018",
+    "TotalCoinsMined": null,
+    "Twitter": "@mosaictoken",
+    "Telegram": null,
+    "Youtube": null,
+    "Video": null,
+    "BlockchainInfo": null,
+    "Facebook": null,
+    "Slack": null,
+    "Website": null,
+    "GitHub": null,
+    "OnMarkets": [],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "Upcoming",
+    "Description": "<p><span>The Mosaic Network is </span><span>a decentralized market intelligence network</span><span> where<span> </span></span><span>users are able to rate and vote on which authors and posts they like the most, </span><span>with</span><span><span> </span>their behavior </span><span>being recorded</span><span><span> </span>on </span><span>the</span><span> blockchain and</span><span> used to<span> </span></span><span>decide on the direction of the platform. Contributors get direct feedback through the same mechanism. </span><span>Mosaic users spend Mosaic tokens (MZX) to access premium research; holders vote for what research they want covered on Mosaic, vote for contributors, and rate posts. Contributors are compensated based on these rating and voting systems, quantity of contributions, and accuracy of predictions.</span><span> </span></p><p><strong>Team</strong>:</p><ul><li><strong>Alex Bradford:</strong> Co-Founder and Chairman</li><li><strong>Dr. Garrick Hileman:</strong> Co-Founder and CEO / Head of Research</li><li><strong>Alpkaan Celik:</strong> Chief Data Scientist</li><li><strong>Dr. David Horning, CFA:</strong> Chief Financial Officer</li></ul><p>The MZX ICO will start on the 5th of the February and will end on the 12th February, 2018. The ICO token supply represents a TBA percentage of the token supply. The ICO funding cap is set at $30M.</p><p><strong>Token Reserve Split (TBA%):</strong></p><ul><li>TBA</li></ul><p>The Mosaic Token ICO will feature a bonus.</p>",
+    "TokenType": "ETH (ERC20)",
+    "WebsiteLink": "https://www.mosaic.io/",
+    "FundingCap": "30,000,000 USD",
+    "FundingTarget": "N/A",
+    "Date": 1518739200,
+    "EndDate": 1519948800,
+    "FundsRaisedList": "N/A",
+    "FundsRaisedUSD": "N/A",
+    "StartPrice": "N/A",
+    "StartPriceCurrency": "ETH",
+    "Jurisdiction": "Cayman Islands",
+    "BlogLink": "https://www.mosaic.io/blog.html",
+    "WhitePaperLink": "https://www.mosaic.io/pdf/Mosaic%20One%20Pager%20-%209.pdf"
+  },
+  "ccId": "736230"
+}
