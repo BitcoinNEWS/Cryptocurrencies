@@ -1,0 +1,59 @@
+{
+  "General": {
+    "Symbol": "MITH",
+    "Name": "Mithril",
+    "Description":
+      "<p>Mithril — is a decentralized social media platform that rewards all content creators. Users can mine Mithril tokens through Social Mining. Each user's content and social interactions generated in the Mithril ecosystem will mine MITH based on our algorithm. The Mithril token is a token based on the ERC-20 standard established by Ethereum. Mithril tokens will soon be accepted throughout the Mithril Merchant Network, with online applications such as dating services, premium content channels, and live-stream applications, or retailers, starting with INST.RECYCLE. Through the Mithril Vault, users will be able to exchange MITH for BTC or ETH.</p>",
+    "Features": null,
+    "Technology": null,
+    "TotalCoinSupply": null,
+    "Algorithm": null,
+    "ProofType": null,
+    "BlockReward": null,
+    "Explorer":
+      "https://etherscan.io/token/0x3893b9422cd5d70a81edeffe3d5a1c6a978310bb",
+    "StartDate": "24/03/2018",
+    "TotalCoinsMined": null,
+    "Twitter": "@MithrilToken",
+    "Telegram": "https://t.me/MithrilChat",
+    "Youtube": null,
+    "Video": null,
+    "BitcoinTalk": "https://bitcointalk.org/index.php?topic=3108554.0",
+    "BlockchainInfo": null,
+    "Facebook": "https://www.facebook.com/MithrilToken/",
+    "Slack": null,
+    "Website": "https://mith.io",
+    "GitHub": null,
+    "OnMarkets": ["OKEx"],
+    "Wallets": {
+      "desktop": {
+        "win": null,
+        "linux": null,
+        "mac": null
+      },
+      "mobile": {
+        "android": null,
+        "ios": null
+      },
+      "types": []
+    }
+  },
+  "ICO": {
+    "Status": "N/A",
+    "Description": null,
+    "TokenType": "ERC20",
+    "WebsiteLink": "https://mith.io",
+    "FundingCap": null,
+    "FundingTarget": null,
+    "Date": null,
+    "EndDate": null,
+    "FundsRaisedList": null,
+    "FundsRaisedUSD": null,
+    "StartPrice": null,
+    "StartPriceCurrency": null,
+    "Jurisdiction": null,
+    "BlogLink": null,
+    "WhitePaperLink": "https://mith.io/whitepaper.pdf"
+  },
+  "ccId": null
+}
